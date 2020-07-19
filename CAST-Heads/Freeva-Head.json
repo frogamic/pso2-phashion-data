@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/CAST-Heads/Freeva-Head.png",
+  "title": "Freeva Head",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "tier": 10,
+  "category": "CAST Heads",
+  "collection": {
+    "id": "missionpassseason4",
+    "type": "Mission Pass",
+    "title": "Season 4",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason4.jpg",
+    "url": "https://pso2.com/news/announcements/missionpassseason4"
+  }
+}

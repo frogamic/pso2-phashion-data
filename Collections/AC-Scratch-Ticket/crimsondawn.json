@@ -1,0 +1,815 @@
+{
+  "id": "crimsondawn",
+  "type": "AC Scratch Ticket",
+  "title": "Crimson Dawn",
+  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
+  "url": "https://pso2.com/news/scratch-tickets/crimsondawn",
+  "items": [
+    {
+      "image": "https://phashion.moe/images/Outerwear/Froid-Gallows-M.png",
+      "title": "Froid Gallows M",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Bitter-Simoon.png",
+      "title": "Bitter Simoon",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Varza-Rising.png",
+      "title": "Varza Rising",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Duskwake-Regalia.png",
+      "title": "Duskwake Regalia",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Froid-Gallows-F.png",
+      "title": "Froid Gallows F",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Sweet-Simoon.png",
+      "title": "Sweet Simoon",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Varza-Ratio.png",
+      "title": "Varza Ratio",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Froid-Gallows-M.png",
+      "title": "Froid Gallows M",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Bitter-Simoon.png",
+      "title": "Bitter Simoon",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Varza-Rising.png",
+      "title": "Varza Rising",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Duskwake-Regalia.png",
+      "title": "Duskwake Regalia",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Froid-Gallows-F.png",
+      "title": "Froid Gallows F",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Sweet-Simoon.png",
+      "title": "Sweet Simoon",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Varza-Ratio.png",
+      "title": "Varza Ratio",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Froid-Gallows-M.png",
+      "title": "Froid Gallows M",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Bitter-Simoon.png",
+      "title": "Bitter Simoon",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Varza-Rising.png",
+      "title": "Varza Rising",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Froid-Gallows-F.png",
+      "title": "Froid Gallows F",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Duskwake-Regalia.png",
+      "title": "Duskwake Regalia",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Sweet-Simoon.png",
+      "title": "Sweet Simoon",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Varza-Ratio.png",
+      "title": "Varza Ratio",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Bodies/Dracules-Body.png",
+      "title": "Dracules Body",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Bodies"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Arms/Dracules-Arms.png",
+      "title": "Dracules Arms",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Arms"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Legs/Dracules-Legs.png",
+      "title": "Dracules Legs",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Legs"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Heads/Dracules-Head.png",
+      "title": "Dracules Head",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Heads"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Bodies/Draulia-Body.png",
+      "title": "Draulia Body",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Bodies"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Arms/Draulia-Arms.png",
+      "title": "Draulia Arms",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Arms"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Legs/Draulia-Legs.png",
+      "title": "Draulia Legs",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Legs"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Heads/Draulia-Head.png",
+      "title": "Draulia Head",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Heads"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Bitter-Simoon-Hood.png",
+      "title": "Bitter Simoon Hood",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Sweet-Simoon-Hood.png",
+      "title": "Sweet Simoon Hood",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Dusk-Hair.png",
+      "title": "Dusk Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Ratio-Hair.png",
+      "title": "Ratio Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Draulia-Hair.png",
+      "title": "Draulia Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Luminous-Eyes-L.png",
+      "title": "Luminous Eyes (L)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Luminous-Eyes-S.png",
+      "title": "Luminous Eyes (S)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Varza-Eyes-L.png",
+      "title": "Varza Eyes (L)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Varza-Eyes-S.png",
+      "title": "Varza Eyes (S)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/No-Highlights-XS.png",
+      "title": "No Highlights (XS)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Makeup/Rouge.png",
+      "title": "Rouge",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Makeup"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Dusk-Thigh-High-Socks.png",
+      "title": "Dusk Thigh-High Socks",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Knee-High-Socks-Set.png",
+      "title": "Knee-High Socks Set",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Dusk-Scarf.png",
+      "title": "Dusk Scarf",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Dusk-Skirt.png",
+      "title": "Dusk Skirt",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Varza-Rise-Headgear.png",
+      "title": "Varza Rise Headgear",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Ratio-Headgear.png",
+      "title": "Ratio Headgear",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Dragon-s-Wings.png",
+      "title": "Dragon’s Wings",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Dragon-s-Horns.png",
+      "title": "Dragon’s Horns",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Dragon-s-Tail.png",
+      "title": "Dragon’s Tail",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Geometric-Wings.png",
+      "title": "Geometric Wings",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Shaggy-Sidelocks.png",
+      "title": "Shaggy Sidelocks",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Sword-Studs.png",
+      "title": "Sword Studs",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Plain-Blindfold.png",
+      "title": "Plain Blindfold",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Plain-Blindfold-Black.png",
+      "title": "Plain Blindfold: Black",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Plain-Blindfold-White.png",
+      "title": "Plain Blindfold: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Red-Blaze-Hands.png",
+      "title": "Red Blaze Hands",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Blue-Blaze-Hands.png",
+      "title": "Blue Blaze Hands",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Devilish-Hat.png",
+      "title": "Devilish Hat",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Devilish-Hat-Black.png",
+      "title": "Devilish Hat: Black",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Devilish-Hat-White.png",
+      "title": "Devilish Hat: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Devilish-Hat-Brown.png",
+      "title": "Devilish Hat: Brown",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Cancer.png",
+      "title": "Evolution Device: Cancer",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Mag Evolution Devices"
+    }
+  ]
+}

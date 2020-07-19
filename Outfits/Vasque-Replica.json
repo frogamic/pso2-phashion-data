@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Outfits/Vasque-Replica.png",
+  "title": "Vasque Replica",
+  "gender": {
+    "female": true,
+    "male": true
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfits",
+  "collection": {
+    "id": "freshfindsshop0623",
+    "type": "Fresh Finds Shop",
+    "title": "Recommended Items (6/23)",
+    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0623.jpg",
+    "url": "https://pso2.com/news/announcements/freshfindsshop0623"
+  }
+}

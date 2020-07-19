@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Hairstyles/Solitary-Helmet.png",
+  "title": "Solitary Helmet",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Hairstyles",
+  "collection": {
+    "id": "silkendreams",
+    "type": "AC Scratch Ticket",
+    "title": "Silken Dreams",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/silkendreams"
+  }
+}

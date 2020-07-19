@@ -1,0 +1,971 @@
+{
+  "id": "heroicwanderer",
+  "type": "AC Scratch Ticket",
+  "title": "Heroic Wanderer",
+  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
+  "url": "https://pso2.com/news/scratch-tickets/heroicwanderer",
+  "items": [
+    {
+      "image": "https://phashion.moe/images/Outfits/Void-Recorder.png",
+      "title": "Void Recorder",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Outfits/Scorching-Kimono.png",
+      "title": "Scorching Kimono",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Outfits/Innocent-One.png",
+      "title": "Innocent One",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Outfits/Blazing-Kimono.png",
+      "title": "Blazing Kimono",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Kabuki-Cyclone.png",
+      "title": "Kabuki Cyclone",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Blooming-Maiden.png",
+      "title": "Blooming Maiden",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Kabuki-Thunderstroke.png",
+      "title": "Kabuki Thunderstroke",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Kabuki-Cyclone.png",
+      "title": "Kabuki Cyclone",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Martial-Leon.png",
+      "title": "Martial Leon",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Blooming-Maiden.png",
+      "title": "Blooming Maiden",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Kabuki-Thunderstroke.png",
+      "title": "Kabuki Thunderstroke",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Martial-Lilian.png",
+      "title": "Martial Lilian",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Kabuki-Cyclone.png",
+      "title": "Kabuki Cyclone",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Martial-Leon.png",
+      "title": "Martial Leon",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Blooming-Maiden.png",
+      "title": "Blooming Maiden",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Kabuki-Thunderstroke.png",
+      "title": "Kabuki Thunderstroke",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Martial-Lilian.png",
+      "title": "Martial Lilian",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Bodies/Gigante-Body.png",
+      "title": "Gigante Body",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Bodies"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Arms/Gigante-Arms.png",
+      "title": "Gigante Arms",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Arms"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Legs/Gigante-Legs.png",
+      "title": "Gigante Legs",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Legs"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Heads/Gigante-Head.png",
+      "title": "Gigante Head",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Heads"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Bodies/Valkia-Body.png",
+      "title": "Valkia Body",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Bodies"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Arms/Valkia-Arms.png",
+      "title": "Valkia Arms",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Arms"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Legs/Valkia-Legs.png",
+      "title": "Valkia Legs",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Legs"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Heads/Valkia-Head.png",
+      "title": "Valkia Head",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Heads"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Innocent-Loop-Pigtails.png",
+      "title": "Innocent Loop Pigtails",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Recorder-Short.png",
+      "title": "Recorder Short",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Kabuki-Short-Hair.png",
+      "title": "Kabuki Short Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Kabuki-Long-Hair.png",
+      "title": "Kabuki Long Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Wavy-Pigtails.png",
+      "title": "Wavy Pigtails",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Spikey-Short.png",
+      "title": "Spikey Short",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Parted-Ponytail.png",
+      "title": "Parted Ponytail",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Floral-Ponytail.png",
+      "title": "Floral Ponytail",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Anime-Eyes-XS.png",
+      "title": "Anime Eyes (XS)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Pupils-White-L.png",
+      "title": "Pupils: White (L)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Pupils-White-S.png",
+      "title": "Pupils: White (S)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Extreme-Highlights-L.png",
+      "title": "Extreme Highlights (L)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Extreme-Highlights-S.png",
+      "title": "Extreme Highlights (S)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Makeup/Luther-Tattoo.png",
+      "title": "Luther Tattoo",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Makeup"
+    },
+    {
+      "image": "https://phashion.moe/images/Makeup/Kabuki-Makeup.png",
+      "title": "Kabuki Makeup",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Makeup"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Marshal-Gloves.png",
+      "title": "Marshal Gloves",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Kabuki-Tekko-Gloves-M.png",
+      "title": "Kabuki Tekko Gloves M",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Kabuki-Tekko-Gloves-F.png",
+      "title": "Kabuki Tekko Gloves F",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Chinese-Choker.png",
+      "title": "Chinese Choker",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Chinese-Socks.png",
+      "title": "Chinese Socks",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Fighter-s-Headband.png",
+      "title": "Fighter’s Headband",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Bow-Tied-Headband.png",
+      "title": "Bow-Tied Headband",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Kabuki-Hair-Accessory.png",
+      "title": "Kabuki Hair Accessory",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Kabuki-Hair-Ring.png",
+      "title": "Kabuki Hair Ring",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Blooming-Ribbon.png",
+      "title": "Blooming Ribbon",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Monster-Cat-Tails.png",
+      "title": "Monster-Cat Tails",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Monster-Cat-Tails-Black.png",
+      "title": "Monster-Cat Tails: Black",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Monster-Cat-Tails-White.png",
+      "title": "Monster-Cat Tails: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Monster-Cat-Tails-Brown.png",
+      "title": "Monster-Cat Tails: Brown",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Cat-Ears-with-Bells.png",
+      "title": "Cat Ears with Bells",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Shoulder-Missiles.png",
+      "title": "Shoulder Missiles",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Barrette-White.png",
+      "title": "Barrette: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Barrette-Red.png",
+      "title": "Barrette: Red",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Barrette-Blue.png",
+      "title": "Barrette: Blue",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Bow-Tied-Stole.png",
+      "title": "Bow-Tied Stole",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Frilly-Japanese-Ribbon.png",
+      "title": "Frilly Japanese Ribbon",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Frilly-Japanese-Ribbon-Red.png",
+      "title": "Frilly Japanese Ribbon: Red",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Frilly-Japanese-Ribbon-Blue.png",
+      "title": "Frilly Japanese Ribbon: Blue",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Frilly-Japanese-Ribbon-White.png",
+      "title": "Frilly Japanese Ribbon: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Fighter-s-Gloves.png",
+      "title": "Fighter’s Gloves",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Fighter-s-Gloves-Red.png",
+      "title": "Fighter’s Gloves: Red",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Fighter-s-Gloves-Blue.png",
+      "title": "Fighter’s Gloves: Blue",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Purifying-Belt-White.png",
+      "title": "Purifying Belt: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Purifying-Belt-Brown.png",
+      "title": "Purifying Belt: Brown",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Decorative-Katana-Black.png",
+      "title": "Decorative Katana: Black",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Decorative-Katana-Blue.png",
+      "title": "Decorative Katana: Blue",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Decorative-Katana-Red.png",
+      "title": "Decorative Katana: Red",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Chamurai.png",
+      "title": "Evolution Device: Chamurai",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Mag Evolution Devices"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Cherry-Blossom-Flurry.png",
+      "title": "Cherry Blossom Flurry",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    }
+  ]
+}

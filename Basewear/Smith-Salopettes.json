@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Basewear/Smith-Salopettes.png",
+  "title": "Smith Salopettes",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collection": {
+    "id": "chevalierline",
+    "type": "AC Scratch Ticket",
+    "title": "Chevalier Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
+  }
+}

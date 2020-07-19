@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/CAST-Heads/Dracules-Head.png",
+  "title": "Dracules Head",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "CAST Heads",
+  "collection": {
+    "id": "crimsondawn",
+    "type": "AC Scratch Ticket",
+    "title": "Crimson Dawn",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/crimsondawn"
+  }
+}

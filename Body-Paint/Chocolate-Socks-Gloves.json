@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Body-Paint/Chocolate-Socks-Gloves.png",
+  "title": "Chocolate Socks & Gloves",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Body Paint",
+  "collection": {
+    "id": "careerline",
+    "type": "AC Scratch Ticket",
+    "title": "Career Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/careerline"
+  }
+}

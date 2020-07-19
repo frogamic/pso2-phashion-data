@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Accessories/Long-Ribbon-A.png",
+  "title": "Long Ribbon A",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Accessories",
+  "collection": {
+    "id": "segalegacy",
+    "type": "AC Scratch Ticket",
+    "title": "Sega Legacy",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/segalegacy"
+  }
+}

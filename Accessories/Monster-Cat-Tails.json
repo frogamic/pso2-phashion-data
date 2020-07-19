@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Accessories/Monster-Cat-Tails.png",
+  "title": "Monster-Cat Tails",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Accessories",
+  "collection": {
+    "id": "heroicwanderer",
+    "type": "AC Scratch Ticket",
+    "title": "Heroic Wanderer",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
+  }
+}

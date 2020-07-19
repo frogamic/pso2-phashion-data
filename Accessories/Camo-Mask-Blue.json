@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Accessories/Camo-Mask-Blue.png",
+  "title": "Camo Mask: Blue",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Accessories",
+  "collection": {
+    "id": "funjune2020part1",
+    "type": "FUN Scratch Ticket",
+    "title": "June 2020 - Part 1",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part1.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/funjune2020part1"
+  }
+}

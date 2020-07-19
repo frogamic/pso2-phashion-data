@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Body-Paint/Vol-Dragon-Tattoo-F.png",
+  "title": "Vol Dragon Tattoo F",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Body Paint",
+  "collection": {
+    "id": "chevalierline",
+    "type": "AC Scratch Ticket",
+    "title": "Chevalier Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
+  }
+}

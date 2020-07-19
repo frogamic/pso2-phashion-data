@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Eyes/Lower-Highlights-L.png",
+  "title": "Lower Highlights (L)",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Eyes",
+  "collection": {
+    "id": "chevalierline",
+    "type": "AC Scratch Ticket",
+    "title": "Chevalier Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
+  }
+}

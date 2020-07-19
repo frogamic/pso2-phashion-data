@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Hairstyles/Karen-Hair.png",
+  "title": "Karen Hair",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Hairstyles",
+  "collection": {
+    "id": "sgshopsale0515",
+    "type": "Event",
+    "title": "SG Shop Sale! (5/15)",
+    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0515.jpg",
+    "url": "https://pso2.com/news/announcements/sgshopsale0515"
+  }
+}

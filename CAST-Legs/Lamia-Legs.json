@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/CAST-Legs/Lamia-Legs.png",
+  "title": "Lamia Legs",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "tier": 17,
+  "category": "CAST Legs",
+  "collection": {
+    "id": "missionpassseason5",
+    "type": "Mission Pass",
+    "title": "Season 5",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
+    "url": "https://pso2.com/news/announcements/missionpassseason5"
+  }
+}

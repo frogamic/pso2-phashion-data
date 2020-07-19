@@ -1,0 +1,61 @@
+{
+  "id": "sgshopsale0515",
+  "type": "Event",
+  "title": "SG Shop Sale! (5/15)",
+  "image": "https://phashion.moe/images/Collections/Event/sgshopsale0515.jpg",
+  "url": "https://pso2.com/news/announcements/sgshopsale0515",
+  "items": [
+    {
+      "image": "https://phashion.moe/images/Outfits/Ethan-Replica.png",
+      "title": "Ethan Replica",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Ethan-Hair.png",
+      "title": "Ethan Hair",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Outfits/Karen-Replica.png",
+      "title": "Karen Replica",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Karen-Hair.png",
+      "title": "Karen Hair",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Hairstyles"
+    }
+  ]
+}

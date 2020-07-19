@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Basewear/Premium-Cargo-Pants.png",
+  "title": "Premium Cargo Pants",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collection": {
+    "id": "virtualstars",
+    "type": "AC Scratch Ticket",
+    "title": "Virtual Stars",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/virtualstars"
+  }
+}

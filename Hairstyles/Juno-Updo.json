@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Hairstyles/Juno-Updo.png",
+  "title": "Juno Updo",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Hairstyles",
+  "collection": {
+    "id": "chevalierline",
+    "type": "AC Scratch Ticket",
+    "title": "Chevalier Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/CAST-Arms/Exalia-Arms.png",
+  "title": "Exalia Arms",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "CAST Arms",
+  "collection": {
+    "id": "darkomen",
+    "type": "AC Scratch Ticket",
+    "title": "Dark Omen",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/darkomen"
+  }
+}

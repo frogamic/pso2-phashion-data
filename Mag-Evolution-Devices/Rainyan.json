@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Mag-Evolution-Devices/Rainyan.png",
+  "title": "Rainyan",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Mag Evolution Devices",
+  "collection": {
+    "id": "weddingevent",
+    "type": "Event",
+    "title": "Introducing the Wedding Event!",
+    "image": "https://phashion.moe/images/Collections/Event/weddingevent.jpg",
+    "url": "https://pso2.com/news/announcements/weddingevent"
+  }
+}

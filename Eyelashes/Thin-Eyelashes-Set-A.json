@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/Eyelashes/Thin-Eyelashes-Set-A.png",
+  "title": "Thin Eyelashes Set A",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "set": true,
+  "category": "Eyelashes",
+  "collection": {
+    "id": "funmay2020part2",
+    "type": "FUN Scratch Ticket",
+    "title": "May 2020 - Part 2",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part2.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/funmay2020part2"
+  }
+}

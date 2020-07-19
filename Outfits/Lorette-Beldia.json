@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Outfits/Lorette-Beldia.png",
+  "title": "Lorette Beldia",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfits",
+  "collection": {
+    "id": "freshfindsshop0512",
+    "type": "Fresh Finds Shop",
+    "title": "Recommended Items (5/12)",
+    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0512.jpg",
+    "url": "https://pso2.com/news/announcements/freshfindsshop0512"
+  }
+}

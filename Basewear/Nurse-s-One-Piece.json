@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Basewear/Nurse-s-One-Piece.png",
+  "title": "Nurse’s One-Piece",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collection": {
+    "id": "careerline",
+    "type": "AC Scratch Ticket",
+    "title": "Career Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/careerline"
+  }
+}

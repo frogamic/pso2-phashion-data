@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/CAST-Bodies/Rassios-Body.png",
+  "title": "Rassios Body",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "CAST Bodies",
+  "collection": {
+    "id": "urbanlifestyle",
+    "type": "AC Scratch Ticket",
+    "title": "Urban Lifestyle",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
+  }
+}

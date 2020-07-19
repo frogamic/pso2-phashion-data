@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/Outfits/Hero-s-Quarter.png",
+  "title": "Hero's Quarter",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "tier": 27,
+  "category": "Outfits",
+  "collection": {
+    "id": "missionpassseason3",
+    "type": "Mission Pass",
+    "title": "Season 3",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
+    "url": "https://pso2.com/news/announcements/missionpassseason3"
+  }
+}

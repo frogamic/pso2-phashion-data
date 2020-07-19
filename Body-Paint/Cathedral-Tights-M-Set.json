@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Body-Paint/Cathedral-Tights-M-Set.png",
+  "title": "Cathedral Tights M Set",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Body Paint",
+  "collection": {
+    "id": "oraclecelebrations",
+    "type": "AC Scratch Ticket",
+    "title": "Oracle Celebrations",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
+  }
+}

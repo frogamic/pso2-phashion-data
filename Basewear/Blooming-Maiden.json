@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Basewear/Blooming-Maiden.png",
+  "title": "Blooming Maiden",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collection": {
+    "id": "heroicwanderer",
+    "type": "AC Scratch Ticket",
+    "title": "Heroic Wanderer",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
+  }
+}

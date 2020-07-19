@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Basewear/Ruckage-Vest.png",
+  "title": "Ruckage Vest",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collection": {
+    "id": "blessedworld",
+    "type": "AC Scratch Ticket",
+    "title": "Blessed World",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/blessedworld"
+  }
+}

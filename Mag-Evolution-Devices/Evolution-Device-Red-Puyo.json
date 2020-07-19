@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Red-Puyo.png",
+  "title": "Evolution Device: Red Puyo",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Mag Evolution Devices",
+  "collection": {
+    "id": "enhancementboostbonuses",
+    "type": "Campaign",
+    "title": "Enhancement Boosts & Bonuses",
+    "image": "https://phashion.moe/images/Collections/Campaign/enhancementboostbonuses.jpg",
+    "url": "https://pso2.com/news/announcements/enhancementboostbonuses"
+  }
+}

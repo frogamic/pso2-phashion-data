@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/CAST-Legs/Titangum-Legs.png",
+  "title": "Titangum Legs",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "CAST Legs",
+  "collection": {
+    "id": "silkendreams",
+    "type": "AC Scratch Ticket",
+    "title": "Silken Dreams",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/silkendreams"
+  }
+}

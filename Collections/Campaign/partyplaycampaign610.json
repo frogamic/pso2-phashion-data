@@ -1,0 +1,22 @@
+{
+  "id": "partyplaycampaign610",
+  "type": "Campaign",
+  "title": "Party Play!",
+  "image": "https://phashion.moe/images/Collections/Campaign/partyplaycampaign610.jpg",
+  "url": "https://pso2.com/news/announcements/partyplaycampaign610",
+  "items": [
+    {
+      "image": "https://phashion.moe/images/Accessories/Photon-X-Wings.png",
+      "title": "Photon X Wings",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    }
+  ]
+}

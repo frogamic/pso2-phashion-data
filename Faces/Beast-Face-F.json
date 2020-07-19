@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Faces/Beast-Face-F.png",
+  "title": "Beast Face F",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Faces",
+  "collection": {
+    "id": "sgshopsale0522",
+    "type": "Event",
+    "title": "SG Shop Sale (5/22)",
+    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0522.jpg",
+    "url": "https://pso2.com/news/announcements/sgshopsale0522"
+  }
+}

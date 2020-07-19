@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Hairstyles/Emotion-Hair.png",
+  "title": "Emotion Hair",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Hairstyles",
+  "collection": {
+    "id": "virtualstars",
+    "type": "AC Scratch Ticket",
+    "title": "Virtual Stars",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/virtualstars"
+  }
+}

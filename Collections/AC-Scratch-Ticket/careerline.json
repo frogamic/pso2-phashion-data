@@ -1,0 +1,1023 @@
+{
+  "id": "careerline",
+  "type": "AC Scratch Ticket",
+  "title": "Career Line",
+  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
+  "url": "https://pso2.com/news/scratch-tickets/careerline",
+  "items": [
+    {
+      "image": "https://phashion.moe/images/Outfits/Dealer-s-Suit.png",
+      "title": "Dealer’s Suit",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Outfits/Dealer-s-Dress.png",
+      "title": "Dealer’s Dress",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Lustrous-Prince.png",
+      "title": "Lustrous Prince",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Lab-Coat-M.png",
+      "title": "Lab Coat M",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Teoremard-Lad.png",
+      "title": "Teoremard Lad",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Radiant-Songstress.png",
+      "title": "Radiant Songstress",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Lab-Coat-F.png",
+      "title": "Lab Coat F",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Sweet-Chocolat.png",
+      "title": "Sweet Chocolat",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Avent-Lace.png",
+      "title": "Avent Lace",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Lustrous-Prince.png",
+      "title": "Lustrous Prince",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Teoremard-Lad.png",
+      "title": "Teoremard Lad",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Radiant-Songstress.png",
+      "title": "Radiant Songstress",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Nurse-s-One-Piece.png",
+      "title": "Nurse’s One-Piece",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Sweet-Chocolat.png",
+      "title": "Sweet Chocolat",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Avent-Lace.png",
+      "title": "Avent Lace",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Asteria-Guards.png",
+      "title": "Asteria Guards",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Lustrous-Prince.png",
+      "title": "Lustrous Prince",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Teoremard-Lad.png",
+      "title": "Teoremard Lad",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Radiant-Songstress.png",
+      "title": "Radiant Songstress",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Sweet-Chocolat.png",
+      "title": "Sweet Chocolat",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Avent-Lace.png",
+      "title": "Avent Lace",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Bodies/Dighu-Body.png",
+      "title": "Dighu Body",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Bodies"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Arms/Dighu-Arms.png",
+      "title": "Dighu Arms",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Arms"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Legs/Dighu-Legs.png",
+      "title": "Dighu Legs",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Legs"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Heads/Dighu-Head.png",
+      "title": "Dighu Head",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Heads"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Bodies/Cortu-Body.png",
+      "title": "Cortu Body",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Bodies"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Arms/Cortu-Arms.png",
+      "title": "Cortu Arms",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Arms"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Legs/Cortu-Legs.png",
+      "title": "Cortu Legs",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Legs"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Heads/Cortu-Head.png",
+      "title": "Cortu Head",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Heads"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Shiny-Hair.png",
+      "title": "Shiny Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Chocolat-Hair.png",
+      "title": "Chocolat Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Avent-Hair-1.png",
+      "title": "Avent Hair 1",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Avent-Hair-2.png",
+      "title": "Avent Hair 2",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Avent-Hair-3.png",
+      "title": "Avent Hair 3",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Cortu-Hair.png",
+      "title": "Cortu Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Side-Fringe-Wavy-Updo.png",
+      "title": "Side Fringe Wavy Updo",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Dealer-Pigtails.png",
+      "title": "Dealer Pigtails",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Anime-Eyes-L.png",
+      "title": "Anime Eyes (L)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Anime-Eyes-S.png",
+      "title": "Anime Eyes (S)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Wide-Highlighted-Eyes-L.png",
+      "title": "Wide Highlighted Eyes (L)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Wide-Highlighted-Eyes-S.png",
+      "title": "Wide Highlighted Eyes (S)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Round-Eyes-C-XS.png",
+      "title": "Round Eyes C (XS)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Makeup/Faint-Blush.png",
+      "title": "Faint Blush",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Makeup"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Animal-Paint.png",
+      "title": "Animal Paint",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Chocolate-Socks-Gloves.png",
+      "title": "Chocolate Socks & Gloves",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Medic-Thigh-Highs.png",
+      "title": "Medic Thigh-Highs",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Asteria-Tights.png",
+      "title": "Asteria Tights",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Asteria-Gloves-M.png",
+      "title": "Asteria Gloves M",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Asteria-Gloves-F.png",
+      "title": "Asteria Gloves F",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Teoremard-Gloves.png",
+      "title": "Teoremard Gloves",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Dealer-Tights-Set.png",
+      "title": "Dealer Tights Set",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Shiny-Ribbon.png",
+      "title": "Shiny Ribbon",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Shiny-Necktie.png",
+      "title": "Shiny Necktie",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Bright-Fur.png",
+      "title": "Bright Fur",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Bright-Hat.png",
+      "title": "Bright Hat",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Chocolat-Ribbon.png",
+      "title": "Chocolat Ribbon",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Teoremard-Hat.png",
+      "title": "Teoremard Hat",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Cortu-Ribbon.png",
+      "title": "Cortu Ribbon",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Stethoscope.png",
+      "title": "Stethoscope",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Medic-Cap.png",
+      "title": "Medic Cap",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Medic-Armband.png",
+      "title": "Medic Armband",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Asteria-Cap.png",
+      "title": "Asteria Cap",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Asteria-Belt.png",
+      "title": "Asteria Belt",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Dealer-s-Headset.png",
+      "title": "Dealer’s Headset",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Mechanical-Pigtails.png",
+      "title": "Mechanical Pigtails",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Spinning-Unit.png",
+      "title": "Spinning Unit",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Perky-Bunny-Ears.png",
+      "title": "Perky Bunny Ears",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Floppy-Bunny-Ears.png",
+      "title": "Floppy Bunny Ears",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Bunny-Tail.png",
+      "title": "Bunny Tail",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Curly-Extensions.png",
+      "title": "Curly Extensions",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Cowlick-A.png",
+      "title": "Cowlick A",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Cowlick-B.png",
+      "title": "Cowlick B",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Stream-Feathers.png",
+      "title": "Stream Feathers",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Stream-Feathers-White.png",
+      "title": "Stream Feathers: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Stream-Feathers-Black.png",
+      "title": "Stream Feathers: Black",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Stream-Feathers-B.png",
+      "title": "Stream Feathers B",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Shooting-Star.png",
+      "title": "Shooting Star",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Gear-Pendant.png",
+      "title": "Gear Pendant",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    }
+  ]
+}

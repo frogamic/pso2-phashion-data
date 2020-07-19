@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/CAST-Heads/Havoc-Head.png",
+  "title": "Havoc Head",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "CAST Heads",
+  "collection": {
+    "id": "militaryline",
+    "type": "AC Scratch Ticket",
+    "title": "Military Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/militaryline"
+  }
+}

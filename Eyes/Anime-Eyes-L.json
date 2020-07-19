@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Eyes/Anime-Eyes-L.png",
+  "title": "Anime Eyes (L)",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Eyes",
+  "collection": {
+    "id": "careerline",
+    "type": "AC Scratch Ticket",
+    "title": "Career Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/careerline"
+  }
+}

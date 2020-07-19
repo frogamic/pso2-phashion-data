@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Mag-Evolution-Devices/Mini-Anga.png",
+  "title": "Mini-Anga",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Mag Evolution Devices",
+  "collection": {
+    "id": "arksboostrally0708",
+    "type": "Campaign",
+    "title": "ARKS Boost Rally",
+    "image": "https://phashion.moe/images/Collections/Campaign/arksboostrally0708.jpg",
+    "url": "https://pso2.com/news/announcements/arksboostrally0708"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/CAST-Heads/Nimbus-Head.png",
+  "title": "Nimbus Head",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "CAST Heads",
+  "collection": {
+    "id": "oraclecelebrations",
+    "type": "AC Scratch Ticket",
+    "title": "Oracle Celebrations",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
+  }
+}

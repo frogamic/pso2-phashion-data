@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Outerwear/Ranger-Viento.png",
+  "title": "Ranger Viento",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outerwear",
+  "collection": {
+    "id": "militaryline",
+    "type": "AC Scratch Ticket",
+    "title": "Military Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/militaryline"
+  }
+}

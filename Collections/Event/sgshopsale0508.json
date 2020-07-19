@@ -1,0 +1,35 @@
+{
+  "id": "sgshopsale0508",
+  "type": "Event",
+  "title": "SG Shop Sale! (05/08)",
+  "image": "https://phashion.moe/images/Collections/Event/sgshopsale0508.jpg",
+  "url": "https://pso2.com/news/announcements/sgshopsale0508",
+  "items": [
+    {
+      "image": "https://phashion.moe/images/Outfits/Simple-Bath-Towel.png",
+      "title": "Simple Bath Towel",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Towel-Blindfold.png",
+      "title": "Towel Blindfold",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    }
+  ]
+}

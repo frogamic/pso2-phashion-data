@@ -1,0 +1,1010 @@
+{
+  "id": "silkendreams",
+  "type": "AC Scratch Ticket",
+  "title": "Silken Dreams",
+  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
+  "url": "https://pso2.com/news/scratch-tickets/silkendreams",
+  "items": [
+    {
+      "image": "https://phashion.moe/images/Outfits/Solitary-Shadow.png",
+      "title": "Solitary Shadow",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Outfits/Severing-Shadow.png",
+      "title": "Severing Shadow",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Flower-Season-Inyuu.png",
+      "title": "Flower Season Inyuu",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Occultic-Eyes.png",
+      "title": "Occultic Eyes",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Shrine-Garb.png",
+      "title": "Shrine Garb",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Flower-Season-Cafuu.png",
+      "title": "Flower Season Cafuu",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Outerwear/Occultic-Vixen.png",
+      "title": "Occultic Vixen",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Flower-Season-Inyuu.png",
+      "title": "Flower Season Inyuu",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Occultic-Eyes.png",
+      "title": "Occultic Eyes",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Shrine-Garb.png",
+      "title": "Shrine Garb",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Flower-Season-Cafuu.png",
+      "title": "Flower Season Cafuu",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Basewear/Occultic-Vixen.png",
+      "title": "Occultic Vixen",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Basewear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Occultic-Eyes.png",
+      "title": "Occultic Eyes",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Shrine-Garb.png",
+      "title": "Shrine Garb",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/Innerwear/Occultic-Vixen.png",
+      "title": "Occultic Vixen",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Innerwear"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Bodies/Titangum-Body.png",
+      "title": "Titangum Body",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Bodies"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Arms/Titangum-Arms.png",
+      "title": "Titangum Arms",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Arms"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Legs/Titangum-Legs.png",
+      "title": "Titangum Legs",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Legs"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Heads/Titangum-Head.png",
+      "title": "Titangum Head",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Heads"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Bodies/Icesilica-Body.png",
+      "title": "Icesilica Body",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Bodies"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Arms/Icesilica-Arms.png",
+      "title": "Icesilica Arms",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Arms"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Legs/Icesilica-Legs.png",
+      "title": "Icesilica Legs",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Legs"
+    },
+    {
+      "image": "https://phashion.moe/images/CAST-Heads/Icesilica-Head.png",
+      "title": "Icesilica Head",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "CAST Heads"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Kannagi-Hairstyle.png",
+      "title": "Kannagi Hairstyle",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Cafuu-Hair.png",
+      "title": "Cafuu Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Inyuu-Hair.png",
+      "title": "Inyuu Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Occultic-Hair.png",
+      "title": "Occultic Hair",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Hairstyles/Solitary-Helmet.png",
+      "title": "Solitary Helmet",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Hairstyles"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Yin-Yang-Eyes-L.png",
+      "title": "Yin-Yang Eyes (L)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Yin-Yang-Eyes-S.png",
+      "title": "Yin-Yang Eyes (S)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Tearful-Anime-Eyes-L.png",
+      "title": "Tearful Anime Eyes (L)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Tearful-Anime-Eyes-S.png",
+      "title": "Tearful Anime Eyes (S)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Anime-Eyes-E-L.png",
+      "title": "Anime Eyes E (L)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Eyes/Anime-Eyes-E-S.png",
+      "title": "Anime Eyes E (S)",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Eyes"
+    },
+    {
+      "image": "https://phashion.moe/images/Makeup/Occultic-Third-Eye.png",
+      "title": "Occultic Third Eye",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Makeup"
+    },
+    {
+      "image": "https://phashion.moe/images/Makeup/Light-Rouge.png",
+      "title": "Light Rouge",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Makeup"
+    },
+    {
+      "image": "https://phashion.moe/images/Makeup/Stylish-Kumadori.png",
+      "title": "Stylish Kumadori",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Makeup"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Shrine-Maiden-Tights.png",
+      "title": "Shrine Maiden Tights",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Shrine-Maiden-Tights-B.png",
+      "title": "Shrine Maiden Tights B",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Inyuu-Gloves.png",
+      "title": "Inyuu Gloves",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Enigma-Bandages.png",
+      "title": "Enigma Bandages",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Enma-Socks.png",
+      "title": "Enma Socks",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Enma-Tattoo.png",
+      "title": "Enma Tattoo",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Genshou-Tights.png",
+      "title": "Genshou Tights",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Body-Paint/Genshou-Tights-B.png",
+      "title": "Genshou Tights B",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Body Paint"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Cafuu-Ornament.png",
+      "title": "Cafuu Ornament",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Cafuu-Waist-Ribbon.png",
+      "title": "Cafuu Waist Ribbon",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Soulfire.png",
+      "title": "Soulfire",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Occultic-Eyes-Horns.png",
+      "title": "Occultic Eyes Horns",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Occultic-Vixen-Horns.png",
+      "title": "Occultic Vixen Horns",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Occultic-Vixen-Ribbon.png",
+      "title": "Occultic Vixen Ribbon",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genshou-Headgear.png",
+      "title": "Genshou Headgear",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genshou-Ribbon-White.png",
+      "title": "Genshou Ribbon: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genshou-Ribbon-Red.png",
+      "title": "Genshou Ribbon: Red",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genshou-Ribbon-Black.png",
+      "title": "Genshou Ribbon: Black",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genga-Scarf.png",
+      "title": "Genga Scarf",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genga-Scarf-Red.png",
+      "title": "Genga Scarf: Red",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genga-Scarf-Black.png",
+      "title": "Genga Scarf: Black",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genga-Mask-White.png",
+      "title": "Genga Mask: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genga-Mask-Black.png",
+      "title": "Genga Mask: Black",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Genga-Belt.png",
+      "title": "Genga Belt",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Kitsune-Tails.png",
+      "title": "Kitsune Tails",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Kitsune-Tails-White.png",
+      "title": "Kitsune Tails: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Kitsune-Tails-Yellow.png",
+      "title": "Kitsune Tails: Yellow",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Kitsune-Tails-B.png",
+      "title": "Kitsune Tails B",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/3-Kitsune-Tails.png",
+      "title": "3 Kitsune Tails",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/3-Kitsune-Tails-White.png",
+      "title": "3 Kitsune Tails: White",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/3-Kitsune-Tails-Black.png",
+      "title": "3 Kitsune Tails: Black",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Yin-Yang-Corsage.png",
+      "title": "Yin-Yang Corsage",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Chestplate.png",
+      "title": "Chestplate",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Ship-Nose-Armor.png",
+      "title": "Ship Nose Armor",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Monovisor.png",
+      "title": "Monovisor",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Spiked-Leather-Mask.png",
+      "title": "Spiked Leather Mask",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Spiked-Leather-Mask-B.png",
+      "title": "Spiked Leather Mask B",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Teruku.png",
+      "title": "Evolution Device: Teruku",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Mag Evolution Devices"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Devil-Nyau-Shoulder-Mount-Blue.png",
+      "title": "Devil Nyau Shoulder-Mount: Blue",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Devil-Nyau-Shoulder-Mount-Red.png",
+      "title": "Devil Nyau Shoulder Mount: Red",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    }
+  ]
+}

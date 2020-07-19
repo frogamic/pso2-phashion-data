@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Body-Paint/Fingerless-Gloves-F-Set.png",
+  "title": "Fingerless Gloves F Set",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Body Paint",
+  "collection": {
+    "id": "funapril2020part1",
+    "type": "FUN Scratch Ticket",
+    "title": "April 2020 - Part 1",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part1.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/funapril2020part1"
+  }
+}

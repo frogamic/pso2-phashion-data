@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/Body-Paint/Slit-Knee-Socks-White.png",
+  "title": "Slit Knee Socks White",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "tier": 6,
+  "category": "Body Paint",
+  "collection": {
+    "id": "missionpassseason4",
+    "type": "Mission Pass",
+    "title": "Season 4",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason4.jpg",
+    "url": "https://pso2.com/news/announcements/missionpassseason4"
+  }
+}

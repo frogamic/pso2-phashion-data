@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Hairstyles/Casual-Ponytail.png",
+  "title": "Casual Ponytail",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Hairstyles",
+  "collection": {
+    "id": "funjune2020part2",
+    "type": "FUN Scratch Ticket",
+    "title": "June 2020 - Part 2",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/funjune2020part2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Makeup/Eyeshadow-Set-A.png",
+  "title": "Eyeshadow Set A",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Makeup",
+  "collection": {
+    "id": "urbanlifestyle",
+    "type": "AC Scratch Ticket",
+    "title": "Urban Lifestyle",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
+  }
+}

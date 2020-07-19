@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Basewear/Kai-Schulen-Replica.png",
+  "title": "Kai Schulen Replica",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collection": {
+    "id": "segalegacy",
+    "type": "AC Scratch Ticket",
+    "title": "Sega Legacy",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/segalegacy"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Outfits/Chinese-Dress.png",
+  "title": "Chinese Dress",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfits",
+  "collection": {
+    "id": "freshfindsshop0428",
+    "type": "Fresh Finds Shop",
+    "title": "Recommended Items (04/28)",
+    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0428.jpg",
+    "url": "https://pso2.com/news/announcements/freshfindsshop0428"
+  }
+}

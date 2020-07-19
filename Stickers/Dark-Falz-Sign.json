@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Stickers/Dark-Falz-Sign.png",
+  "title": "Dark Falz Sign",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Stickers",
+  "collection": {
+    "id": "fallenheroes",
+    "type": "SG Scratch Ticket",
+    "title": "Fallen Heroes",
+    "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
+  }
+}

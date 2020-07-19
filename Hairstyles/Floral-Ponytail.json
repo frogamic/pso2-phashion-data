@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Hairstyles/Floral-Ponytail.png",
+  "title": "Floral Ponytail",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Hairstyles",
+  "collection": {
+    "id": "heroicwanderer",
+    "type": "AC Scratch Ticket",
+    "title": "Heroic Wanderer",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Eyes/Star-Contacts-L.png",
+  "title": "Star Contacts (L)",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Eyes",
+  "collection": {
+    "id": "recruitline",
+    "type": "AC Scratch Ticket",
+    "title": "Recruit Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/recruitline"
+  }
+}

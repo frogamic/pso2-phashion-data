@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/CAST-Legs/Nono-Schwantz-Legs.png",
+  "title": "Nono Schwantz Legs",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "tier": 5,
+  "category": "CAST Legs",
+  "collection": {
+    "id": "missionpassseason5",
+    "type": "Mission Pass",
+    "title": "Season 5",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
+    "url": "https://pso2.com/news/announcements/missionpassseason5"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Outfits/Megurine-Luka-Replica.png",
+  "title": "Megurine Luka Replica",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfits",
+  "collection": {
+    "id": "virtualstars",
+    "type": "AC Scratch Ticket",
+    "title": "Virtual Stars",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/virtualstars"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Accessories/Amalti-Horns.png",
+  "title": "Amalti Horns",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Accessories",
+  "collection": {
+    "id": "darkomen",
+    "type": "AC Scratch Ticket",
+    "title": "Dark Omen",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/darkomen"
+  }
+}

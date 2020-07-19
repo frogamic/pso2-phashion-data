@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Basewear/Cathedral-Formal-F.png",
+  "title": "Cathedral Formal F",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collection": {
+    "id": "oraclecelebrations",
+    "type": "AC Scratch Ticket",
+    "title": "Oracle Celebrations",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
+  }
+}

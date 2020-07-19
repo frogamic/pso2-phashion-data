@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/CAST-Bodies/Rosemary-Body.png",
+  "title": "Rosemary Body",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "tier": 30,
+  "category": "CAST Bodies",
+  "collection": {
+    "id": "missionpassseason3",
+    "type": "Mission Pass",
+    "title": "Season 3",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
+    "url": "https://pso2.com/news/announcements/missionpassseason3"
+  }
+}

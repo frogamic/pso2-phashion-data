@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Body-Paint/Novi-Socks.png",
+  "title": "Novi Socks",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Body Paint",
+  "collection": {
+    "id": "recruitline",
+    "type": "AC Scratch Ticket",
+    "title": "Recruit Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/recruitline"
+  }
+}

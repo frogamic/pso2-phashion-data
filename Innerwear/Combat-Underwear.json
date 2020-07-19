@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Innerwear/Combat-Underwear.png",
+  "title": "Combat Underwear",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Innerwear",
+  "collection": {
+    "id": "militaryline",
+    "type": "AC Scratch Ticket",
+    "title": "Military Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/militaryline"
+  }
+}

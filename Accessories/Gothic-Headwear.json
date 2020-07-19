@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Accessories/Gothic-Headwear.png",
+  "title": "Gothic Headwear",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Accessories",
+  "collection": {
+    "id": "funapril2020part3",
+    "type": "FUN Scratch Ticket",
+    "title": "April 2020 - Part 3",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part3.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/funapril2020part3"
+  }
+}

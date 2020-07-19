@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Accessories/Luther-Heagear.png",
+  "title": "[Luther] Heagear",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "category": "Accessories",
+  "collection": {
+    "id": "fallenheroes",
+    "type": "SG Scratch Ticket",
+    "title": "Fallen Heroes",
+    "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
+  }
+}

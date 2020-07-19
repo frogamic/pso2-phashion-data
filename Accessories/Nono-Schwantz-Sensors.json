@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/Accessories/Nono-Schwantz-Sensors.png",
+  "title": "Nono Schwantz Sensors",
+  "gender": {
+    "female": false,
+    "male": false
+  },
+  "race": {
+    "humanoid": false,
+    "cast": false
+  },
+  "tier": 5,
+  "category": "Accessories",
+  "collection": {
+    "id": "missionpassseason5",
+    "type": "Mission Pass",
+    "title": "Season 5",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
+    "url": "https://pso2.com/news/announcements/missionpassseason5"
+  }
+}

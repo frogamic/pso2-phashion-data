@@ -1,0 +1,20 @@
+{
+  "image": "https://phashion.moe/images/Outfits/Sirris-Robe-M.png",
+  "title": "Sirris Robe M",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfits",
+  "collection": {
+    "id": "fallenheroes",
+    "type": "SG Scratch Ticket",
+    "title": "Fallen Heroes",
+    "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
+  }
+}

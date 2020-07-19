@@ -1,0 +1,74 @@
+{
+  "id": "independencedayevent2020",
+  "type": "Event",
+  "title": "Independence Day Event",
+  "image": "https://phashion.moe/images/Collections/Event/independencedayevent2020.jpg",
+  "url": "https://pso2.com/news/announcements/independencedayevent2020",
+  "items": [
+    {
+      "image": "https://phashion.moe/images/Outfits/Uncle-Sam-Suit.png",
+      "title": "Uncle Sam Suit",
+      "gender": {
+        "female": false,
+        "male": true
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Outfits/Roller-Diner.png",
+      "title": "Roller Diner",
+      "gender": {
+        "female": true,
+        "male": false
+      },
+      "race": {
+        "humanoid": true,
+        "cast": true
+      },
+      "category": "Outfits"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Uncle-Sam-Hat.png",
+      "title": "Uncle Sam Hat",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Diner-Visor.png",
+      "title": "Diner Visor",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    },
+    {
+      "image": "https://phashion.moe/images/Accessories/Old-Glory.png",
+      "title": "Old Glory",
+      "gender": {
+        "female": false,
+        "male": false
+      },
+      "race": {
+        "humanoid": false,
+        "cast": false
+      },
+      "category": "Accessories"
+    }
+  ]
+}
