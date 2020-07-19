@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Cortu-Legs.png",
-  "title": "Cortu Legs",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Legs",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/careerline"
-  }
+  },
+  "title": "Cortu Legs",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Legs",
+  "tradeable": true
 }

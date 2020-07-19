@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Half-Up-Ponytail.png",
+  "collection": {
+    "id": "freshfindsshop0609",
+    "type": "Fresh Finds Shop",
+    "title": "Recommended Items (6/9)",
+    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0609.jpg",
+    "url": "https://pso2.com/news/announcements/freshfindsshop0609"
+  },
   "title": "Half-Up Ponytail",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Hairstyles",
-  "collection": {
-    "id": "freshfindsshop0609",
-    "type": "Fresh Finds Shop",
-    "title": "Recommended Items (6/9)",
-    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0609.jpg",
-    "url": "https://pso2.com/news/announcements/freshfindsshop0609"
-  }
+  "tradeable": false
 }

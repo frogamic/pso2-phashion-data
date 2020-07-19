@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Aqua-Hair.png",
-  "title": "Aqua Hair",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Hairstyles",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
     "url": "https://pso2.com/news/scratch-tickets/blessedworld"
-  }
+  },
+  "title": "Aqua Hair",
+  "category": "Hairstyles",
+  "tradeable": true
 }

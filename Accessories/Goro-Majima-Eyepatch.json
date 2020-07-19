@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Goro-Majima-Eyepatch.png",
-  "title": "Goro Majima Eyepatch",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "segalegacy",
     "type": "AC Scratch Ticket",
     "title": "Sega Legacy",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
     "url": "https://pso2.com/news/scratch-tickets/segalegacy"
-  }
+  },
+  "title": "Goro Majima Eyepatch",
+  "category": "Accessories",
+  "tradeable": true
 }

@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Side-Fringe-Off-Center-Short.png",
-  "title": "Side Fringe Off-Center Short",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Hairstyles",
   "collection": {
     "id": "oraclecelebrations",
     "type": "AC Scratch Ticket",
     "title": "Oracle Celebrations",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
     "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
-  }
+  },
+  "title": "Side Fringe Off-Center Short",
+  "category": "Hairstyles",
+  "tradeable": true
 }

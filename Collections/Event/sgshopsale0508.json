@@ -8,27 +8,11 @@
     {
       "image": "https://phashion.moe/images/Outfits/Simple-Bath-Towel.png",
       "title": "Simple Bath Towel",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Towel-Blindfold.png",
       "title": "Towel Blindfold",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     }
   ]

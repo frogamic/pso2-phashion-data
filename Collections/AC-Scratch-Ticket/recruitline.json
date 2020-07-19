@@ -8,1067 +8,411 @@
     {
       "image": "https://phashion.moe/images/Outerwear/Raison-Hubris.png",
       "title": "Raison Hubris",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Nogue-Lyra.png",
       "title": "Nogue Lyra",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Riad-Falco.png",
       "title": "Riad Falco",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Suit-Jacket.png",
       "title": "Suit Jacket",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Raison-Vanitas.png",
       "title": "Raison Vanitas",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Novi-Katz.png",
       "title": "Novi Katz",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Reaver-Swallow.png",
       "title": "Reaver Swallow",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Cashmere-Cardigan.png",
       "title": "Cashmere Cardigan",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Raison-Hubris.png",
       "title": "Raison Hubris",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Nogue-Lyra.png",
       "title": "Nogue Lyra",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Riad-Falco.png",
       "title": "Riad Falco",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Suit-Slacks.png",
       "title": "Suit Slacks",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Slacks.png",
       "title": "Slacks",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Raison-Vanitas.png",
       "title": "Raison Vanitas",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Novi-Katz.png",
       "title": "Novi Katz",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Reaver-Swallow.png",
       "title": "Reaver Swallow",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Frill-One-Piece.png",
       "title": "Frill One-Piece",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Nogue-Lyra.png",
       "title": "Nogue Lyra",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Long-Trunks-1.png",
       "title": "Long Trunks 1",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Novi-Katz.png",
       "title": "Novi Katz",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Frill-1.png",
       "title": "Frill 1",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Vogulus-Body.png",
       "title": "Vogulus Body",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Bodies"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Vogulus-Arms.png",
       "title": "Vogulus Arms",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Vogulus-Legs.png",
       "title": "Vogulus Legs",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Alberica-Body.png",
       "title": "Alberica Body",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Bodies"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Alberica-Arms.png",
       "title": "Alberica Arms",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Alberica-Legs.png",
       "title": "Alberica Legs",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Alnaar-Body.png",
       "title": "Alnaar Body",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Bodies"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Alnaar-Arms.png",
       "title": "Alnaar Arms",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Alnaar-Legs.png",
       "title": "Alnaar Legs",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Frasia-Body.png",
       "title": "Frasia Body",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Bodies"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Frasia-Arms.png",
       "title": "Frasia Arms",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Frasia-Legs.png",
       "title": "Frasia Legs",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Vogulus-Head.png",
       "title": "Vogulus Head",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Heads"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Alberica-Head.png",
       "title": "Alberica Head",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Heads"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Alnaar-Head.png",
       "title": "Alnaar Head",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Heads"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Frasia-Head.png",
       "title": "Frasia Head",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Heads"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Novi-Medium-Hair.png",
       "title": "Novi Medium Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Reaver-Hair.png",
       "title": "Reaver Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Elegant-Bun.png",
       "title": "Elegant Bun",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Inverted-Short-Bob.png",
       "title": "Inverted Short Bob",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Narrow-Eyes-L.png",
       "title": "Narrow Eyes (L)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Narrow-Eyes-S.png",
       "title": "Narrow Eyes (S)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Star-Contacts-L.png",
       "title": "Star Contacts (L)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Star-Contacts-S.png",
       "title": "Star Contacts (S)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Round-Eyes-A-XS.png",
       "title": "Round Eyes A (XS)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Round-Eyes-B-XS.png",
       "title": "Round Eyes B (XS)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Natural-Makeup-B.png",
       "title": "Natural Makeup B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Makeup"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Blaze-Makeup-Set.png",
       "title": "Blaze Makeup Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Makeup"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Novi-Socks.png",
       "title": "Novi Socks",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Top-Frill-Thigh-Highs.png",
       "title": "Top Frill Thigh-Highs",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Garter-Tights.png",
       "title": "Garter & Tights",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Blaze-Paint-M-Set.png",
       "title": "Blaze Paint M Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Blaze-Paint-F-Set.png",
       "title": "Blaze Paint F Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Vanitas-Headdress.png",
       "title": "Vanitas Headdress",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Vanitas-Eyepatch.png",
       "title": "Vanitas Eyepatch",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Vanitas-Ribbon.png",
       "title": "Vanitas Ribbon",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Novi-Headgear.png",
       "title": "Novi Headgear",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Riad-Headgear.png",
       "title": "Riad Headgear",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Riad-Wings.png",
       "title": "Riad Wings",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Reaver-Shoulder-Pads.png",
       "title": "Reaver Shoulder Pads",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Reaver-Wings.png",
       "title": "Reaver Wings",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Loose-Tie-Black.png",
       "title": "Loose Tie: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Loose-Tie-Red.png",
       "title": "Loose Tie: Red",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Loose-Tie-Blue.png",
       "title": "Loose Tie: Blue",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Ribbon-Casquette-Hat-Water.png",
       "title": "Ribbon Casquette Hat: Water",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Ribbon-Casquette-Hat-Pink.png",
       "title": "Ribbon Casquette Hat: Pink",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Ribbon-Casquette-Hat-Black.png",
       "title": "Ribbon Casquette Hat: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Fox-Ears.png",
       "title": "Fox Ears",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Droopy-Fox-Ears.png",
       "title": "Droopy Fox Ears",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Arm-Missiles.png",
       "title": "Arm Missiles",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Quatro-Antenna.png",
       "title": "Quatro Antenna",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Quatro-Antenna-B.png",
       "title": "Quatro Antenna B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Twintail-Extensions.png",
       "title": "Twintail Extensions",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Hero-Scarf.png",
       "title": "Hero Scarf",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wild-Scarf.png",
       "title": "Wild Scarf",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Floral-Headband-A.png",
       "title": "Floral Headband A",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Floral-Headband-B.png",
       "title": "Floral Headband B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Floral-Headband-C.png",
       "title": "Floral Headband C",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Lynx.png",
       "title": "Evolution Device: Lynx",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Mag Evolution Devices"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rappy-Head.png",
       "title": "Rappy Head",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rappy-Head-Yellow.png",
       "title": "Rappy Head: Yellow",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     }
   ]

@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Night-Sea-Paint-M.png",
-  "title": "Night Sea Paint M",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Body Paint",
   "collection": {
     "id": "fallenheroes",
     "type": "SG Scratch Ticket",
     "title": "Fallen Heroes",
     "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
     "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
-  }
+  },
+  "title": "Night Sea Paint M",
+  "category": "Body Paint",
+  "tradeable": false
 }

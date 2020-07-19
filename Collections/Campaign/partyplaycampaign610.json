@@ -8,14 +8,6 @@
     {
       "image": "https://phashion.moe/images/Accessories/Photon-X-Wings.png",
       "title": "Photon X Wings",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     }
   ]

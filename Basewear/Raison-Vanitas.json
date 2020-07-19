@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Basewear/Raison-Vanitas.png",
+  "collection": {
+    "id": "recruitline",
+    "type": "AC Scratch Ticket",
+    "title": "Recruit Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/recruitline"
+  },
   "title": "Raison Vanitas",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Basewear",
-  "collection": {
-    "id": "recruitline",
-    "type": "AC Scratch Ticket",
-    "title": "Recruit Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/recruitline"
-  }
+  "tradeable": true
 }

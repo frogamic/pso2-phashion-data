@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outfits/Yunyun-Replica.png",
+  "collection": {
+    "id": "blessedworld",
+    "type": "AC Scratch Ticket",
+    "title": "Blessed World",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/blessedworld"
+  },
   "title": "Yunyun Replica",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outfits",
-  "collection": {
-    "id": "blessedworld",
-    "type": "AC Scratch Ticket",
-    "title": "Blessed World",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/blessedworld"
-  }
+  "tradeable": true
 }

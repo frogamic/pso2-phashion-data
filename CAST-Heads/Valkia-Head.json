@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Heads/Valkia-Head.png",
-  "title": "Valkia Head",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Heads",
   "collection": {
     "id": "heroicwanderer",
     "type": "AC Scratch Ticket",
     "title": "Heroic Wanderer",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
     "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
-  }
+  },
+  "title": "Valkia Head",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Heads",
+  "tradeable": true
 }

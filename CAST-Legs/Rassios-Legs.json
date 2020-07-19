@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Rassios-Legs.png",
-  "title": "Rassios Legs",
-  "gender": {
-    "female": false,
-    "male": true
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Legs",
   "collection": {
     "id": "urbanlifestyle",
     "type": "AC Scratch Ticket",
     "title": "Urban Lifestyle",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
     "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
-  }
+  },
+  "title": "Rassios Legs",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Legs",
+  "tradeable": true
 }

@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Heads/Wilca-Head.png",
-  "title": "Wilca Head",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Heads",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
     "url": "https://pso2.com/news/scratch-tickets/blessedworld"
-  }
+  },
+  "title": "Wilca Head",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Heads",
+  "tradeable": true
 }

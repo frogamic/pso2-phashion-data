@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outerwear/Lab-Coat-F.png",
+  "collection": {
+    "id": "careerline",
+    "type": "AC Scratch Ticket",
+    "title": "Career Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/careerline"
+  },
   "title": "Lab Coat F",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outerwear",
-  "collection": {
-    "id": "careerline",
-    "type": "AC Scratch Ticket",
-    "title": "Career Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
-  }
+  "tradeable": true
 }

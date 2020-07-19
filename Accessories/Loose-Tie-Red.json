@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Loose-Tie-Red.png",
-  "title": "Loose Tie: Red",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "recruitline",
     "type": "AC Scratch Ticket",
     "title": "Recruit Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/recruitline"
-  }
+  },
+  "title": "Loose Tie: Red",
+  "category": "Accessories",
+  "tradeable": true
 }

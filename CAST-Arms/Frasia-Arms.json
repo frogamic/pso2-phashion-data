@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Arms/Frasia-Arms.png",
-  "title": "Frasia Arms",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Arms",
   "collection": {
     "id": "recruitline",
     "type": "AC Scratch Ticket",
     "title": "Recruit Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/recruitline"
-  }
+  },
+  "title": "Frasia Arms",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Arms",
+  "tradeable": true
 }

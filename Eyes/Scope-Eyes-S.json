@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Scope-Eyes-S.png",
-  "title": "Scope Eyes (S)",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Eyes",
   "collection": {
     "id": "militaryline",
     "type": "AC Scratch Ticket",
     "title": "Military Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/militaryline"
-  }
+  },
+  "title": "Scope Eyes (S)",
+  "category": "Eyes",
+  "tradeable": true
 }

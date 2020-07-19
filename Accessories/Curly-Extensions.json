@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Curly-Extensions.png",
-  "title": "Curly Extensions",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/careerline"
-  }
+  },
+  "title": "Curly Extensions",
+  "category": "Accessories",
+  "tradeable": true
 }

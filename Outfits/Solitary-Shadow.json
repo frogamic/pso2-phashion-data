@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outfits/Solitary-Shadow.png",
+  "collection": {
+    "id": "silkendreams",
+    "type": "AC Scratch Ticket",
+    "title": "Silken Dreams",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/silkendreams"
+  },
   "title": "Solitary Shadow",
   "gender": {
     "female": false,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outfits",
-  "collection": {
-    "id": "silkendreams",
-    "type": "AC Scratch Ticket",
-    "title": "Silken Dreams",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/silkendreams"
-  }
+  "tradeable": true
 }

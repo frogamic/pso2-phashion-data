@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Wilca-Legs.png",
-  "title": "Wilca Legs",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Legs",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
     "url": "https://pso2.com/news/scratch-tickets/blessedworld"
-  }
+  },
+  "title": "Wilca Legs",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Legs",
+  "tradeable": true
 }

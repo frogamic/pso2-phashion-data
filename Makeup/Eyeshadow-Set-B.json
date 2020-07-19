@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Eyeshadow-Set-B.png",
-  "title": "Eyeshadow Set B",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Makeup",
   "collection": {
     "id": "urbanlifestyle",
     "type": "AC Scratch Ticket",
     "title": "Urban Lifestyle",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
     "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
-  }
+  },
+  "title": "Eyeshadow Set B",
+  "category": "Makeup",
+  "tradeable": true
 }

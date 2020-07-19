@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Bodies/Nimbus-Body.png",
-  "title": "Nimbus Body",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Bodies",
   "collection": {
     "id": "oraclecelebrations",
     "type": "AC Scratch Ticket",
     "title": "Oracle Celebrations",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
     "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
-  }
+  },
+  "title": "Nimbus Body",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Bodies",
+  "tradeable": true
 }

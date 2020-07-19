@@ -8,976 +8,376 @@
     {
       "image": "https://phashion.moe/images/Outerwear/Casamento-Tuxedo.png",
       "title": "Casamento Tuxedo",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Winged-Excellence.png",
       "title": "Winged Excellence",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Cathedral-Formal-M.png",
       "title": "Cathedral Formal M",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Nozze-Fiore.png",
       "title": "Nozze Fiore",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Winged-Elegance.png",
       "title": "Winged Elegance",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Gothic-Cape.png",
       "title": "Gothic Cape",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Cathedral-Formal-F.png",
       "title": "Cathedral Formal F",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Casamento-Tuxedo.png",
       "title": "Casamento Tuxedo",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Winged-Excellence.png",
       "title": "Winged Excellence",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Cathedral-Formal-M.png",
       "title": "Cathedral Formal M",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Cathedral-Mini-M.png",
       "title": "Cathedral Mini M",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Nozze-Fiore.png",
       "title": "Nozze Fiore",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Winged-Elegance.png",
       "title": "Winged Elegance",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Gothic-Dress.png",
       "title": "Gothic Dress",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Cathedral-Formal-F.png",
       "title": "Cathedral Formal F",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Cathedral-Mini-F.png",
       "title": "Cathedral Mini F",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Winged-Excellence.png",
       "title": "Winged Excellence",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Nozze-Fiore.png",
       "title": "Nozze Fiore",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Winged-Elegance.png",
       "title": "Winged Elegance",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Hylow-Body.png",
       "title": "Hylow Body",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Bodies"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Hylow-Arms.png",
       "title": "Hylow Arms",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Hylow-Legs.png",
       "title": "Hylow Legs",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Hylow-Head.png",
       "title": "Hylow Head",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Heads"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Nimbus-Body.png",
       "title": "Nimbus Body",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Bodies"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Nimbus-Arms.png",
       "title": "Nimbus Arms",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Nimbus-Legs.png",
       "title": "Nimbus Legs",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Nimbus-Head.png",
       "title": "Nimbus Head",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Heads"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Nozze-Hair.png",
       "title": "Nozze Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Side-Fringe-Off-Center-Short.png",
       "title": "Side Fringe Off-Center Short",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Cathedral-Hair.png",
       "title": "Cathedral Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Twinkling-Eyes-L.png",
       "title": "Twinkling Eyes (L)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Twinkling-Eyes-S.png",
       "title": "Twinkling Eyes (S)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Heart-Eyes-L.png",
       "title": "Heart Eyes (L)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Heart-Eyes-S.png",
       "title": "Heart Eyes (S)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Heartful-Eyes.png",
       "title": "Heartful Eyes",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Natural-Makeup-D.png",
       "title": "Natural Makeup D",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Makeup"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Elegant-Thigh-Highs.png",
       "title": "Elegant Thigh-Highs",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Cathedral-Tights-M-Set.png",
       "title": "Cathedral Tights M Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Cathedral-Tights-F-Set.png",
       "title": "Cathedral Tights F Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Nozze-Tiara.png",
       "title": "Nozze Tiara",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Mask-of-Elegance.png",
       "title": "Mask of Elegance",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Mask-of-Excellence.png",
       "title": "Mask of Excellence",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Nimbus-Wings.png",
       "title": "Nimbus Wings",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Hylow-Circle.png",
       "title": "Hylow Circle",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cathedral-Mini-veil.png",
       "title": "Cathedral Mini-veil",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cathedral-Necklace.png",
       "title": "Cathedral Necklace",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wagging-Tail.png",
       "title": "Wagging Tail",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wagging-Tail-Brown.png",
       "title": "Wagging Tail: Brown",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wagging-Tail-Black.png",
       "title": "Wagging Tail: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Double-Ponytails-A.png",
       "title": "Double Ponytails A",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Double-Ponytails-B.png",
       "title": "Double Ponytails B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Double-Ponytails-C.png",
       "title": "Double Ponytails C",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Flower-Crown.png",
       "title": "Flower Crown",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Flower-Brooch.png",
       "title": "Flower Brooch",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Gothic-Hood.png",
       "title": "Gothic Hood",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wedding-Tiara.png",
       "title": "Wedding Tiara",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wedding-Necklace.png",
       "title": "Wedding Necklace",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wedding-Corsage.png",
       "title": "Wedding Corsage",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wedding-Corsage-B.png",
       "title": "Wedding Corsage B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Black-Rose.png",
       "title": "Black Rose",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wings-Earrings-Water.png",
       "title": "Wings Earrings: Water",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wings-Earrings-Red.png",
       "title": "Wings Earrings: Red",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wings-Earrings-Green.png",
       "title": "Wings Earrings: Green",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wings-Earrings-White.png",
       "title": "Wings Earrings: White",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Sparkles-L.png",
       "title": "Sparkles (L)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Sparkles-S.png",
       "title": "Sparkles (S)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rose-Hood.png",
       "title": "Rose Hood",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rose-Hood-White.png",
       "title": "Rose Hood: White",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rose-Hood-Black.png",
       "title": "Rose Hood: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Angel-Wings.png",
       "title": "Angel Wings",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Angel-Wings-White.png",
       "title": "Angel Wings: White",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Angel-Wings-Black.png",
       "title": "Angel Wings: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Single-Angel-Wing.png",
       "title": "Single Angel Wing",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Wedding-Bell.png",
       "title": "Wedding Bell",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Mag Evolution Devices"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Umbra-Doll.png",
       "title": "Umbra Doll",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     }
   ]

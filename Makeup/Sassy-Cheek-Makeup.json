@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Sassy-Cheek-Makeup.png",
-  "title": "Sassy Cheek Makeup",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Makeup",
   "collection": {
     "id": "funjune2020part2",
     "type": "FUN Scratch Ticket",
     "title": "June 2020 - Part 2",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funjune2020part2"
-  }
+  },
+  "title": "Sassy Cheek Makeup",
+  "category": "Makeup",
+  "tradeable": true
 }

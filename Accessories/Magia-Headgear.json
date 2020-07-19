@@ -1,21 +1,14 @@
 {
   "image": "https://phashion.moe/images/Accessories/Magia-Headgear.png",
-  "title": "Magia Headgear",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "tier": 18,
-  "category": "Accessories",
   "collection": {
     "id": "missionpassseason4",
     "type": "Mission Pass",
     "title": "Season 4",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason4.jpg",
     "url": "https://pso2.com/news/announcements/missionpassseason4"
-  }
+  },
+  "title": "Magia Headgear",
+  "tier": 18,
+  "category": "Accessories",
+  "tradeable": false
 }

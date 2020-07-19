@@ -1,21 +1,18 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Pionia-Legs.png",
-  "title": "Pionia Legs",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "tier": 30,
-  "category": "CAST Legs",
   "collection": {
     "id": "missionpassseason5",
     "type": "Mission Pass",
     "title": "Season 5",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
     "url": "https://pso2.com/news/announcements/missionpassseason5"
-  }
+  },
+  "title": "Pionia Legs",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "tier": 30,
+  "category": "CAST Legs",
+  "tradeable": false
 }

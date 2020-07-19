@@ -8,555 +8,211 @@
     {
       "image": "https://phashion.moe/images/Hairstyles/Youngest-Naura-Sister-Hair.png",
       "title": "Youngest Naura Sister Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Casual-Ponytail.png",
       "title": "Casual Ponytail",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Eyebrows/Straight-Eyebrows-B.png",
       "title": "Straight Eyebrows B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyebrows"
     },
     {
       "image": "https://phashion.moe/images/Eyelashes/Dbl-Anime-Lashes-Set.png",
       "title": "Dbl. Anime Lashes Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
-      "set": true,
       "category": "Eyelashes"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Bulky-Tights-Set-A.png",
       "title": "Bulky Tights Set A",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
-      "set": true,
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Arm-Blades.png",
       "title": "Arm Blades",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Arm-Blades-B.png",
       "title": "Arm Blades B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Sparklers.png",
       "title": "Sparklers",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Fluffy-Hair-S.png",
       "title": "Fluffy Hair (S)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Fluffy-Hair-M.png",
       "title": "Fluffy Hair (M)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Fluffy-Hair-L.png",
       "title": "Fluffy Hair (L)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Arm-Scarf-Red.png",
       "title": "Arm Scarf: Red",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Arm-Scarf-Black.png",
       "title": "Arm Scarf: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Arm-Scarf-Blue.png",
       "title": "Arm Scarf: Blue",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Leg-Scarf-Red.png",
       "title": "Leg Scarf: Red",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Leg-Scarf-Black.png",
       "title": "Leg Scarf: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Leg-Scarf-Blue.png",
       "title": "Leg Scarf: Blue",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/3D-Glasses.png",
       "title": "3D Glasses",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Stickers/Smith-Sticker-Set.png",
       "title": "Smith Sticker Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
-      "set": true,
       "category": "Stickers"
     },
     {
       "image": "https://phashion.moe/images/Stickers/Protector-Sticker-Set.png",
       "title": "Protector Sticker Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
-      "set": true,
       "category": "Stickers"
     },
     {
       "image": "https://phashion.moe/images/Stickers/Calis-Emblem-Set.png",
       "title": "Calis Emblem Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
-      "set": true,
       "category": "Stickers"
     },
     {
       "image": "https://phashion.moe/images/Stickers/Tigerblade-Sticker.png",
       "title": "Tigerblade Sticker",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Stickers"
     },
     {
       "image": "https://phashion.moe/images/Stickers/Soaring-Sticker.png",
       "title": "Soaring Sticker",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Stickers"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Sassy-Cheek-Makeup.png",
       "title": "Sassy Cheek Makeup",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Makeup"
     },
     {
       "image": "https://phashion.moe/images/Eyebrows/Multibrows.png",
       "title": "Multibrows",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyebrows"
     },
     {
       "image": "https://phashion.moe/images/Eyelashes/Distinct-Eyelashes-Set.png",
       "title": "Distinct Eyelashes Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
-      "set": true,
       "category": "Eyelashes"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Sonic-Mask.png",
       "title": "Sonic Mask",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Tails-Mask.png",
       "title": "Tails Mask",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Eggman-Mask.png",
       "title": "Eggman Mask",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Knuckles-Mask.png",
       "title": "Knuckles Mask",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Amy-Mask.png",
       "title": "Amy Mask",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Shoulder-Blockers.png",
       "title": "Shoulder Blockers",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Shoulder-Blockers-B.png",
       "title": "Shoulder Blockers B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana.png",
       "title": "Rose-Pin Bandana",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana-White.png",
       "title": "Rose-Pin Bandana: White",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana-Black.png",
       "title": "Rose-Pin Bandana: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana-Water.png",
       "title": "Rose-Pin Bandana: Water",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana-Pink.png",
       "title": "Rose-Pin Bandana: Pink",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cancer-Crown.png",
       "title": "Cancer Crown",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cancer-Mask.png",
       "title": "Cancer Mask",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Stickers/Cancer-Sticker-Set.png",
       "title": "Cancer Sticker Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
-      "set": true,
       "category": "Stickers"
     },
     {
       "image": "https://phashion.moe/images/Stickers/Gatherers-Sticker-Set.png",
       "title": "Gatherers Sticker Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
-      "set": true,
       "category": "Stickers"
     }
   ]

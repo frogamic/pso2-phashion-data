@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Crymaria-Hair.png",
-  "title": "Crymaria Hair",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Hairstyles",
   "collection": {
     "id": "segalegacy",
     "type": "AC Scratch Ticket",
     "title": "Sega Legacy",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
     "url": "https://pso2.com/news/scratch-tickets/segalegacy"
-  }
+  },
+  "title": "Crymaria Hair",
+  "category": "Hairstyles",
+  "tradeable": true
 }

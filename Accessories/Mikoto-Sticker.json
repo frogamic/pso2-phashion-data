@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Mikoto-Sticker.png",
-  "title": "Mikoto Sticker",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "funapril2020part1",
     "type": "FUN Scratch Ticket",
     "title": "April 2020 - Part 1",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part1.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funapril2020part1"
-  }
+  },
+  "title": "Mikoto Sticker",
+  "category": "Accessories",
+  "tradeable": true
 }

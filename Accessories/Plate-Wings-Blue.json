@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Plate-Wings-Blue.png",
-  "title": "Plate Wings: Blue",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "chevalierline",
     "type": "AC Scratch Ticket",
     "title": "Chevalier Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/chevalierline"
-  }
+  },
+  "title": "Plate Wings: Blue",
+  "category": "Accessories",
+  "tradeable": true
 }

@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Basewear/Kabuki-Thunderstroke.png",
+  "collection": {
+    "id": "heroicwanderer",
+    "type": "AC Scratch Ticket",
+    "title": "Heroic Wanderer",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
+  },
   "title": "Kabuki Thunderstroke",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Basewear",
-  "collection": {
-    "id": "heroicwanderer",
-    "type": "AC Scratch Ticket",
-    "title": "Heroic Wanderer",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
-  }
+  "tradeable": true
 }

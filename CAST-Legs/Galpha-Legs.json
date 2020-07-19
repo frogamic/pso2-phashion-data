@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Galpha-Legs.png",
-  "title": "Galpha Legs",
-  "gender": {
-    "female": false,
-    "male": true
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Legs",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
     "url": "https://pso2.com/news/scratch-tickets/blessedworld"
-  }
+  },
+  "title": "Galpha Legs",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Legs",
+  "tradeable": true
 }

@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Chinese-Choker.png",
-  "title": "Chinese Choker",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Body Paint",
   "collection": {
     "id": "heroicwanderer",
     "type": "AC Scratch Ticket",
     "title": "Heroic Wanderer",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
     "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
-  }
+  },
+  "title": "Chinese Choker",
+  "category": "Body Paint",
+  "tradeable": true
 }

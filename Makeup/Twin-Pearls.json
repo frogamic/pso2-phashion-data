@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Twin-Pearls.png",
-  "title": "Twin Pearls",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Makeup",
   "collection": {
     "id": "funapril2020part2",
     "type": "FUN Scratch Ticket",
     "title": "April 2020 - Part 2",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part2.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funapril2020part2"
-  }
+  },
+  "title": "Twin Pearls",
+  "category": "Makeup",
+  "tradeable": true
 }

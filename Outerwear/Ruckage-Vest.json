@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outerwear/Ruckage-Vest.png",
+  "collection": {
+    "id": "blessedworld",
+    "type": "AC Scratch Ticket",
+    "title": "Blessed World",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/blessedworld"
+  },
   "title": "Ruckage Vest",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outerwear",
-  "collection": {
-    "id": "blessedworld",
-    "type": "AC Scratch Ticket",
-    "title": "Blessed World",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/blessedworld"
-  }
+  "tradeable": true
 }

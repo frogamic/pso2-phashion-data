@@ -1,21 +1,18 @@
 {
   "image": "https://phashion.moe/images/CAST-Heads/Rosemary-Head.png",
-  "title": "Rosemary Head",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "tier": 30,
-  "category": "CAST Heads",
   "collection": {
     "id": "missionpassseason3",
     "type": "Mission Pass",
     "title": "Season 3",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
     "url": "https://pso2.com/news/announcements/missionpassseason3"
-  }
+  },
+  "title": "Rosemary Head",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "tier": 30,
+  "category": "CAST Heads",
+  "tradeable": false
 }

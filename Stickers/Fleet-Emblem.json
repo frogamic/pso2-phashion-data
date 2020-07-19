@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Stickers/Fleet-Emblem.png",
-  "title": "Fleet Emblem",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Stickers",
   "collection": {
     "id": "funjune2020part1",
     "type": "FUN Scratch Ticket",
     "title": "June 2020 - Part 1",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part1.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funjune2020part1"
-  }
+  },
+  "title": "Fleet Emblem",
+  "category": "Stickers",
+  "tradeable": true
 }

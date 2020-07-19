@@ -8,820 +8,316 @@
     {
       "image": "https://phashion.moe/images/Outfits/Elder-Attire.png",
       "title": "[Elder] Attire",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Persona-Attire-M.png",
       "title": "[Persona] Attire M",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Persona-Collared-Attire-M.png",
       "title": "[Persona] Collared Attire M",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Luther-Attire.png",
       "title": "[Luther] Attire",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Gemini-Male-Attire.png",
       "title": "[Gemini] Male Attire",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Sirris-Robe-M.png",
       "title": "Sirris Robe M",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Omnis-Blue-M.png",
       "title": "Omnis Blue M",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Apprentice-Attire.png",
       "title": "[Apprentice] Attire",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Apprentice-Damaged-Attire.png",
       "title": "[Apprentice] Damaged Attire",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Persona-Attire-F.png",
       "title": "[Persona] Attire F",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Persona-Collared-Attire-F.png",
       "title": "[Persona] Collared Attire F",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Gemini-Female-Attire.png",
       "title": "[Gemini] Female Attire",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Viel-Cytus.png",
       "title": "Viel Cytus",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Innocent-Cytus.png",
       "title": "Innocent Cytus",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Mikoto-Matoi.png",
       "title": "Mikoto-Matoi",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Captive-Records.png",
       "title": "Captive Records",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Sirris-Robe-F.png",
       "title": "Sirris Robe F",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Omnis-Blue-F.png",
       "title": "Omnis Blue F",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Innocent-Ensemble.png",
       "title": "Innocent Ensemble",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Mikoto-Ensemble.png",
       "title": "Mikoto Ensemble",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Innocent-Ensemble.png",
       "title": "Innocent Ensemble",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Mikoto-Ensemble.png",
       "title": "Mikoto Ensemble",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Innocent-Ensemble.png",
       "title": "Innocent Ensemble",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Viel-Visor-Pigtails.png",
       "title": "Viel Visor Pigtails",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Viel-Twin-Loops.png",
       "title": "Viel Twin Loops",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Matoi-Loop-Pigtails.png",
       "title": "Matoi Loop Pigtails",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Matoi-Loop-Pigtails-2-GV.png",
       "title": "Matoi Loop Pigtails 2 GV",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Long-Pigtails-GV.png",
       "title": "Long Pigtails GV",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Long-Pigtails-2-GV.png",
       "title": "Long Pigtails 2 GV",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Matoi-Straight.png",
       "title": "Matoi Straight",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Matoi-Straight-2-GV.png",
       "title": "Matoi Straight 2 GV",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Gemini-Male-Hair.png",
       "title": "[Gemini – Male] Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Gemini-Female-Hair.png",
       "title": "[Gemini – Female] Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Luther-Hair.png",
       "title": "[Luther] Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Persona-Hair.png",
       "title": "[Persona] Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Elder-Hair.png",
       "title": "[Elder] Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Apprentice-Hair.png",
       "title": "[Apprentice] Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Xion-Long-Hair.png",
       "title": "Xion Long Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Xion-Updo.png",
       "title": "Xion Updo",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Xiao-Hair.png",
       "title": "Xiao Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Luther-the-Fallen-Replica-Eyes.png",
       "title": "Luther, the Fallen Replica Eyes",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Viel-Tears.png",
       "title": "Viel Tears",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Makeup"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Luther-the-Fallen-Tattoo.png",
       "title": "Luther the Fallen Tattoo",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Makeup"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Dusty-Makeup.png",
       "title": "Dusty Makeup",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Makeup"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Mikoto-Socks.png",
       "title": "Mikoto Socks",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Night-Sea-Paint-M.png",
       "title": "Night Sea Paint M",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Night-Sea-Paint-F.png",
       "title": "Night Sea Paint F",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Persona-Repentant.png",
       "title": "[Persona] Repentant",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Viel-Bloom-A.png",
       "title": "Viel Bloom A",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Viel-Bloom-B.png",
       "title": "Viel Bloom B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Viel-Headgear.png",
       "title": "Viel Headgear",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Innocent-Headgear.png",
       "title": "Innocent Headgear",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Mikoto-Matoi-Hairclips.png",
       "title": "Mikoto-Matoi Hairclips",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Luther-Heagear.png",
       "title": "[Luther] Heagear",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Luther-Earrings.png",
       "title": "[Luther] Earrings",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Gemini-Male-Hairpin.png",
       "title": "[Gemini – Male] Hairpin",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Apprentice-Visor.png",
       "title": "[Apprentice] Visor",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Apprentice-Visor-B.png",
       "title": "[Apprentice] Visor B",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Mikoto-Corsage-C.png",
       "title": "Mikoto Corsage C",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Matoi-Extension.png",
       "title": "Matoi Extension",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Gemini-Female-Hairpin.png",
       "title": "[Gemini – Female] Hairpin",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Xion-s-Glasses.png",
       "title": "Xion’s Glasses",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Stickers/Dark-Falz-Sign.png",
       "title": "Dark Falz Sign",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Stickers"
     }
   ]

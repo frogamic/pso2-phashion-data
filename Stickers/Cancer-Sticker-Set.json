@@ -1,21 +1,14 @@
 {
   "image": "https://phashion.moe/images/Stickers/Cancer-Sticker-Set.png",
-  "title": "Cancer Sticker Set",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "set": true,
-  "category": "Stickers",
   "collection": {
     "id": "funjune2020part2",
     "type": "FUN Scratch Ticket",
     "title": "June 2020 - Part 2",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funjune2020part2"
-  }
+  },
+  "title": "Cancer Sticker Set",
+  "set": true,
+  "category": "Stickers",
+  "tradeable": true
 }

@@ -1,21 +1,14 @@
 {
   "image": "https://phashion.moe/images/Accessories/Fox-Tail-Yellow.png",
-  "title": "Fox Tail: Yellow",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "tier": 1,
-  "category": "Accessories",
   "collection": {
     "id": "missionpassseason3",
     "type": "Mission Pass",
     "title": "Season 3",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
     "url": "https://pso2.com/news/announcements/missionpassseason3"
-  }
+  },
+  "title": "Fox Tail: Yellow",
+  "tier": 1,
+  "category": "Accessories",
+  "tradeable": false
 }

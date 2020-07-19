@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Bodies/Frasia-Body.png",
-  "title": "Frasia Body",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Bodies",
   "collection": {
     "id": "recruitline",
     "type": "AC Scratch Ticket",
     "title": "Recruit Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/recruitline"
-  }
+  },
+  "title": "Frasia Body",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Bodies",
+  "tradeable": true
 }

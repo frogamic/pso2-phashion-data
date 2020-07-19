@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Tylor-Scar.png",
-  "title": "Tylor Scar",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Makeup",
   "collection": {
     "id": "sgshopsale0522",
     "type": "Event",
     "title": "SG Shop Sale (5/22)",
     "image": "https://phashion.moe/images/Collections/Event/sgshopsale0522.jpg",
     "url": "https://pso2.com/news/announcements/sgshopsale0522"
-  }
+  },
+  "title": "Tylor Scar",
+  "category": "Makeup",
+  "tradeable": true
 }

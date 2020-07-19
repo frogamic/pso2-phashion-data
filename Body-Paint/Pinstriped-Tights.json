@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Pinstriped-Tights.png",
-  "title": "Pinstriped Tights",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Body Paint",
   "collection": {
     "id": "militaryline",
     "type": "AC Scratch Ticket",
     "title": "Military Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/militaryline"
-  }
+  },
+  "title": "Pinstriped Tights",
+  "category": "Body Paint",
+  "tradeable": true
 }

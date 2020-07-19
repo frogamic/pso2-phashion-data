@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Dragon-s-Wings.png",
-  "title": "Dragon’s Wings",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "crimsondawn",
     "type": "AC Scratch Ticket",
     "title": "Crimson Dawn",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
     "url": "https://pso2.com/news/scratch-tickets/crimsondawn"
-  }
+  },
+  "title": "Dragon’s Wings",
+  "category": "Accessories",
+  "tradeable": true
 }

@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/No-Highlights-S.png",
-  "title": "No Highlights (S)",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Eyes",
   "collection": {
     "id": "urbanlifestyle",
     "type": "AC Scratch Ticket",
     "title": "Urban Lifestyle",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
     "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
-  }
+  },
+  "title": "No Highlights (S)",
+  "category": "Eyes",
+  "tradeable": true
 }

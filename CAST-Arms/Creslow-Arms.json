@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Arms/Creslow-Arms.png",
-  "title": "Creslow Arms",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Arms",
   "collection": {
     "id": "virtualstars",
     "type": "AC Scratch Ticket",
     "title": "Virtual Stars",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
     "url": "https://pso2.com/news/scratch-tickets/virtualstars"
-  }
+  },
+  "title": "Creslow Arms",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Arms",
+  "tradeable": true
 }

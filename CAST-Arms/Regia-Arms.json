@@ -1,21 +1,18 @@
 {
   "image": "https://phashion.moe/images/CAST-Arms/Regia-Arms.png",
-  "title": "Regia Arms",
-  "gender": {
-    "female": false,
-    "male": true
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "tier": 29,
-  "category": "CAST Arms",
   "collection": {
     "id": "missionpassseason3",
     "type": "Mission Pass",
     "title": "Season 3",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
     "url": "https://pso2.com/news/announcements/missionpassseason3"
-  }
+  },
+  "title": "Regia Arms",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "tier": 29,
+  "category": "CAST Arms",
+  "tradeable": false
 }

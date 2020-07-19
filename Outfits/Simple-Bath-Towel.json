@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outfits/Simple-Bath-Towel.png",
+  "collection": {
+    "id": "sgshopsale0508",
+    "type": "Event",
+    "title": "SG Shop Sale! (05/08)",
+    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0508.jpg",
+    "url": "https://pso2.com/news/announcements/sgshopsale0508"
+  },
   "title": "Simple Bath Towel",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outfits",
-  "collection": {
-    "id": "sgshopsale0508",
-    "type": "Event",
-    "title": "SG Shop Sale! (05/08)",
-    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0508.jpg",
-    "url": "https://pso2.com/news/announcements/sgshopsale0508"
-  }
+  "tradeable": true
 }

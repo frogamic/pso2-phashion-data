@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Clear-Skies-Charm.png",
-  "title": "Clear Skies Charm",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "funmay2020part3",
     "type": "FUN Scratch Ticket",
     "title": "May 2020 - Part 3",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part3.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funmay2020part3"
-  }
+  },
+  "title": "Clear Skies Charm",
+  "category": "Accessories",
+  "tradeable": true
 }

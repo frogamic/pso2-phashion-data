@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Uncle-Sam-Hat.png",
-  "title": "Uncle Sam Hat",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "independencedayevent2020",
     "type": "Event",
     "title": "Independence Day Event",
     "image": "https://phashion.moe/images/Collections/Event/independencedayevent2020.jpg",
     "url": "https://pso2.com/news/announcements/independencedayevent2020"
-  }
+  },
+  "title": "Uncle Sam Hat",
+  "category": "Accessories",
+  "tradeable": true
 }

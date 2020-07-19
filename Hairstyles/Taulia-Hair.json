@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Taulia-Hair.png",
-  "title": "Taulia Hair",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Hairstyles",
   "collection": {
     "id": "militaryline",
     "type": "AC Scratch Ticket",
     "title": "Military Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/militaryline"
-  }
+  },
+  "title": "Taulia Hair",
+  "category": "Hairstyles",
+  "tradeable": true
 }

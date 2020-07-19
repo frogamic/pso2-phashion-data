@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Hexagram-Eyes-S.png",
-  "title": "Hexagram Eyes (S)",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Eyes",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
     "url": "https://pso2.com/news/scratch-tickets/blessedworld"
-  }
+  },
+  "title": "Hexagram Eyes (S)",
+  "category": "Eyes",
+  "tradeable": true
 }

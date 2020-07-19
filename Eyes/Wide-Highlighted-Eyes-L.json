@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Wide-Highlighted-Eyes-L.png",
-  "title": "Wide Highlighted Eyes (L)",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Eyes",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/careerline"
-  }
+  },
+  "title": "Wide Highlighted Eyes (L)",
+  "category": "Eyes",
+  "tradeable": true
 }

@@ -8,14 +8,6 @@
     {
       "image": "https://phashion.moe/images/Accessories/Rappy-Go-Round.png",
       "title": "Rappy-Go-Round",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     }
   ]

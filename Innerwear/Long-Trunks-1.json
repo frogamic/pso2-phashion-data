@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Innerwear/Long-Trunks-1.png",
+  "collection": {
+    "id": "recruitline",
+    "type": "AC Scratch Ticket",
+    "title": "Recruit Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/recruitline"
+  },
   "title": "Long Trunks 1",
   "gender": {
     "female": false,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Innerwear",
-  "collection": {
-    "id": "recruitline",
-    "type": "AC Scratch Ticket",
-    "title": "Recruit Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/recruitline"
-  }
+  "tradeable": true
 }

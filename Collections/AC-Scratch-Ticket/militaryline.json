@@ -8,820 +8,316 @@
     {
       "image": "https://phashion.moe/images/Outfits/Fleet-Admiral.png",
       "title": "Fleet Admiral",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Idea-Ensemble.png",
       "title": "Idea Ensemble",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Heavenly-Diva.png",
       "title": "Heavenly Diva",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Taulia-L-arg.png",
       "title": "Taulia L'arg",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Marine-Admiral.png",
       "title": "Marine Admiral",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Tactical-Vest.png",
       "title": "Tactical Vest",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Riha-Jauwarl.png",
       "title": "Riha Jauwarl",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Combat-Jacket.png",
       "title": "Combat Jacket",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Ranger-Viento.png",
       "title": "Ranger Viento",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outerwear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Tactical-Suit.png",
       "title": "Tactical Suit",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Riha-Jauwarl.png",
       "title": "Riha Jauwarl",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Combat-Raider.png",
       "title": "Combat Raider",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Ranger-Viento.png",
       "title": "Ranger Viento",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Basewear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Tactical-Underwear.png",
       "title": "Tactical Underwear",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Riha-Jauwarl.png",
       "title": "Riha Jauwarl",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Combat-Underwear.png",
       "title": "Combat Underwear",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Ranger-Viento.png",
       "title": "Ranger Viento",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Innerwear"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Havoc-Body.png",
       "title": "Havoc Body",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Bodies"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Havoc-Arms.png",
       "title": "Havoc Arms",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Havoc-Legs.png",
       "title": "Havoc Legs",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Havoc-Head.png",
       "title": "Havoc Head",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Heads"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Philinne-Body.png",
       "title": "Philinne Body",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Bodies"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Philinne-Arms.png",
       "title": "Philinne Arms",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Philinne-Legs.png",
       "title": "Philinne Legs",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Philinne-Head.png",
       "title": "Philinne Head",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "CAST Heads"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Idea-Twin-Loops.png",
       "title": "Idea Twin Loops",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Diva-Ponytail.png",
       "title": "Diva Ponytail",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Diva-Ponytail-2.png",
       "title": "Diva Ponytail 2",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Taulia-Hair.png",
       "title": "Taulia Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Ultra-Short-Pixie.png",
       "title": "Ultra Short Pixie",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Jauwarl-Hair.png",
       "title": "Jauwarl Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Ranger-Hair.png",
       "title": "Ranger Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Philinne-Hair.png",
       "title": "Philinne Hair",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Anime-Highlighted-Eyes-L.png",
       "title": "Anime Highlighted Eyes (L)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Anime-Highlighted-Eyes-S.png",
       "title": "Anime Highlighted Eyes (S)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Scope-Eyes-L.png",
       "title": "Scope Eyes (L)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Scope-Eyes-S.png",
       "title": "Scope Eyes (S)",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Monochrome-Eyes.png",
       "title": "Monochrome Eyes",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Eyes"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Lip-Gloss-Set.png",
       "title": "Lip Gloss Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Makeup"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Pinstriped-Tights.png",
       "title": "Pinstriped Tights",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Combat-Scar.png",
       "title": "Combat Scar",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Camouflage-Set.png",
       "title": "Camouflage Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Makeup"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Camouflage-Long-Tights-Set.png",
       "title": "Camouflage Long Tights Set",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Body Paint"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Diva-s-Crown.png",
       "title": "Diva's Crown",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Combat-Holster.png",
       "title": "Combat Holster",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Combat-Dogs-Tags.png",
       "title": "Combat Dogs Tags",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jauwarl-Hat.png",
       "title": "Jauwarl Hat",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Ranger-Hat.png",
       "title": "Ranger Hat",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Philinne-Hat.png",
       "title": "Philinne Hat",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Taulia-Cap.png",
       "title": "Taulia Cap",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Fleet-Cap.png",
       "title": "Fleet Cap",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Marine-Cap.png",
       "title": "Marine Cap",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Thruster-Wings.png",
       "title": "Thruster Wings",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jumbo-Belt.png",
       "title": "Jumbo Belt",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jumbo-Belt-Black.png",
       "title": "Jumbo Belt: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jumbo-Belt-Brown.png",
       "title": "Jumbo Belt: Brown",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jumbo-Belt-White.png",
       "title": "Jumbo Belt: White",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cyber-Headphones.png",
       "title": "Cyber Headphones",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Thigh-Holster.png",
       "title": "Thigh Holster",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Thigh-Holster-Brown.png",
       "title": "Thigh Holster: Brown",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Thigh-Holster-Black.png",
       "title": "Thigh Holster: Black",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evo-Device-Acubens.png",
       "title": "Evo. Device: Acubens",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Mag Evolution Devices"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Diva-Quna-Chain.png",
       "title": "Diva Quna Chain",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     }
   ]

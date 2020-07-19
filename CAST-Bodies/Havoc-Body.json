@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Bodies/Havoc-Body.png",
-  "title": "Havoc Body",
-  "gender": {
-    "female": false,
-    "male": true
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Bodies",
   "collection": {
     "id": "militaryline",
     "type": "AC Scratch Ticket",
     "title": "Military Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/militaryline"
-  }
+  },
+  "title": "Havoc Body",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Bodies",
+  "tradeable": true
 }

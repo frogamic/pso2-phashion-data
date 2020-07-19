@@ -8,14 +8,6 @@
     {
       "image": "https://phashion.moe/images/Accessories/Two-Tailed-Scarf.png",
       "title": "Two-Tailed Scarf",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     }
   ]

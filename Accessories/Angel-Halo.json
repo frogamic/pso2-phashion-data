@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Angel-Halo.png",
-  "title": "Angel Halo",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "enhancementboostbonuses",
     "type": "Campaign",
     "title": "Enhancement Boosts & Bonuses",
     "image": "https://phashion.moe/images/Collections/Campaign/enhancementboostbonuses.jpg",
     "url": "https://pso2.com/news/announcements/enhancementboostbonuses"
-  }
+  },
+  "title": "Angel Halo",
+  "category": "Accessories",
+  "tradeable": true
 }

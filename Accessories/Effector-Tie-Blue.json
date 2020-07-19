@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Effector-Tie-Blue.png",
-  "title": "Effector Tie: Blue",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "virtualstars",
     "type": "AC Scratch Ticket",
     "title": "Virtual Stars",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
     "url": "https://pso2.com/news/scratch-tickets/virtualstars"
-  }
+  },
+  "title": "Effector Tie: Blue",
+  "category": "Accessories",
+  "tradeable": true
 }

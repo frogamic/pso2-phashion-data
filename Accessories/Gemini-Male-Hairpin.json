@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Gemini-Male-Hairpin.png",
-  "title": "[Gemini – Male] Hairpin",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "fallenheroes",
     "type": "SG Scratch Ticket",
     "title": "Fallen Heroes",
     "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
     "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
-  }
+  },
+  "title": "[Gemini – Male] Hairpin",
+  "category": "Accessories",
+  "tradeable": false
 }

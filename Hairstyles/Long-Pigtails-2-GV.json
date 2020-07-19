@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Long-Pigtails-2-GV.png",
-  "title": "Long Pigtails 2 GV",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Hairstyles",
   "collection": {
     "id": "fallenheroes",
     "type": "SG Scratch Ticket",
     "title": "Fallen Heroes",
     "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
     "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
-  }
+  },
+  "title": "Long Pigtails 2 GV",
+  "category": "Hairstyles",
+  "tradeable": false
 }

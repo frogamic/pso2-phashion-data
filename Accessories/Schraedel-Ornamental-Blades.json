@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Schraedel-Ornamental-Blades.png",
-  "title": "Schraedel Ornamental Blades",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "freshfindsshop0512",
     "type": "Fresh Finds Shop",
     "title": "Recommended Items (5/12)",
     "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0512.jpg",
     "url": "https://pso2.com/news/announcements/freshfindsshop0512"
-  }
+  },
+  "title": "Schraedel Ornamental Blades",
+  "category": "Accessories",
+  "tradeable": false
 }

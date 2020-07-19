@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outfits/Chinese-Dress.png",
+  "collection": {
+    "id": "freshfindsshop0428",
+    "type": "Fresh Finds Shop",
+    "title": "Recommended Items (04/28)",
+    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0428.jpg",
+    "url": "https://pso2.com/news/announcements/freshfindsshop0428"
+  },
   "title": "Chinese Dress",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outfits",
-  "collection": {
-    "id": "freshfindsshop0428",
-    "type": "Fresh Finds Shop",
-    "title": "Recommended Items (04/28)",
-    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0428.jpg",
-    "url": "https://pso2.com/news/announcements/freshfindsshop0428"
-  }
+  "tradeable": false
 }

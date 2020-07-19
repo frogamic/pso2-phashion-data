@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Half-Mask.png",
-  "title": "Half Mask",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "funmay2020part2",
     "type": "FUN Scratch Ticket",
     "title": "May 2020 - Part 2",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part2.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funmay2020part2"
-  }
+  },
+  "title": "Half Mask",
+  "category": "Accessories",
+  "tradeable": true
 }

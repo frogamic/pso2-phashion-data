@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Lafitte-Scarf-Blue.png",
-  "title": "Lafitte Scarf: Blue",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
     "url": "https://pso2.com/news/scratch-tickets/blessedworld"
-  }
+  },
+  "title": "Lafitte Scarf: Blue",
+  "category": "Accessories",
+  "tradeable": true
 }

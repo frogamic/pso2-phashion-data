@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Anime-Blush.png",
-  "title": "Anime Blush",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Makeup",
   "collection": {
     "id": "funmarch2020",
     "type": "FUN Scratch Ticket",
     "title": "March 2020",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmarch2020.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funmarch2020"
-  }
+  },
+  "title": "Anime Blush",
+  "category": "Makeup",
+  "tradeable": true
 }

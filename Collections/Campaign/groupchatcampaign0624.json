@@ -8,14 +8,6 @@
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/SEGA-GENESIS.png",
       "title": "SEGA GENESIS",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Mag Evolution Devices"
     }
   ]

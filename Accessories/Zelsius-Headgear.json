@@ -1,21 +1,14 @@
 {
   "image": "https://phashion.moe/images/Accessories/Zelsius-Headgear.png",
-  "title": "Zelsius Headgear",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "tier": 13,
-  "category": "Accessories",
   "collection": {
     "id": "missionpassseason5",
     "type": "Mission Pass",
     "title": "Season 5",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
     "url": "https://pso2.com/news/announcements/missionpassseason5"
-  }
+  },
+  "title": "Zelsius Headgear",
+  "tier": 13,
+  "category": "Accessories",
+  "tradeable": false
 }

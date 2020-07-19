@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Segmented-Wing-L.png",
-  "title": "Segmented Wing L",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "segalegacy",
     "type": "AC Scratch Ticket",
     "title": "Sega Legacy",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
     "url": "https://pso2.com/news/scratch-tickets/segalegacy"
-  }
+  },
+  "title": "Segmented Wing L",
+  "category": "Accessories",
+  "tradeable": true
 }

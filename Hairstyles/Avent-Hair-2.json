@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Avent-Hair-2.png",
-  "title": "Avent Hair 2",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Hairstyles",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/careerline"
-  }
+  },
+  "title": "Avent Hair 2",
+  "category": "Hairstyles",
+  "tradeable": true
 }

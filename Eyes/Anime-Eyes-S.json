@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Anime-Eyes-S.png",
-  "title": "Anime Eyes (S)",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Eyes",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/careerline"
-  }
+  },
+  "title": "Anime Eyes (S)",
+  "category": "Eyes",
+  "tradeable": true
 }

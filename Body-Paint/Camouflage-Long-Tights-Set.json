@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Camouflage-Long-Tights-Set.png",
-  "title": "Camouflage Long Tights Set",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Body Paint",
   "collection": {
     "id": "militaryline",
     "type": "AC Scratch Ticket",
     "title": "Military Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/militaryline"
-  }
+  },
+  "title": "Camouflage Long Tights Set",
+  "category": "Body Paint",
+  "tradeable": true
 }

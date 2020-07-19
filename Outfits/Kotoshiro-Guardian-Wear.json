@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outfits/Kotoshiro-Guardian-Wear.png",
+  "collection": {
+    "id": "chevalierline",
+    "type": "AC Scratch Ticket",
+    "title": "Chevalier Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
+  },
   "title": "Kotoshiro Guardian Wear",
   "gender": {
     "female": false,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outfits",
-  "collection": {
-    "id": "chevalierline",
-    "type": "AC Scratch Ticket",
-    "title": "Chevalier Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
-  }
+  "tradeable": true
 }

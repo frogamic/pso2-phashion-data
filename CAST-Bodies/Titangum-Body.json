@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Bodies/Titangum-Body.png",
-  "title": "Titangum Body",
-  "gender": {
-    "female": false,
-    "male": true
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Bodies",
   "collection": {
     "id": "silkendreams",
     "type": "AC Scratch Ticket",
     "title": "Silken Dreams",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
     "url": "https://pso2.com/news/scratch-tickets/silkendreams"
-  }
+  },
+  "title": "Titangum Body",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Bodies",
+  "tradeable": true
 }

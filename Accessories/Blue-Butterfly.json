@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Blue-Butterfly.png",
-  "title": "Blue Butterfly",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "darkomen",
     "type": "AC Scratch Ticket",
     "title": "Dark Omen",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
     "url": "https://pso2.com/news/scratch-tickets/darkomen"
-  }
+  },
+  "title": "Blue Butterfly",
+  "category": "Accessories",
+  "tradeable": true
 }

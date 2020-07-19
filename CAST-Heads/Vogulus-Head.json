@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Heads/Vogulus-Head.png",
-  "title": "Vogulus Head",
-  "gender": {
-    "female": false,
-    "male": true
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Heads",
   "collection": {
     "id": "recruitline",
     "type": "AC Scratch Ticket",
     "title": "Recruit Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/recruitline"
-  }
+  },
+  "title": "Vogulus Head",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Heads",
+  "tradeable": true
 }

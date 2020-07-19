@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Ethan-Hair.png",
+  "collection": {
+    "id": "sgshopsale0515",
+    "type": "Event",
+    "title": "SG Shop Sale! (5/15)",
+    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0515.jpg",
+    "url": "https://pso2.com/news/announcements/sgshopsale0515"
+  },
   "title": "Ethan Hair",
   "gender": {
     "female": false,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Hairstyles",
-  "collection": {
-    "id": "sgshopsale0515",
-    "type": "Event",
-    "title": "SG Shop Sale! (5/15)",
-    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0515.jpg",
-    "url": "https://pso2.com/news/announcements/sgshopsale0515"
-  }
+  "tradeable": true
 }

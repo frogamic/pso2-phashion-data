@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Smith-Hair.png",
-  "title": "Smith Hair",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Hairstyles",
   "collection": {
     "id": "chevalierline",
     "type": "AC Scratch Ticket",
     "title": "Chevalier Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/chevalierline"
-  }
+  },
+  "title": "Smith Hair",
+  "category": "Hairstyles",
+  "tradeable": true
 }

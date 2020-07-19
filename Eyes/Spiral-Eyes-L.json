@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Spiral-Eyes-L.png",
-  "title": "Spiral Eyes (L)",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Eyes",
   "collection": {
     "id": "darkomen",
     "type": "AC Scratch Ticket",
     "title": "Dark Omen",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
     "url": "https://pso2.com/news/scratch-tickets/darkomen"
-  }
+  },
+  "title": "Spiral Eyes (L)",
+  "category": "Eyes",
+  "tradeable": true
 }

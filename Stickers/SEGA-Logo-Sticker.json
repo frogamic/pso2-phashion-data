@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Stickers/SEGA-Logo-Sticker.png",
-  "title": "SEGA Logo Sticker",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Stickers",
   "collection": {
     "id": "sonicsbirthday2020",
     "type": "Event",
     "title": "Sonic’s Birthday 2020!",
     "image": "https://phashion.moe/images/Collections/Event/sonicsbirthday2020.png",
     "url": "https://pso2.com/news/announcements/sonicsbirthday2020"
-  }
+  },
+  "title": "SEGA Logo Sticker",
+  "category": "Stickers",
+  "tradeable": true
 }

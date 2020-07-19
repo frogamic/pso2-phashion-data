@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyebrows/Thick-Eyebrows.png",
-  "title": "Thick Eyebrows",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Eyebrows",
   "collection": {
     "id": "funapril2020part3",
     "type": "FUN Scratch Ticket",
     "title": "April 2020 - Part 3",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part3.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funapril2020part3"
-  }
+  },
+  "title": "Thick Eyebrows",
+  "category": "Eyebrows",
+  "tradeable": true
 }

@@ -1,21 +1,18 @@
 {
   "image": "https://phashion.moe/images/CAST-Arms/Rosemary-Arms.png",
-  "title": "Rosemary Arms",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "tier": 30,
-  "category": "CAST Arms",
   "collection": {
     "id": "missionpassseason3",
     "type": "Mission Pass",
     "title": "Season 3",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
     "url": "https://pso2.com/news/announcements/missionpassseason3"
-  }
+  },
+  "title": "Rosemary Arms",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "tier": 30,
+  "category": "CAST Arms",
+  "tradeable": false
 }

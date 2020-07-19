@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Medic-Cap.png",
-  "title": "Medic Cap",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/careerline"
-  }
+  },
+  "title": "Medic Cap",
+  "category": "Accessories",
+  "tradeable": true
 }

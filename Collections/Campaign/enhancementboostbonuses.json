@@ -8,40 +8,16 @@
     {
       "image": "https://phashion.moe/images/Accessories/Angel-Feather.png",
       "title": "Angel Feather",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Red-Puyo.png",
       "title": "Evolution Device: Red Puyo",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Mag Evolution Devices"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Angel-Halo.png",
       "title": "Angel Halo",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     }
   ]

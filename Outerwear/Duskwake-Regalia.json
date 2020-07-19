@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outerwear/Duskwake-Regalia.png",
+  "collection": {
+    "id": "crimsondawn",
+    "type": "AC Scratch Ticket",
+    "title": "Crimson Dawn",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/crimsondawn"
+  },
   "title": "Duskwake Regalia",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outerwear",
-  "collection": {
-    "id": "crimsondawn",
-    "type": "AC Scratch Ticket",
-    "title": "Crimson Dawn",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/crimsondawn"
-  }
+  "tradeable": true
 }

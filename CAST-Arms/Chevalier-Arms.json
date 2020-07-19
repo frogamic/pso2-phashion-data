@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Arms/Chevalier-Arms.png",
-  "title": "Chevalier Arms",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Arms",
   "collection": {
     "id": "chevalierline",
     "type": "AC Scratch Ticket",
     "title": "Chevalier Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/chevalierline"
-  }
+  },
+  "title": "Chevalier Arms",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Arms",
+  "tradeable": true
 }

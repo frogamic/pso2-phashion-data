@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana-Water.png",
-  "title": "Rose-Pin Bandana: Water",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "funjune2020part2",
     "type": "FUN Scratch Ticket",
     "title": "June 2020 - Part 2",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg",
     "url": "https://pso2.com/news/scratch-tickets/funjune2020part2"
-  }
+  },
+  "title": "Rose-Pin Bandana: Water",
+  "category": "Accessories",
+  "tradeable": true
 }

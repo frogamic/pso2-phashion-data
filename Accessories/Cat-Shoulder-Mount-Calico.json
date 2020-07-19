@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Cat-Shoulder-Mount-Calico.png",
-  "title": "Cat Shoulder-Mount: Calico",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "virtualstars",
     "type": "AC Scratch Ticket",
     "title": "Virtual Stars",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
     "url": "https://pso2.com/news/scratch-tickets/virtualstars"
-  }
+  },
+  "title": "Cat Shoulder-Mount: Calico",
+  "category": "Accessories",
+  "tradeable": true
 }

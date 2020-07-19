@@ -8,105 +8,41 @@
     {
       "image": "https://phashion.moe/images/Outfits/Count-s-Vestment.png",
       "title": "Count's Vestment",
-      "gender": {
-        "female": false,
-        "male": true
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Lorette-Beldia.png",
       "title": "Lorette Beldia",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Lorette-Hairband.png",
       "title": "Lorette Hairband",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Sid-Schraedel.png",
       "title": "Sid Schraedel",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Outfits"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Schraedel-Hair.png",
       "title": "Schraedel Hair",
-      "gender": {
-        "female": true,
-        "male": false
-      },
-      "race": {
-        "humanoid": true,
-        "cast": true
-      },
       "category": "Hairstyles"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Schraedel-Thrusters.png",
       "title": "Schraedel Thrusters",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Schraedel-Ornamental-Blades.png",
       "title": "Schraedel Ornamental Blades",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Schraedel-Hair-Accessory.png",
       "title": "Schraedel Hair Accessory",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Accessories"
     }
   ]

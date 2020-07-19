@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Mag-Evolution-Devices/Wedding-Bell.png",
-  "title": "Wedding Bell",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Mag Evolution Devices",
   "collection": {
     "id": "oraclecelebrations",
     "type": "AC Scratch Ticket",
     "title": "Oracle Celebrations",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
     "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
-  }
+  },
+  "title": "Wedding Bell",
+  "category": "Mag Evolution Devices",
+  "tradeable": true
 }

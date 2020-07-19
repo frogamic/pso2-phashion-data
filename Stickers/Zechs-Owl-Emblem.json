@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Stickers/Zechs-Owl-Emblem.png",
-  "title": "Zechs Owl Emblem",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Stickers",
   "collection": {
     "id": "segalegacy",
     "type": "AC Scratch Ticket",
     "title": "Sega Legacy",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
     "url": "https://pso2.com/news/scratch-tickets/segalegacy"
-  }
+  },
+  "title": "Zechs Owl Emblem",
+  "category": "Stickers",
+  "tradeable": true
 }

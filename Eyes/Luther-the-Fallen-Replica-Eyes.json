@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Luther-the-Fallen-Replica-Eyes.png",
-  "title": "Luther, the Fallen Replica Eyes",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Eyes",
   "collection": {
     "id": "fallenheroes",
     "type": "SG Scratch Ticket",
     "title": "Fallen Heroes",
     "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
     "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
-  }
+  },
+  "title": "Luther, the Fallen Replica Eyes",
+  "category": "Eyes",
+  "tradeable": false
 }

@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Camouflage-Set.png",
-  "title": "Camouflage Set",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Makeup",
   "collection": {
     "id": "militaryline",
     "type": "AC Scratch Ticket",
     "title": "Military Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/militaryline"
-  }
+  },
+  "title": "Camouflage Set",
+  "category": "Makeup",
+  "tradeable": true
 }

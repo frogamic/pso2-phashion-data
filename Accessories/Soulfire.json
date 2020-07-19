@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Soulfire.png",
-  "title": "Soulfire",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "silkendreams",
     "type": "AC Scratch Ticket",
     "title": "Silken Dreams",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
     "url": "https://pso2.com/news/scratch-tickets/silkendreams"
-  }
+  },
+  "title": "Soulfire",
+  "category": "Accessories",
+  "tradeable": true
 }

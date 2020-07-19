@@ -1,21 +1,18 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Alvida-Legs.png",
-  "title": "Alvida Legs",
-  "gender": {
-    "female": true,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "tier": 5,
-  "category": "CAST Legs",
   "collection": {
     "id": "missionpassseason3",
     "type": "Mission Pass",
     "title": "Season 3",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
     "url": "https://pso2.com/news/announcements/missionpassseason3"
-  }
+  },
+  "title": "Alvida Legs",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "tier": 5,
+  "category": "CAST Legs",
+  "tradeable": false
 }

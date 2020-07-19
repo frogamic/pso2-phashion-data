@@ -1,20 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Holy-Folding-Fan.png",
-  "title": "Holy Folding Fan",
-  "gender": {
-    "female": false,
-    "male": false
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "Accessories",
   "collection": {
     "id": "chevalierline",
     "type": "AC Scratch Ticket",
     "title": "Chevalier Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
     "url": "https://pso2.com/news/scratch-tickets/chevalierline"
-  }
+  },
+  "title": "Holy Folding Fan",
+  "category": "Accessories",
+  "tradeable": true
 }

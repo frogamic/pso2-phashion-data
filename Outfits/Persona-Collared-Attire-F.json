@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outfits/Persona-Collared-Attire-F.png",
+  "collection": {
+    "id": "fallenheroes",
+    "type": "SG Scratch Ticket",
+    "title": "Fallen Heroes",
+    "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
+  },
   "title": "[Persona] Collared Attire F",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outfits",
-  "collection": {
-    "id": "fallenheroes",
-    "type": "SG Scratch Ticket",
-    "title": "Fallen Heroes",
-    "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
-  }
+  "tradeable": false
 }

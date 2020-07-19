@@ -1,5 +1,12 @@
 {
   "image": "https://phashion.moe/images/Outerwear/Kai-Schulen-Replica.png",
+  "collection": {
+    "id": "segalegacy",
+    "type": "AC Scratch Ticket",
+    "title": "Sega Legacy",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
+    "url": "https://pso2.com/news/scratch-tickets/segalegacy"
+  },
   "title": "Kai Schulen Replica",
   "gender": {
     "female": true,
@@ -10,11 +17,5 @@
     "cast": true
   },
   "category": "Outerwear",
-  "collection": {
-    "id": "segalegacy",
-    "type": "AC Scratch Ticket",
-    "title": "Sega Legacy",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/segalegacy"
-  }
+  "tradeable": true
 }

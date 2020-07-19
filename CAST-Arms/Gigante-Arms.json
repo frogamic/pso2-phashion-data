@@ -1,20 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Arms/Gigante-Arms.png",
-  "title": "Gigante Arms",
-  "gender": {
-    "female": false,
-    "male": true
-  },
-  "race": {
-    "humanoid": false,
-    "cast": false
-  },
-  "category": "CAST Arms",
   "collection": {
     "id": "heroicwanderer",
     "type": "AC Scratch Ticket",
     "title": "Heroic Wanderer",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
     "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
-  }
+  },
+  "title": "Gigante Arms",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Arms",
+  "tradeable": true
 }

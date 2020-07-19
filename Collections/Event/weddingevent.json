@@ -8,40 +8,16 @@
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Froggy-Rappy.png",
       "title": "Froggy Rappy",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Mag Evolution Devices"
     },
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Rainyan.png",
       "title": "Rainyan",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Mag Evolution Devices"
     },
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Rainy-Day-Rappy.png",
       "title": "Rainy Day Rappy",
-      "gender": {
-        "female": false,
-        "male": false
-      },
-      "race": {
-        "humanoid": false,
-        "cast": false
-      },
       "category": "Mag Evolution Devices"
     }
   ]
