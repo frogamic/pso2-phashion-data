@@ -1,14 +1,14 @@
 {
   "image": "https://phashion.moe/images/Stickers/Gatherers-Sticker-Set.png",
+  "title": "Gatherers Sticker Set",
+  "set": true,
+  "category": "Stickers",
   "collection": {
     "id": "funjune2020part3",
     "type": "FUN Scratch Ticket",
     "title": "June 2020 - Part 3",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part3.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funjune2020part3"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part3"
   },
-  "title": "Gatherers Sticker Set",
-  "set": true,
-  "category": "Stickers",
   "tradeable": true
 }

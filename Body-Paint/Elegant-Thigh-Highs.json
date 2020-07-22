@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Elegant-Thigh-Highs.png",
+  "title": "Elegant Thigh-Highs",
+  "category": "Body Paint",
   "collection": {
     "id": "oraclecelebrations",
     "type": "AC Scratch Ticket",
     "title": "Oracle Celebrations",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
   },
-  "title": "Elegant Thigh-Highs",
-  "category": "Body Paint",
   "tradeable": true
 }

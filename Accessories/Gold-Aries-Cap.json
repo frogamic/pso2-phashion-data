@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Gold-Aries-Cap.png",
+  "title": "Gold Aries Cap",
+  "category": "Accessories",
   "collection": {
     "id": "funmarch2020",
     "type": "FUN Scratch Ticket",
     "title": "March 2020",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmarch2020.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funmarch2020"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmarch2020"
   },
-  "title": "Gold Aries Cap",
-  "category": "Accessories",
   "tradeable": true
 }

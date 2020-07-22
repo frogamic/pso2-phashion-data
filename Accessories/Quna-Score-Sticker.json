@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Quna-Score-Sticker.png",
+  "title": "Quna Score Sticker",
+  "category": "Accessories",
   "collection": {
     "id": "funapril2020part1",
     "type": "FUN Scratch Ticket",
     "title": "April 2020 - Part 1",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part1.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funapril2020part1"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part1"
   },
-  "title": "Quna Score Sticker",
-  "category": "Accessories",
   "tradeable": true
 }

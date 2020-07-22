@@ -1,17 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Bodies/Creslow-Body.png",
-  "collection": {
-    "id": "virtualstars",
-    "type": "AC Scratch Ticket",
-    "title": "Virtual Stars",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/virtualstars"
-  },
   "title": "Creslow Body",
   "gender": {
     "female": true,
     "male": false
   },
   "category": "CAST Bodies",
+  "collection": {
+    "id": "virtualstars",
+    "type": "AC Scratch Ticket",
+    "title": "Virtual Stars",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars"
+  },
   "tradeable": true
 }

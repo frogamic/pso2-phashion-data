@@ -1,14 +1,14 @@
 {
   "image": "https://phashion.moe/images/Accessories/Zamlord-Guards.png",
+  "title": "Zamlord Guards",
+  "tier": 13,
+  "category": "Accessories",
   "collection": {
     "id": "missionpassseason5",
     "type": "Mission Pass",
     "title": "Season 5",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
-    "url": "https://pso2.com/news/announcements/missionpassseason5"
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason5"
   },
-  "title": "Zamlord Guards",
-  "tier": 13,
-  "category": "Accessories",
   "tradeable": false
 }

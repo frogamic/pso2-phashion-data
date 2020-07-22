@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Tylor-s-Sunglasses.png",
+  "title": "Tylor's Sunglasses",
+  "category": "Accessories",
   "collection": {
     "id": "sgshopsale0522",
     "type": "Event",
     "title": "SG Shop Sale (5/22)",
     "image": "https://phashion.moe/images/Collections/Event/sgshopsale0522.jpg",
-    "url": "https://pso2.com/news/announcements/sgshopsale0522"
+    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0522"
   },
-  "title": "Tylor's Sunglasses",
-  "category": "Accessories",
   "tradeable": true
 }

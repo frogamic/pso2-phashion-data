@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Soaring-Crown.png",
+  "title": "Soaring Crown",
+  "category": "Accessories",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/blessedworld"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld"
   },
-  "title": "Soaring Crown",
-  "category": "Accessories",
   "tradeable": true
 }

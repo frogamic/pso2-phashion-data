@@ -1,14 +1,14 @@
 {
   "image": "https://phashion.moe/images/Accessories/Fox-Tail-White.png",
+  "title": "Fox Tail: White",
+  "tier": 1,
+  "category": "Accessories",
   "collection": {
     "id": "missionpassseason3",
     "type": "Mission Pass",
     "title": "Season 3",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
-    "url": "https://pso2.com/news/announcements/missionpassseason3"
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3"
   },
-  "title": "Fox Tail: White",
-  "tier": 1,
-  "category": "Accessories",
   "tradeable": false
 }

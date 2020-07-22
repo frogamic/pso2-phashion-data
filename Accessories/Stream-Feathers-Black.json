@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Stream-Feathers-Black.png",
+  "title": "Stream Feathers: Black",
+  "category": "Accessories",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline"
   },
-  "title": "Stream Feathers: Black",
-  "category": "Accessories",
   "tradeable": true
 }

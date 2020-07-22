@@ -3,27 +3,31 @@
   "type": "Fresh Finds Shop",
   "title": "Recommended Items (04/28)",
   "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0428.jpg",
-  "url": "https://pso2.com/news/announcements/freshfindsshop0428",
+  "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0428",
   "items": [
     {
       "image": "https://phashion.moe/images/Outfits/Butler-s-Tailcoat.png",
       "title": "Butler’s Tailcoat",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Butler-s-Tailcoat"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Pure-Maid-Dress.png",
       "title": "Pure Maid Dress",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Pure-Maid-Dress"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Chinese-Dress.png",
       "title": "Chinese Dress",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Chinese-Dress"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Chinese-Bun.png",
       "title": "Chinese Bun",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Chinese-Bun"
     }
   ]
 }

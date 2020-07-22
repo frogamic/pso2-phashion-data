@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Medic-Armband.png",
+  "title": "Medic Armband",
+  "category": "Accessories",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline"
   },
-  "title": "Medic Armband",
-  "category": "Accessories",
   "tradeable": true
 }

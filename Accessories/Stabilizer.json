@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Stabilizer.png",
+  "title": "Stabilizer",
+  "category": "Accessories",
   "collection": {
     "id": "funmarch2020",
     "type": "FUN Scratch Ticket",
     "title": "March 2020",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmarch2020.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funmarch2020"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmarch2020"
   },
-  "title": "Stabilizer",
-  "category": "Accessories",
   "tradeable": true
 }

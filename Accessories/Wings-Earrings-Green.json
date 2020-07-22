@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Wings-Earrings-Green.png",
+  "title": "Wings Earrings: Green",
+  "category": "Accessories",
   "collection": {
     "id": "oraclecelebrations",
     "type": "AC Scratch Ticket",
     "title": "Oracle Celebrations",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
   },
-  "title": "Wings Earrings: Green",
-  "category": "Accessories",
   "tradeable": true
 }

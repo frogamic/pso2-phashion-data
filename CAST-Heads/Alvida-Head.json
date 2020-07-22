@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/CAST-Heads/Alvida-Head.png",
-  "collection": {
-    "id": "missionpassseason3",
-    "type": "Mission Pass",
-    "title": "Season 3",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
-    "url": "https://pso2.com/news/announcements/missionpassseason3"
-  },
   "title": "Alvida Head",
   "gender": {
     "female": true,
@@ -14,5 +7,12 @@
   },
   "tier": 5,
   "category": "CAST Heads",
+  "collection": {
+    "id": "missionpassseason3",
+    "type": "Mission Pass",
+    "title": "Season 3",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3"
+  },
   "tradeable": false
 }

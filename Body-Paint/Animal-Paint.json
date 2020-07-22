@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Animal-Paint.png",
+  "title": "Animal Paint",
+  "category": "Body Paint",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline"
   },
-  "title": "Animal Paint",
-  "category": "Body Paint",
   "tradeable": true
 }

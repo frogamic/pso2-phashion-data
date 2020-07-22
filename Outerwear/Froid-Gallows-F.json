@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outerwear/Froid-Gallows-F.png",
-  "collection": {
-    "id": "crimsondawn",
-    "type": "AC Scratch Ticket",
-    "title": "Crimson Dawn",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/crimsondawn"
-  },
   "title": "Froid Gallows F",
   "gender": {
     "female": true,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Outerwear",
+  "collection": {
+    "id": "crimsondawn",
+    "type": "AC Scratch Ticket",
+    "title": "Crimson Dawn",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn"
+  },
   "tradeable": true
 }

@@ -3,37 +3,43 @@
   "type": "Fresh Finds Shop",
   "title": "Recommended Items (5/26)",
   "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0526.jpg",
-  "url": "https://pso2.com/news/announcements/freshfindsshop0526",
+  "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0526",
   "items": [
     {
       "image": "https://phashion.moe/images/Outfits/Wedding-Dress.png",
       "title": "Wedding Dress",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Wedding-Dress"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Ceremony-Tuxedo.png",
       "title": "Ceremony Tuxedo",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Ceremony-Tuxedo"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Bridal-Outfit.png",
       "title": "Bridal Outfit",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Bridal-Outfit"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Twin-Buns.png",
       "title": "Twin Buns",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Twin-Buns"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wedding-Veil.png",
       "title": "Wedding Veil",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Wedding-Veil"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Wedding-Flowers-Blue.png",
       "title": "Wedding Flowers: Blue",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Wedding-Flowers-Blue"
     }
   ]
 }

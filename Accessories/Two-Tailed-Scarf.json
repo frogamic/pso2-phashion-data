@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Two-Tailed-Scarf.png",
+  "title": "Two-Tailed Scarf",
+  "category": "Accessories",
   "collection": {
     "id": "joinalliancecampaign0527",
     "type": "Campaign",
     "title": "Join an Alliance!",
     "image": "https://phashion.moe/images/Collections/Campaign/joinalliancecampaign0527.jpg",
-    "url": "https://pso2.com/news/announcements/joinalliancecampaign0527"
+    "sourceUrl": "https://pso2.com/news/announcements/joinalliancecampaign0527"
   },
-  "title": "Two-Tailed Scarf",
-  "category": "Accessories",
   "tradeable": true
 }

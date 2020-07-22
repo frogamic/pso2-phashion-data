@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Basewear/Denim-Skirt.png",
-  "collection": {
-    "id": "urbanlifestyle",
-    "type": "AC Scratch Ticket",
-    "title": "Urban Lifestyle",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
-  },
   "title": "Denim Skirt",
   "gender": {
     "female": true,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Basewear",
+  "collection": {
+    "id": "urbanlifestyle",
+    "type": "AC Scratch Ticket",
+    "title": "Urban Lifestyle",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
+  },
   "tradeable": true
 }

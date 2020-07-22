@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Straight-Updo.png",
-  "collection": {
-    "id": "funjune2020part1",
-    "type": "FUN Scratch Ticket",
-    "title": "June 2020 - Part 1",
-    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part1.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funjune2020part1"
-  },
   "title": "Straight Updo",
   "category": "Hairstyles",
+  "collection": {
+    "id": "funjune2020part2",
+    "type": "FUN Scratch Ticket",
+    "title": "June 2020 - Part 2",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part2"
+  },
   "tradeable": true
 }

@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outfits/Uncle-Sam-Suit.png",
-  "collection": {
-    "id": "independencedayevent2020",
-    "type": "Event",
-    "title": "Independence Day Event",
-    "image": "https://phashion.moe/images/Collections/Event/independencedayevent2020.jpg",
-    "url": "https://pso2.com/news/announcements/independencedayevent2020"
-  },
   "title": "Uncle Sam Suit",
   "gender": {
     "female": false,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Outfits",
+  "collection": {
+    "id": "independencedayevent2020",
+    "type": "Event",
+    "title": "Independence Day Event",
+    "image": "https://phashion.moe/images/Collections/Event/independencedayevent2020.jpg",
+    "sourceUrl": "https://pso2.com/news/announcements/independencedayevent2020"
+  },
   "tradeable": true
 }

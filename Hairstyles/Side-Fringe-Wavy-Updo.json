@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Side-Fringe-Wavy-Updo.png",
+  "title": "Side Fringe Wavy Updo",
+  "category": "Hairstyles",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline"
   },
-  "title": "Side Fringe Wavy Updo",
-  "category": "Hairstyles",
   "tradeable": true
 }

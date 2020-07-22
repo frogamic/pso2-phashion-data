@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outfits/Scorching-Kimono.png",
-  "collection": {
-    "id": "heroicwanderer",
-    "type": "AC Scratch Ticket",
-    "title": "Heroic Wanderer",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
-  },
   "title": "Scorching Kimono",
   "gender": {
     "female": false,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Outfits",
+  "collection": {
+    "id": "heroicwanderer",
+    "type": "AC Scratch Ticket",
+    "title": "Heroic Wanderer",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer"
+  },
   "tradeable": true
 }

@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Alicia-Bandana.png",
+  "title": "Alicia Bandana",
+  "category": "Hairstyles",
   "collection": {
     "id": "segalegacy",
     "type": "AC Scratch Ticket",
     "title": "Sega Legacy",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/segalegacy"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy"
   },
-  "title": "Alicia Bandana",
-  "category": "Hairstyles",
   "tradeable": true
 }

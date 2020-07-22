@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Ribbon-Casquette-Hat-Pink.png",
+  "title": "Ribbon Casquette Hat: Pink",
+  "category": "Accessories",
   "collection": {
     "id": "recruitline",
     "type": "AC Scratch Ticket",
     "title": "Recruit Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/recruitline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline"
   },
-  "title": "Ribbon Casquette Hat: Pink",
-  "category": "Accessories",
   "tradeable": true
 }

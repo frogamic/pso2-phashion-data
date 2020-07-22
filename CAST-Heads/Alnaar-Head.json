@@ -1,17 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Heads/Alnaar-Head.png",
-  "collection": {
-    "id": "recruitline",
-    "type": "AC Scratch Ticket",
-    "title": "Recruit Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/recruitline"
-  },
   "title": "Alnaar Head",
   "gender": {
     "female": true,
     "male": false
   },
   "category": "CAST Heads",
+  "collection": {
+    "id": "recruitline",
+    "type": "AC Scratch Ticket",
+    "title": "Recruit Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline"
+  },
   "tradeable": true
 }

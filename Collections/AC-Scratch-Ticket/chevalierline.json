@@ -3,377 +3,451 @@
   "type": "AC Scratch Ticket",
   "title": "Chevalier Line",
   "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
-  "url": "https://pso2.com/news/scratch-tickets/chevalierline",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline",
   "items": [
     {
       "image": "https://phashion.moe/images/Outfits/Daybreakers-Suit.png",
       "title": "Daybreakers Suit",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Daybreakers-Suit"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Kotoshiro-Guardian-Wear.png",
       "title": "Kotoshiro Guardian Wear",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Kotoshiro-Guardian-Wear"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Jupiter-Charis.png",
       "title": "Jupiter Charis",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Jupiter-Charis"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Jupiter-Cuirass.png",
       "title": "Jupiter Cuirass",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Jupiter-Cuirass"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Sukunahime-Divine-Wear.png",
       "title": "Sukunahime Divine Wear",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Sukunahime-Divine-Wear"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Juno-Charis.png",
       "title": "Juno Charis",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Juno-Charis"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Dragnica-Cross.png",
       "title": "Dragnica Cross",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Dragnica-Cross"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Dragnier-Flower.png",
       "title": "Dragnier Flower",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Dragnier-Flower"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Femme-Armeure.png",
       "title": "Femme Armeure",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Femme-Armeure"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Dragnica-Cross.png",
       "title": "Dragnica Cross",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Dragnica-Cross"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Smithy-Clothes.png",
       "title": "Smithy Clothes",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Smithy-Clothes"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Dragnier-Flower.png",
       "title": "Dragnier Flower",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Dragnier-Flower"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Femme-Armeure.png",
       "title": "Femme Armeure",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Femme-Armeure"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Smith-Salopettes.png",
       "title": "Smith Salopettes",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Smith-Salopettes"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Dragnica-Cross.png",
       "title": "Dragnica Cross",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Dragnica-Cross"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Smithy-Clothes.png",
       "title": "Smithy Clothes",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Smithy-Clothes"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Dragnier-Flower.png",
       "title": "Dragnier Flower",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Dragnier-Flower"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Smith-Salopettes.png",
       "title": "Smith Salopettes",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Smith-Salopettes"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Cheval-Body.png",
       "title": "Cheval Body",
-      "category": "CAST Bodies"
+      "category": "CAST Bodies",
+      "url": "https://phashion.moe/CAST-Bodies/Cheval-Body"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Cheval-Arms.png",
       "title": "Cheval Arms",
-      "category": "CAST Arms"
+      "category": "CAST Arms",
+      "url": "https://phashion.moe/CAST-Arms/Cheval-Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Cheval-Legs.png",
       "title": "Cheval Legs",
-      "category": "CAST Legs"
+      "category": "CAST Legs",
+      "url": "https://phashion.moe/CAST-Legs/Cheval-Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Cheval-Head.png",
       "title": "Cheval Head",
-      "category": "CAST Heads"
+      "category": "CAST Heads",
+      "url": "https://phashion.moe/CAST-Heads/Cheval-Head"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Chevalier-Body.png",
       "title": "Chevalier Body",
-      "category": "CAST Bodies"
+      "category": "CAST Bodies",
+      "url": "https://phashion.moe/CAST-Bodies/Chevalier-Body"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Chevalier-Arms.png",
       "title": "Chevalier Arms",
-      "category": "CAST Arms"
+      "category": "CAST Arms",
+      "url": "https://phashion.moe/CAST-Arms/Chevalier-Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Chevalier-Legs.png",
       "title": "Chevalier Legs",
-      "category": "CAST Legs"
+      "category": "CAST Legs",
+      "url": "https://phashion.moe/CAST-Legs/Chevalier-Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Chevalier-Head.png",
       "title": "Chevalier Head",
-      "category": "CAST Heads"
+      "category": "CAST Heads",
+      "url": "https://phashion.moe/CAST-Heads/Chevalier-Head"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Armeure-Hair.png",
       "title": "Armeure Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Armeure-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Sukunahime-Ponytail.png",
       "title": "Sukunahime Ponytail",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Sukunahime-Ponytail"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Dragnica-Crest.png",
       "title": "Dragnica Crest",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Dragnica-Crest"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Smith-Hair.png",
       "title": "Smith Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Smith-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Smithy-Hair.png",
       "title": "Smithy Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Smithy-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Juno-Updo.png",
       "title": "Juno Updo",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Juno-Updo"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Lower-Highlights-L.png",
       "title": "Lower Highlights (L)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Lower-Highlights-L"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Lower-Highlights-S.png",
       "title": "Lower Highlights (S)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Lower-Highlights-S"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Cyborg-Eyes-L.png",
       "title": "Cyborg Eyes (L)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Cyborg-Eyes-L"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Cyborg-Eyes-S.png",
       "title": "Cyborg Eyes (S)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Cyborg-Eyes-S"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Flowery-Eyes.png",
       "title": "Flowery Eyes",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Flowery-Eyes"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Smith-Makeup.png",
       "title": "Smith Makeup",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Smith-Makeup"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Line-Makeup.png",
       "title": "Line Makeup",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Line-Makeup"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Sukunahime-Makeup.png",
       "title": "Sukunahime Makeup",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Sukunahime-Makeup"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Smithy-Tattoo.png",
       "title": "Smithy Tattoo",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Smithy-Tattoo"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Ribbon-Socks-Gloves-Set.png",
       "title": "Ribbon Socks & Gloves Set",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Ribbon-Socks-Gloves-Set"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Ripped-Tights.png",
       "title": "Ripped Tights",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Ripped-Tights"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Vol-Dragon-Tattoo-M.png",
       "title": "Vol Dragon Tattoo M",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Vol-Dragon-Tattoo-M"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Vol-Dragon-Tattoo-F.png",
       "title": "Vol Dragon Tattoo F",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Vol-Dragon-Tattoo-F"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Holy-Folding-Fan.png",
       "title": "Holy Folding Fan",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Holy-Folding-Fan"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Sukunahime-s-Horn.png",
       "title": "Sukunahime's Horn",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Sukunahime-s-Horn"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Kotoshiro-Chin-Guard.png",
       "title": "Kotoshiro Chin Guard",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Kotoshiro-Chin-Guard"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Kotoshiro-Blindfold.png",
       "title": "Kotoshiro Blindfold",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Kotoshiro-Blindfold"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Dragnier-Flower-Headdress.png",
       "title": "Dragnier Flower Headdress",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Dragnier-Flower-Headdress"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Armeure-Ribbon.png",
       "title": "Armeure Ribbon",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Armeure-Ribbon"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Armeure-Scarf.png",
       "title": "Armeure Scarf",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Armeure-Scarf"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Smith-Headband.png",
       "title": "Smith Headband",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Smith-Headband"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Smith-Goggles.png",
       "title": "Smith Goggles",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Smith-Goggles"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Smithy-Mask-A.png",
       "title": "Smithy Mask A",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Smithy-Mask-A"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Smithy-Mask-B.png",
       "title": "Smithy Mask B",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Smithy-Mask-B"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Charis-Tiara.png",
       "title": "Charis Tiara",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Charis-Tiara"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Charis-Crown.png",
       "title": "Charis Crown",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Charis-Crown"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Twitchy-Cat-Ears.png",
       "title": "Twitchy Cat Ears",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Twitchy-Cat-Ears"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Twitchy-Cat-Ears-Black.png",
       "title": "Twitchy Cat Ears: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Twitchy-Cat-Ears-Black"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Twitchy-Cat-Ears-White.png",
       "title": "Twitchy Cat Ears: White",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Twitchy-Cat-Ears-White"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Knight-Shoulder-Pads.png",
       "title": "Knight Shoulder Pads",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Knight-Shoulder-Pads"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Knight-Shoulder-Pads-B.png",
       "title": "Knight Shoulder Pads B",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Knight-Shoulder-Pads-B"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Round-Buckler.png",
       "title": "Round Buckler",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Round-Buckler"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Avian-Crown.png",
       "title": "Avian Crown",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Avian-Crown"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Avian-Crown-White.png",
       "title": "Avian Crown: White",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Avian-Crown-White"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Plate-Wings-Green.png",
       "title": "Plate Wings: Green",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Plate-Wings-Green"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Plate-Wings-Blue.png",
       "title": "Plate Wings: Blue",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Plate-Wings-Blue"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Protective-Skirt.png",
       "title": "Protective Skirt",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Protective-Skirt"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Protective-Skirt-B.png",
       "title": "Protective Skirt B",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Protective-Skirt-B"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Ornamental-Rapier.png",
       "title": "Ornamental Rapier",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Ornamental-Rapier"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Ornamental-Rapier-B.png",
       "title": "Ornamental Rapier B",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Ornamental-Rapier-B"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Claw-Arm-L.png",
       "title": "Claw Arm L",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Claw-Arm-L"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Claw-Arm-R.png",
       "title": "Claw Arm R",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Claw-Arm-R"
     }
   ]
 }

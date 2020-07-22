@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Narrow-Eyes-S.png",
+  "title": "Narrow Eyes (S)",
+  "category": "Eyes",
   "collection": {
     "id": "recruitline",
     "type": "AC Scratch Ticket",
     "title": "Recruit Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/recruitline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline"
   },
-  "title": "Narrow Eyes (S)",
-  "category": "Eyes",
   "tradeable": true
 }

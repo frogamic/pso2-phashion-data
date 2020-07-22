@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outfits/Exvilants.png",
-  "collection": {
-    "id": "missionpassseason4",
-    "type": "Mission Pass",
-    "title": "Season 4",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason4.jpg",
-    "url": "https://pso2.com/news/announcements/missionpassseason4"
-  },
   "title": "Exvilants",
   "gender": {
     "female": false,
@@ -18,5 +11,12 @@
   },
   "tier": 27,
   "category": "Outfits",
+  "collection": {
+    "id": "missionpassseason4",
+    "type": "Mission Pass",
+    "title": "Season 4",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason4.jpg",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4"
+  },
   "tradeable": false
 }

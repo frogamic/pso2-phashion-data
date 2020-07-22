@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Rose-Tattoo-F-Set.png",
+  "title": "Rose Tattoo F Set",
+  "category": "Body Paint",
   "collection": {
     "id": "urbanlifestyle",
     "type": "AC Scratch Ticket",
     "title": "Urban Lifestyle",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
   },
-  "title": "Rose Tattoo F Set",
-  "category": "Body Paint",
   "tradeable": true
 }

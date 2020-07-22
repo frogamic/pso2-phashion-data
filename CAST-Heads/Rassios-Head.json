@@ -1,17 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Heads/Rassios-Head.png",
-  "collection": {
-    "id": "urbanlifestyle",
-    "type": "AC Scratch Ticket",
-    "title": "Urban Lifestyle",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
-  },
   "title": "Rassios Head",
   "gender": {
     "female": false,
     "male": true
   },
   "category": "CAST Heads",
+  "collection": {
+    "id": "urbanlifestyle",
+    "type": "AC Scratch Ticket",
+    "title": "Urban Lifestyle",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
+  },
   "tradeable": true
 }

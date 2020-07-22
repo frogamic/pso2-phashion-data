@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Basewear/Punk-Longboots.png",
-  "collection": {
-    "id": "darkomen",
-    "type": "AC Scratch Ticket",
-    "title": "Dark Omen",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/darkomen"
-  },
   "title": "Punk Longboots",
   "gender": {
     "female": false,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Basewear",
+  "collection": {
+    "id": "darkomen",
+    "type": "AC Scratch Ticket",
+    "title": "Dark Omen",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen"
+  },
   "tradeable": true
 }

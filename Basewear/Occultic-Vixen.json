@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Basewear/Occultic-Vixen.png",
-  "collection": {
-    "id": "silkendreams",
-    "type": "AC Scratch Ticket",
-    "title": "Silken Dreams",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/silkendreams"
-  },
   "title": "Occultic Vixen",
   "gender": {
     "female": true,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Basewear",
+  "collection": {
+    "id": "silkendreams",
+    "type": "AC Scratch Ticket",
+    "title": "Silken Dreams",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/silkendreams"
+  },
   "tradeable": true
 }

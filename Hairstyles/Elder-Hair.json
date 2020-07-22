@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Elder-Hair.png",
+  "title": "[Elder] Hair",
+  "category": "Hairstyles",
   "collection": {
     "id": "fallenheroes",
     "type": "SG Scratch Ticket",
     "title": "Fallen Heroes",
     "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/fallenheroes"
   },
-  "title": "[Elder] Hair",
-  "category": "Hairstyles",
   "tradeable": false
 }

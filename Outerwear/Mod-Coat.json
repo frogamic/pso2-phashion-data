@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outerwear/Mod-Coat.png",
-  "collection": {
-    "id": "urbanlifestyle",
-    "type": "AC Scratch Ticket",
-    "title": "Urban Lifestyle",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
-  },
   "title": "Mod Coat",
   "gender": {
     "female": false,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Outerwear",
+  "collection": {
+    "id": "urbanlifestyle",
+    "type": "AC Scratch Ticket",
+    "title": "Urban Lifestyle",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
+  },
   "tradeable": true
 }

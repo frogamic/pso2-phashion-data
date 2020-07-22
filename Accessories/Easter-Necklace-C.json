@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Easter-Necklace-C.png",
+  "title": "Easter Necklace C",
+  "category": "Accessories",
   "collection": {
     "id": "funapril2020part1",
     "type": "FUN Scratch Ticket",
     "title": "April 2020 - Part 1",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part1.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funapril2020part1"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part1"
   },
-  "title": "Easter Necklace C",
-  "category": "Accessories",
   "tradeable": true
 }

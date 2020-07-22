@@ -1,17 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Heads/Dighu-Head.png",
-  "collection": {
-    "id": "careerline",
-    "type": "AC Scratch Ticket",
-    "title": "Career Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
-  },
   "title": "Dighu Head",
   "gender": {
     "female": false,
     "male": true
   },
   "category": "CAST Heads",
+  "collection": {
+    "id": "careerline",
+    "type": "AC Scratch Ticket",
+    "title": "Career Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline"
+  },
   "tradeable": true
 }

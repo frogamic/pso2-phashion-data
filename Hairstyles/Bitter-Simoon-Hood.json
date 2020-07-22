@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Bitter-Simoon-Hood.png",
+  "title": "Bitter Simoon Hood",
+  "category": "Hairstyles",
   "collection": {
     "id": "crimsondawn",
     "type": "AC Scratch Ticket",
     "title": "Crimson Dawn",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/crimsondawn"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn"
   },
-  "title": "Bitter Simoon Hood",
-  "category": "Hairstyles",
   "tradeable": true
 }

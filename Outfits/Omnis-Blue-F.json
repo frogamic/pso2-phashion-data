@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outfits/Omnis-Blue-F.png",
-  "collection": {
-    "id": "fallenheroes",
-    "type": "SG Scratch Ticket",
-    "title": "Fallen Heroes",
-    "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/fallenheroes"
-  },
   "title": "Omnis Blue F",
   "gender": {
     "female": true,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Outfits",
+  "collection": {
+    "id": "fallenheroes",
+    "type": "SG Scratch Ticket",
+    "title": "Fallen Heroes",
+    "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/fallenheroes"
+  },
   "tradeable": false
 }

@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Smithy-Mask-A.png",
+  "title": "Smithy Mask A",
+  "category": "Accessories",
   "collection": {
     "id": "chevalierline",
     "type": "AC Scratch Ticket",
     "title": "Chevalier Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline"
   },
-  "title": "Smithy Mask A",
-  "category": "Accessories",
   "tradeable": true
 }

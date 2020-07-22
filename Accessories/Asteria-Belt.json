@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Asteria-Belt.png",
+  "title": "Asteria Belt",
+  "category": "Accessories",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline"
   },
-  "title": "Asteria Belt",
-  "category": "Accessories",
   "tradeable": true
 }

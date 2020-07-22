@@ -1,17 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Exagia-Legs.png",
-  "collection": {
-    "id": "darkomen",
-    "type": "AC Scratch Ticket",
-    "title": "Dark Omen",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/darkomen"
-  },
   "title": "Exagia Legs",
   "gender": {
     "female": false,
     "male": true
   },
   "category": "CAST Legs",
+  "collection": {
+    "id": "darkomen",
+    "type": "AC Scratch Ticket",
+    "title": "Dark Omen",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen"
+  },
   "tradeable": true
 }

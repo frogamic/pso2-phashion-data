@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Devilish-Hat-Black.png",
+  "title": "Devilish Hat: Black",
+  "category": "Accessories",
   "collection": {
     "id": "crimsondawn",
     "type": "AC Scratch Ticket",
     "title": "Crimson Dawn",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/crimsondawn"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn"
   },
-  "title": "Devilish Hat: Black",
-  "category": "Accessories",
   "tradeable": true
 }

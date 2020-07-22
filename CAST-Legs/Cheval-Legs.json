@@ -1,17 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Cheval-Legs.png",
-  "collection": {
-    "id": "chevalierline",
-    "type": "AC Scratch Ticket",
-    "title": "Chevalier Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
-  },
   "title": "Cheval Legs",
   "gender": {
     "female": false,
     "male": true
   },
   "category": "CAST Legs",
+  "collection": {
+    "id": "chevalierline",
+    "type": "AC Scratch Ticket",
+    "title": "Chevalier Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline"
+  },
   "tradeable": true
 }

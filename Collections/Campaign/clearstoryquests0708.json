@@ -3,12 +3,13 @@
   "type": "Campaign",
   "title": "Clear Story Quests",
   "image": "https://phashion.moe/images/Collections/Campaign/clearstoryquests0708.jpg",
-  "url": "https://pso2.com/news/announcements/clearstoryquests0708",
+  "sourceUrl": "https://pso2.com/news/announcements/clearstoryquests0708",
   "items": [
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Dreamcast.png",
       "title": "Evolution Device: Dreamcast",
-      "category": "Mag Evolution Devices"
+      "category": "Mag Evolution Devices",
+      "url": "https://phashion.moe/Mag-Evolution-Devices/Evolution-Device-Dreamcast"
     }
   ]
 }

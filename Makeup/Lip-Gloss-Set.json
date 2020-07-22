@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Lip-Gloss-Set.png",
+  "title": "Lip Gloss Set",
+  "category": "Makeup",
   "collection": {
     "id": "militaryline",
     "type": "AC Scratch Ticket",
     "title": "Military Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/militaryline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline"
   },
-  "title": "Lip Gloss Set",
-  "category": "Makeup",
   "tradeable": true
 }

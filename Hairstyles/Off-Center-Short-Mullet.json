@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Off-Center-Short-Mullet.png",
+  "title": "Off-Center Short Mullet",
+  "category": "Hairstyles",
   "collection": {
     "id": "urbanlifestyle",
     "type": "AC Scratch Ticket",
     "title": "Urban Lifestyle",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
   },
-  "title": "Off-Center Short Mullet",
-  "category": "Hairstyles",
   "tradeable": true
 }

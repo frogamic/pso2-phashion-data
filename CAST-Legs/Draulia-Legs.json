@@ -1,17 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Draulia-Legs.png",
-  "collection": {
-    "id": "crimsondawn",
-    "type": "AC Scratch Ticket",
-    "title": "Crimson Dawn",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/crimsondawn"
-  },
   "title": "Draulia Legs",
   "gender": {
     "female": true,
     "male": false
   },
   "category": "CAST Legs",
+  "collection": {
+    "id": "crimsondawn",
+    "type": "AC Scratch Ticket",
+    "title": "Crimson Dawn",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn"
+  },
   "tradeable": true
 }

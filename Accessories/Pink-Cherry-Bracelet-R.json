@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Pink-Cherry-Bracelet-R.png",
+  "title": "Pink Cherry Bracelet R",
+  "category": "Accessories",
   "collection": {
     "id": "funapril2020part2",
     "type": "FUN Scratch Ticket",
     "title": "April 2020 - Part 2",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part2.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funapril2020part2"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part2"
   },
-  "title": "Pink Cherry Bracelet R",
-  "category": "Accessories",
   "tradeable": true
 }

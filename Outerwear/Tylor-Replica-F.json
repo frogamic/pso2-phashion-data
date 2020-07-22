@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outerwear/Tylor-Replica-F.png",
-  "collection": {
-    "id": "sgshopsale0522",
-    "type": "Event",
-    "title": "SG Shop Sale (5/22)",
-    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0522.jpg",
-    "url": "https://pso2.com/news/announcements/sgshopsale0522"
-  },
   "title": "Tylor Replica F",
   "gender": {
     "female": true,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Outerwear",
+  "collection": {
+    "id": "sgshopsale0522",
+    "type": "Event",
+    "title": "SG Shop Sale (5/22)",
+    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0522.jpg",
+    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0522"
+  },
   "tradeable": true
 }

@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Yunyun-Thigh-Highs.png",
+  "title": "Yunyun Thigh-Highs",
+  "category": "Body Paint",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/blessedworld"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld"
   },
-  "title": "Yunyun Thigh-Highs",
-  "category": "Body Paint",
   "tradeable": true
 }

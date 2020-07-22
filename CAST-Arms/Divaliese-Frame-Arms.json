@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/CAST-Arms/Divaliese-Frame-Arms.png",
-  "collection": {
-    "id": "missionpassseason5",
-    "type": "Mission Pass",
-    "title": "Season 5",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
-    "url": "https://pso2.com/news/announcements/missionpassseason5"
-  },
   "title": "Divaliese Frame Arms",
   "gender": {
     "female": false,
@@ -14,5 +7,12 @@
   },
   "tier": 10,
   "category": "CAST Arms",
+  "collection": {
+    "id": "missionpassseason5",
+    "type": "Mission Pass",
+    "title": "Season 5",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason5"
+  },
   "tradeable": false
 }

@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Jumbo-Belt-Brown.png",
+  "title": "Jumbo Belt: Brown",
+  "category": "Accessories",
   "collection": {
     "id": "militaryline",
     "type": "AC Scratch Ticket",
     "title": "Military Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/militaryline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline"
   },
-  "title": "Jumbo Belt: Brown",
-  "category": "Accessories",
   "tradeable": true
 }

@@ -1,14 +1,14 @@
 {
   "image": "https://phashion.moe/images/Stickers/Schraedel-Sticker-Set.png",
+  "title": "Schraedel Sticker Set",
+  "set": true,
+  "category": "Stickers",
   "collection": {
     "id": "funmay2020part2",
     "type": "FUN Scratch Ticket",
     "title": "May 2020 - Part 2",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part2.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funmay2020part2"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part2"
   },
-  "title": "Schraedel Sticker Set",
-  "set": true,
-  "category": "Stickers",
   "tradeable": true
 }

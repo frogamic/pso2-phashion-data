@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Kai-Schulen-Hat.png",
+  "title": "Kai Schulen Hat",
+  "category": "Accessories",
   "collection": {
     "id": "segalegacy",
     "type": "AC Scratch Ticket",
     "title": "Sega Legacy",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/segalegacy"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy"
   },
-  "title": "Kai Schulen Hat",
-  "category": "Accessories",
   "tradeable": true
 }

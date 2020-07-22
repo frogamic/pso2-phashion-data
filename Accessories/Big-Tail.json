@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Big-Tail.png",
+  "title": "Big Tail",
+  "category": "Accessories",
   "collection": {
     "id": "urbanlifestyle",
     "type": "AC Scratch Ticket",
     "title": "Urban Lifestyle",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle"
   },
-  "title": "Big Tail",
-  "category": "Accessories",
   "tradeable": true
 }

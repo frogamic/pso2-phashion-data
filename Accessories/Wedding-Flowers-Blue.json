@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Wedding-Flowers-Blue.png",
+  "title": "Wedding Flowers: Blue",
+  "category": "Accessories",
   "collection": {
     "id": "freshfindsshop0526",
     "type": "Fresh Finds Shop",
     "title": "Recommended Items (5/26)",
     "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0526.jpg",
-    "url": "https://pso2.com/news/announcements/freshfindsshop0526"
+    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0526"
   },
-  "title": "Wedding Flowers: Blue",
-  "category": "Accessories",
   "tradeable": false
 }

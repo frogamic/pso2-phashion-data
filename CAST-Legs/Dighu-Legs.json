@@ -1,17 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Legs/Dighu-Legs.png",
-  "collection": {
-    "id": "careerline",
-    "type": "AC Scratch Ticket",
-    "title": "Career Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
-  },
   "title": "Dighu Legs",
   "gender": {
     "female": false,
     "male": true
   },
   "category": "CAST Legs",
+  "collection": {
+    "id": "careerline",
+    "type": "AC Scratch Ticket",
+    "title": "Career Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline"
+  },
   "tradeable": true
 }

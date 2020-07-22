@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Colored-Irises-Blue.png",
+  "title": "Colored Irises: Blue",
+  "category": "Eyes",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/blessedworld"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld"
   },
-  "title": "Colored Irises: Blue",
-  "category": "Eyes",
   "tradeable": true
 }

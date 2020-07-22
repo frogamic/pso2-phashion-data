@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Bloodshot-Eyes-S.png",
+  "title": "Bloodshot Eyes (S)",
+  "category": "Eyes",
   "collection": {
     "id": "virtualstars",
     "type": "AC Scratch Ticket",
     "title": "Virtual Stars",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/virtualstars"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars"
   },
-  "title": "Bloodshot Eyes (S)",
-  "category": "Eyes",
   "tradeable": true
 }

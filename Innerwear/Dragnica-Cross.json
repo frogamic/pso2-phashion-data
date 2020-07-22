@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Innerwear/Dragnica-Cross.png",
-  "collection": {
-    "id": "chevalierline",
-    "type": "AC Scratch Ticket",
-    "title": "Chevalier Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
-  },
   "title": "Dragnica Cross",
   "gender": {
     "female": false,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Innerwear",
+  "collection": {
+    "id": "chevalierline",
+    "type": "AC Scratch Ticket",
+    "title": "Chevalier Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline"
+  },
   "tradeable": true
 }

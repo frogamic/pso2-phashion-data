@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Kabuki-Makeup.png",
+  "title": "Kabuki Makeup",
+  "category": "Makeup",
   "collection": {
     "id": "heroicwanderer",
     "type": "AC Scratch Ticket",
     "title": "Heroic Wanderer",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer"
   },
-  "title": "Kabuki Makeup",
-  "category": "Makeup",
   "tradeable": true
 }

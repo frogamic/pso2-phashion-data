@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Dark-Undereye-Circles.png",
+  "title": "Dark Undereye Circles",
+  "category": "Makeup",
   "collection": {
     "id": "funjuly2020part1",
     "type": "FUN Scratch Ticket",
     "title": "July 2020 - Part 1",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjuly2020part1.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funjuly2020part1"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part1"
   },
-  "title": "Dark Undereye Circles",
-  "category": "Makeup",
   "tradeable": true
 }

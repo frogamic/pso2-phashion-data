@@ -1,17 +1,17 @@
 {
   "image": "https://phashion.moe/images/CAST-Heads/Hylow-Head.png",
-  "collection": {
-    "id": "oraclecelebrations",
-    "type": "AC Scratch Ticket",
-    "title": "Oracle Celebrations",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
-  },
   "title": "Hylow Head",
   "gender": {
     "female": false,
     "male": true
   },
   "category": "CAST Heads",
+  "collection": {
+    "id": "oraclecelebrations",
+    "type": "AC Scratch Ticket",
+    "title": "Oracle Celebrations",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
+  },
   "tradeable": true
 }

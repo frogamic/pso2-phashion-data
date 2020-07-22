@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Ripped-Tights.png",
+  "title": "Ripped Tights",
+  "category": "Body Paint",
   "collection": {
     "id": "chevalierline",
     "type": "AC Scratch Ticket",
     "title": "Chevalier Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline"
   },
-  "title": "Ripped Tights",
-  "category": "Body Paint",
   "tradeable": true
 }

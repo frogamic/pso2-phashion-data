@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Yin-Yang-Eyes-S.png",
+  "title": "Yin-Yang Eyes (S)",
+  "category": "Eyes",
   "collection": {
     "id": "silkendreams",
     "type": "AC Scratch Ticket",
     "title": "Silken Dreams",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/silkendreams"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/silkendreams"
   },
-  "title": "Yin-Yang Eyes (S)",
-  "category": "Eyes",
   "tradeable": true
 }

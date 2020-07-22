@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Heart-Makeup-Pink.png",
+  "title": "Heart Makeup: Pink",
+  "category": "Makeup",
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
     "title": "Blessed World",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/blessedworld"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld"
   },
-  "title": "Heart Makeup: Pink",
-  "category": "Makeup",
   "tradeable": true
 }

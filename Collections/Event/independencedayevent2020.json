@@ -3,32 +3,37 @@
   "type": "Event",
   "title": "Independence Day Event",
   "image": "https://phashion.moe/images/Collections/Event/independencedayevent2020.jpg",
-  "url": "https://pso2.com/news/announcements/independencedayevent2020",
+  "sourceUrl": "https://pso2.com/news/announcements/independencedayevent2020",
   "items": [
     {
       "image": "https://phashion.moe/images/Outfits/Uncle-Sam-Suit.png",
       "title": "Uncle Sam Suit",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Uncle-Sam-Suit"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Roller-Diner.png",
       "title": "Roller Diner",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Roller-Diner"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Uncle-Sam-Hat.png",
       "title": "Uncle Sam Hat",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Uncle-Sam-Hat"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Diner-Visor.png",
       "title": "Diner Visor",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Diner-Visor"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Old-Glory.png",
       "title": "Old Glory",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Old-Glory"
     }
   ]
 }

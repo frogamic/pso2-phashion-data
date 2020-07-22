@@ -1,14 +1,14 @@
 {
   "image": "https://phashion.moe/images/Eyelashes/Anime-Eyelashes-Set.png",
-  "collection": {
-    "id": "funjune2020part1",
-    "type": "FUN Scratch Ticket",
-    "title": "June 2020 - Part 1",
-    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part1.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funjune2020part1"
-  },
   "title": "Anime Eyelashes Set",
   "set": true,
   "category": "Eyelashes",
+  "collection": {
+    "id": "funjune2020part2",
+    "type": "FUN Scratch Ticket",
+    "title": "June 2020 - Part 2",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part2"
+  },
   "tradeable": true
 }

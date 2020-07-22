@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outfits/Zelsius.png",
-  "collection": {
-    "id": "missionpassseason5",
-    "type": "Mission Pass",
-    "title": "Season 5",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
-    "url": "https://pso2.com/news/announcements/missionpassseason5"
-  },
   "title": "Zelsius",
   "gender": {
     "female": true,
@@ -18,5 +11,12 @@
   },
   "tier": 13,
   "category": "Outfits",
+  "collection": {
+    "id": "missionpassseason5",
+    "type": "Mission Pass",
+    "title": "Season 5",
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason5"
+  },
   "tradeable": false
 }

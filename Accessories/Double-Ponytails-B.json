@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Double-Ponytails-B.png",
+  "title": "Double Ponytails B",
+  "category": "Accessories",
   "collection": {
     "id": "oraclecelebrations",
     "type": "AC Scratch Ticket",
     "title": "Oracle Celebrations",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/oraclecelebrations"
   },
-  "title": "Double Ponytails B",
-  "category": "Accessories",
   "tradeable": true
 }

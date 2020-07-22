@@ -1,14 +1,14 @@
 {
   "image": "https://phashion.moe/images/Accessories/Pirate-Hat.png",
+  "title": "Pirate Hat",
+  "tier": 18,
+  "category": "Accessories",
   "collection": {
     "id": "missionpassseason3",
     "type": "Mission Pass",
     "title": "Season 3",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
-    "url": "https://pso2.com/news/announcements/missionpassseason3"
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3"
   },
-  "title": "Pirate Hat",
-  "tier": 18,
-  "category": "Accessories",
   "tradeable": false
 }

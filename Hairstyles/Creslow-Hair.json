@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Creslow-Hair.png",
+  "title": "Creslow Hair",
+  "category": "Hairstyles",
   "collection": {
     "id": "virtualstars",
     "type": "AC Scratch Ticket",
     "title": "Virtual Stars",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/virtualstars"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars"
   },
-  "title": "Creslow Hair",
-  "category": "Hairstyles",
   "tradeable": true
 }

@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Ursula-Earrings.png",
+  "title": "Ursula Earrings",
+  "category": "Accessories",
   "collection": {
     "id": "freshfindsshop0609",
     "type": "Fresh Finds Shop",
     "title": "Recommended Items (6/9)",
     "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0609.jpg",
-    "url": "https://pso2.com/news/announcements/freshfindsshop0609"
+    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0609"
   },
-  "title": "Ursula Earrings",
-  "category": "Accessories",
   "tradeable": false
 }

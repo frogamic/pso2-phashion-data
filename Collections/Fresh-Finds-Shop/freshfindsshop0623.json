@@ -3,32 +3,37 @@
   "type": "Fresh Finds Shop",
   "title": "Recommended Items (6/23)",
   "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0623.jpg",
-  "url": "https://pso2.com/news/announcements/freshfindsshop0623",
+  "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0623",
   "items": [
     {
       "image": "https://phashion.moe/images/Outfits/Vasque-Replica.png",
       "title": "Vasque Replica",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Vasque-Replica"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Cursed-Coat-F.png",
       "title": "Cursed Coat F",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Cursed-Coat-F"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Cursed-Layer.png",
       "title": "Cursed Layer",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Cursed-Layer"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Cursed-Coat-M.png",
       "title": "Cursed Coat M",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Cursed-Coat-M"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Cursed-Hood.png",
       "title": "Cursed Hood",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Cursed-Hood"
     }
   ]
 }

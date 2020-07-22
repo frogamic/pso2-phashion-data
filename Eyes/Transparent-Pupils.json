@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Transparent-Pupils.png",
+  "title": "Transparent Pupils",
+  "category": "Eyes",
   "collection": {
     "id": "segalegacy",
     "type": "AC Scratch Ticket",
     "title": "Sega Legacy",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/segalegacy"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy"
   },
-  "title": "Transparent Pupils",
-  "category": "Eyes",
   "tradeable": true
 }

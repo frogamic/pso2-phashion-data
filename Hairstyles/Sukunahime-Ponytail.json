@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Sukunahime-Ponytail.png",
+  "title": "Sukunahime Ponytail",
+  "category": "Hairstyles",
   "collection": {
     "id": "chevalierline",
     "type": "AC Scratch Ticket",
     "title": "Chevalier Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/chevalierline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline"
   },
-  "title": "Sukunahime Ponytail",
-  "category": "Hairstyles",
   "tradeable": true
 }

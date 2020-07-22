@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outerwear/Eville-Exceeder.png",
-  "collection": {
-    "id": "darkomen",
-    "type": "AC Scratch Ticket",
-    "title": "Dark Omen",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/darkomen"
-  },
   "title": "Eville Exceeder",
   "gender": {
     "female": false,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Outerwear",
+  "collection": {
+    "id": "darkomen",
+    "type": "AC Scratch Ticket",
+    "title": "Dark Omen",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen"
+  },
   "tradeable": true
 }

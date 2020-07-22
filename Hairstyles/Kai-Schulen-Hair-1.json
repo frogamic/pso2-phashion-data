@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Kai-Schulen-Hair-1.png",
+  "title": "Kai Schulen Hair 1",
+  "category": "Hairstyles",
   "collection": {
     "id": "segalegacy",
     "type": "AC Scratch Ticket",
     "title": "Sega Legacy",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/segalegacy"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy"
   },
-  "title": "Kai Schulen Hair 1",
-  "category": "Hairstyles",
   "tradeable": true
 }

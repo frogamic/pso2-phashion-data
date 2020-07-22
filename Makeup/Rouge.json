@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Makeup/Rouge.png",
+  "title": "Rouge",
+  "category": "Makeup",
   "collection": {
     "id": "crimsondawn",
     "type": "AC Scratch Ticket",
     "title": "Crimson Dawn",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/crimsondawn"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn"
   },
-  "title": "Rouge",
-  "category": "Makeup",
   "tradeable": true
 }

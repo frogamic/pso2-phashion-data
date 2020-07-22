@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Innerwear/Frill-1.png",
-  "collection": {
-    "id": "recruitline",
-    "type": "AC Scratch Ticket",
-    "title": "Recruit Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/recruitline"
-  },
   "title": "Frill 1",
   "gender": {
     "female": true,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Innerwear",
+  "collection": {
+    "id": "recruitline",
+    "type": "AC Scratch Ticket",
+    "title": "Recruit Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline"
+  },
   "tradeable": true
 }

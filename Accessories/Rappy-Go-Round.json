@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Rappy-Go-Round.png",
+  "title": "Rappy-Go-Round",
+  "category": "Accessories",
   "collection": {
     "id": "groupchatcampaign",
     "type": "Campaign",
     "title": "Use Group Chat!",
     "image": "https://phashion.moe/images/Collections/Campaign/groupchatcampaign.jpg",
-    "url": "https://pso2.com/news/announcements/groupchatcampaign"
+    "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign"
   },
-  "title": "Rappy-Go-Round",
-  "category": "Accessories",
   "tradeable": true
 }

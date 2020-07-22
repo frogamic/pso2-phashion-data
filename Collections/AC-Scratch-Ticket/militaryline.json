@@ -3,322 +3,385 @@
   "type": "AC Scratch Ticket",
   "title": "Military Line",
   "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
-  "url": "https://pso2.com/news/scratch-tickets/militaryline",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline",
   "items": [
     {
       "image": "https://phashion.moe/images/Outfits/Fleet-Admiral.png",
       "title": "Fleet Admiral",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Fleet-Admiral"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Idea-Ensemble.png",
       "title": "Idea Ensemble",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Idea-Ensemble"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Heavenly-Diva.png",
       "title": "Heavenly Diva",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Heavenly-Diva"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Taulia-L-arg.png",
       "title": "Taulia L'arg",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Taulia-L-arg"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Marine-Admiral.png",
       "title": "Marine Admiral",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Marine-Admiral"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Tactical-Vest.png",
       "title": "Tactical Vest",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Tactical-Vest"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Riha-Jauwarl.png",
       "title": "Riha Jauwarl",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Riha-Jauwarl"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Combat-Jacket.png",
       "title": "Combat Jacket",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Combat-Jacket"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Ranger-Viento.png",
       "title": "Ranger Viento",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Ranger-Viento"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Tactical-Suit.png",
       "title": "Tactical Suit",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Tactical-Suit"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Riha-Jauwarl.png",
       "title": "Riha Jauwarl",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Riha-Jauwarl"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Combat-Raider.png",
       "title": "Combat Raider",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Combat-Raider"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Ranger-Viento.png",
       "title": "Ranger Viento",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Ranger-Viento"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Tactical-Underwear.png",
       "title": "Tactical Underwear",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Tactical-Underwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Riha-Jauwarl.png",
       "title": "Riha Jauwarl",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Riha-Jauwarl"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Combat-Underwear.png",
       "title": "Combat Underwear",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Combat-Underwear"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Ranger-Viento.png",
       "title": "Ranger Viento",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Ranger-Viento"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Havoc-Body.png",
       "title": "Havoc Body",
-      "category": "CAST Bodies"
+      "category": "CAST Bodies",
+      "url": "https://phashion.moe/CAST-Bodies/Havoc-Body"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Havoc-Arms.png",
       "title": "Havoc Arms",
-      "category": "CAST Arms"
+      "category": "CAST Arms",
+      "url": "https://phashion.moe/CAST-Arms/Havoc-Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Havoc-Legs.png",
       "title": "Havoc Legs",
-      "category": "CAST Legs"
+      "category": "CAST Legs",
+      "url": "https://phashion.moe/CAST-Legs/Havoc-Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Havoc-Head.png",
       "title": "Havoc Head",
-      "category": "CAST Heads"
+      "category": "CAST Heads",
+      "url": "https://phashion.moe/CAST-Heads/Havoc-Head"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Philinne-Body.png",
       "title": "Philinne Body",
-      "category": "CAST Bodies"
+      "category": "CAST Bodies",
+      "url": "https://phashion.moe/CAST-Bodies/Philinne-Body"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Philinne-Arms.png",
       "title": "Philinne Arms",
-      "category": "CAST Arms"
+      "category": "CAST Arms",
+      "url": "https://phashion.moe/CAST-Arms/Philinne-Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Philinne-Legs.png",
       "title": "Philinne Legs",
-      "category": "CAST Legs"
+      "category": "CAST Legs",
+      "url": "https://phashion.moe/CAST-Legs/Philinne-Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Philinne-Head.png",
       "title": "Philinne Head",
-      "category": "CAST Heads"
+      "category": "CAST Heads",
+      "url": "https://phashion.moe/CAST-Heads/Philinne-Head"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Idea-Twin-Loops.png",
       "title": "Idea Twin Loops",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Idea-Twin-Loops"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Diva-Ponytail.png",
       "title": "Diva Ponytail",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Diva-Ponytail"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Diva-Ponytail-2.png",
       "title": "Diva Ponytail 2",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Diva-Ponytail-2"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Taulia-Hair.png",
       "title": "Taulia Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Taulia-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Ultra-Short-Pixie.png",
       "title": "Ultra Short Pixie",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Ultra-Short-Pixie"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Jauwarl-Hair.png",
       "title": "Jauwarl Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Jauwarl-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Ranger-Hair.png",
       "title": "Ranger Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Ranger-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Philinne-Hair.png",
       "title": "Philinne Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Philinne-Hair"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Anime-Highlighted-Eyes-L.png",
       "title": "Anime Highlighted Eyes (L)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Anime-Highlighted-Eyes-L"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Anime-Highlighted-Eyes-S.png",
       "title": "Anime Highlighted Eyes (S)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Anime-Highlighted-Eyes-S"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Scope-Eyes-L.png",
       "title": "Scope Eyes (L)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Scope-Eyes-L"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Scope-Eyes-S.png",
       "title": "Scope Eyes (S)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Scope-Eyes-S"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Monochrome-Eyes.png",
       "title": "Monochrome Eyes",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Monochrome-Eyes"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Lip-Gloss-Set.png",
       "title": "Lip Gloss Set",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Lip-Gloss-Set"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Pinstriped-Tights.png",
       "title": "Pinstriped Tights",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Pinstriped-Tights"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Combat-Scar.png",
       "title": "Combat Scar",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Combat-Scar"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Camouflage-Set.png",
       "title": "Camouflage Set",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Camouflage-Set"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Camouflage-Long-Tights-Set.png",
       "title": "Camouflage Long Tights Set",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Camouflage-Long-Tights-Set"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Diva-s-Crown.png",
       "title": "Diva's Crown",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Diva-s-Crown"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Combat-Holster.png",
       "title": "Combat Holster",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Combat-Holster"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Combat-Dogs-Tags.png",
       "title": "Combat Dogs Tags",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Combat-Dogs-Tags"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jauwarl-Hat.png",
       "title": "Jauwarl Hat",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Jauwarl-Hat"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Ranger-Hat.png",
       "title": "Ranger Hat",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Ranger-Hat"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Philinne-Hat.png",
       "title": "Philinne Hat",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Philinne-Hat"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Taulia-Cap.png",
       "title": "Taulia Cap",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Taulia-Cap"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Fleet-Cap.png",
       "title": "Fleet Cap",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Fleet-Cap"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Marine-Cap.png",
       "title": "Marine Cap",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Marine-Cap"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Thruster-Wings.png",
       "title": "Thruster Wings",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Thruster-Wings"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jumbo-Belt.png",
       "title": "Jumbo Belt",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Jumbo-Belt"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jumbo-Belt-Black.png",
       "title": "Jumbo Belt: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Jumbo-Belt-Black"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jumbo-Belt-Brown.png",
       "title": "Jumbo Belt: Brown",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Jumbo-Belt-Brown"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Jumbo-Belt-White.png",
       "title": "Jumbo Belt: White",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Jumbo-Belt-White"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cyber-Headphones.png",
       "title": "Cyber Headphones",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Cyber-Headphones"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Thigh-Holster.png",
       "title": "Thigh Holster",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Thigh-Holster"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Thigh-Holster-Brown.png",
       "title": "Thigh Holster: Brown",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Thigh-Holster-Brown"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Thigh-Holster-Black.png",
       "title": "Thigh Holster: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Thigh-Holster-Black"
     },
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evo-Device-Acubens.png",
       "title": "Evo. Device: Acubens",
-      "category": "Mag Evolution Devices"
+      "category": "Mag Evolution Devices",
+      "url": "https://phashion.moe/Mag-Evolution-Devices/Evo-Device-Acubens"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Diva-Quna-Chain.png",
       "title": "Diva Quna Chain",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Diva-Quna-Chain"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/X-Thrusters.png",
+  "title": "X-Thrusters",
+  "category": "Accessories",
   "collection": {
     "id": "funmay2020part3",
     "type": "FUN Scratch Ticket",
     "title": "May 2020 - Part 3",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part3.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funmay2020part3"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part3"
   },
-  "title": "X-Thrusters",
-  "category": "Accessories",
   "tradeable": true
 }

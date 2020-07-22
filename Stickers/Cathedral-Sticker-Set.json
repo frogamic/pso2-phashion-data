@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Stickers/Cathedral-Sticker-Set.png",
+  "title": "Cathedral Sticker Set",
+  "category": "Stickers",
   "collection": {
     "id": "funmay2020part3",
     "type": "FUN Scratch Ticket",
     "title": "May 2020 - Part 3",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part3.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funmay2020part3"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part3"
   },
-  "title": "Cathedral Sticker Set",
-  "category": "Stickers",
   "tradeable": true
 }

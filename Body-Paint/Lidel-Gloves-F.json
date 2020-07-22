@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Body-Paint/Lidel-Gloves-F.png",
+  "title": "Lidel Gloves F",
+  "category": "Body Paint",
   "collection": {
     "id": "darkomen",
     "type": "AC Scratch Ticket",
     "title": "Dark Omen",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/darkomen"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen"
   },
-  "title": "Lidel Gloves F",
-  "category": "Body Paint",
   "tradeable": true
 }

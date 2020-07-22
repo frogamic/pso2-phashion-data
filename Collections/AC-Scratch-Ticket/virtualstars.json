@@ -3,337 +3,403 @@
   "type": "AC Scratch Ticket",
   "title": "Virtual Stars",
   "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
-  "url": "https://pso2.com/news/scratch-tickets/virtualstars",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars",
   "items": [
     {
       "image": "https://phashion.moe/images/Outfits/Kagamine-Len-Replica.png",
       "title": "Kagamine Len Replica",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Kagamine-Len-Replica"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Hatsune-Miku-Replica.png",
       "title": "Hatsune Miku Replica",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Hatsune-Miku-Replica"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Megurine-Luka-Replica.png",
       "title": "Megurine Luka Replica",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Megurine-Luka-Replica"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Kagamine-Rin-Replica.png",
       "title": "Kagamine Rin Replica",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Kagamine-Rin-Replica"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Hardened-Emotions.png",
       "title": "Hardened Emotions",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Hardened-Emotions"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Corpse-Hood-M.png",
       "title": "Corpse Hood M",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Corpse-Hood-M"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Heart-Effector.png",
       "title": "Heart Effector",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Heart-Effector"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Rabbit-Jacket.png",
       "title": "Rabbit Jacket",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Rabbit-Jacket"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Corpse-Hood-F.png",
       "title": "Corpse Hood F",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Corpse-Hood-F"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Hardened-Emotions.png",
       "title": "Hardened Emotions",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Hardened-Emotions"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Premium-Cargo-Pants.png",
       "title": "Premium Cargo Pants",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Premium-Cargo-Pants"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Shocking-Heart.png",
       "title": "Shocking Heart",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Shocking-Heart"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Damaged-Jeans.png",
       "title": "Damaged Jeans",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Damaged-Jeans"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Layered-Tank-Top.png",
       "title": "Layered Tank Top",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Layered-Tank-Top"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Hardened-Emotions.png",
       "title": "Hardened Emotions",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Hardened-Emotions"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Painted-Tank-Top.png",
       "title": "Painted Tank Top",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Painted-Tank-Top"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Shocking-Heart.png",
       "title": "Shocking Heart",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Shocking-Heart"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Dancer-Bikini.png",
       "title": "Dancer Bikini",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Dancer-Bikini"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Rowlock-Body.png",
       "title": "Rowlock Body",
-      "category": "CAST Bodies"
+      "category": "CAST Bodies",
+      "url": "https://phashion.moe/CAST-Bodies/Rowlock-Body"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Rowlock-Arms.png",
       "title": "Rowlock Arms",
-      "category": "CAST Arms"
+      "category": "CAST Arms",
+      "url": "https://phashion.moe/CAST-Arms/Rowlock-Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Rowlock-Legs.png",
       "title": "Rowlock Legs",
-      "category": "CAST Legs"
+      "category": "CAST Legs",
+      "url": "https://phashion.moe/CAST-Legs/Rowlock-Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Rowlock-Head.png",
       "title": "Rowlock Head",
-      "category": "CAST Heads"
+      "category": "CAST Heads",
+      "url": "https://phashion.moe/CAST-Heads/Rowlock-Head"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Creslow-Body.png",
       "title": "Creslow Body",
-      "category": "CAST Bodies"
+      "category": "CAST Bodies",
+      "url": "https://phashion.moe/CAST-Bodies/Creslow-Body"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Creslow-Arms.png",
       "title": "Creslow Arms",
-      "category": "CAST Arms"
+      "category": "CAST Arms",
+      "url": "https://phashion.moe/CAST-Arms/Creslow-Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Creslow-Legs.png",
       "title": "Creslow Legs",
-      "category": "CAST Legs"
+      "category": "CAST Legs",
+      "url": "https://phashion.moe/CAST-Legs/Creslow-Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Creslow-Head.png",
       "title": "Creslow Head",
-      "category": "CAST Heads"
+      "category": "CAST Heads",
+      "url": "https://phashion.moe/CAST-Heads/Creslow-Head"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Hatsune-Miku-Hair.png",
       "title": "Hatsune Miku Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Hatsune-Miku-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Hatsune-Miku-Hair-2.png",
       "title": "Hatsune Miku Hair 2",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Hatsune-Miku-Hair-2"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Hatsune-Miku-Hair-3.png",
       "title": "Hatsune Miku Hair 3",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Hatsune-Miku-Hair-3"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Megurine-Luka-Hair.png",
       "title": "Megurine Luka Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Megurine-Luka-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Kagamine-Rin-Hair.png",
       "title": "Kagamine Rin Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Kagamine-Rin-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Kagamine-Len-Hair.png",
       "title": "Kagamine Len Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Kagamine-Len-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Effector-Hair.png",
       "title": "Effector Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Effector-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Emotion-Hair.png",
       "title": "Emotion Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Emotion-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Creslow-Hair.png",
       "title": "Creslow Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Creslow-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Inward-Curl-Long-Hair.png",
       "title": "Inward Curl Long Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Inward-Curl-Long-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Corpse-Hood.png",
       "title": "Corpse Hood",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Corpse-Hood"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Concentric-Eyes-XS.png",
       "title": "Concentric Eyes (XS)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Concentric-Eyes-XS"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Narrow-Eyes-B-XS.png",
       "title": "Narrow Eyes B (XS)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Narrow-Eyes-B-XS"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Bloodshot-Eyes-S.png",
       "title": "Bloodshot Eyes (S)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Bloodshot-Eyes-S"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Bloodshot-Eyes-XS.png",
       "title": "Bloodshot Eyes (XS)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Bloodshot-Eyes-XS"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Shy-Blush.png",
       "title": "Shy Blush",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Shy-Blush"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Checkered-Tight-Set.png",
       "title": "Checkered Tight Set",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Checkered-Tight-Set"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Checkered-Tight-Set-B.png",
       "title": "Checkered Tight Set B",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Checkered-Tight-Set-B"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Effector-Headgear.png",
       "title": "Effector Headgear",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Effector-Headgear"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Effector-Tie.png",
       "title": "Effector Tie",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Effector-Tie"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Effector-Tie-Blue.png",
       "title": "Effector Tie: Blue",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Effector-Tie-Blue"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Effector-Tie-Red.png",
       "title": "Effector Tie: Red",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Effector-Tie-Red"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Effector-Tie-Black.png",
       "title": "Effector Tie: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Effector-Tie-Black"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Effector-Wristguards.png",
       "title": "Effector Wristguards",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Effector-Wristguards"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Waist-Bandana.png",
       "title": "Waist Bandana",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Waist-Bandana"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Rabbit-Sun-visor.png",
       "title": "Rabbit Sun-visor",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Rabbit-Sun-visor"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Tetra-Shield.png",
       "title": "Tetra Shield",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Tetra-Shield"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Booster-Unit.png",
       "title": "Booster Unit",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Booster-Unit"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Long-Ponytail-Wig-Short.png",
       "title": "Long Ponytail Wig (Short)",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Long-Ponytail-Wig-Short"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Long-Ponytail-Wig-S.png",
       "title": "Long Ponytail Wig (S)",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Long-Ponytail-Wig-S"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cat-Shoulder-Mount-Calico.png",
       "title": "Cat Shoulder-Mount: Calico",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Cat-Shoulder-Mount-Calico"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cat-Shoulder-Mount-Black.png",
       "title": "Cat Shoulder-Mount: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Cat-Shoulder-Mount-Black"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cat-Shoulder-Mount-Tabby.png",
       "title": "Cat Shoulder-Mount: Tabby",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Cat-Shoulder-Mount-Tabby"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Beaked-Mask.png",
       "title": "Beaked Mask",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Beaked-Mask"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Beaked-Mask-Black.png",
       "title": "Beaked Mask: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Beaked-Mask-Black"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Beaked-Mask-Gold.png",
       "title": "Beaked Mask: Gold",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Beaked-Mask-Gold"
     },
     {
       "image": "https://phashion.moe/images/Furnishings/DIVA-Poster-A.png",
       "title": "DIVA Poster A",
-      "category": "Furnishings"
+      "category": "Furnishings",
+      "url": "https://phashion.moe/Furnishings/DIVA-Poster-A"
     },
     {
       "image": "https://phashion.moe/images/Furnishings/DIVA-Poster-B.png",
       "title": "DIVA Poster B",
-      "category": "Furnishings"
+      "category": "Furnishings",
+      "url": "https://phashion.moe/Furnishings/DIVA-Poster-B"
     },
     {
       "image": "https://phashion.moe/images/Furnishings/DIVA-Poster-C.png",
       "title": "DIVA Poster C",
-      "category": "Furnishings"
+      "category": "Furnishings",
+      "url": "https://phashion.moe/Furnishings/DIVA-Poster-C"
     },
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Mikudayo.png",
       "title": "Evolution Device: Mikudayo-",
-      "category": "Mag Evolution Devices"
+      "category": "Mag Evolution Devices",
+      "url": "https://phashion.moe/Mag-Evolution-Devices/Evolution-Device-Mikudayo"
     }
   ]
 }

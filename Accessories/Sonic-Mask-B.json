@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Sonic-Mask-B.png",
+  "title": "Sonic Mask B",
+  "category": "Accessories",
   "collection": {
     "id": "sonicsbirthday2020",
     "type": "Event",
     "title": "Sonic’s Birthday 2020!",
     "image": "https://phashion.moe/images/Collections/Event/sonicsbirthday2020.png",
-    "url": "https://pso2.com/news/announcements/sonicsbirthday2020"
+    "sourceUrl": "https://pso2.com/news/announcements/sonicsbirthday2020"
   },
-  "title": "Sonic Mask B",
-  "category": "Accessories",
   "tradeable": true
 }

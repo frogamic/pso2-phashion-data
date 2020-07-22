@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Outfits/Ceremony-Tuxedo.png",
-  "collection": {
-    "id": "freshfindsshop0526",
-    "type": "Fresh Finds Shop",
-    "title": "Recommended Items (5/26)",
-    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0526.jpg",
-    "url": "https://pso2.com/news/announcements/freshfindsshop0526"
-  },
   "title": "Ceremony Tuxedo",
   "gender": {
     "female": false,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Outfits",
+  "collection": {
+    "id": "freshfindsshop0526",
+    "type": "Fresh Finds Shop",
+    "title": "Recommended Items (5/26)",
+    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0526.jpg",
+    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0526"
+  },
   "tradeable": false
 }

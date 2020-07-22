@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Rare-Drop-Earrings-Rainbow.png",
+  "title": "Rare Drop Earrings: Rainbow",
+  "category": "Accessories",
   "collection": {
     "id": "darkomen",
     "type": "AC Scratch Ticket",
     "title": "Dark Omen",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/darkomen"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen"
   },
-  "title": "Rare Drop Earrings: Rainbow",
-  "category": "Accessories",
   "tradeable": true
 }

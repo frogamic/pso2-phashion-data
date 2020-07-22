@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Beaked-Mask-Black.png",
+  "title": "Beaked Mask: Black",
+  "category": "Accessories",
   "collection": {
     "id": "virtualstars",
     "type": "AC Scratch Ticket",
     "title": "Virtual Stars",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/virtualstars"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars"
   },
-  "title": "Beaked Mask: Black",
-  "category": "Accessories",
   "tradeable": true
 }

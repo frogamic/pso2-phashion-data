@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Floppy-Bunny-Ears.png",
+  "title": "Floppy Bunny Ears",
+  "category": "Accessories",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline"
   },
-  "title": "Floppy Bunny Ears",
-  "category": "Accessories",
   "tradeable": true
 }

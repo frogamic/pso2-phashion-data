@@ -1,14 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyelashes/Flashy-Eyelashes-Set.png",
-  "collection": {
-    "id": "funmay2020part2",
-    "type": "FUN Scratch Ticket",
-    "title": "May 2020 - Part 2",
-    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part2.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funmay2020part2"
-  },
   "title": "Flashy Eyelashes Set",
-  "set": true,
   "category": "Eyelashes",
+  "collection": {
+    "id": "funmay2020part1",
+    "type": "FUN Scratch Ticket",
+    "title": "May 2020 - Part 1",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part1.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part1"
+  },
   "tradeable": true
 }

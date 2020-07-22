@@ -1,14 +1,14 @@
 {
   "image": "https://phashion.moe/images/Outfits/Pirate-Attire.png",
+  "title": "Pirate Attire",
+  "tier": 18,
+  "category": "Outfits",
   "collection": {
     "id": "missionpassseason3",
     "type": "Mission Pass",
     "title": "Season 3",
     "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
-    "url": "https://pso2.com/news/announcements/missionpassseason3"
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3"
   },
-  "title": "Pirate Attire",
-  "tier": 18,
-  "category": "Outfits",
   "tradeable": false
 }

@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Basewear/Shocking-Heart.png",
-  "collection": {
-    "id": "virtualstars",
-    "type": "AC Scratch Ticket",
-    "title": "Virtual Stars",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/virtualstars"
-  },
   "title": "Shocking Heart",
   "gender": {
     "female": true,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Basewear",
+  "collection": {
+    "id": "virtualstars",
+    "type": "AC Scratch Ticket",
+    "title": "Virtual Stars",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars"
+  },
   "tradeable": true
 }

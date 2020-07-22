@@ -3,392 +3,469 @@
   "type": "AC Scratch Ticket",
   "title": "Silken Dreams",
   "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
-  "url": "https://pso2.com/news/scratch-tickets/silkendreams",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/silkendreams",
   "items": [
     {
       "image": "https://phashion.moe/images/Outfits/Solitary-Shadow.png",
       "title": "Solitary Shadow",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Solitary-Shadow"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Severing-Shadow.png",
       "title": "Severing Shadow",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Severing-Shadow"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Flower-Season-Inyuu.png",
       "title": "Flower Season Inyuu",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Flower-Season-Inyuu"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Occultic-Eyes.png",
       "title": "Occultic Eyes",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Occultic-Eyes"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Shrine-Garb.png",
       "title": "Shrine Garb",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Shrine-Garb"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Flower-Season-Cafuu.png",
       "title": "Flower Season Cafuu",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Flower-Season-Cafuu"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Occultic-Vixen.png",
       "title": "Occultic Vixen",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Occultic-Vixen"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Flower-Season-Inyuu.png",
       "title": "Flower Season Inyuu",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Flower-Season-Inyuu"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Occultic-Eyes.png",
       "title": "Occultic Eyes",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Occultic-Eyes"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Shrine-Garb.png",
       "title": "Shrine Garb",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Shrine-Garb"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Flower-Season-Cafuu.png",
       "title": "Flower Season Cafuu",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Flower-Season-Cafuu"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Occultic-Vixen.png",
       "title": "Occultic Vixen",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Occultic-Vixen"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Occultic-Eyes.png",
       "title": "Occultic Eyes",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Occultic-Eyes"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Shrine-Garb.png",
       "title": "Shrine Garb",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Shrine-Garb"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Occultic-Vixen.png",
       "title": "Occultic Vixen",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Occultic-Vixen"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Titangum-Body.png",
       "title": "Titangum Body",
-      "category": "CAST Bodies"
+      "category": "CAST Bodies",
+      "url": "https://phashion.moe/CAST-Bodies/Titangum-Body"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Titangum-Arms.png",
       "title": "Titangum Arms",
-      "category": "CAST Arms"
+      "category": "CAST Arms",
+      "url": "https://phashion.moe/CAST-Arms/Titangum-Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Titangum-Legs.png",
       "title": "Titangum Legs",
-      "category": "CAST Legs"
+      "category": "CAST Legs",
+      "url": "https://phashion.moe/CAST-Legs/Titangum-Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Titangum-Head.png",
       "title": "Titangum Head",
-      "category": "CAST Heads"
+      "category": "CAST Heads",
+      "url": "https://phashion.moe/CAST-Heads/Titangum-Head"
     },
     {
       "image": "https://phashion.moe/images/CAST-Bodies/Icesilica-Body.png",
       "title": "Icesilica Body",
-      "category": "CAST Bodies"
+      "category": "CAST Bodies",
+      "url": "https://phashion.moe/CAST-Bodies/Icesilica-Body"
     },
     {
       "image": "https://phashion.moe/images/CAST-Arms/Icesilica-Arms.png",
       "title": "Icesilica Arms",
-      "category": "CAST Arms"
+      "category": "CAST Arms",
+      "url": "https://phashion.moe/CAST-Arms/Icesilica-Arms"
     },
     {
       "image": "https://phashion.moe/images/CAST-Legs/Icesilica-Legs.png",
       "title": "Icesilica Legs",
-      "category": "CAST Legs"
+      "category": "CAST Legs",
+      "url": "https://phashion.moe/CAST-Legs/Icesilica-Legs"
     },
     {
       "image": "https://phashion.moe/images/CAST-Heads/Icesilica-Head.png",
       "title": "Icesilica Head",
-      "category": "CAST Heads"
+      "category": "CAST Heads",
+      "url": "https://phashion.moe/CAST-Heads/Icesilica-Head"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Kannagi-Hairstyle.png",
       "title": "Kannagi Hairstyle",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Kannagi-Hairstyle"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Cafuu-Hair.png",
       "title": "Cafuu Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Cafuu-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Inyuu-Hair.png",
       "title": "Inyuu Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Inyuu-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Occultic-Hair.png",
       "title": "Occultic Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Occultic-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Solitary-Helmet.png",
       "title": "Solitary Helmet",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Solitary-Helmet"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Yin-Yang-Eyes-L.png",
       "title": "Yin-Yang Eyes (L)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Yin-Yang-Eyes-L"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Yin-Yang-Eyes-S.png",
       "title": "Yin-Yang Eyes (S)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Yin-Yang-Eyes-S"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Tearful-Anime-Eyes-L.png",
       "title": "Tearful Anime Eyes (L)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Tearful-Anime-Eyes-L"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Tearful-Anime-Eyes-S.png",
       "title": "Tearful Anime Eyes (S)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Tearful-Anime-Eyes-S"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Anime-Eyes-E-L.png",
       "title": "Anime Eyes E (L)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Anime-Eyes-E-L"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Anime-Eyes-E-S.png",
       "title": "Anime Eyes E (S)",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Anime-Eyes-E-S"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Occultic-Third-Eye.png",
       "title": "Occultic Third Eye",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Occultic-Third-Eye"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Light-Rouge.png",
       "title": "Light Rouge",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Light-Rouge"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Stylish-Kumadori.png",
       "title": "Stylish Kumadori",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Stylish-Kumadori"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Shrine-Maiden-Tights.png",
       "title": "Shrine Maiden Tights",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Shrine-Maiden-Tights"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Shrine-Maiden-Tights-B.png",
       "title": "Shrine Maiden Tights B",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Shrine-Maiden-Tights-B"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Inyuu-Gloves.png",
       "title": "Inyuu Gloves",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Inyuu-Gloves"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Enigma-Bandages.png",
       "title": "Enigma Bandages",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Enigma-Bandages"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Enma-Socks.png",
       "title": "Enma Socks",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Enma-Socks"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Enma-Tattoo.png",
       "title": "Enma Tattoo",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Enma-Tattoo"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Genshou-Tights.png",
       "title": "Genshou Tights",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Genshou-Tights"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Genshou-Tights-B.png",
       "title": "Genshou Tights B",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Genshou-Tights-B"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cafuu-Ornament.png",
       "title": "Cafuu Ornament",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Cafuu-Ornament"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Cafuu-Waist-Ribbon.png",
       "title": "Cafuu Waist Ribbon",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Cafuu-Waist-Ribbon"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Soulfire.png",
       "title": "Soulfire",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Soulfire"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Occultic-Eyes-Horns.png",
       "title": "Occultic Eyes Horns",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Occultic-Eyes-Horns"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Occultic-Vixen-Horns.png",
       "title": "Occultic Vixen Horns",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Occultic-Vixen-Horns"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Occultic-Vixen-Ribbon.png",
       "title": "Occultic Vixen Ribbon",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Occultic-Vixen-Ribbon"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genshou-Headgear.png",
       "title": "Genshou Headgear",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genshou-Headgear"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genshou-Ribbon-White.png",
       "title": "Genshou Ribbon: White",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genshou-Ribbon-White"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genshou-Ribbon-Red.png",
       "title": "Genshou Ribbon: Red",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genshou-Ribbon-Red"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genshou-Ribbon-Black.png",
       "title": "Genshou Ribbon: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genshou-Ribbon-Black"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genga-Scarf.png",
       "title": "Genga Scarf",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genga-Scarf"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genga-Scarf-Red.png",
       "title": "Genga Scarf: Red",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genga-Scarf-Red"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genga-Scarf-Black.png",
       "title": "Genga Scarf: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genga-Scarf-Black"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genga-Mask-White.png",
       "title": "Genga Mask: White",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genga-Mask-White"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genga-Mask-Black.png",
       "title": "Genga Mask: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genga-Mask-Black"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Genga-Belt.png",
       "title": "Genga Belt",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Genga-Belt"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Kitsune-Tails.png",
       "title": "Kitsune Tails",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Kitsune-Tails"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Kitsune-Tails-White.png",
       "title": "Kitsune Tails: White",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Kitsune-Tails-White"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Kitsune-Tails-Yellow.png",
       "title": "Kitsune Tails: Yellow",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Kitsune-Tails-Yellow"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Kitsune-Tails-B.png",
       "title": "Kitsune Tails B",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Kitsune-Tails-B"
     },
     {
       "image": "https://phashion.moe/images/Accessories/3-Kitsune-Tails.png",
       "title": "3 Kitsune Tails",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/3-Kitsune-Tails"
     },
     {
       "image": "https://phashion.moe/images/Accessories/3-Kitsune-Tails-White.png",
       "title": "3 Kitsune Tails: White",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/3-Kitsune-Tails-White"
     },
     {
       "image": "https://phashion.moe/images/Accessories/3-Kitsune-Tails-Black.png",
       "title": "3 Kitsune Tails: Black",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/3-Kitsune-Tails-Black"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Yin-Yang-Corsage.png",
       "title": "Yin-Yang Corsage",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Yin-Yang-Corsage"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Chestplate.png",
       "title": "Chestplate",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Chestplate"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Ship-Nose-Armor.png",
       "title": "Ship Nose Armor",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Ship-Nose-Armor"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Monovisor.png",
       "title": "Monovisor",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Monovisor"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Spiked-Leather-Mask.png",
       "title": "Spiked Leather Mask",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Spiked-Leather-Mask"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Spiked-Leather-Mask-B.png",
       "title": "Spiked Leather Mask B",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Spiked-Leather-Mask-B"
     },
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Teruku.png",
       "title": "Evolution Device: Teruku",
-      "category": "Mag Evolution Devices"
+      "category": "Mag Evolution Devices",
+      "url": "https://phashion.moe/Mag-Evolution-Devices/Evolution-Device-Teruku"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Devil-Nyau-Shoulder-Mount-Blue.png",
       "title": "Devil Nyau Shoulder-Mount: Blue",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Devil-Nyau-Shoulder-Mount-Blue"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Devil-Nyau-Shoulder-Mount-Red.png",
       "title": "Devil Nyau Shoulder Mount: Red",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Devil-Nyau-Shoulder-Mount-Red"
     }
   ]
 }

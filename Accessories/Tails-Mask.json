@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Tails-Mask.png",
+  "title": "Tails Mask",
+  "category": "Accessories",
   "collection": {
     "id": "funjune2020part2",
     "type": "FUN Scratch Ticket",
     "title": "June 2020 - Part 2",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funjune2020part2"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part2"
   },
-  "title": "Tails Mask",
-  "category": "Accessories",
   "tradeable": true
 }

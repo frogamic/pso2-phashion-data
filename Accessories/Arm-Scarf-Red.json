@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Arm-Scarf-Red.png",
+  "title": "Arm Scarf: Red",
+  "category": "Accessories",
   "collection": {
     "id": "funjune2020part3",
     "type": "FUN Scratch Ticket",
     "title": "June 2020 - Part 3",
     "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part3.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/funjune2020part3"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part3"
   },
-  "title": "Arm Scarf: Red",
-  "category": "Accessories",
   "tradeable": true
 }

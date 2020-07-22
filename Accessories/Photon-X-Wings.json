@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Accessories/Photon-X-Wings.png",
+  "title": "Photon X Wings",
+  "category": "Accessories",
   "collection": {
     "id": "partyplaycampaign610",
     "type": "Campaign",
     "title": "Party Play!",
     "image": "https://phashion.moe/images/Collections/Campaign/partyplaycampaign610.jpg",
-    "url": "https://pso2.com/news/announcements/partyplaycampaign610"
+    "sourceUrl": "https://pso2.com/news/announcements/partyplaycampaign610"
   },
-  "title": "Photon X Wings",
-  "category": "Accessories",
   "tradeable": true
 }

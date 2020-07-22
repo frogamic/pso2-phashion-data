@@ -3,322 +3,385 @@
   "type": "SG Scratch Ticket",
   "title": "Fallen Heroes",
   "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg",
-  "url": "https://pso2.com/news/scratch-tickets/fallenheroes",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/fallenheroes",
   "items": [
     {
       "image": "https://phashion.moe/images/Outfits/Elder-Attire.png",
       "title": "[Elder] Attire",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Elder-Attire"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Persona-Attire-M.png",
       "title": "[Persona] Attire M",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Persona-Attire-M"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Persona-Collared-Attire-M.png",
       "title": "[Persona] Collared Attire M",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Persona-Collared-Attire-M"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Luther-Attire.png",
       "title": "[Luther] Attire",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Luther-Attire"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Gemini-Male-Attire.png",
       "title": "[Gemini] Male Attire",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Gemini-Male-Attire"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Sirris-Robe-M.png",
       "title": "Sirris Robe M",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Sirris-Robe-M"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Omnis-Blue-M.png",
       "title": "Omnis Blue M",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Omnis-Blue-M"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Apprentice-Attire.png",
       "title": "[Apprentice] Attire",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Apprentice-Attire"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Apprentice-Damaged-Attire.png",
       "title": "[Apprentice] Damaged Attire",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Apprentice-Damaged-Attire"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Persona-Attire-F.png",
       "title": "[Persona] Attire F",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Persona-Attire-F"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Persona-Collared-Attire-F.png",
       "title": "[Persona] Collared Attire F",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Persona-Collared-Attire-F"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Gemini-Female-Attire.png",
       "title": "[Gemini] Female Attire",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Gemini-Female-Attire"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Viel-Cytus.png",
       "title": "Viel Cytus",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Viel-Cytus"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Innocent-Cytus.png",
       "title": "Innocent Cytus",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Innocent-Cytus"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Mikoto-Matoi.png",
       "title": "Mikoto-Matoi",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Mikoto-Matoi"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Captive-Records.png",
       "title": "Captive Records",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Captive-Records"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Sirris-Robe-F.png",
       "title": "Sirris Robe F",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Sirris-Robe-F"
     },
     {
       "image": "https://phashion.moe/images/Outfits/Omnis-Blue-F.png",
       "title": "Omnis Blue F",
-      "category": "Outfits"
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Omnis-Blue-F"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Innocent-Ensemble.png",
       "title": "Innocent Ensemble",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Innocent-Ensemble"
     },
     {
       "image": "https://phashion.moe/images/Outerwear/Mikoto-Ensemble.png",
       "title": "Mikoto Ensemble",
-      "category": "Outerwear"
+      "category": "Outerwear",
+      "url": "https://phashion.moe/Outerwear/Mikoto-Ensemble"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Innocent-Ensemble.png",
       "title": "Innocent Ensemble",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Innocent-Ensemble"
     },
     {
       "image": "https://phashion.moe/images/Basewear/Mikoto-Ensemble.png",
       "title": "Mikoto Ensemble",
-      "category": "Basewear"
+      "category": "Basewear",
+      "url": "https://phashion.moe/Basewear/Mikoto-Ensemble"
     },
     {
       "image": "https://phashion.moe/images/Innerwear/Innocent-Ensemble.png",
       "title": "Innocent Ensemble",
-      "category": "Innerwear"
+      "category": "Innerwear",
+      "url": "https://phashion.moe/Innerwear/Innocent-Ensemble"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Viel-Visor-Pigtails.png",
       "title": "Viel Visor Pigtails",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Viel-Visor-Pigtails"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Viel-Twin-Loops.png",
       "title": "Viel Twin Loops",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Viel-Twin-Loops"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Matoi-Loop-Pigtails.png",
       "title": "Matoi Loop Pigtails",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Matoi-Loop-Pigtails"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Matoi-Loop-Pigtails-2-GV.png",
       "title": "Matoi Loop Pigtails 2 GV",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Matoi-Loop-Pigtails-2-GV"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Long-Pigtails-GV.png",
       "title": "Long Pigtails GV",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Long-Pigtails-GV"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Long-Pigtails-2-GV.png",
       "title": "Long Pigtails 2 GV",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Long-Pigtails-2-GV"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Matoi-Straight.png",
       "title": "Matoi Straight",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Matoi-Straight"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Matoi-Straight-2-GV.png",
       "title": "Matoi Straight 2 GV",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Matoi-Straight-2-GV"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Gemini-Male-Hair.png",
       "title": "[Gemini – Male] Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Gemini-Male-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Gemini-Female-Hair.png",
       "title": "[Gemini – Female] Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Gemini-Female-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Luther-Hair.png",
       "title": "[Luther] Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Luther-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Persona-Hair.png",
       "title": "[Persona] Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Persona-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Elder-Hair.png",
       "title": "[Elder] Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Elder-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Apprentice-Hair.png",
       "title": "[Apprentice] Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Apprentice-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Xion-Long-Hair.png",
       "title": "Xion Long Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Xion-Long-Hair"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Xion-Updo.png",
       "title": "Xion Updo",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Xion-Updo"
     },
     {
       "image": "https://phashion.moe/images/Hairstyles/Xiao-Hair.png",
       "title": "Xiao Hair",
-      "category": "Hairstyles"
+      "category": "Hairstyles",
+      "url": "https://phashion.moe/Hairstyles/Xiao-Hair"
     },
     {
       "image": "https://phashion.moe/images/Eyes/Luther-the-Fallen-Replica-Eyes.png",
       "title": "Luther, the Fallen Replica Eyes",
-      "category": "Eyes"
+      "category": "Eyes",
+      "url": "https://phashion.moe/Eyes/Luther-the-Fallen-Replica-Eyes"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Viel-Tears.png",
       "title": "Viel Tears",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Viel-Tears"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Luther-the-Fallen-Tattoo.png",
       "title": "Luther the Fallen Tattoo",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Luther-the-Fallen-Tattoo"
     },
     {
       "image": "https://phashion.moe/images/Makeup/Dusty-Makeup.png",
       "title": "Dusty Makeup",
-      "category": "Makeup"
+      "category": "Makeup",
+      "url": "https://phashion.moe/Makeup/Dusty-Makeup"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Mikoto-Socks.png",
       "title": "Mikoto Socks",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Mikoto-Socks"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Night-Sea-Paint-M.png",
       "title": "Night Sea Paint M",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Night-Sea-Paint-M"
     },
     {
       "image": "https://phashion.moe/images/Body-Paint/Night-Sea-Paint-F.png",
       "title": "Night Sea Paint F",
-      "category": "Body Paint"
+      "category": "Body Paint",
+      "url": "https://phashion.moe/Body-Paint/Night-Sea-Paint-F"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Persona-Repentant.png",
       "title": "[Persona] Repentant",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Persona-Repentant"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Viel-Bloom-A.png",
       "title": "Viel Bloom A",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Viel-Bloom-A"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Viel-Bloom-B.png",
       "title": "Viel Bloom B",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Viel-Bloom-B"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Viel-Headgear.png",
       "title": "Viel Headgear",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Viel-Headgear"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Innocent-Headgear.png",
       "title": "Innocent Headgear",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Innocent-Headgear"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Mikoto-Matoi-Hairclips.png",
       "title": "Mikoto-Matoi Hairclips",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Mikoto-Matoi-Hairclips"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Luther-Heagear.png",
       "title": "[Luther] Heagear",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Luther-Heagear"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Luther-Earrings.png",
       "title": "[Luther] Earrings",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Luther-Earrings"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Gemini-Male-Hairpin.png",
       "title": "[Gemini – Male] Hairpin",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Gemini-Male-Hairpin"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Apprentice-Visor.png",
       "title": "[Apprentice] Visor",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Apprentice-Visor"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Apprentice-Visor-B.png",
       "title": "[Apprentice] Visor B",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Apprentice-Visor-B"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Mikoto-Corsage-C.png",
       "title": "Mikoto Corsage C",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Mikoto-Corsage-C"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Matoi-Extension.png",
       "title": "Matoi Extension",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Matoi-Extension"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Gemini-Female-Hairpin.png",
       "title": "[Gemini – Female] Hairpin",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Gemini-Female-Hairpin"
     },
     {
       "image": "https://phashion.moe/images/Accessories/Xion-s-Glasses.png",
       "title": "Xion’s Glasses",
-      "category": "Accessories"
+      "category": "Accessories",
+      "url": "https://phashion.moe/Accessories/Xion-s-Glasses"
     },
     {
       "image": "https://phashion.moe/images/Stickers/Dark-Falz-Sign.png",
       "title": "Dark Falz Sign",
-      "category": "Stickers"
+      "category": "Stickers",
+      "url": "https://phashion.moe/Stickers/Dark-Falz-Sign"
     }
   ]
 }

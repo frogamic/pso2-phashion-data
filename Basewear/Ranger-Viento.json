@@ -1,12 +1,5 @@
 {
   "image": "https://phashion.moe/images/Basewear/Ranger-Viento.png",
-  "collection": {
-    "id": "militaryline",
-    "type": "AC Scratch Ticket",
-    "title": "Military Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/militaryline"
-  },
   "title": "Ranger Viento",
   "gender": {
     "female": true,
@@ -17,5 +10,12 @@
     "cast": true
   },
   "category": "Basewear",
+  "collection": {
+    "id": "militaryline",
+    "type": "AC Scratch Ticket",
+    "title": "Military Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline"
+  },
   "tradeable": true
 }

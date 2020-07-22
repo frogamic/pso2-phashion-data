@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Mag-Evolution-Devices/SEGA-GENESIS.png",
+  "title": "SEGA GENESIS",
+  "category": "Mag Evolution Devices",
   "collection": {
     "id": "groupchatcampaign0624",
     "type": "Campaign",
     "title": "Use Group Chat!",
     "image": "https://phashion.moe/images/Collections/Campaign/groupchatcampaign0624.jpg",
-    "url": "https://pso2.com/news/announcements/groupchatcampaign0624"
+    "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign0624"
   },
-  "title": "SEGA GENESIS",
-  "category": "Mag Evolution Devices",
   "tradeable": true
 }

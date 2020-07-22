@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Eyes/Round-Eyes-C-XS.png",
+  "title": "Round Eyes C (XS)",
+  "category": "Eyes",
   "collection": {
     "id": "careerline",
     "type": "AC Scratch Ticket",
     "title": "Career Line",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/careerline"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline"
   },
-  "title": "Round Eyes C (XS)",
-  "category": "Eyes",
   "tradeable": true
 }

@@ -1,13 +1,13 @@
 {
   "image": "https://phashion.moe/images/Hairstyles/Wavy-Pigtails.png",
+  "title": "Wavy Pigtails",
+  "category": "Hairstyles",
   "collection": {
     "id": "heroicwanderer",
     "type": "AC Scratch Ticket",
     "title": "Heroic Wanderer",
     "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
-    "url": "https://pso2.com/news/scratch-tickets/heroicwanderer"
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer"
   },
-  "title": "Wavy Pigtails",
-  "category": "Hairstyles",
   "tradeable": true
 }
