@@ -1,0 +1,13 @@
+{
+  "image": "https://phashion.moe/images/Hairstyles/Sonia-Long-Hair.png",
+  "title": "Sonia Long Hair",
+  "category": "Hairstyles",
+  "collection": {
+    "id": "shiningheroes",
+    "type": "AC Scratch Ticket",
+    "title": "Shining Heroes",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/shiningheroes.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes"
+  },
+  "tradeable": true
+}

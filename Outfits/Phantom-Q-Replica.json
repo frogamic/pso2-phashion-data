@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/Outfits/Phantom-Q-Replica.png",
+  "title": "Phantom Q Replica",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfits",
+  "collection": {
+    "id": "shiningheroes",
+    "type": "AC Scratch Ticket",
+    "title": "Shining Heroes",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/shiningheroes.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes"
+  },
+  "tradeable": true
+}
