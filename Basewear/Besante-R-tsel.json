@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/Basewear/Besante-R-tsel.png",
+  "title": "Besante Rätsel",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collection": {
+    "id": "seasidevacation",
+    "type": "AC Scratch Ticket",
+    "title": "Seaside Vacation",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/seasidevacation.jpg",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/seasidevacation"
+  },
+  "tradeable": true
+}
