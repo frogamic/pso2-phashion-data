@@ -1,1 +1,93 @@
-[{"id":"funjuly2020part3","title":"July 2020 - Part 3","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjuly2020part3.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funjuly2020part3","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funjuly2020part3"},{"id":"funjuly2020part2","title":"July 2020 - Part 2","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjuly2020part2.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funjuly2020part2","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funjuly2020part2"},{"id":"funjuly2020part1","title":"July 2020 - Part 1","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjuly2020part1.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funjuly2020part1","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funjuly2020part1"},{"id":"funjune2020part3","title":"June 2020 - Part 3","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part3.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funjune2020part3","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funjune2020part3"},{"id":"funjune2020part2","title":"June 2020 - Part 2","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funjune2020part2","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funjune2020part2"},{"id":"funjune2020part1","title":"June 2020 - Part 1","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part1.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funjune2020part1","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funjune2020part1"},{"id":"funmay2020part3","title":"May 2020 - Part 3","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part3.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funmay2020part3","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funmay2020part3"},{"id":"funmay2020part2","title":"May 2020 - Part 2","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part2.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funmay2020part2","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funmay2020part2"},{"id":"funmay2020part1","title":"May 2020 - Part 1","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part1.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funmay2020part1","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funmay2020part1"},{"id":"funapril2020part3","title":"April 2020 - Part 3","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part3.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funapril2020part3","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funapril2020part3"},{"id":"funapril2020part2","title":"April 2020 - Part 2","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part2.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funapril2020part2","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funapril2020part2"},{"id":"funapril2020part1","title":"April 2020 - Part 1","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part1.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funapril2020part1","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funapril2020part1"},{"id":"funmarch2020","title":"March 2020","image":"https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmarch2020.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/funmarch2020","url":"https://phashion.moe/Collections/FUN-Scratch-Ticket/funmarch2020"}]
+[
+  {
+    "id": "funjuly2020part3",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part3",
+    "title": "July 2020 - Part 3",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjuly2020part3.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funjuly2020part3"
+  },
+  {
+    "id": "funjuly2020part2",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part2",
+    "title": "July 2020 - Part 2",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjuly2020part2.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funjuly2020part2"
+  },
+  {
+    "id": "funjuly2020part1",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part1",
+    "title": "July 2020 - Part 1",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjuly2020part1.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funjuly2020part1"
+  },
+  {
+    "id": "funjune2020part3",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part3",
+    "title": "June 2020 - Part 3",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part3.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funjune2020part3"
+  },
+  {
+    "id": "funjune2020part2",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part2",
+    "title": "June 2020 - Part 2",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funjune2020part2"
+  },
+  {
+    "id": "funjune2020part1",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part1",
+    "title": "June 2020 - Part 1",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part1.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funjune2020part1"
+  },
+  {
+    "id": "funmay2020part3",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part3",
+    "title": "May 2020 - Part 3",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part3.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funmay2020part3"
+  },
+  {
+    "id": "funmay2020part2",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part2",
+    "title": "May 2020 - Part 2",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part2.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funmay2020part2"
+  },
+  {
+    "id": "funmay2020part1",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part1",
+    "title": "May 2020 - Part 1",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part1.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funmay2020part1"
+  },
+  {
+    "id": "funapril2020part3",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part3",
+    "title": "April 2020 - Part 3",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part3.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funapril2020part3"
+  },
+  {
+    "id": "funapril2020part2",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part2",
+    "title": "April 2020 - Part 2",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part2.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funapril2020part2"
+  },
+  {
+    "id": "funapril2020part1",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part1",
+    "title": "April 2020 - Part 1",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funapril2020part1.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funapril2020part1"
+  },
+  {
+    "id": "funmarch2020",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmarch2020",
+    "title": "March 2020",
+    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmarch2020.jpg",
+    "url": "https://phashion.moe/Collections/FUN-Scratch-Ticket/funmarch2020"
+  }
+]

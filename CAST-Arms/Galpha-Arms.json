@@ -9,9 +9,9 @@
   "collection": {
     "id": "blessedworld",
     "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld",
     "title": "Blessed World",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld"
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg"
   },
   "tradeable": true
 }

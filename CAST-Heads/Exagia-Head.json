@@ -9,9 +9,9 @@
   "collection": {
     "id": "darkomen",
     "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen",
     "title": "Dark Omen",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen"
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg"
   },
   "tradeable": true
 }

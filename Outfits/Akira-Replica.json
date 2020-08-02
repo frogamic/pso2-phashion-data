@@ -13,9 +13,9 @@
   "collection": {
     "id": "segalegacy",
     "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy",
     "title": "Sega Legacy",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy"
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg"
   },
   "tradeable": true
 }

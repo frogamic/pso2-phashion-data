@@ -1,1 +1,58 @@
-[{"id":"independencedayevent2020","title":"Independence Day Event","image":"https://phashion.moe/images/Collections/Event/independencedayevent2020.jpg","sourceUrl":"https://pso2.com/news/announcements/independencedayevent2020","url":"https://phashion.moe/Collections/Event/independencedayevent2020"},{"id":"sonicsbirthday2020","title":"Sonic’s Birthday 2020!","image":"https://phashion.moe/images/Collections/Event/sonicsbirthday2020.png","sourceUrl":"https://pso2.com/news/announcements/sonicsbirthday2020","url":"https://phashion.moe/Collections/Event/sonicsbirthday2020"},{"id":"weddingevent","title":"Introducing the Wedding Event!","image":"https://phashion.moe/images/Collections/Event/weddingevent.jpg","sourceUrl":"https://pso2.com/news/announcements/weddingevent","url":"https://phashion.moe/Collections/Event/weddingevent"},{"id":"sgshopsale0522","title":"SG Shop Sale (5/22)","image":"https://phashion.moe/images/Collections/Event/sgshopsale0522.jpg","sourceUrl":"https://pso2.com/news/announcements/sgshopsale0522","url":"https://phashion.moe/Collections/Event/sgshopsale0522"},{"id":"sgshopsale0515","title":"SG Shop Sale! (5/15)","image":"https://phashion.moe/images/Collections/Event/sgshopsale0515.jpg","sourceUrl":"https://pso2.com/news/announcements/sgshopsale0515","url":"https://phashion.moe/Collections/Event/sgshopsale0515"},{"id":"sgshopsale0508","title":"SG Shop Sale! (05/08)","image":"https://phashion.moe/images/Collections/Event/sgshopsale0508.jpg","sourceUrl":"https://pso2.com/news/announcements/sgshopsale0508","url":"https://phashion.moe/Collections/Event/sgshopsale0508"}]
+[
+  {
+    "id": "episode4launch",
+    "sourceUrl": "https://pso2.com/news/announcements/episode4launch",
+    "title": "What’s New In Episode 4",
+    "image": "https://phashion.moe/images/Collections/Event/episode4launch.jpg",
+    "url": "https://phashion.moe/Collections/Event/episode4launch"
+  },
+  {
+    "id": "steamlaunchrewards",
+    "sourceUrl": "https://pso2.com/news/announcements/steamlaunchrewards",
+    "title": "Steam Launch Rewards",
+    "image": "https://phashion.moe/images/Collections/Event/steamlaunchrewards.jpg",
+    "url": "https://phashion.moe/Collections/Event/steamlaunchrewards"
+  },
+  {
+    "id": "independencedayevent2020",
+    "sourceUrl": "https://pso2.com/news/announcements/independencedayevent2020",
+    "title": "Independence Day Event",
+    "image": "https://phashion.moe/images/Collections/Event/independencedayevent2020.jpg",
+    "url": "https://phashion.moe/Collections/Event/independencedayevent2020"
+  },
+  {
+    "id": "sonicsbirthday2020",
+    "sourceUrl": "https://pso2.com/news/announcements/sonicsbirthday2020",
+    "title": "Sonic’s Birthday 2020!",
+    "image": "https://phashion.moe/images/Collections/Event/sonicsbirthday2020.png",
+    "url": "https://phashion.moe/Collections/Event/sonicsbirthday2020"
+  },
+  {
+    "id": "weddingevent",
+    "sourceUrl": "https://pso2.com/news/announcements/weddingevent",
+    "title": "Introducing the Wedding Event!",
+    "image": "https://phashion.moe/images/Collections/Event/weddingevent.jpg",
+    "url": "https://phashion.moe/Collections/Event/weddingevent"
+  },
+  {
+    "id": "sgshopsale0522",
+    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0522",
+    "title": "SG Shop Sale (5/22)",
+    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0522.jpg",
+    "url": "https://phashion.moe/Collections/Event/sgshopsale0522"
+  },
+  {
+    "id": "sgshopsale0515",
+    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0515",
+    "title": "SG Shop Sale! (5/15)",
+    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0515.jpg",
+    "url": "https://phashion.moe/Collections/Event/sgshopsale0515"
+  },
+  {
+    "id": "sgshopsale0508",
+    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0508",
+    "title": "SG Shop Sale! (05/08)",
+    "image": "https://phashion.moe/images/Collections/Event/sgshopsale0508.jpg",
+    "url": "https://phashion.moe/Collections/Event/sgshopsale0508"
+  }
+]

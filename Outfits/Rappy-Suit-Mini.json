@@ -1,0 +1,21 @@
+{
+  "image": "https://phashion.moe/images/Outfits/Rappy-Suit-Mini.png",
+  "title": "Rappy Suit Mini",
+  "gender": {
+    "female": true,
+    "male": true
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfits",
+  "collection": {
+    "id": "episode4launch",
+    "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/episode4launch",
+    "title": "What’s New In Episode 4",
+    "image": "https://phashion.moe/images/Collections/Event/episode4launch.jpg"
+  },
+  "tradeable": true
+}

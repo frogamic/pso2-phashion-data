@@ -5,9 +5,9 @@
   "collection": {
     "id": "chevalierline",
     "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline",
     "title": "Chevalier Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline"
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg"
   },
   "tradeable": true
 }

@@ -1,0 +1,13 @@
+{
+  "image": "https://phashion.moe/images/Other/720-Headcrab-Emote.png",
+  "title": "720: Headcrab (Emote)",
+  "category": "Other",
+  "collection": {
+    "id": "steamlaunchrewards",
+    "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/steamlaunchrewards",
+    "title": "Steam Launch Rewards",
+    "image": "https://phashion.moe/images/Collections/Event/steamlaunchrewards.jpg"
+  },
+  "tradeable": true
+}

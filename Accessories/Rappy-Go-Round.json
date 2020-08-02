@@ -5,9 +5,9 @@
   "collection": {
     "id": "groupchatcampaign",
     "type": "Campaign",
+    "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign",
     "title": "Use Group Chat!",
-    "image": "https://phashion.moe/images/Collections/Campaign/groupchatcampaign.jpg",
-    "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign"
+    "image": "https://phashion.moe/images/Collections/Campaign/groupchatcampaign.jpg"
   },
   "tradeable": true
 }

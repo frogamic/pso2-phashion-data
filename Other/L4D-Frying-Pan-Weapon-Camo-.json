@@ -1,0 +1,13 @@
+{
+  "image": "https://phashion.moe/images/Other/L4D-Frying-Pan-Weapon-Camo-.png",
+  "title": "* L4D Frying Pan (Weapon Camo)",
+  "category": "Other",
+  "collection": {
+    "id": "steamlaunchrewards",
+    "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/steamlaunchrewards",
+    "title": "Steam Launch Rewards",
+    "image": "https://phashion.moe/images/Collections/Event/steamlaunchrewards.jpg"
+  },
+  "tradeable": true
+}

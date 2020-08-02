@@ -1,0 +1,15 @@
+{
+  "id": "episode4launch",
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/episode4launch",
+  "title": "What’s New In Episode 4",
+  "image": "https://phashion.moe/images/Collections/Event/episode4launch.jpg",
+  "items": [
+    {
+      "image": "https://phashion.moe/images/Outfits/Rappy-Suit-Mini.png",
+      "title": "Rappy Suit Mini",
+      "category": "Outfits",
+      "url": "https://phashion.moe/Outfits/Rappy-Suit-Mini"
+    }
+  ]
+}

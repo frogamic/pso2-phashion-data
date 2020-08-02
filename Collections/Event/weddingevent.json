@@ -1,9 +1,9 @@
 {
   "id": "weddingevent",
   "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/weddingevent",
   "title": "Introducing the Wedding Event!",
   "image": "https://phashion.moe/images/Collections/Event/weddingevent.jpg",
-  "sourceUrl": "https://pso2.com/news/announcements/weddingevent",
   "items": [
     {
       "image": "https://phashion.moe/images/Mag-Evolution-Devices/Froggy-Rappy.png",

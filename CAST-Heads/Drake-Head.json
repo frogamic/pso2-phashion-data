@@ -10,9 +10,9 @@
   "collection": {
     "id": "missionpassseason3",
     "type": "Mission Pass",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
     "title": "Season 3",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3"
+    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg"
   },
   "tradeable": false
 }

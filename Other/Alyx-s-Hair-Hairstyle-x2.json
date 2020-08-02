@@ -1,0 +1,13 @@
+{
+  "image": "https://phashion.moe/images/Other/Alyx-s-Hair-Hairstyle-x2.png",
+  "title": "Alyx's Hair (Hairstyle)  x2",
+  "category": "Other",
+  "collection": {
+    "id": "steamlaunchrewards",
+    "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/steamlaunchrewards",
+    "title": "Steam Launch Rewards",
+    "image": "https://phashion.moe/images/Collections/Event/steamlaunchrewards.jpg"
+  },
+  "tradeable": true
+}

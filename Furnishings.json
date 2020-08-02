@@ -1,1 +1,42 @@
-[{"image":"https://phashion.moe/images/Furnishings/Rappy-Platter.png","title":"Rappy Platter","url":"https://phashion.moe/Furnishings/Rappy-Platter"},{"image":"https://phashion.moe/images/Furnishings/Festival-Stall.png","title":"Festival Stall","url":"https://phashion.moe/Furnishings/Festival-Stall"},{"image":"https://phashion.moe/images/Furnishings/SEGA-Light.png","title":"SEGA Light","url":"https://phashion.moe/Furnishings/SEGA-Light"},{"image":"https://phashion.moe/images/Furnishings/Music-Box.png","title":"Music Box","url":"https://phashion.moe/Furnishings/Music-Box"},{"image":"https://phashion.moe/images/Furnishings/DIVA-Poster-A.png","title":"DIVA Poster A","url":"https://phashion.moe/Furnishings/DIVA-Poster-A"},{"image":"https://phashion.moe/images/Furnishings/DIVA-Poster-B.png","title":"DIVA Poster B","url":"https://phashion.moe/Furnishings/DIVA-Poster-B"},{"image":"https://phashion.moe/images/Furnishings/DIVA-Poster-C.png","title":"DIVA Poster C","url":"https://phashion.moe/Furnishings/DIVA-Poster-C"},{"image":"https://phashion.moe/images/Furnishings/Rainy-Day-Rappy.png","title":"Rainy Day Rappy","url":"https://phashion.moe/Furnishings/Rainy-Day-Rappy"}]
+[
+  {
+    "image": "https://phashion.moe/images/Furnishings/Rappy-Platter.png",
+    "title": "Rappy Platter",
+    "url": "https://phashion.moe/Furnishings/Rappy-Platter"
+  },
+  {
+    "image": "https://phashion.moe/images/Furnishings/Festival-Stall.png",
+    "title": "Festival Stall",
+    "url": "https://phashion.moe/Furnishings/Festival-Stall"
+  },
+  {
+    "image": "https://phashion.moe/images/Furnishings/SEGA-Light.png",
+    "title": "SEGA Light",
+    "url": "https://phashion.moe/Furnishings/SEGA-Light"
+  },
+  {
+    "image": "https://phashion.moe/images/Furnishings/Music-Box.png",
+    "title": "Music Box",
+    "url": "https://phashion.moe/Furnishings/Music-Box"
+  },
+  {
+    "image": "https://phashion.moe/images/Furnishings/DIVA-Poster-A.png",
+    "title": "DIVA Poster A",
+    "url": "https://phashion.moe/Furnishings/DIVA-Poster-A"
+  },
+  {
+    "image": "https://phashion.moe/images/Furnishings/DIVA-Poster-B.png",
+    "title": "DIVA Poster B",
+    "url": "https://phashion.moe/Furnishings/DIVA-Poster-B"
+  },
+  {
+    "image": "https://phashion.moe/images/Furnishings/DIVA-Poster-C.png",
+    "title": "DIVA Poster C",
+    "url": "https://phashion.moe/Furnishings/DIVA-Poster-C"
+  },
+  {
+    "image": "https://phashion.moe/images/Furnishings/Rainy-Day-Rappy.png",
+    "title": "Rainy Day Rappy",
+    "url": "https://phashion.moe/Furnishings/Rainy-Day-Rappy"
+  }
+]

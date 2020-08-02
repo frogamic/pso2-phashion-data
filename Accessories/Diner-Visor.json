@@ -5,9 +5,9 @@
   "collection": {
     "id": "independencedayevent2020",
     "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/independencedayevent2020",
     "title": "Independence Day Event",
-    "image": "https://phashion.moe/images/Collections/Event/independencedayevent2020.jpg",
-    "sourceUrl": "https://pso2.com/news/announcements/independencedayevent2020"
+    "image": "https://phashion.moe/images/Collections/Event/independencedayevent2020.jpg"
   },
   "tradeable": true
 }

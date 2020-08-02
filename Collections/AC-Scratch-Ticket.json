@@ -1,1 +1,107 @@
-[{"id":"seasidevacation","title":"Seaside Vacation","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/seasidevacation.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/seasidevacation","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/seasidevacation"},{"id":"shiningheroes","title":"Shining Heroes","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/shiningheroes.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/shiningheroes","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/shiningheroes"},{"id":"silkendreams","title":"Silken Dreams","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/silkendreams","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/silkendreams"},{"id":"blessedworld","title":"Blessed World","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/blessedworld","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/blessedworld"},{"id":"chevalierline","title":"Chevalier Line","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/chevalierline","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/chevalierline"},{"id":"segalegacy","title":"Sega Legacy","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/segalegacy","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/segalegacy"},{"id":"militaryline","title":"Military Line","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/militaryline","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/militaryline"},{"id":"oraclecelebrations","title":"Oracle Celebrations","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/oraclecelebrations","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/oraclecelebrations"},{"id":"virtualstars","title":"Virtual Stars","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/virtualstars","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/virtualstars"},{"id":"darkomen","title":"Dark Omen","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/darkomen","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/darkomen"},{"id":"careerline","title":"Career Line","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/careerline","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/careerline"},{"id":"crimsondawn","title":"Crimson Dawn","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/crimsondawn","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/crimsondawn"},{"id":"heroicwanderer","title":"Heroic Wanderer","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/heroicwanderer","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/heroicwanderer"},{"id":"urbanlifestyle","title":"Urban Lifestyle","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/urbanlifestyle","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/urbanlifestyle"},{"id":"recruitline","title":"Recruit Line","image":"https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg","sourceUrl":"https://pso2.com/news/scratch-tickets/recruitline","url":"https://phashion.moe/Collections/AC-Scratch-Ticket/recruitline"}]
+[
+  {
+    "id": "seasidevacation",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/seasidevacation",
+    "title": "Seaside Vacation",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/seasidevacation.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/seasidevacation"
+  },
+  {
+    "id": "shiningheroes",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes",
+    "title": "Shining Heroes",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/shiningheroes.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/shiningheroes"
+  },
+  {
+    "id": "silkendreams",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/silkendreams",
+    "title": "Silken Dreams",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/silkendreams"
+  },
+  {
+    "id": "blessedworld",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld",
+    "title": "Blessed World",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/blessedworld"
+  },
+  {
+    "id": "chevalierline",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline",
+    "title": "Chevalier Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/chevalierline"
+  },
+  {
+    "id": "segalegacy",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy",
+    "title": "Sega Legacy",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/segalegacy.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/segalegacy"
+  },
+  {
+    "id": "militaryline",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline",
+    "title": "Military Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/militaryline"
+  },
+  {
+    "id": "oraclecelebrations",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/oraclecelebrations",
+    "title": "Oracle Celebrations",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/oraclecelebrations"
+  },
+  {
+    "id": "virtualstars",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars",
+    "title": "Virtual Stars",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/virtualstars"
+  },
+  {
+    "id": "darkomen",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen",
+    "title": "Dark Omen",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/darkomen"
+  },
+  {
+    "id": "careerline",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline",
+    "title": "Career Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/careerline.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/careerline"
+  },
+  {
+    "id": "crimsondawn",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn",
+    "title": "Crimson Dawn",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/crimsondawn"
+  },
+  {
+    "id": "heroicwanderer",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer",
+    "title": "Heroic Wanderer",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/heroicwanderer"
+  },
+  {
+    "id": "urbanlifestyle",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
+    "title": "Urban Lifestyle",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/urbanlifestyle"
+  },
+  {
+    "id": "recruitline",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline",
+    "title": "Recruit Line",
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
+    "url": "https://phashion.moe/Collections/AC-Scratch-Ticket/recruitline"
+  }
+]

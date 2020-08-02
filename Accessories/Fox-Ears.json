@@ -5,9 +5,9 @@
   "collection": {
     "id": "recruitline",
     "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline",
     "title": "Recruit Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline"
+    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg"
   },
   "tradeable": true
 }

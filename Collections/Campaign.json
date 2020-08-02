@@ -1,1 +1,51 @@
-[{"id":"clearstoryquests0708","title":"Clear Story Quests","image":"https://phashion.moe/images/Collections/Campaign/clearstoryquests0708.jpg","sourceUrl":"https://pso2.com/news/announcements/clearstoryquests0708","url":"https://phashion.moe/Collections/Campaign/clearstoryquests0708"},{"id":"arksboostrally0708","title":"ARKS Boost Rally","image":"https://phashion.moe/images/Collections/Campaign/arksboostrally0708.jpg","sourceUrl":"https://pso2.com/news/announcements/arksboostrally0708","url":"https://phashion.moe/Collections/Campaign/arksboostrally0708"},{"id":"groupchatcampaign0624","title":"Use Group Chat!","image":"https://phashion.moe/images/Collections/Campaign/groupchatcampaign0624.jpg","sourceUrl":"https://pso2.com/news/announcements/groupchatcampaign0624","url":"https://phashion.moe/Collections/Campaign/groupchatcampaign0624"},{"id":"enhancementboostbonuses","title":"Enhancement Boosts & Bonuses","image":"https://phashion.moe/images/Collections/Campaign/enhancementboostbonuses.jpg","sourceUrl":"https://pso2.com/news/announcements/enhancementboostbonuses","url":"https://phashion.moe/Collections/Campaign/enhancementboostbonuses"},{"id":"partyplaycampaign610","title":"Party Play!","image":"https://phashion.moe/images/Collections/Campaign/partyplaycampaign610.jpg","sourceUrl":"https://pso2.com/news/announcements/partyplaycampaign610","url":"https://phashion.moe/Collections/Campaign/partyplaycampaign610"},{"id":"partyplaycampaign610","title":"Party Play!","image":"https://phashion.moe/images/Collections/Campaign/partyplaycampaign610.jpg","sourceUrl":"https://pso2.com/news/announcements/partyplaycampaign610","url":"https://phashion.moe/Collections/Campaign/partyplaycampaign610"},{"id":"joinalliancecampaign0527","title":"Join an Alliance!","image":"https://phashion.moe/images/Collections/Campaign/joinalliancecampaign0527.jpg","sourceUrl":"https://pso2.com/news/announcements/joinalliancecampaign0527","url":"https://phashion.moe/Collections/Campaign/joinalliancecampaign0527"},{"id":"groupchatcampaign","title":"Use Group Chat!","image":"https://phashion.moe/images/Collections/Campaign/groupchatcampaign.jpg","sourceUrl":"https://pso2.com/news/announcements/groupchatcampaign","url":"https://phashion.moe/Collections/Campaign/groupchatcampaign"}]
+[
+  {
+    "id": "clearstoryquests0708",
+    "sourceUrl": "https://pso2.com/news/announcements/clearstoryquests0708",
+    "title": "Clear Story Quests",
+    "image": "https://phashion.moe/images/Collections/Campaign/clearstoryquests0708.jpg",
+    "url": "https://phashion.moe/Collections/Campaign/clearstoryquests0708"
+  },
+  {
+    "id": "arksboostrally0708",
+    "sourceUrl": "https://pso2.com/news/announcements/arksboostrally0708",
+    "title": "ARKS Boost Rally",
+    "image": "https://phashion.moe/images/Collections/Campaign/arksboostrally0708.jpg",
+    "url": "https://phashion.moe/Collections/Campaign/arksboostrally0708"
+  },
+  {
+    "id": "groupchatcampaign0624",
+    "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign0624",
+    "title": "Use Group Chat!",
+    "image": "https://phashion.moe/images/Collections/Campaign/groupchatcampaign0624.jpg",
+    "url": "https://phashion.moe/Collections/Campaign/groupchatcampaign0624"
+  },
+  {
+    "id": "enhancementboostbonuses",
+    "sourceUrl": "https://pso2.com/news/announcements/enhancementboostbonuses",
+    "title": "Enhancement Boosts & Bonuses",
+    "image": "https://phashion.moe/images/Collections/Campaign/enhancementboostbonuses.jpg",
+    "url": "https://phashion.moe/Collections/Campaign/enhancementboostbonuses"
+  },
+  {
+    "id": "partyplaycampaign610",
+    "sourceUrl": "https://pso2.com/news/announcements/partyplaycampaign610",
+    "title": "Party Play!",
+    "image": "https://phashion.moe/images/Collections/Campaign/partyplaycampaign610.jpg",
+    "url": "https://phashion.moe/Collections/Campaign/partyplaycampaign610"
+  },
+  {
+    "id": "joinalliancecampaign0527",
+    "sourceUrl": "https://pso2.com/news/announcements/joinalliancecampaign0527",
+    "title": "Join an Alliance!",
+    "image": "https://phashion.moe/images/Collections/Campaign/joinalliancecampaign0527.jpg",
+    "url": "https://phashion.moe/Collections/Campaign/joinalliancecampaign0527"
+  },
+  {
+    "id": "groupchatcampaign",
+    "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign",
+    "title": "Use Group Chat!",
+    "image": "https://phashion.moe/images/Collections/Campaign/groupchatcampaign.jpg",
+    "url": "https://phashion.moe/Collections/Campaign/groupchatcampaign"
+  }
+]

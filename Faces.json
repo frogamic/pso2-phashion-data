@@ -1,1 +1,12 @@
-[{"image":"https://phashion.moe/images/Faces/Beast-Face-M.png","title":"Beast Face M","url":"https://phashion.moe/Faces/Beast-Face-M"},{"image":"https://phashion.moe/images/Faces/Beast-Face-F.png","title":"Beast Face F","url":"https://phashion.moe/Faces/Beast-Face-F"}]
+[
+  {
+    "image": "https://phashion.moe/images/Faces/Beast-Face-M.png",
+    "title": "Beast Face M",
+    "url": "https://phashion.moe/Faces/Beast-Face-M"
+  },
+  {
+    "image": "https://phashion.moe/images/Faces/Beast-Face-F.png",
+    "title": "Beast Face F",
+    "url": "https://phashion.moe/Faces/Beast-Face-F"
+  }
+]
