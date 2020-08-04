@@ -1,45 +1,38 @@
 {
-  "id": "freshfindsshop0526",
   "type": "Fresh Finds Shop",
   "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0526",
   "title": "Recommended Items (5/26)",
-  "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0526.jpg",
+  "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0526",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Wedding-Dress.png",
       "title": "Wedding Dress",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Wedding-Dress"
+      "category": "Outfit",
+      "slug": "Outfit/Wedding-Dress"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Ceremony-Tuxedo.png",
       "title": "Ceremony Tuxedo",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Ceremony-Tuxedo"
+      "category": "Outfit",
+      "slug": "Outfit/Ceremony-Tuxedo"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Bridal-Outfit.png",
       "title": "Bridal Outfit",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Bridal-Outfit"
+      "category": "Outfit",
+      "slug": "Outfit/Bridal-Outfit"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Twin-Buns.png",
       "title": "Twin Buns",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Twin-Buns"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Twin-Buns"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wedding-Veil.png",
       "title": "Wedding Veil",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wedding-Veil"
+      "category": "Accessory",
+      "slug": "Accessory/Wedding-Veil"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wedding-Flowers-Blue.png",
       "title": "Wedding Flowers: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wedding-Flowers-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Wedding-Flowers-Blue"
     }
   ]
 }

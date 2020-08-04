@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Body-Paint/Full-Body-Tights-M-Red.png",
   "title": "Full Body Tights M: Red",
   "category": "Body Paint",
   "collection": {
-    "id": "funmay2020part2",
+    "title": "May 2020 - Part 2",
     "type": "FUN Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part2",
-    "title": "May 2020 - Part 2",
-    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmay2020part2.jpg"
+    "slug": "Collections/FUN-Scratch-Ticket/funmay2020part2"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Body-Paint/Full-Body-Tights-M-Red"
 }

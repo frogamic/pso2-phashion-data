@@ -1,0 +1,20 @@
+{
+  "title": "Alicia Replica",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Sega Legacy",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy",
+    "slug": "Collections/AC-Scratch-Ticket/segalegacy"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Alicia-Replica"
+}

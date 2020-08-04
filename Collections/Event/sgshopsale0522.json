@@ -1,75 +1,63 @@
 {
-  "id": "sgshopsale0522",
   "type": "Event",
   "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0522",
   "title": "SG Shop Sale (5/22)",
-  "image": "https://phashion.moe/images/Collections/Event/sgshopsale0522.jpg",
+  "slug": "Collections/Event/sgshopsale0522",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outerwear/Tylor-Replica-M.png",
       "title": "Tylor Replica M",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Tylor-Replica-M"
+      "slug": "Outerwear/Tylor-Replica-M"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Tylor-Replica-M.png",
       "title": "Tylor Replica M",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Tylor-Replica-M"
+      "slug": "Basewear/Tylor-Replica-M"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Tylor-Scar.png",
       "title": "Tylor Scar",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Tylor-Scar"
+      "category": "Facepaint",
+      "slug": "Facepaint/Tylor-Scar"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Tylor-s-Sunglasses.png",
       "title": "Tylor's Sunglasses",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Tylor-s-Sunglasses"
+      "category": "Accessory",
+      "slug": "Accessory/Tylor-s-Sunglasses"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Tylor-s-Pendant.png",
       "title": "Tylor's Pendant",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Tylor-s-Pendant"
+      "category": "Accessory",
+      "slug": "Accessory/Tylor-s-Pendant"
     },
     {
-      "image": "https://phashion.moe/images/Faces/Beast-Face-M.png",
       "title": "Beast Face M",
-      "category": "Faces",
-      "url": "https://phashion.moe/Faces/Beast-Face-M"
+      "category": "Face",
+      "slug": "Face/Beast-Face-M"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Tylor-Replica-F.png",
       "title": "Tylor Replica F",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Tylor-Replica-F"
+      "slug": "Outerwear/Tylor-Replica-F"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Tylor-Scar.png",
       "title": "Tylor Scar",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Tylor-Scar"
+      "category": "Facepaint",
+      "slug": "Facepaint/Tylor-Scar"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Tylor-s-Sunglasses.png",
       "title": "Tylor's Sunglasses",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Tylor-s-Sunglasses"
+      "category": "Accessory",
+      "slug": "Accessory/Tylor-s-Sunglasses"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Tylor-s-Pendant.png",
       "title": "Tylor's Pendant",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Tylor-s-Pendant"
+      "category": "Accessory",
+      "slug": "Accessory/Tylor-s-Pendant"
     },
     {
-      "image": "https://phashion.moe/images/Faces/Beast-Face-F.png",
       "title": "Beast Face F",
-      "category": "Faces",
-      "url": "https://phashion.moe/Faces/Beast-Face-F"
+      "category": "Face",
+      "slug": "Face/Beast-Face-F"
     }
   ]
 }

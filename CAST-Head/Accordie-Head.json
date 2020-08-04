@@ -1,0 +1,16 @@
+{
+  "title": "Accordie Head",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Head",
+  "collection": {
+    "title": "Maestro Summoner",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/maestrosummoner",
+    "slug": "Collections/AC-Scratch-Ticket/maestrosummoner"
+  },
+  "tradeable": true,
+  "slug": "CAST-Head/Accordie-Head"
+}

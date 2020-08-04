@@ -1,459 +1,383 @@
 {
-  "id": "oraclecelebrations",
   "type": "AC Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/oraclecelebrations",
   "title": "Oracle Celebrations",
-  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg",
+  "slug": "Collections/AC-Scratch-Ticket/oraclecelebrations",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outerwear/Casamento-Tuxedo.png",
       "title": "Casamento Tuxedo",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Casamento-Tuxedo"
+      "slug": "Outerwear/Casamento-Tuxedo"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Winged-Excellence.png",
       "title": "Winged Excellence",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Winged-Excellence"
+      "slug": "Outerwear/Winged-Excellence"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Cathedral-Formal-M.png",
       "title": "Cathedral Formal M",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Cathedral-Formal-M"
+      "slug": "Outerwear/Cathedral-Formal-M"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Nozze-Fiore.png",
       "title": "Nozze Fiore",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Nozze-Fiore"
+      "slug": "Outerwear/Nozze-Fiore"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Winged-Elegance.png",
       "title": "Winged Elegance",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Winged-Elegance"
+      "slug": "Outerwear/Winged-Elegance"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Gothic-Cape.png",
       "title": "Gothic Cape",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Gothic-Cape"
+      "slug": "Outerwear/Gothic-Cape"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Cathedral-Formal-F.png",
       "title": "Cathedral Formal F",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Cathedral-Formal-F"
+      "slug": "Outerwear/Cathedral-Formal-F"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Casamento-Tuxedo.png",
       "title": "Casamento Tuxedo",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Casamento-Tuxedo"
+      "slug": "Basewear/Casamento-Tuxedo"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Winged-Excellence.png",
       "title": "Winged Excellence",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Winged-Excellence"
+      "slug": "Basewear/Winged-Excellence"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Cathedral-Formal-M.png",
       "title": "Cathedral Formal M",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Cathedral-Formal-M"
+      "slug": "Basewear/Cathedral-Formal-M"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Cathedral-Mini-M.png",
       "title": "Cathedral Mini M",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Cathedral-Mini-M"
+      "slug": "Basewear/Cathedral-Mini-M"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Nozze-Fiore.png",
       "title": "Nozze Fiore",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Nozze-Fiore"
+      "slug": "Basewear/Nozze-Fiore"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Winged-Elegance.png",
       "title": "Winged Elegance",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Winged-Elegance"
+      "slug": "Basewear/Winged-Elegance"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Gothic-Dress.png",
       "title": "Gothic Dress",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Gothic-Dress"
+      "slug": "Basewear/Gothic-Dress"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Cathedral-Formal-F.png",
       "title": "Cathedral Formal F",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Cathedral-Formal-F"
+      "slug": "Basewear/Cathedral-Formal-F"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Cathedral-Mini-F.png",
       "title": "Cathedral Mini F",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Cathedral-Mini-F"
+      "slug": "Basewear/Cathedral-Mini-F"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Winged-Excellence.png",
       "title": "Winged Excellence",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Winged-Excellence"
+      "slug": "Innerwear/Winged-Excellence"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Nozze-Fiore.png",
       "title": "Nozze Fiore",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Nozze-Fiore"
+      "slug": "Innerwear/Nozze-Fiore"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Winged-Elegance.png",
       "title": "Winged Elegance",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Winged-Elegance"
+      "slug": "Innerwear/Winged-Elegance"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Hylow-Body.png",
       "title": "Hylow Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Hylow-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Hylow-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Hylow-Arms.png",
       "title": "Hylow Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Hylow-Arms"
+      "slug": "CAST-Arms/Hylow-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Hylow-Legs.png",
       "title": "Hylow Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Hylow-Legs"
+      "slug": "CAST-Legs/Hylow-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Hylow-Head.png",
       "title": "Hylow Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Hylow-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Hylow-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Nimbus-Body.png",
       "title": "Nimbus Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Nimbus-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Nimbus-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Nimbus-Arms.png",
       "title": "Nimbus Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Nimbus-Arms"
+      "slug": "CAST-Arms/Nimbus-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Nimbus-Legs.png",
       "title": "Nimbus Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Nimbus-Legs"
+      "slug": "CAST-Legs/Nimbus-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Nimbus-Head.png",
       "title": "Nimbus Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Nimbus-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Nimbus-Head"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Nozze-Hair.png",
       "title": "Nozze Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Nozze-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Nozze-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Side-Fringe-Off-Center-Short.png",
       "title": "Side Fringe Off-Center Short",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Side-Fringe-Off-Center-Short"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Side-Fringe-Off-Center-Short"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Cathedral-Hair.png",
       "title": "Cathedral Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Cathedral-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Cathedral-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Twinkling-Eyes-L.png",
       "title": "Twinkling Eyes (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Twinkling-Eyes-L"
+      "slug": "Eyes/Twinkling-Eyes-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Twinkling-Eyes-S.png",
       "title": "Twinkling Eyes (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Twinkling-Eyes-S"
+      "slug": "Eyes/Twinkling-Eyes-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Heart-Eyes-L.png",
       "title": "Heart Eyes (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Heart-Eyes-L"
+      "slug": "Eyes/Heart-Eyes-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Heart-Eyes-S.png",
       "title": "Heart Eyes (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Heart-Eyes-S"
+      "slug": "Eyes/Heart-Eyes-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Heartful-Eyes.png",
       "title": "Heartful Eyes",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Heartful-Eyes"
+      "slug": "Eyes/Heartful-Eyes"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Natural-Makeup-D.png",
       "title": "Natural Makeup D",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Natural-Makeup-D"
+      "category": "Facepaint",
+      "slug": "Facepaint/Natural-Makeup-D"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Elegant-Thigh-Highs.png",
       "title": "Elegant Thigh-Highs",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Elegant-Thigh-Highs"
+      "slug": "Body-Paint/Elegant-Thigh-Highs"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Cathedral-Tights-M-Set.png",
       "title": "Cathedral Tights M Set",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Cathedral-Tights-M-Set"
+      "slug": "Body-Paint/Cathedral-Tights-M-Set"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Cathedral-Tights-F-Set.png",
       "title": "Cathedral Tights F Set",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Cathedral-Tights-F-Set"
+      "slug": "Body-Paint/Cathedral-Tights-F-Set"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Nozze-Tiara.png",
       "title": "Nozze Tiara",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Nozze-Tiara"
+      "category": "Accessory",
+      "slug": "Accessory/Nozze-Tiara"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Mask-of-Elegance.png",
       "title": "Mask of Elegance",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Mask-of-Elegance"
+      "category": "Accessory",
+      "slug": "Accessory/Mask-of-Elegance"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Mask-of-Excellence.png",
       "title": "Mask of Excellence",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Mask-of-Excellence"
+      "category": "Accessory",
+      "slug": "Accessory/Mask-of-Excellence"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Nimbus-Wings.png",
       "title": "Nimbus Wings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Nimbus-Wings"
+      "category": "Accessory",
+      "slug": "Accessory/Nimbus-Wings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Hylow-Circle.png",
       "title": "Hylow Circle",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Hylow-Circle"
+      "category": "Accessory",
+      "slug": "Accessory/Hylow-Circle"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Cathedral-Mini-veil.png",
       "title": "Cathedral Mini-veil",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Cathedral-Mini-veil"
+      "category": "Accessory",
+      "slug": "Accessory/Cathedral-Mini-veil"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Cathedral-Necklace.png",
       "title": "Cathedral Necklace",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Cathedral-Necklace"
+      "category": "Accessory",
+      "slug": "Accessory/Cathedral-Necklace"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wagging-Tail.png",
       "title": "Wagging Tail",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wagging-Tail"
+      "category": "Accessory",
+      "slug": "Accessory/Wagging-Tail"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wagging-Tail-Brown.png",
       "title": "Wagging Tail: Brown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wagging-Tail-Brown"
+      "category": "Accessory",
+      "slug": "Accessory/Wagging-Tail-Brown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wagging-Tail-Black.png",
       "title": "Wagging Tail: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wagging-Tail-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Wagging-Tail-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Double-Ponytails-A.png",
       "title": "Double Ponytails A",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Double-Ponytails-A"
+      "category": "Accessory",
+      "slug": "Accessory/Double-Ponytails-A"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Double-Ponytails-B.png",
       "title": "Double Ponytails B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Double-Ponytails-B"
+      "category": "Accessory",
+      "slug": "Accessory/Double-Ponytails-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Double-Ponytails-C.png",
       "title": "Double Ponytails C",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Double-Ponytails-C"
+      "category": "Accessory",
+      "slug": "Accessory/Double-Ponytails-C"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Flower-Crown.png",
       "title": "Flower Crown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Flower-Crown"
+      "category": "Accessory",
+      "slug": "Accessory/Flower-Crown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Flower-Brooch.png",
       "title": "Flower Brooch",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Flower-Brooch"
+      "category": "Accessory",
+      "slug": "Accessory/Flower-Brooch"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Gothic-Hood.png",
       "title": "Gothic Hood",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Gothic-Hood"
+      "category": "Accessory",
+      "slug": "Accessory/Gothic-Hood"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wedding-Tiara.png",
       "title": "Wedding Tiara",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wedding-Tiara"
+      "category": "Accessory",
+      "slug": "Accessory/Wedding-Tiara"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wedding-Necklace.png",
       "title": "Wedding Necklace",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wedding-Necklace"
+      "category": "Accessory",
+      "slug": "Accessory/Wedding-Necklace"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wedding-Corsage.png",
       "title": "Wedding Corsage",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wedding-Corsage"
+      "category": "Accessory",
+      "slug": "Accessory/Wedding-Corsage"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wedding-Corsage-B.png",
       "title": "Wedding Corsage B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wedding-Corsage-B"
+      "category": "Accessory",
+      "slug": "Accessory/Wedding-Corsage-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Black-Rose.png",
       "title": "Black Rose",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Black-Rose"
+      "category": "Accessory",
+      "slug": "Accessory/Black-Rose"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wings-Earrings-Water.png",
       "title": "Wings Earrings: Water",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wings-Earrings-Water"
+      "category": "Accessory",
+      "slug": "Accessory/Wings-Earrings-Water"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wings-Earrings-Red.png",
       "title": "Wings Earrings: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wings-Earrings-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Wings-Earrings-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wings-Earrings-Green.png",
       "title": "Wings Earrings: Green",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wings-Earrings-Green"
+      "category": "Accessory",
+      "slug": "Accessory/Wings-Earrings-Green"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wings-Earrings-White.png",
       "title": "Wings Earrings: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wings-Earrings-White"
+      "category": "Accessory",
+      "slug": "Accessory/Wings-Earrings-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Sparkles-L.png",
       "title": "Sparkles (L)",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Sparkles-L"
+      "category": "Accessory",
+      "slug": "Accessory/Sparkles-L"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Sparkles-S.png",
       "title": "Sparkles (S)",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Sparkles-S"
+      "category": "Accessory",
+      "slug": "Accessory/Sparkles-S"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rose-Hood.png",
       "title": "Rose Hood",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rose-Hood"
+      "category": "Accessory",
+      "slug": "Accessory/Rose-Hood"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rose-Hood-White.png",
       "title": "Rose Hood: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rose-Hood-White"
+      "category": "Accessory",
+      "slug": "Accessory/Rose-Hood-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rose-Hood-Black.png",
       "title": "Rose Hood: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rose-Hood-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Rose-Hood-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Angel-Wings.png",
       "title": "Angel Wings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Angel-Wings"
+      "category": "Accessory",
+      "slug": "Accessory/Angel-Wings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Angel-Wings-White.png",
       "title": "Angel Wings: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Angel-Wings-White"
+      "category": "Accessory",
+      "slug": "Accessory/Angel-Wings-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Angel-Wings-Black.png",
       "title": "Angel Wings: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Angel-Wings-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Angel-Wings-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Single-Angel-Wing.png",
       "title": "Single Angel Wing",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Single-Angel-Wing"
+      "category": "Accessory",
+      "slug": "Accessory/Single-Angel-Wing"
     },
     {
-      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Wedding-Bell.png",
       "title": "Wedding Bell",
-      "category": "Mag Evolution Devices",
-      "url": "https://phashion.moe/Mag-Evolution-Devices/Wedding-Bell"
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Wedding-Bell"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Umbra-Doll.png",
       "title": "Umbra Doll",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Umbra-Doll"
+      "category": "Accessory",
+      "slug": "Accessory/Umbra-Doll"
     }
   ]
 }

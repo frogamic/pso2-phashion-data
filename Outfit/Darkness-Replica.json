@@ -1,0 +1,20 @@
+{
+  "title": "Darkness Replica",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Blessed World",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld",
+    "slug": "Collections/AC-Scratch-Ticket/blessedworld"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Darkness-Replica"
+}

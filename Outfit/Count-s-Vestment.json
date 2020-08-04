@@ -1,0 +1,20 @@
+{
+  "title": "Count's Vestment",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Recommended Items (5/12)",
+    "type": "Fresh Finds Shop",
+    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0512",
+    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0512"
+  },
+  "tradeable": false,
+  "slug": "Outfit/Count-s-Vestment"
+}

@@ -1,39 +1,33 @@
 {
-  "id": "freshfindsshop0609",
   "type": "Fresh Finds Shop",
   "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0609",
   "title": "Recommended Items (6/9)",
-  "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0609.jpg",
+  "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0609",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Kraz-Replica.png",
       "title": "Kraz Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kraz-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Kraz-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Ursula-Replica.png",
       "title": "Ursula Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Ursula-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Ursula-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ursula-Earrings.png",
       "title": "Ursula Earrings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ursula-Earrings"
+      "category": "Accessory",
+      "slug": "Accessory/Ursula-Earrings"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Emilia-Replica.png",
       "title": "Emilia Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Emilia-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Emilia-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Half-Up-Ponytail.png",
       "title": "Half-Up Ponytail",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Half-Up-Ponytail"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Half-Up-Ponytail"
     }
   ]
 }

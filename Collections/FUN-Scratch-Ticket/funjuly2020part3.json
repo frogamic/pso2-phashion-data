@@ -1,225 +1,188 @@
 {
-  "id": "funjuly2020part3",
   "type": "FUN Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part3",
   "title": "July 2020 - Part 3",
-  "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjuly2020part3.jpg",
+  "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part3",
   "items": [
     {
-      "image": "https://phashion.moe/images/Hairstyles/Cool-Pompadour.png",
       "title": "Cool Pompadour",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Cool-Pompadour"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Cool-Pompadour"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Parted-Straight-Long-Hair.png",
       "title": "Parted Straight Long Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Parted-Straight-Long-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Parted-Straight-Long-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Eyebrows/Thin-Shrewd-Eyebrows.png",
       "title": "Thin Shrewd Eyebrows",
       "category": "Eyebrows",
-      "url": "https://phashion.moe/Eyebrows/Thin-Shrewd-Eyebrows"
+      "slug": "Eyebrows/Thin-Shrewd-Eyebrows"
     },
     {
-      "image": "https://phashion.moe/images/Eyebrows/Thick-Droopy-Eyebrows.png",
       "title": "Thick Droopy Eyebrows",
       "category": "Eyebrows",
-      "url": "https://phashion.moe/Eyebrows/Thick-Droopy-Eyebrows"
+      "slug": "Eyebrows/Thick-Droopy-Eyebrows"
     },
     {
-      "image": "https://phashion.moe/images/Eyelashes/Full-Slanted-Lashes-Set.png",
       "title": "Full Slanted Lashes Set",
       "category": "Eyelashes",
-      "url": "https://phashion.moe/Eyelashes/Full-Slanted-Lashes-Set"
+      "slug": "Eyelashes/Full-Slanted-Lashes-Set"
     },
     {
-      "image": "https://phashion.moe/images/Eyelashes/Upper-Distinct-Lashes-Set.png",
       "title": "Upper Distinct Lashes Set",
       "category": "Eyelashes",
-      "url": "https://phashion.moe/Eyelashes/Upper-Distinct-Lashes-Set"
+      "slug": "Eyelashes/Upper-Distinct-Lashes-Set"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Pirate-M-Tattoo-A.png",
       "title": "Pirate M Tattoo A",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Pirate-M-Tattoo-A"
+      "slug": "Body-Paint/Pirate-M-Tattoo-A"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Pirate-F-Tattoo-A.png",
       "title": "Pirate F Tattoo A",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Pirate-F-Tattoo-A"
+      "slug": "Body-Paint/Pirate-F-Tattoo-A"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Casual-Leg-Pack-A.png",
       "title": "Casual Leg Pack A",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Casual-Leg-Pack-A"
+      "category": "Accessory",
+      "slug": "Accessory/Casual-Leg-Pack-A"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Casual-Leg-Pack-B.png",
       "title": "Casual Leg Pack B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Casual-Leg-Pack-B"
+      "category": "Accessory",
+      "slug": "Accessory/Casual-Leg-Pack-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wide-Brim-Straw-Hat-Brown.png",
       "title": "Wide Brim Straw Hat: Brown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wide-Brim-Straw-Hat-Brown"
+      "category": "Accessory",
+      "slug": "Accessory/Wide-Brim-Straw-Hat-Brown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wide-Brim-Straw-Hat-Dark.png",
       "title": "Wide Brim Straw Hat: Dark",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wide-Brim-Straw-Hat-Dark"
+      "category": "Accessory",
+      "slug": "Accessory/Wide-Brim-Straw-Hat-Dark"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wide-Brim-Straw-Hat-Black.png",
       "title": "Wide Brim Straw Hat: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wide-Brim-Straw-Hat-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Wide-Brim-Straw-Hat-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Pirate-Flag.png",
       "title": "Pirate Flag",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Pirate-Flag"
+      "category": "Accessory",
+      "slug": "Accessory/Pirate-Flag"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lei.png",
       "title": "Lei",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lei"
+      "category": "Accessory",
+      "slug": "Accessory/Lei"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Head-Lei.png",
       "title": "Head Lei",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Head-Lei"
+      "category": "Accessory",
+      "slug": "Accessory/Head-Lei"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Flight-Unit.png",
       "title": "Flight Unit",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Flight-Unit"
+      "category": "Accessory",
+      "slug": "Accessory/Flight-Unit"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Swim-Goggles.png",
       "title": "Swim Goggles",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Swim-Goggles"
+      "category": "Accessory",
+      "slug": "Accessory/Swim-Goggles"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Beach-Umbrella-Red.png",
       "title": "Beach Umbrella: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Beach-Umbrella-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Beach-Umbrella-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Beach-Umbrella-Blue.png",
       "title": "Beach Umbrella: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Beach-Umbrella-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Beach-Umbrella-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Beach-Umbrella-Yellow.png",
       "title": "Beach Umbrella: Yellow",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Beach-Umbrella-Yellow"
+      "category": "Accessory",
+      "slug": "Accessory/Beach-Umbrella-Yellow"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Watermelon-Sling.png",
       "title": "Watermelon Sling",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Watermelon-Sling"
+      "category": "Accessory",
+      "slug": "Accessory/Watermelon-Sling"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Cold-Sweat.png",
       "title": "Cold Sweat",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Cold-Sweat"
+      "category": "Facepaint",
+      "slug": "Facepaint/Cold-Sweat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Leo-Head.png",
       "title": "Leo Head",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Leo-Head"
+      "category": "Accessory",
+      "slug": "Accessory/Leo-Head"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lion-Breastplate.png",
       "title": "Lion Breastplate",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lion-Breastplate"
+      "category": "Accessory",
+      "slug": "Accessory/Lion-Breastplate"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Party-Horn-Red.png",
       "title": "Party Horn: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Party-Horn-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Party-Horn-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Party-Horn-Blue.png",
       "title": "Party Horn: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Party-Horn-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Party-Horn-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Party-Horn-Yellow.png",
       "title": "Party Horn: Yellow",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Party-Horn-Yellow"
+      "category": "Accessory",
+      "slug": "Accessory/Party-Horn-Yellow"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Twin-Megaphones-Red.png",
       "title": "Twin Megaphones: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Twin-Megaphones-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Twin-Megaphones-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Twin-Megaphones-Yellow.png",
       "title": "Twin Megaphones: Yellow",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Twin-Megaphones-Yellow"
+      "category": "Accessory",
+      "slug": "Accessory/Twin-Megaphones-Yellow"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Twin-Megaphones-Green.png",
       "title": "Twin Megaphones: Green",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Twin-Megaphones-Green"
+      "category": "Accessory",
+      "slug": "Accessory/Twin-Megaphones-Green"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Spikes-L.png",
       "title": "Shoulder Spikes L",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Spikes-L"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Spikes-L"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Spikes-R.png",
       "title": "Shoulder Spikes R",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Spikes-R"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Spikes-R"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Robo-Mask.png",
       "title": "Robo Mask",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Robo-Mask"
+      "category": "Accessory",
+      "slug": "Accessory/Robo-Mask"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Robo-Mask-Gray.png",
       "title": "Robo Mask: Gray",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Robo-Mask-Gray"
+      "category": "Accessory",
+      "slug": "Accessory/Robo-Mask-Gray"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/Leo-Sticker-Set.png",
       "title": "Leo Sticker Set",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/Leo-Sticker-Set"
+      "category": "Sticker",
+      "slug": "Sticker/Leo-Sticker-Set"
     }
   ]
 }

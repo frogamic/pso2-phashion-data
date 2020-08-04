@@ -1,15 +1,68 @@
 {
-  "id": "episode4launch",
   "type": "Event",
   "sourceUrl": "https://pso2.com/news/announcements/episode4launch",
   "title": "What’s New In Episode 4",
-  "image": "https://phashion.moe/images/Collections/Event/episode4launch.jpg",
+  "slug": "Collections/Event/episode4launch",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Rappy-Suit-Mini.png",
+      "title": "S. CN Mantis",
+      "category": "Weapon",
+      "slug": "Weapon/S-CN-Mantis"
+    },
+    {
+      "title": "Quotz Vidiya",
+      "category": "Weapon",
+      "slug": "Weapon/Quotz-Vidiya"
+    },
+    {
+      "title": "Sieger Archer",
+      "category": "Weapon",
+      "slug": "Weapon/Sieger-Archer"
+    },
+    {
+      "title": "* Jilad Zahal",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Jilad-Zahal"
+    },
+    {
+      "title": "* Jilad Assan",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Jilad-Assan"
+    },
+    {
       "title": "Rappy Suit Mini",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Rappy-Suit-Mini"
+      "category": "Outfit",
+      "slug": "Outfit/Rappy-Suit-Mini"
+    },
+    {
+      "title": "Homura no Ohdachi",
+      "category": "Weapon",
+      "slug": "Weapon/Homura-no-Ohdachi"
+    },
+    {
+      "title": "Homura no Toshi",
+      "category": "Weapon",
+      "slug": "Weapon/Homura-no-Toshi"
+    },
+    {
+      "title": "Homura no Kashaku",
+      "category": "Weapon",
+      "slug": "Weapon/Homura-no-Kashaku"
+    },
+    {
+      "title": "Spear Revolsio",
+      "category": "Weapon",
+      "slug": "Weapon/Spear-Revolsio"
+    },
+    {
+      "title": "Bullet Revolsio",
+      "category": "Weapon",
+      "slug": "Weapon/Bullet-Revolsio"
+    },
+    {
+      "title": "Edge Revolsio",
+      "category": "Weapon",
+      "slug": "Weapon/Edge-Revolsio"
     }
   ]
 }

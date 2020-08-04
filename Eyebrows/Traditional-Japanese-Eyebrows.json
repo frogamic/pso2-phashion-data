@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Eyebrows/Traditional-Japanese-Eyebrows.png",
   "title": "Traditional Japanese Eyebrows",
   "category": "Eyebrows",
   "collection": {
-    "id": "funmarch2020",
+    "title": "March 2020",
     "type": "FUN Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/funmarch2020",
-    "title": "March 2020",
-    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmarch2020.jpg"
+    "slug": "Collections/FUN-Scratch-Ticket/funmarch2020"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Eyebrows/Traditional-Japanese-Eyebrows"
 }

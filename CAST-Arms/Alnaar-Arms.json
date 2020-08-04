@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/CAST-Arms/Alnaar-Arms.png",
   "title": "Alnaar Arms",
   "gender": {
     "female": true,
@@ -7,11 +6,11 @@
   },
   "category": "CAST Arms",
   "collection": {
-    "id": "recruitline",
+    "title": "Recruit Line",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline",
-    "title": "Recruit Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/recruitline"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "CAST-Arms/Alnaar-Arms"
 }

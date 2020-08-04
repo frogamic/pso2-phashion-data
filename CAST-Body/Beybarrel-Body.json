@@ -1,0 +1,17 @@
+{
+  "title": "Beybarrel Body",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "tier": 29,
+  "category": "CAST Body",
+  "collection": {
+    "title": "Season 6",
+    "type": "Mission Pass",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
+    "slug": "Collections/Mission-Pass/missionpassseason6"
+  },
+  "tradeable": false,
+  "slug": "CAST-Body/Beybarrel-Body"
+}

@@ -1,471 +1,463 @@
 {
-  "id": "shiningheroes",
   "type": "AC Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes",
   "title": "Shining Heroes",
-  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/shiningheroes.jpg",
+  "slug": "Collections/AC-Scratch-Ticket/shiningheroes",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Rage-Replica.png",
       "title": "Rage Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Rage-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Rage-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Yuma-Replica.png",
       "title": "Yuma Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Yuma-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Yuma-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Marion-Replica-M.png",
       "title": "Marion Replica M",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Marion-Replica-M"
+      "category": "Outfit",
+      "slug": "Outfit/Marion-Replica-M"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Jenius-Replica-M.png",
       "title": "Jenius Replica M",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Jenius-Replica-M"
+      "category": "Outfit",
+      "slug": "Outfit/Jenius-Replica-M"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Zest-Replica-M.png",
       "title": "Zest Replica M",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Zest-Replica-M"
+      "category": "Outfit",
+      "slug": "Outfit/Zest-Replica-M"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Panis-Replica.png",
       "title": "Panis Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Panis-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Panis-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Sakuya-Mode-N-Replica.png",
       "title": "Sakuya Mode-N Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Sakuya-Mode-N-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Sakuya-Mode-N-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Phantom-Q-Replica.png",
       "title": "Phantom Q Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Phantom-Q-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Phantom-Q-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Urayukihime-Replica.png",
       "title": "Urayukihime Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Urayukihime-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Urayukihime-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Sakuya-Mode-C.png",
       "title": "Sakuya Mode-C",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Sakuya-Mode-C"
+      "category": "Outfit",
+      "slug": "Outfit/Sakuya-Mode-C"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Misty-Replica.png",
       "title": "Misty Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Misty-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Misty-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Altina-Replica.png",
       "title": "Altina Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Altina-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Altina-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Yukihime-Replica.png",
       "title": "Yukihime Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Yukihime-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Yukihime-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Cerberus-Q-Replica.png",
       "title": "Cerberus Q Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Cerberus-Q-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Cerberus-Q-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Marion-Replica-F.png",
       "title": "Marion Replica F",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Marion-Replica-F"
+      "category": "Outfit",
+      "slug": "Outfit/Marion-Replica-F"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Rinna-Replica.png",
       "title": "Rinna Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Rinna-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Rinna-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Kirika-s-Swimwear.png",
       "title": "Kirika’s Swimwear",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kirika-s-Swimwear"
+      "category": "Outfit",
+      "slug": "Outfit/Kirika-s-Swimwear"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Kirika-Replica.png",
       "title": "Kirika Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kirika-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Kirika-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Kirika-Replica-Ruby.png",
       "title": "Kirika Replica: Ruby",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kirika-Replica-Ruby"
+      "category": "Outfit",
+      "slug": "Outfit/Kirika-Replica-Ruby"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Kirika-Replica-Ultramarine.png",
       "title": "Kirika Replica: Ultramarine",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kirika-Replica-Ultramarine"
+      "category": "Outfit",
+      "slug": "Outfit/Kirika-Replica-Ultramarine"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Kirika-Replica-Autumnleaf.png",
       "title": "Kirika Replica: Autumnleaf",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kirika-Replica-Autumnleaf"
+      "category": "Outfit",
+      "slug": "Outfit/Kirika-Replica-Autumnleaf"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Kirika-Replica-Cherry-Blossom.png",
       "title": "Kirika Replica: Cherry Blossom",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kirika-Replica-Cherry-Blossom"
+      "category": "Outfit",
+      "slug": "Outfit/Kirika-Replica-Cherry-Blossom"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Kirika-Replica-Naturegrace.png",
       "title": "Kirika Replica: Naturegrace",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kirika-Replica-Naturegrace"
+      "category": "Outfit",
+      "slug": "Outfit/Kirika-Replica-Naturegrace"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Kirika-Replica-Snowstorm.png",
       "title": "Kirika Replica: Snowstorm",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kirika-Replica-Snowstorm"
+      "category": "Outfit",
+      "slug": "Outfit/Kirika-Replica-Snowstorm"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Kirika-Replica-Sunflower.png",
       "title": "Kirika Replica: Sunflower",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Kirika-Replica-Sunflower"
+      "category": "Outfit",
+      "slug": "Outfit/Kirika-Replica-Sunflower"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Excella-Replica.png",
       "title": "Excella Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Excella-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Excella-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Sonia-Replica.png",
       "title": "Sonia Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Sonia-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Sonia-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Sonia-Replica-Dragon.png",
       "title": "Sonia Replica Dragon",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Sonia-Replica-Dragon"
+      "category": "Outfit",
+      "slug": "Outfit/Sonia-Replica-Dragon"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Sonia-Replica-Dragon-B.png",
       "title": "Sonia Replica Dragon B",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Sonia-Replica-Dragon-B"
+      "category": "Outfit",
+      "slug": "Outfit/Sonia-Replica-Dragon-B"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Jenius-Replica-F.png",
       "title": "Jenius Replica F",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Jenius-Replica-F"
+      "category": "Outfit",
+      "slug": "Outfit/Jenius-Replica-F"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Zest-Replica-F.png",
       "title": "Zest Replica F",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Zest-Replica-F"
+      "category": "Outfit",
+      "slug": "Outfit/Zest-Replica-F"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Sakuya-Long-Ponytail.png",
+      "title": "* Dragon Flame Sword",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Dragon-Flame-Sword"
+    },
+    {
+      "title": "* Soul Blade Yukihime",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Soul-Blade-Yukihime"
+    },
+    {
+      "title": "* Magical Treasure Scylla",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Magical-Treasure-Scylla"
+    },
+    {
+      "title": "* Orthrus Mk.2",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Orthrus-Mk-2"
+    },
+    {
+      "title": "* Vandelhorn, the Dragon Resonator",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Vandelhorn-the-Dragon-Resonator"
+    },
+    {
+      "title": "* Koto-no-Kagura",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Koto-no-Kagura"
+    },
+    {
+      "title": "* Trumrod, the Dragon Tail Cudge",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Trumrod-the-Dragon-Tail-Cudge"
+    },
+    {
+      "title": "* Divine Cannon",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Divine-Cannon"
+    },
+    {
+      "title": "* Gravinet",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Gravinet"
+    },
+    {
+      "title": "* Temperion",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Temperion"
+    },
+    {
+      "title": "* Barmonium",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Barmonium"
+    },
+    {
+      "title": "* divine katana Susano-o",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/divine-katana-Susano-o"
+    },
+    {
+      "title": "* Twin Gunblades Amphisbaena",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Twin-Gunblades-Amphisbaena"
+    },
+    {
+      "title": "* Tet the Leo",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Tet-the-Leo"
+    },
+    {
       "title": "Sakuya Long Ponytail",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Sakuya-Long-Ponytail"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Sakuya-Long-Ponytail"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Sakuya-Long-Pigtails.png",
       "title": "Sakuya Long Pigtails",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Sakuya-Long-Pigtails"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Sakuya-Long-Pigtails"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Urayukihime-Straight-Hair.png",
       "title": "Urayukihime Straight Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Urayukihime-Straight-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Urayukihime-Straight-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Phantom-Q-Ponytail.png",
       "title": "Phantom Q Ponytail",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Phantom-Q-Ponytail"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Phantom-Q-Ponytail"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Altina-Long-Hair.png",
       "title": "Altina Long Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Altina-Long-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Altina-Long-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Altina-Long-Hair-2.png",
       "title": "Altina Long Hair 2",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Altina-Long-Hair-2"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Altina-Long-Hair-2"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Panis-Semi-Long-Hair.png",
       "title": "Panis Semi-Long Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Panis-Semi-Long-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Panis-Semi-Long-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Panis-Semi-Long-Hair-2.png",
       "title": "Panis Semi-Long Hair 2",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Panis-Semi-Long-Hair-2"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Panis-Semi-Long-Hair-2"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Cerberus-Q-Ponytail.png",
       "title": "Cerberus Q Ponytail",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Cerberus-Q-Ponytail"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Cerberus-Q-Ponytail"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Yukihime-Short.png",
       "title": "Yukihime Short",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Yukihime-Short"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Yukihime-Short"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Sonia-Long-Hair.png",
       "title": "Sonia Long Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Sonia-Long-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Sonia-Long-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Sonia-Long-Hair-2.png",
       "title": "Sonia Long Hair 2",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Sonia-Long-Hair-2"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Sonia-Long-Hair-2"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Rinna-Long-Pigtails.png",
       "title": "Rinna Long Pigtails",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Rinna-Long-Pigtails"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Rinna-Long-Pigtails"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Marion-Hair.png",
       "title": "Marion Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Marion-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Marion-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Misty-Long-Pigtails.png",
       "title": "Misty Long Pigtails",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Misty-Long-Pigtails"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Misty-Long-Pigtails"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Misty-Long-Pigtails-2.png",
       "title": "Misty Long Pigtails 2",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Misty-Long-Pigtails-2"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Misty-Long-Pigtails-2"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Kirika-Ponytail.png",
       "title": "Kirika Ponytail",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Kirika-Ponytail"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Kirika-Ponytail"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Yuma-Short-Hair.png",
       "title": "Yuma Short Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Yuma-Short-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Yuma-Short-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Excella-Long-Pigtails.png",
       "title": "Excella Long Pigtails",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Excella-Long-Pigtails"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Excella-Long-Pigtails"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Jenius-Long-Hair.png",
       "title": "Jenius Long Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Jenius-Long-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Jenius-Long-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Zest-Short-Hair.png",
       "title": "Zest Short Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Zest-Short-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Zest-Short-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Concentric-Eyes-B-L.png",
       "title": "Concentric Eyes B (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Concentric-Eyes-B-L"
+      "slug": "Eyes/Concentric-Eyes-B-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Concentric-Eyes-B-S.png",
       "title": "Concentric Eyes B (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Concentric-Eyes-B-S"
+      "slug": "Eyes/Concentric-Eyes-B-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Concentric-Eyes-B-XS.png",
       "title": "Concentric Eyes B (XS)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Concentric-Eyes-B-XS"
+      "slug": "Eyes/Concentric-Eyes-B-XS"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Phantom-Q-Makeup.png",
       "title": "Phantom Q Makeup",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Phantom-Q-Makeup"
+      "category": "Facepaint",
+      "slug": "Facepaint/Phantom-Q-Makeup"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Sakuya-Tights-Gloves.png",
       "title": "Sakuya Tights & Gloves",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Sakuya-Tights-Gloves"
+      "slug": "Body-Paint/Sakuya-Tights-Gloves"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Panis-Wing.png",
       "title": "Panis Wing",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Panis-Wing"
+      "category": "Accessory",
+      "slug": "Accessory/Panis-Wing"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Panis-Wings.png",
       "title": "Panis Wings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Panis-Wings"
+      "category": "Accessory",
+      "slug": "Accessory/Panis-Wings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Panis-Wings-B.png",
       "title": "Panis Wings B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Panis-Wings-B"
+      "category": "Accessory",
+      "slug": "Accessory/Panis-Wings-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Sonia-Earrings.png",
       "title": "Sonia Earrings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Sonia-Earrings"
+      "category": "Accessory",
+      "slug": "Accessory/Sonia-Earrings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Kirika-Earrings.png",
       "title": "Kirika Earrings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Kirika-Earrings"
+      "category": "Accessory",
+      "slug": "Accessory/Kirika-Earrings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Kirika-Butterfly.png",
       "title": "Kirika Butterfly",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Kirika-Butterfly"
+      "category": "Accessory",
+      "slug": "Accessory/Kirika-Butterfly"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Kirika-Butterfly-Cherry-Blossom.png",
       "title": "Kirika Butterfly: Cherry Blossom",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Kirika-Butterfly-Cherry-Blossom"
+      "category": "Accessory",
+      "slug": "Accessory/Kirika-Butterfly-Cherry-Blossom"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Kirika-Butterfly-Sunflower.png",
       "title": "Kirika Butterfly: Sunflower",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Kirika-Butterfly-Sunflower"
+      "category": "Accessory",
+      "slug": "Accessory/Kirika-Butterfly-Sunflower"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Kirika-Butterfly-Autumnleaf.png",
       "title": "Kirika Butterfly: Autumnleaf",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Kirika-Butterfly-Autumnleaf"
+      "category": "Accessory",
+      "slug": "Accessory/Kirika-Butterfly-Autumnleaf"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Kirika-Butterfly-Snowstorm.png",
       "title": "Kirika Butterfly: Snowstorm",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Kirika-Butterfly-Snowstorm"
+      "category": "Accessory",
+      "slug": "Accessory/Kirika-Butterfly-Snowstorm"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Kirika-Butterfly-Naturegrace.png",
       "title": "Kirika Butterfly: Naturegrace",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Kirika-Butterfly-Naturegrace"
+      "category": "Accessory",
+      "slug": "Accessory/Kirika-Butterfly-Naturegrace"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rinna-Hat.png",
       "title": "Rinna Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rinna-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Rinna-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rinna-Hat-B.png",
       "title": "Rinna Hat B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rinna-Hat-B"
+      "category": "Accessory",
+      "slug": "Accessory/Rinna-Hat-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Marion-Eyepatch.png",
       "title": "Marion Eyepatch",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Marion-Eyepatch"
+      "category": "Accessory",
+      "slug": "Accessory/Marion-Eyepatch"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Marion-Hat.png",
       "title": "Marion Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Marion-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Marion-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Marion-Hat-B.png",
       "title": "Marion Hat B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Marion-Hat-B"
+      "category": "Accessory",
+      "slug": "Accessory/Marion-Hat-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Excella-Circlet.png",
       "title": "Excella Circlet",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Excella-Circlet"
+      "category": "Accessory",
+      "slug": "Accessory/Excella-Circlet"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Excella-Hair-Ornament.png",
       "title": "Excella Hair Ornament",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Excella-Hair-Ornament"
+      "category": "Accessory",
+      "slug": "Accessory/Excella-Hair-Ornament"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Yuma-Choker.png",
       "title": "Yuma Choker",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Yuma-Choker"
+      "category": "Accessory",
+      "slug": "Accessory/Yuma-Choker"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Sonia-Tiara.png",
       "title": "Sonia Tiara",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Sonia-Tiara"
+      "category": "Accessory",
+      "slug": "Accessory/Sonia-Tiara"
     }
   ]
 }

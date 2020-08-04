@@ -1,0 +1,16 @@
+{
+  "title": "Dracules Body",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Body",
+  "collection": {
+    "title": "Crimson Dawn",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn",
+    "slug": "Collections/AC-Scratch-Ticket/crimsondawn"
+  },
+  "tradeable": true,
+  "slug": "CAST-Body/Dracules-Body"
+}

@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/Innerwear/Tactical-Underwear.png",
   "title": "Tactical Underwear",
   "gender": {
     "female": false,
@@ -11,11 +10,11 @@
   },
   "category": "Innerwear",
   "collection": {
-    "id": "militaryline",
+    "title": "Military Line",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline",
-    "title": "Military Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/militaryline.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/militaryline"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Innerwear/Tactical-Underwear"
 }

@@ -1,453 +1,378 @@
 {
-  "id": "heroicwanderer",
   "type": "AC Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer",
   "title": "Heroic Wanderer",
-  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg",
+  "slug": "Collections/AC-Scratch-Ticket/heroicwanderer",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Void-Recorder.png",
       "title": "Void Recorder",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Void-Recorder"
+      "category": "Outfit",
+      "slug": "Outfit/Void-Recorder"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Scorching-Kimono.png",
       "title": "Scorching Kimono",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Scorching-Kimono"
+      "category": "Outfit",
+      "slug": "Outfit/Scorching-Kimono"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Innocent-One.png",
       "title": "Innocent One",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Innocent-One"
+      "category": "Outfit",
+      "slug": "Outfit/Innocent-One"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Blazing-Kimono.png",
       "title": "Blazing Kimono",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Blazing-Kimono"
+      "category": "Outfit",
+      "slug": "Outfit/Blazing-Kimono"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Kabuki-Cyclone.png",
       "title": "Kabuki Cyclone",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Kabuki-Cyclone"
+      "slug": "Outerwear/Kabuki-Cyclone"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Blooming-Maiden.png",
       "title": "Blooming Maiden",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Blooming-Maiden"
+      "slug": "Outerwear/Blooming-Maiden"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Kabuki-Thunderstroke.png",
       "title": "Kabuki Thunderstroke",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Kabuki-Thunderstroke"
+      "slug": "Outerwear/Kabuki-Thunderstroke"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Kabuki-Cyclone.png",
       "title": "Kabuki Cyclone",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Kabuki-Cyclone"
+      "slug": "Basewear/Kabuki-Cyclone"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Martial-Leon.png",
       "title": "Martial Leon",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Martial-Leon"
+      "slug": "Basewear/Martial-Leon"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Blooming-Maiden.png",
       "title": "Blooming Maiden",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Blooming-Maiden"
+      "slug": "Basewear/Blooming-Maiden"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Kabuki-Thunderstroke.png",
       "title": "Kabuki Thunderstroke",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Kabuki-Thunderstroke"
+      "slug": "Basewear/Kabuki-Thunderstroke"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Martial-Lilian.png",
       "title": "Martial Lilian",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Martial-Lilian"
+      "slug": "Basewear/Martial-Lilian"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Kabuki-Cyclone.png",
       "title": "Kabuki Cyclone",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Kabuki-Cyclone"
+      "slug": "Innerwear/Kabuki-Cyclone"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Martial-Leon.png",
       "title": "Martial Leon",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Martial-Leon"
+      "slug": "Innerwear/Martial-Leon"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Blooming-Maiden.png",
       "title": "Blooming Maiden",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Blooming-Maiden"
+      "slug": "Innerwear/Blooming-Maiden"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Kabuki-Thunderstroke.png",
       "title": "Kabuki Thunderstroke",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Kabuki-Thunderstroke"
+      "slug": "Innerwear/Kabuki-Thunderstroke"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Martial-Lilian.png",
       "title": "Martial Lilian",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Martial-Lilian"
+      "slug": "Innerwear/Martial-Lilian"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Gigante-Body.png",
       "title": "Gigante Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Gigante-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Gigante-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Gigante-Arms.png",
       "title": "Gigante Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Gigante-Arms"
+      "slug": "CAST-Arms/Gigante-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Gigante-Legs.png",
       "title": "Gigante Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Gigante-Legs"
+      "slug": "CAST-Legs/Gigante-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Gigante-Head.png",
       "title": "Gigante Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Gigante-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Gigante-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Valkia-Body.png",
       "title": "Valkia Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Valkia-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Valkia-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Valkia-Arms.png",
       "title": "Valkia Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Valkia-Arms"
+      "slug": "CAST-Arms/Valkia-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Valkia-Legs.png",
       "title": "Valkia Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Valkia-Legs"
+      "slug": "CAST-Legs/Valkia-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Valkia-Head.png",
       "title": "Valkia Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Valkia-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Valkia-Head"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Innocent-Loop-Pigtails.png",
       "title": "Innocent Loop Pigtails",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Innocent-Loop-Pigtails"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Innocent-Loop-Pigtails"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Recorder-Short.png",
       "title": "Recorder Short",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Recorder-Short"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Recorder-Short"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Kabuki-Short-Hair.png",
       "title": "Kabuki Short Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Kabuki-Short-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Kabuki-Short-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Kabuki-Long-Hair.png",
       "title": "Kabuki Long Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Kabuki-Long-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Kabuki-Long-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Wavy-Pigtails.png",
       "title": "Wavy Pigtails",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Wavy-Pigtails"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Wavy-Pigtails"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Spikey-Short.png",
       "title": "Spikey Short",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Spikey-Short"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Spikey-Short"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Parted-Ponytail.png",
       "title": "Parted Ponytail",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Parted-Ponytail"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Parted-Ponytail"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Floral-Ponytail.png",
       "title": "Floral Ponytail",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Floral-Ponytail"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Floral-Ponytail"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Anime-Eyes-XS.png",
       "title": "Anime Eyes (XS)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Anime-Eyes-XS"
+      "slug": "Eyes/Anime-Eyes-XS"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Pupils-White-L.png",
       "title": "Pupils: White (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Pupils-White-L"
+      "slug": "Eyes/Pupils-White-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Pupils-White-S.png",
       "title": "Pupils: White (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Pupils-White-S"
+      "slug": "Eyes/Pupils-White-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Extreme-Highlights-L.png",
       "title": "Extreme Highlights (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Extreme-Highlights-L"
+      "slug": "Eyes/Extreme-Highlights-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Extreme-Highlights-S.png",
       "title": "Extreme Highlights (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Extreme-Highlights-S"
+      "slug": "Eyes/Extreme-Highlights-S"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Luther-Tattoo.png",
       "title": "Luther Tattoo",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Luther-Tattoo"
+      "category": "Facepaint",
+      "slug": "Facepaint/Luther-Tattoo"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Kabuki-Makeup.png",
       "title": "Kabuki Makeup",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Kabuki-Makeup"
+      "category": "Facepaint",
+      "slug": "Facepaint/Kabuki-Makeup"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Marshal-Gloves.png",
       "title": "Marshal Gloves",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Marshal-Gloves"
+      "slug": "Body-Paint/Marshal-Gloves"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Kabuki-Tekko-Gloves-M.png",
       "title": "Kabuki Tekko Gloves M",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Kabuki-Tekko-Gloves-M"
+      "slug": "Body-Paint/Kabuki-Tekko-Gloves-M"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Kabuki-Tekko-Gloves-F.png",
       "title": "Kabuki Tekko Gloves F",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Kabuki-Tekko-Gloves-F"
+      "slug": "Body-Paint/Kabuki-Tekko-Gloves-F"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Chinese-Choker.png",
       "title": "Chinese Choker",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Chinese-Choker"
+      "slug": "Body-Paint/Chinese-Choker"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Chinese-Socks.png",
       "title": "Chinese Socks",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Chinese-Socks"
+      "slug": "Body-Paint/Chinese-Socks"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fighter-s-Headband.png",
       "title": "Fighter’s Headband",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Fighter-s-Headband"
+      "category": "Accessory",
+      "slug": "Accessory/Fighter-s-Headband"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Bow-Tied-Headband.png",
       "title": "Bow-Tied Headband",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Bow-Tied-Headband"
+      "category": "Accessory",
+      "slug": "Accessory/Bow-Tied-Headband"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Kabuki-Hair-Accessory.png",
       "title": "Kabuki Hair Accessory",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Kabuki-Hair-Accessory"
+      "category": "Accessory",
+      "slug": "Accessory/Kabuki-Hair-Accessory"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Kabuki-Hair-Ring.png",
       "title": "Kabuki Hair Ring",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Kabuki-Hair-Ring"
+      "category": "Accessory",
+      "slug": "Accessory/Kabuki-Hair-Ring"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Blooming-Ribbon.png",
       "title": "Blooming Ribbon",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Blooming-Ribbon"
+      "category": "Accessory",
+      "slug": "Accessory/Blooming-Ribbon"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Monster-Cat-Tails.png",
       "title": "Monster-Cat Tails",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Monster-Cat-Tails"
+      "category": "Accessory",
+      "slug": "Accessory/Monster-Cat-Tails"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Monster-Cat-Tails-Black.png",
       "title": "Monster-Cat Tails: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Monster-Cat-Tails-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Monster-Cat-Tails-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Monster-Cat-Tails-White.png",
       "title": "Monster-Cat Tails: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Monster-Cat-Tails-White"
+      "category": "Accessory",
+      "slug": "Accessory/Monster-Cat-Tails-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Monster-Cat-Tails-Brown.png",
       "title": "Monster-Cat Tails: Brown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Monster-Cat-Tails-Brown"
+      "category": "Accessory",
+      "slug": "Accessory/Monster-Cat-Tails-Brown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Cat-Ears-with-Bells.png",
       "title": "Cat Ears with Bells",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Cat-Ears-with-Bells"
+      "category": "Accessory",
+      "slug": "Accessory/Cat-Ears-with-Bells"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Missiles.png",
       "title": "Shoulder Missiles",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Missiles"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Missiles"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Barrette-White.png",
       "title": "Barrette: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Barrette-White"
+      "category": "Accessory",
+      "slug": "Accessory/Barrette-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Barrette-Red.png",
       "title": "Barrette: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Barrette-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Barrette-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Barrette-Blue.png",
       "title": "Barrette: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Barrette-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Barrette-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Bow-Tied-Stole.png",
       "title": "Bow-Tied Stole",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Bow-Tied-Stole"
+      "category": "Accessory",
+      "slug": "Accessory/Bow-Tied-Stole"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Frilly-Japanese-Ribbon.png",
       "title": "Frilly Japanese Ribbon",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Frilly-Japanese-Ribbon"
+      "category": "Accessory",
+      "slug": "Accessory/Frilly-Japanese-Ribbon"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Frilly-Japanese-Ribbon-Red.png",
       "title": "Frilly Japanese Ribbon: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Frilly-Japanese-Ribbon-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Frilly-Japanese-Ribbon-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Frilly-Japanese-Ribbon-Blue.png",
       "title": "Frilly Japanese Ribbon: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Frilly-Japanese-Ribbon-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Frilly-Japanese-Ribbon-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Frilly-Japanese-Ribbon-White.png",
       "title": "Frilly Japanese Ribbon: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Frilly-Japanese-Ribbon-White"
+      "category": "Accessory",
+      "slug": "Accessory/Frilly-Japanese-Ribbon-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fighter-s-Gloves.png",
       "title": "Fighter’s Gloves",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Fighter-s-Gloves"
+      "category": "Accessory",
+      "slug": "Accessory/Fighter-s-Gloves"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fighter-s-Gloves-Red.png",
       "title": "Fighter’s Gloves: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Fighter-s-Gloves-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Fighter-s-Gloves-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fighter-s-Gloves-Blue.png",
       "title": "Fighter’s Gloves: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Fighter-s-Gloves-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Fighter-s-Gloves-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Purifying-Belt-White.png",
       "title": "Purifying Belt: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Purifying-Belt-White"
+      "category": "Accessory",
+      "slug": "Accessory/Purifying-Belt-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Purifying-Belt-Brown.png",
       "title": "Purifying Belt: Brown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Purifying-Belt-Brown"
+      "category": "Accessory",
+      "slug": "Accessory/Purifying-Belt-Brown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Decorative-Katana-Black.png",
       "title": "Decorative Katana: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Decorative-Katana-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Decorative-Katana-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Decorative-Katana-Blue.png",
       "title": "Decorative Katana: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Decorative-Katana-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Decorative-Katana-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Decorative-Katana-Red.png",
       "title": "Decorative Katana: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Decorative-Katana-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Decorative-Katana-Red"
     },
     {
-      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Chamurai.png",
       "title": "Evolution Device: Chamurai",
-      "category": "Mag Evolution Devices",
-      "url": "https://phashion.moe/Mag-Evolution-Devices/Evolution-Device-Chamurai"
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Evolution-Device-Chamurai"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Cherry-Blossom-Flurry.png",
       "title": "Cherry Blossom Flurry",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Cherry-Blossom-Flurry"
+      "category": "Accessory",
+      "slug": "Accessory/Cherry-Blossom-Flurry"
     }
   ]
 }

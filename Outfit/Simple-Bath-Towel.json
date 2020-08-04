@@ -1,0 +1,20 @@
+{
+  "title": "Simple Bath Towel",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "SG Shop Sale! (05/08)",
+    "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0508",
+    "slug": "Collections/Event/sgshopsale0508"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Simple-Bath-Towel"
+}

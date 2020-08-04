@@ -1,0 +1,20 @@
+{
+  "title": "Trillium Marie",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collection": {
+    "title": "Maestro Summoner",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/maestrosummoner",
+    "slug": "Collections/AC-Scratch-Ticket/maestrosummoner"
+  },
+  "tradeable": true,
+  "slug": "Basewear/Trillium-Marie"
+}

@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/Outerwear/Heart-Effector.png",
   "title": "Heart Effector",
   "gender": {
     "female": true,
@@ -11,11 +10,11 @@
   },
   "category": "Outerwear",
   "collection": {
-    "id": "virtualstars",
+    "title": "Virtual Stars",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars",
-    "title": "Virtual Stars",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/virtualstars.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/virtualstars"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Outerwear/Heart-Effector"
 }

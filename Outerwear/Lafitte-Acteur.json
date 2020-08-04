@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/Outerwear/Lafitte-Acteur.png",
   "title": "Lafitte Acteur",
   "gender": {
     "female": false,
@@ -11,11 +10,11 @@
   },
   "category": "Outerwear",
   "collection": {
-    "id": "blessedworld",
+    "title": "Blessed World",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld",
-    "title": "Blessed World",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/blessedworld"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Outerwear/Lafitte-Acteur"
 }

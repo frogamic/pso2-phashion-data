@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Eyes/Anime-Eyes-C-L.png",
   "title": "Anime Eyes C (L)",
   "category": "Eyes",
   "collection": {
-    "id": "seasidevacation",
+    "title": "Seaside Vacation",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/seasidevacation",
-    "title": "Seaside Vacation",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/seasidevacation.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/seasidevacation"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Eyes/Anime-Eyes-C-L"
 }

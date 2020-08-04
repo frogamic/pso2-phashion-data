@@ -1,0 +1,13 @@
+{
+  "title": "Festival Stall",
+  "tier": 12,
+  "category": "Furnishing",
+  "collection": {
+    "title": "Season 5",
+    "type": "Mission Pass",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason5",
+    "slug": "Collections/Mission-Pass/missionpassseason5"
+  },
+  "tradeable": false,
+  "slug": "Furnishing/Festival-Stall"
+}

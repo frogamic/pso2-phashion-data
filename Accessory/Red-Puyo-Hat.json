@@ -1,0 +1,12 @@
+{
+  "title": "Red Puyo Hat",
+  "category": "Accessory",
+  "collection": {
+    "title": "Sega Legacy",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy",
+    "slug": "Collections/AC-Scratch-Ticket/segalegacy"
+  },
+  "tradeable": true,
+  "slug": "Accessory/Red-Puyo-Hat"
+}

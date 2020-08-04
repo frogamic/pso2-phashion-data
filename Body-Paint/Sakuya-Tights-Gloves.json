@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Body-Paint/Sakuya-Tights-Gloves.png",
   "title": "Sakuya Tights & Gloves",
   "category": "Body Paint",
   "collection": {
-    "id": "shiningheroes",
+    "title": "Shining Heroes",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes",
-    "title": "Shining Heroes",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/shiningheroes.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/shiningheroes"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Body-Paint/Sakuya-Tights-Gloves"
 }

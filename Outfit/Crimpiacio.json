@@ -1,0 +1,21 @@
+{
+  "title": "Crimpiacio",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": false
+  },
+  "tier": 28,
+  "category": "Outfit",
+  "collection": {
+    "title": "Season 4",
+    "type": "Mission Pass",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4",
+    "slug": "Collections/Mission-Pass/missionpassseason4"
+  },
+  "tradeable": false,
+  "slug": "Outfit/Crimpiacio"
+}

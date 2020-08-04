@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/Basewear/Martial-Lilian.png",
   "title": "Martial Lilian",
   "gender": {
     "female": true,
@@ -11,11 +10,11 @@
   },
   "category": "Basewear",
   "collection": {
-    "id": "heroicwanderer",
+    "title": "Heroic Wanderer",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer",
-    "title": "Heroic Wanderer",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/heroicwanderer"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Basewear/Martial-Lilian"
 }

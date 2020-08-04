@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Eyes/Concentric-Eyes-B-L.png",
   "title": "Concentric Eyes B (L)",
   "category": "Eyes",
   "collection": {
-    "id": "shiningheroes",
+    "title": "Shining Heroes",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes",
-    "title": "Shining Heroes",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/shiningheroes.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/shiningheroes"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Eyes/Concentric-Eyes-B-L"
 }

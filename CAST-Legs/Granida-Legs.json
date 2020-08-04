@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/CAST-Legs/Granida-Legs.png",
   "title": "Granida Legs",
   "gender": {
     "female": false,
@@ -8,11 +7,11 @@
   "tier": 29,
   "category": "CAST Legs",
   "collection": {
-    "id": "missionpassseason5",
+    "title": "Season 5",
     "type": "Mission Pass",
     "sourceUrl": "https://pso2.com/news/announcements/missionpassseason5",
-    "title": "Season 5",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg"
+    "slug": "Collections/Mission-Pass/missionpassseason5"
   },
-  "tradeable": false
+  "tradeable": false,
+  "slug": "CAST-Legs/Granida-Legs"
 }

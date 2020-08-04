@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Body-Paint/Agile-Tattoo.png",
   "title": "Agile Tattoo",
   "category": "Body Paint",
   "collection": {
-    "id": "freshfindsshop0721",
+    "title": "Recommended Items (7/21)",
     "type": "Fresh Finds Shop",
     "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0721",
-    "title": "Recommended Items (7/21)",
-    "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0721.jpg"
+    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0721"
   },
-  "tradeable": false
+  "tradeable": false,
+  "slug": "Body-Paint/Agile-Tattoo"
 }

@@ -1,0 +1,16 @@
+{
+  "title": "Lucelia Body",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Body",
+  "collection": {
+    "title": "Urban Lifestyle",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
+    "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
+  },
+  "tradeable": true,
+  "slug": "CAST-Body/Lucelia-Body"
+}

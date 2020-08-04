@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/Basewear/Slacks.png",
   "title": "Slacks",
   "gender": {
     "female": false,
@@ -11,11 +10,11 @@
   },
   "category": "Basewear",
   "collection": {
-    "id": "recruitline",
+    "title": "Recruit Line",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline",
-    "title": "Recruit Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/recruitline"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Basewear/Slacks"
 }

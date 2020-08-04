@@ -1,0 +1,16 @@
+{
+  "title": "Cortu Body",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Body",
+  "collection": {
+    "title": "Career Line",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline",
+    "slug": "Collections/AC-Scratch-Ticket/careerline"
+  },
+  "tradeable": true,
+  "slug": "CAST-Body/Cortu-Body"
+}

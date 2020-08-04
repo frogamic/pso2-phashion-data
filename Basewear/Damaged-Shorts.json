@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/Basewear/Damaged-Shorts.png",
   "title": "Damaged Shorts",
   "gender": {
     "female": true,
@@ -11,11 +10,11 @@
   },
   "category": "Basewear",
   "collection": {
-    "id": "urbanlifestyle",
+    "title": "Urban Lifestyle",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
-    "title": "Urban Lifestyle",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Basewear/Damaged-Shorts"
 }

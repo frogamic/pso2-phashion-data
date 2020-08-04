@@ -1,0 +1,20 @@
+{
+  "title": "Karen Replica",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "SG Shop Sale! (5/15)",
+    "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0515",
+    "slug": "Collections/Event/sgshopsale0515"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Karen-Replica"
+}

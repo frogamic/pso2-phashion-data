@@ -1,0 +1,16 @@
+{
+  "title": "Nimbus Body",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Body",
+  "collection": {
+    "title": "Oracle Celebrations",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/oraclecelebrations",
+    "slug": "Collections/AC-Scratch-Ticket/oraclecelebrations"
+  },
+  "tradeable": true,
+  "slug": "CAST-Body/Nimbus-Body"
+}

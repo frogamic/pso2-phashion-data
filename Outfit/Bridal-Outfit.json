@@ -1,0 +1,20 @@
+{
+  "title": "Bridal Outfit",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Recommended Items (5/26)",
+    "type": "Fresh Finds Shop",
+    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0526",
+    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0526"
+  },
+  "tradeable": false,
+  "slug": "Outfit/Bridal-Outfit"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Heavenly Diva",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Military Line",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline",
+    "slug": "Collections/AC-Scratch-Ticket/militaryline"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Heavenly-Diva"
+}

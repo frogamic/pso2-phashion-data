@@ -1,0 +1,16 @@
+{
+  "title": "Dighu Head",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Head",
+  "collection": {
+    "title": "Career Line",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline",
+    "slug": "Collections/AC-Scratch-Ticket/careerline"
+  },
+  "tradeable": true,
+  "slug": "CAST-Head/Dighu-Head"
+}

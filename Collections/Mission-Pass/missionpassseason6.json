@@ -1,0 +1,254 @@
+{
+  "type": "Mission Pass",
+  "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
+  "title": "Season 6",
+  "slug": "Collections/Mission-Pass/missionpassseason6",
+  "items": [
+    {
+      "title": "* Lumi Vorgi",
+      "category": "Weapon Camo",
+      "tier": 4,
+      "slug": "Weapon-Camo/Lumi-Vorgi"
+    },
+    {
+      "title": "Profound Darkness Doll",
+      "category": "Furnishing",
+      "tier": 12,
+      "slug": "Furnishing/Profound-Darkness-Doll"
+    },
+    {
+      "title": "Photon Chair (Rappy)",
+      "category": "Other",
+      "tier": 24,
+      "slug": "Other/Photon-Chair-Rappy"
+    },
+    {
+      "title": "Cabracan Mask",
+      "category": "Accessory",
+      "tier": 1,
+      "slug": "Accessory/Cabracan-Mask"
+    },
+    {
+      "title": "Camelot Mask",
+      "category": "Accessory",
+      "tier": 1,
+      "slug": "Accessory/Camelot-Mask"
+    },
+    {
+      "title": "Luminous Princess Head",
+      "category": "CAST Head",
+      "tier": 5,
+      "slug": "CAST-Head/Luminous-Princess-Head"
+    },
+    {
+      "title": "Luminous Princess Body",
+      "category": "CAST Body",
+      "tier": 5,
+      "slug": "CAST-Body/Luminous-Princess-Body"
+    },
+    {
+      "title": "Luminous Princess Arms",
+      "category": "CAST Arms",
+      "tier": 5,
+      "slug": "CAST-Arms/Luminous-Princess-Arms"
+    },
+    {
+      "title": "Luminous Princess Legs",
+      "category": "CAST Legs",
+      "tier": 5,
+      "slug": "CAST-Legs/Luminous-Princess-Legs"
+    },
+    {
+      "title": "Luminous Princess Face: Red",
+      "category": "Facepaint",
+      "tier": 5,
+      "slug": "Facepaint/Luminous-Princess-Face-Red"
+    },
+    {
+      "title": "Luminous Princess Face: Blue",
+      "category": "Facepaint",
+      "tier": 5,
+      "slug": "Facepaint/Luminous-Princess-Face-Blue"
+    },
+    {
+      "title": "Cyber Goggles A",
+      "category": "Accessory",
+      "tier": 6,
+      "slug": "Accessory/Cyber-Goggles-A"
+    },
+    {
+      "title": "Cyber Goggles B",
+      "category": "Accessory",
+      "tier": 6,
+      "slug": "Accessory/Cyber-Goggles-B"
+    },
+    {
+      "title": "Daybreak Defender",
+      "category": "Outfit",
+      "tier": 8,
+      "slug": "Outfit/Daybreak-Defender"
+    },
+    {
+      "title": "Daybreak Helmet",
+      "category": "Accessory",
+      "tier": 8,
+      "slug": "Accessory/Daybreak-Helmet"
+    },
+    {
+      "title": "Daybreak Mask",
+      "category": "Accessory",
+      "tier": 8,
+      "slug": "Accessory/Daybreak-Mask"
+    },
+    {
+      "title": "Ancient Plate Head",
+      "category": "CAST Head",
+      "tier": 10,
+      "slug": "CAST-Head/Ancient-Plate-Head"
+    },
+    {
+      "title": "Ancient Plate Body",
+      "category": "CAST Body",
+      "tier": 10,
+      "slug": "CAST-Body/Ancient-Plate-Body"
+    },
+    {
+      "title": "Ancient Plate Arms",
+      "category": "CAST Arms",
+      "tier": 10,
+      "slug": "CAST-Arms/Ancient-Plate-Arms"
+    },
+    {
+      "title": "Ancient Plate Legs",
+      "category": "CAST Legs",
+      "tier": 10,
+      "slug": "CAST-Legs/Ancient-Plate-Legs"
+    },
+    {
+      "title": "Nyau Swim Ring",
+      "category": "Accessory",
+      "tier": 12,
+      "slug": "Accessory/Nyau-Swim-Ring"
+    },
+    {
+      "title": "Sidelock Extensions",
+      "category": "Accessory",
+      "tier": 12,
+      "slug": "Accessory/Sidelock-Extensions"
+    },
+    {
+      "title": "Daybreak Warrior",
+      "category": "Outfit",
+      "tier": 18,
+      "slug": "Outfit/Daybreak-Warrior"
+    },
+    {
+      "title": "Daybreak Long Hair",
+      "category": "Hairstyle",
+      "tier": 18,
+      "slug": "Hairstyle/Daybreak-Long-Hair"
+    },
+    {
+      "title": "Daybreak Hairband",
+      "category": "Accessory",
+      "tier": 18,
+      "slug": "Accessory/Daybreak-Hairband"
+    },
+    {
+      "title": "Daybreak Eyepatch",
+      "category": "Accessory",
+      "tier": 18,
+      "slug": "Accessory/Daybreak-Eyepatch"
+    },
+    {
+      "title": "* Toy Fighter",
+      "category": "Weapon Camo",
+      "tier": 20,
+      "slug": "Weapon-Camo/Toy-Fighter"
+    },
+    {
+      "title": "Evolution Device: Luthy",
+      "category": "Mag Evolution Device",
+      "tier": 24,
+      "slug": "Mag-Evolution-Device/Evolution-Device-Luthy"
+    },
+    {
+      "title": "* Fresh Candy",
+      "category": "Weapon Camo",
+      "tier": 26,
+      "slug": "Weapon-Camo/Fresh-Candy"
+    },
+    {
+      "title": "Enigmatic Rebellion",
+      "category": "Outfit",
+      "tier": 27,
+      "slug": "Outfit/Enigmatic-Rebellion"
+    },
+    {
+      "title": "Off- Center Wild Mullet",
+      "category": "Hairstyle",
+      "tier": 27,
+      "slug": "Hairstyle/Off-Center-Wild-Mullet"
+    },
+    {
+      "title": "Rebellion Mask",
+      "category": "Accessory",
+      "tier": 27,
+      "slug": "Accessory/Rebellion-Mask"
+    },
+    {
+      "title": "Crazy Kitten",
+      "category": "Outfit",
+      "tier": 28,
+      "slug": "Outfit/Crazy-Kitten"
+    },
+    {
+      "title": "Beybarrel Head",
+      "category": "CAST Head",
+      "tier": 29,
+      "slug": "CAST-Head/Beybarrel-Head"
+    },
+    {
+      "title": "Beybarrel Body",
+      "category": "CAST Body",
+      "tier": 29,
+      "slug": "CAST-Body/Beybarrel-Body"
+    },
+    {
+      "title": "Beybarrel Arms",
+      "category": "CAST Arms",
+      "tier": 29,
+      "slug": "CAST-Arms/Beybarrel-Arms"
+    },
+    {
+      "title": "Beybarrel Legs",
+      "category": "CAST Legs",
+      "tier": 29,
+      "slug": "CAST-Legs/Beybarrel-Legs"
+    },
+    {
+      "title": "Rejelan Head",
+      "category": "CAST Head",
+      "tier": 30,
+      "slug": "CAST-Head/Rejelan-Head"
+    },
+    {
+      "title": "Rejelan Body",
+      "category": "CAST Body",
+      "tier": 30,
+      "slug": "CAST-Body/Rejelan-Body"
+    },
+    {
+      "title": "Rejelan Arms",
+      "category": "CAST Arms",
+      "tier": 30,
+      "slug": "CAST-Arms/Rejelan-Arms"
+    },
+    {
+      "title": "Rejelan Legs",
+      "category": "CAST Legs",
+      "tier": 30,
+      "slug": "CAST-Legs/Rejelan-Legs"
+    }
+  ]
+}

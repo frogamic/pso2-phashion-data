@@ -1,75 +1,63 @@
 {
-  "id": "freshfindsshop0721",
   "type": "Fresh Finds Shop",
   "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0721",
   "title": "Recommended Items (7/21)",
-  "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0721.jpg",
+  "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0721",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Active-Camisole.png",
       "title": "Active Camisole",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Active-Camisole"
+      "category": "Outfit",
+      "slug": "Outfit/Active-Camisole"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Active-Cap-A.png",
       "title": "Active Cap A",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Active-Cap-A"
+      "category": "Accessory",
+      "slug": "Accessory/Active-Cap-A"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Airy-Summer-Dress-Snow.png",
       "title": "Airy Summer Dress: Snow",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Airy-Summer-Dress-Snow"
+      "category": "Outfit",
+      "slug": "Outfit/Airy-Summer-Dress-Snow"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Airy-Ribbon-White.png",
       "title": "Airy Ribbon: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Airy-Ribbon-White"
+      "category": "Accessory",
+      "slug": "Accessory/Airy-Ribbon-White"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Braided-Half-Updo.png",
       "title": "Braided Half Updo",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Braided-Half-Updo"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Braided-Half-Updo"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Double-Cowlick-S.png",
       "title": "Double Cowlick S",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Double-Cowlick-S"
+      "category": "Accessory",
+      "slug": "Accessory/Double-Cowlick-S"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Hibiscus.png",
       "title": "Hibiscus",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Hibiscus"
+      "category": "Accessory",
+      "slug": "Accessory/Hibiscus"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Seashell-Earrings-Blue.png",
       "title": "Seashell Earrings: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Seashell-Earrings-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Seashell-Earrings-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Laced-Leggings-Black.png",
       "title": "Laced Leggings: Black",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Laced-Leggings-Black"
+      "slug": "Body-Paint/Laced-Leggings-Black"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Agile-Coat.png",
       "title": "Agile Coat",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Agile-Coat"
+      "category": "Outfit",
+      "slug": "Outfit/Agile-Coat"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Agile-Tattoo.png",
       "title": "Agile Tattoo",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Agile-Tattoo"
+      "slug": "Body-Paint/Agile-Tattoo"
     }
   ]
 }

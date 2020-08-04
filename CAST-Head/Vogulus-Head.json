@@ -1,0 +1,16 @@
+{
+  "title": "Vogulus Head",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Head",
+  "collection": {
+    "title": "Recruit Line",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline",
+    "slug": "Collections/AC-Scratch-Ticket/recruitline"
+  },
+  "tradeable": true,
+  "slug": "CAST-Head/Vogulus-Head"
+}

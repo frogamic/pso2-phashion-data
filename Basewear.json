@@ -1,512 +1,446 @@
 [
   {
-    "image": "https://phashion.moe/images/Basewear/Aloha-Shorts.png",
+    "title": "Ritual Clothes",
+    "slug": "Basewear/Ritual-Clothes"
+  },
+  {
+    "title": "Royal Remnants",
+    "slug": "Basewear/Royal-Remnants"
+  },
+  {
+    "title": "Shorts M",
+    "slug": "Basewear/Shorts-M"
+  },
+  {
+    "title": "Dressia Oath",
+    "slug": "Basewear/Dressia-Oath"
+  },
+  {
+    "title": "Trillium Marie",
+    "slug": "Basewear/Trillium-Marie"
+  },
+  {
+    "title": "Denim Shorts",
+    "slug": "Basewear/Denim-Shorts"
+  },
+  {
+    "title": "Frilled Skirt",
+    "slug": "Basewear/Frilled-Skirt"
+  },
+  {
+    "title": "Flared Skirt",
+    "slug": "Basewear/Flared-Skirt"
+  },
+  {
+    "title": "Capri Pants F",
+    "slug": "Basewear/Capri-Pants-F"
+  },
+  {
     "title": "Aloha Shorts",
-    "url": "https://phashion.moe/Basewear/Aloha-Shorts"
+    "slug": "Basewear/Aloha-Shorts"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Bold-Swimwear.png",
     "title": "Bold Swimwear",
-    "url": "https://phashion.moe/Basewear/Bold-Swimwear"
+    "slug": "Basewear/Bold-Swimwear"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Bold-Swimwear-F.png",
     "title": "Bold Swimwear/F",
-    "url": "https://phashion.moe/Basewear/Bold-Swimwear-F"
+    "slug": "Basewear/Bold-Swimwear-F"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Panther-Bikini.png",
     "title": "Panther Bikini",
-    "url": "https://phashion.moe/Basewear/Panther-Bikini"
+    "slug": "Basewear/Panther-Bikini"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Panther-Bikini-F.png",
     "title": "Panther Bikini/F",
-    "url": "https://phashion.moe/Basewear/Panther-Bikini-F"
+    "slug": "Basewear/Panther-Bikini-F"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Maraud-Clan.png",
     "title": "Maraud Clan",
-    "url": "https://phashion.moe/Basewear/Maraud-Clan"
+    "slug": "Basewear/Maraud-Clan"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Scorching-Summer.png",
     "title": "Scorching Summer",
-    "url": "https://phashion.moe/Basewear/Scorching-Summer"
+    "slug": "Basewear/Scorching-Summer"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Micro-Mini-Shorts.png",
     "title": "Micro Mini Shorts",
-    "url": "https://phashion.moe/Basewear/Micro-Mini-Shorts"
+    "slug": "Basewear/Micro-Mini-Shorts"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Exotic-Monokini.png",
     "title": "Exotic Monokini",
-    "url": "https://phashion.moe/Basewear/Exotic-Monokini"
+    "slug": "Basewear/Exotic-Monokini"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Outlandish-Bikini.png",
     "title": "Outlandish Bikini",
-    "url": "https://phashion.moe/Basewear/Outlandish-Bikini"
+    "slug": "Basewear/Outlandish-Bikini"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Outlandish-Bikini-F.png",
     "title": "Outlandish Bikini/F",
-    "url": "https://phashion.moe/Basewear/Outlandish-Bikini-F"
+    "slug": "Basewear/Outlandish-Bikini-F"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Marine-Clan.png",
     "title": "Marine Clan",
-    "url": "https://phashion.moe/Basewear/Marine-Clan"
+    "slug": "Basewear/Marine-Clan"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Raqasa-Shamir.png",
     "title": "Raqasa Shamir",
-    "url": "https://phashion.moe/Basewear/Raqasa-Shamir"
+    "slug": "Basewear/Raqasa-Shamir"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Arcano-Delier.png",
     "title": "Arcano Delier",
-    "url": "https://phashion.moe/Basewear/Arcano-Delier"
+    "slug": "Basewear/Arcano-Delier"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Besante-R-tsel.png",
     "title": "Besante Rätsel",
-    "url": "https://phashion.moe/Basewear/Besante-R-tsel"
+    "slug": "Basewear/Besante-R-tsel"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/High-Neck-Bikini.png",
     "title": "High Neck Bikini",
-    "url": "https://phashion.moe/Basewear/High-Neck-Bikini"
+    "slug": "Basewear/High-Neck-Bikini"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Innocent-Ensemble.png",
     "title": "Innocent Ensemble",
-    "url": "https://phashion.moe/Basewear/Innocent-Ensemble"
+    "slug": "Basewear/Innocent-Ensemble"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Mikoto-Ensemble.png",
     "title": "Mikoto Ensemble",
-    "url": "https://phashion.moe/Basewear/Mikoto-Ensemble"
+    "slug": "Basewear/Mikoto-Ensemble"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Flower-Season-Inyuu.png",
     "title": "Flower Season Inyuu",
-    "url": "https://phashion.moe/Basewear/Flower-Season-Inyuu"
+    "slug": "Basewear/Flower-Season-Inyuu"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Occultic-Eyes.png",
     "title": "Occultic Eyes",
-    "url": "https://phashion.moe/Basewear/Occultic-Eyes"
+    "slug": "Basewear/Occultic-Eyes"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Shrine-Garb.png",
     "title": "Shrine Garb",
-    "url": "https://phashion.moe/Basewear/Shrine-Garb"
+    "slug": "Basewear/Shrine-Garb"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Flower-Season-Cafuu.png",
     "title": "Flower Season Cafuu",
-    "url": "https://phashion.moe/Basewear/Flower-Season-Cafuu"
+    "slug": "Basewear/Flower-Season-Cafuu"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Occultic-Vixen.png",
     "title": "Occultic Vixen",
-    "url": "https://phashion.moe/Basewear/Occultic-Vixen"
+    "slug": "Basewear/Occultic-Vixen"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Kazuma-Replica.png",
     "title": "Kazuma Replica",
-    "url": "https://phashion.moe/Basewear/Kazuma-Replica"
+    "slug": "Basewear/Kazuma-Replica"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Lafitte-Acteur.png",
     "title": "Lafitte Acteur",
-    "url": "https://phashion.moe/Basewear/Lafitte-Acteur"
+    "slug": "Basewear/Lafitte-Acteur"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Survivalist-s-Rig.png",
     "title": "Survivalist's Rig",
-    "url": "https://phashion.moe/Basewear/Survivalist-s-Rig"
+    "slug": "Basewear/Survivalist-s-Rig"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Tigerblade-Armor.png",
     "title": "Tigerblade Armor",
-    "url": "https://phashion.moe/Basewear/Tigerblade-Armor"
+    "slug": "Basewear/Tigerblade-Armor"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Aqua-Replica.png",
     "title": "Aqua Replica",
-    "url": "https://phashion.moe/Basewear/Aqua-Replica"
+    "slug": "Basewear/Aqua-Replica"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Lafinne-Atrice.png",
     "title": "Lafinne Atrice",
-    "url": "https://phashion.moe/Basewear/Lafinne-Atrice"
+    "slug": "Basewear/Lafinne-Atrice"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Ruckage-Vest.png",
     "title": "Ruckage Vest",
-    "url": "https://phashion.moe/Basewear/Ruckage-Vest"
+    "slug": "Basewear/Ruckage-Vest"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Soaring-Silks.png",
     "title": "Soaring Silks",
-    "url": "https://phashion.moe/Basewear/Soaring-Silks"
+    "slug": "Basewear/Soaring-Silks"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Dual-China.png",
     "title": "Dual China",
-    "url": "https://phashion.moe/Basewear/Dual-China"
+    "slug": "Basewear/Dual-China"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Dragnica-Cross.png",
     "title": "Dragnica Cross",
-    "url": "https://phashion.moe/Basewear/Dragnica-Cross"
+    "slug": "Basewear/Dragnica-Cross"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Smithy-Clothes.png",
     "title": "Smithy Clothes",
-    "url": "https://phashion.moe/Basewear/Smithy-Clothes"
+    "slug": "Basewear/Smithy-Clothes"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Dragnier-Flower.png",
     "title": "Dragnier Flower",
-    "url": "https://phashion.moe/Basewear/Dragnier-Flower"
+    "slug": "Basewear/Dragnier-Flower"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Femme-Armeure.png",
     "title": "Femme Armeure",
-    "url": "https://phashion.moe/Basewear/Femme-Armeure"
+    "slug": "Basewear/Femme-Armeure"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Smith-Salopettes.png",
     "title": "Smith Salopettes",
-    "url": "https://phashion.moe/Basewear/Smith-Salopettes"
+    "slug": "Basewear/Smith-Salopettes"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Riley-Replica.png",
     "title": "Riley Replica",
-    "url": "https://phashion.moe/Basewear/Riley-Replica"
+    "slug": "Basewear/Riley-Replica"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Kai-Schulen-Replica.png",
     "title": "Kai Schulen Replica",
-    "url": "https://phashion.moe/Basewear/Kai-Schulen-Replica"
+    "slug": "Basewear/Kai-Schulen-Replica"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Crymaria-Replica.png",
     "title": "Crymaria Replica",
-    "url": "https://phashion.moe/Basewear/Crymaria-Replica"
+    "slug": "Basewear/Crymaria-Replica"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Tactical-Suit.png",
     "title": "Tactical Suit",
-    "url": "https://phashion.moe/Basewear/Tactical-Suit"
+    "slug": "Basewear/Tactical-Suit"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Riha-Jauwarl.png",
     "title": "Riha Jauwarl",
-    "url": "https://phashion.moe/Basewear/Riha-Jauwarl"
+    "slug": "Basewear/Riha-Jauwarl"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Combat-Raider.png",
     "title": "Combat Raider",
-    "url": "https://phashion.moe/Basewear/Combat-Raider"
+    "slug": "Basewear/Combat-Raider"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Ranger-Viento.png",
     "title": "Ranger Viento",
-    "url": "https://phashion.moe/Basewear/Ranger-Viento"
+    "slug": "Basewear/Ranger-Viento"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Casamento-Tuxedo.png",
     "title": "Casamento Tuxedo",
-    "url": "https://phashion.moe/Basewear/Casamento-Tuxedo"
+    "slug": "Basewear/Casamento-Tuxedo"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Winged-Excellence.png",
     "title": "Winged Excellence",
-    "url": "https://phashion.moe/Basewear/Winged-Excellence"
+    "slug": "Basewear/Winged-Excellence"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Cathedral-Formal-M.png",
     "title": "Cathedral Formal M",
-    "url": "https://phashion.moe/Basewear/Cathedral-Formal-M"
+    "slug": "Basewear/Cathedral-Formal-M"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Cathedral-Mini-M.png",
     "title": "Cathedral Mini M",
-    "url": "https://phashion.moe/Basewear/Cathedral-Mini-M"
+    "slug": "Basewear/Cathedral-Mini-M"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Nozze-Fiore.png",
     "title": "Nozze Fiore",
-    "url": "https://phashion.moe/Basewear/Nozze-Fiore"
+    "slug": "Basewear/Nozze-Fiore"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Winged-Elegance.png",
     "title": "Winged Elegance",
-    "url": "https://phashion.moe/Basewear/Winged-Elegance"
+    "slug": "Basewear/Winged-Elegance"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Gothic-Dress.png",
     "title": "Gothic Dress",
-    "url": "https://phashion.moe/Basewear/Gothic-Dress"
+    "slug": "Basewear/Gothic-Dress"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Cathedral-Formal-F.png",
     "title": "Cathedral Formal F",
-    "url": "https://phashion.moe/Basewear/Cathedral-Formal-F"
+    "slug": "Basewear/Cathedral-Formal-F"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Cathedral-Mini-F.png",
     "title": "Cathedral Mini F",
-    "url": "https://phashion.moe/Basewear/Cathedral-Mini-F"
+    "slug": "Basewear/Cathedral-Mini-F"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Tylor-Replica-M.png",
     "title": "Tylor Replica M",
-    "url": "https://phashion.moe/Basewear/Tylor-Replica-M"
+    "slug": "Basewear/Tylor-Replica-M"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Hardened-Emotions.png",
     "title": "Hardened Emotions",
-    "url": "https://phashion.moe/Basewear/Hardened-Emotions"
+    "slug": "Basewear/Hardened-Emotions"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Premium-Cargo-Pants.png",
     "title": "Premium Cargo Pants",
-    "url": "https://phashion.moe/Basewear/Premium-Cargo-Pants"
+    "slug": "Basewear/Premium-Cargo-Pants"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Shocking-Heart.png",
     "title": "Shocking Heart",
-    "url": "https://phashion.moe/Basewear/Shocking-Heart"
+    "slug": "Basewear/Shocking-Heart"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Damaged-Jeans.png",
     "title": "Damaged Jeans",
-    "url": "https://phashion.moe/Basewear/Damaged-Jeans"
+    "slug": "Basewear/Damaged-Jeans"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Layered-Tank-Top.png",
     "title": "Layered Tank Top",
-    "url": "https://phashion.moe/Basewear/Layered-Tank-Top"
+    "slug": "Basewear/Layered-Tank-Top"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Ridel-Minadol-M.png",
     "title": "Ridel Minadol M",
-    "url": "https://phashion.moe/Basewear/Ridel-Minadol-M"
+    "slug": "Basewear/Ridel-Minadol-M"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Eville-Exceeder.png",
     "title": "Eville Exceeder",
-    "url": "https://phashion.moe/Basewear/Eville-Exceeder"
+    "slug": "Basewear/Eville-Exceeder"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Punk-Longboots.png",
     "title": "Punk Longboots",
-    "url": "https://phashion.moe/Basewear/Punk-Longboots"
+    "slug": "Basewear/Punk-Longboots"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Ridel-Minadol-F.png",
     "title": "Ridel Minadol F",
-    "url": "https://phashion.moe/Basewear/Ridel-Minadol-F"
+    "slug": "Basewear/Ridel-Minadol-F"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Eville-Amalti.png",
     "title": "Eville Amalti",
-    "url": "https://phashion.moe/Basewear/Eville-Amalti"
+    "slug": "Basewear/Eville-Amalti"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Gothic-Miniskirt.png",
     "title": "Gothic Miniskirt",
-    "url": "https://phashion.moe/Basewear/Gothic-Miniskirt"
+    "slug": "Basewear/Gothic-Miniskirt"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Tail-Cut-Dress.png",
     "title": "Tail Cut Dress",
-    "url": "https://phashion.moe/Basewear/Tail-Cut-Dress"
+    "slug": "Basewear/Tail-Cut-Dress"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Gothic-Punk-Dress.png",
     "title": "Gothic Punk Dress",
-    "url": "https://phashion.moe/Basewear/Gothic-Punk-Dress"
+    "slug": "Basewear/Gothic-Punk-Dress"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Lustrous-Prince.png",
     "title": "Lustrous Prince",
-    "url": "https://phashion.moe/Basewear/Lustrous-Prince"
+    "slug": "Basewear/Lustrous-Prince"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Teoremard-Lad.png",
     "title": "Teoremard Lad",
-    "url": "https://phashion.moe/Basewear/Teoremard-Lad"
+    "slug": "Basewear/Teoremard-Lad"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Radiant-Songstress.png",
     "title": "Radiant Songstress",
-    "url": "https://phashion.moe/Basewear/Radiant-Songstress"
+    "slug": "Basewear/Radiant-Songstress"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Nurse-s-One-Piece.png",
     "title": "Nurse’s One-Piece",
-    "url": "https://phashion.moe/Basewear/Nurse-s-One-Piece"
+    "slug": "Basewear/Nurse-s-One-Piece"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Sweet-Chocolat.png",
     "title": "Sweet Chocolat",
-    "url": "https://phashion.moe/Basewear/Sweet-Chocolat"
+    "slug": "Basewear/Sweet-Chocolat"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Avent-Lace.png",
     "title": "Avent Lace",
-    "url": "https://phashion.moe/Basewear/Avent-Lace"
+    "slug": "Basewear/Avent-Lace"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Asteria-Guards.png",
     "title": "Asteria Guards",
-    "url": "https://phashion.moe/Basewear/Asteria-Guards"
+    "slug": "Basewear/Asteria-Guards"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Froid-Gallows-M.png",
     "title": "Froid Gallows M",
-    "url": "https://phashion.moe/Basewear/Froid-Gallows-M"
+    "slug": "Basewear/Froid-Gallows-M"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Bitter-Simoon.png",
     "title": "Bitter Simoon",
-    "url": "https://phashion.moe/Basewear/Bitter-Simoon"
+    "slug": "Basewear/Bitter-Simoon"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Varza-Rising.png",
     "title": "Varza Rising",
-    "url": "https://phashion.moe/Basewear/Varza-Rising"
+    "slug": "Basewear/Varza-Rising"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Duskwake-Regalia.png",
     "title": "Duskwake Regalia",
-    "url": "https://phashion.moe/Basewear/Duskwake-Regalia"
+    "slug": "Basewear/Duskwake-Regalia"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Froid-Gallows-F.png",
     "title": "Froid Gallows F",
-    "url": "https://phashion.moe/Basewear/Froid-Gallows-F"
+    "slug": "Basewear/Froid-Gallows-F"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Sweet-Simoon.png",
     "title": "Sweet Simoon",
-    "url": "https://phashion.moe/Basewear/Sweet-Simoon"
+    "slug": "Basewear/Sweet-Simoon"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Varza-Ratio.png",
     "title": "Varza Ratio",
-    "url": "https://phashion.moe/Basewear/Varza-Ratio"
+    "slug": "Basewear/Varza-Ratio"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Kabuki-Cyclone.png",
     "title": "Kabuki Cyclone",
-    "url": "https://phashion.moe/Basewear/Kabuki-Cyclone"
+    "slug": "Basewear/Kabuki-Cyclone"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Martial-Leon.png",
     "title": "Martial Leon",
-    "url": "https://phashion.moe/Basewear/Martial-Leon"
+    "slug": "Basewear/Martial-Leon"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Blooming-Maiden.png",
     "title": "Blooming Maiden",
-    "url": "https://phashion.moe/Basewear/Blooming-Maiden"
+    "slug": "Basewear/Blooming-Maiden"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Kabuki-Thunderstroke.png",
     "title": "Kabuki Thunderstroke",
-    "url": "https://phashion.moe/Basewear/Kabuki-Thunderstroke"
+    "slug": "Basewear/Kabuki-Thunderstroke"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Martial-Lilian.png",
     "title": "Martial Lilian",
-    "url": "https://phashion.moe/Basewear/Martial-Lilian"
+    "slug": "Basewear/Martial-Lilian"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Rough-Jeans.png",
     "title": "Rough Jeans",
-    "url": "https://phashion.moe/Basewear/Rough-Jeans"
+    "slug": "Basewear/Rough-Jeans"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Sharp-Vest.png",
     "title": "Sharp Vest",
-    "url": "https://phashion.moe/Basewear/Sharp-Vest"
+    "slug": "Basewear/Sharp-Vest"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Liner-Jacket-Ensemble.png",
     "title": "Liner Jacket Ensemble",
-    "url": "https://phashion.moe/Basewear/Liner-Jacket-Ensemble"
+    "slug": "Basewear/Liner-Jacket-Ensemble"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Denim-Skirt.png",
     "title": "Denim Skirt",
-    "url": "https://phashion.moe/Basewear/Denim-Skirt"
+    "slug": "Basewear/Denim-Skirt"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Shorts.png",
     "title": "Shorts",
-    "url": "https://phashion.moe/Basewear/Shorts"
+    "slug": "Basewear/Shorts"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Damaged-Shorts.png",
     "title": "Damaged Shorts",
-    "url": "https://phashion.moe/Basewear/Damaged-Shorts"
+    "slug": "Basewear/Damaged-Shorts"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Lady-Tacker.png",
     "title": "Lady Tacker",
-    "url": "https://phashion.moe/Basewear/Lady-Tacker"
+    "slug": "Basewear/Lady-Tacker"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Raison-Hubris.png",
     "title": "Raison Hubris",
-    "url": "https://phashion.moe/Basewear/Raison-Hubris"
+    "slug": "Basewear/Raison-Hubris"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Nogue-Lyra.png",
     "title": "Nogue Lyra",
-    "url": "https://phashion.moe/Basewear/Nogue-Lyra"
+    "slug": "Basewear/Nogue-Lyra"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Riad-Falco.png",
     "title": "Riad Falco",
-    "url": "https://phashion.moe/Basewear/Riad-Falco"
+    "slug": "Basewear/Riad-Falco"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Suit-Slacks.png",
     "title": "Suit Slacks",
-    "url": "https://phashion.moe/Basewear/Suit-Slacks"
+    "slug": "Basewear/Suit-Slacks"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Slacks.png",
     "title": "Slacks",
-    "url": "https://phashion.moe/Basewear/Slacks"
+    "slug": "Basewear/Slacks"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Raison-Vanitas.png",
     "title": "Raison Vanitas",
-    "url": "https://phashion.moe/Basewear/Raison-Vanitas"
+    "slug": "Basewear/Raison-Vanitas"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Novi-Katz.png",
     "title": "Novi Katz",
-    "url": "https://phashion.moe/Basewear/Novi-Katz"
+    "slug": "Basewear/Novi-Katz"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Reaver-Swallow.png",
     "title": "Reaver Swallow",
-    "url": "https://phashion.moe/Basewear/Reaver-Swallow"
+    "slug": "Basewear/Reaver-Swallow"
   },
   {
-    "image": "https://phashion.moe/images/Basewear/Frill-One-Piece.png",
     "title": "Frill One-Piece",
-    "url": "https://phashion.moe/Basewear/Frill-One-Piece"
+    "slug": "Basewear/Frill-One-Piece"
   }
 ]

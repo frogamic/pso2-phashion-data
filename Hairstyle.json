@@ -1,0 +1,746 @@
+[
+  {
+    "title": "Side Fringe Short Bob",
+    "slug": "Hairstyle/Side-Fringe-Short-Bob"
+  },
+  {
+    "title": "Long Side Ponytail",
+    "slug": "Hairstyle/Long-Side-Ponytail"
+  },
+  {
+    "title": "Power Mullet",
+    "slug": "Hairstyle/Power-Mullet"
+  },
+  {
+    "title": "Hitsugi Ponytail",
+    "slug": "Hairstyle/Hitsugi-Ponytail"
+  },
+  {
+    "title": "Kohri Long Hair",
+    "slug": "Hairstyle/Kohri-Long-Hair"
+  },
+  {
+    "title": "Al Short Hair",
+    "slug": "Hairstyle/Al-Short-Hair"
+  },
+  {
+    "title": "Daybreak Long Hair",
+    "slug": "Hairstyle/Daybreak-Long-Hair"
+  },
+  {
+    "title": "Off- Center Wild Mullet",
+    "slug": "Hairstyle/Off-Center-Wild-Mullet"
+  },
+  {
+    "title": "Straight Ponytail",
+    "slug": "Hairstyle/Straight-Ponytail"
+  },
+  {
+    "title": "Cool Pompadour",
+    "slug": "Hairstyle/Cool-Pompadour"
+  },
+  {
+    "title": "Wavy Semi-Long Hair",
+    "slug": "Hairstyle/Wavy-Semi-Long-Hair"
+  },
+  {
+    "title": "Long Rough Braids",
+    "slug": "Hairstyle/Long-Rough-Braids"
+  },
+  {
+    "title": "Wavy Medium",
+    "slug": "Hairstyle/Wavy-Medium"
+  },
+  {
+    "title": "Marine Hair",
+    "slug": "Hairstyle/Marine-Hair"
+  },
+  {
+    "title": "Cat Ears Bob",
+    "slug": "Hairstyle/Cat-Ears-Bob"
+  },
+  {
+    "title": "Huey Hair",
+    "slug": "Hairstyle/Huey-Hair"
+  },
+  {
+    "title": "Cool Pompadour",
+    "slug": "Hairstyle/Cool-Pompadour"
+  },
+  {
+    "title": "Parted Straight Long Hair",
+    "slug": "Hairstyle/Parted-Straight-Long-Hair"
+  },
+  {
+    "title": "Sakuya Long Ponytail",
+    "slug": "Hairstyle/Sakuya-Long-Ponytail"
+  },
+  {
+    "title": "Sakuya Long Pigtails",
+    "slug": "Hairstyle/Sakuya-Long-Pigtails"
+  },
+  {
+    "title": "Urayukihime Straight Hair",
+    "slug": "Hairstyle/Urayukihime-Straight-Hair"
+  },
+  {
+    "title": "Phantom Q Ponytail",
+    "slug": "Hairstyle/Phantom-Q-Ponytail"
+  },
+  {
+    "title": "Altina Long Hair",
+    "slug": "Hairstyle/Altina-Long-Hair"
+  },
+  {
+    "title": "Altina Long Hair 2",
+    "slug": "Hairstyle/Altina-Long-Hair-2"
+  },
+  {
+    "title": "Panis Semi-Long Hair",
+    "slug": "Hairstyle/Panis-Semi-Long-Hair"
+  },
+  {
+    "title": "Panis Semi-Long Hair 2",
+    "slug": "Hairstyle/Panis-Semi-Long-Hair-2"
+  },
+  {
+    "title": "Cerberus Q Ponytail",
+    "slug": "Hairstyle/Cerberus-Q-Ponytail"
+  },
+  {
+    "title": "Yukihime Short",
+    "slug": "Hairstyle/Yukihime-Short"
+  },
+  {
+    "title": "Sonia Long Hair",
+    "slug": "Hairstyle/Sonia-Long-Hair"
+  },
+  {
+    "title": "Sonia Long Hair 2",
+    "slug": "Hairstyle/Sonia-Long-Hair-2"
+  },
+  {
+    "title": "Rinna Long Pigtails",
+    "slug": "Hairstyle/Rinna-Long-Pigtails"
+  },
+  {
+    "title": "Marion Hair",
+    "slug": "Hairstyle/Marion-Hair"
+  },
+  {
+    "title": "Misty Long Pigtails",
+    "slug": "Hairstyle/Misty-Long-Pigtails"
+  },
+  {
+    "title": "Misty Long Pigtails 2",
+    "slug": "Hairstyle/Misty-Long-Pigtails-2"
+  },
+  {
+    "title": "Kirika Ponytail",
+    "slug": "Hairstyle/Kirika-Ponytail"
+  },
+  {
+    "title": "Yuma Short Hair",
+    "slug": "Hairstyle/Yuma-Short-Hair"
+  },
+  {
+    "title": "Excella Long Pigtails",
+    "slug": "Hairstyle/Excella-Long-Pigtails"
+  },
+  {
+    "title": "Jenius Long Hair",
+    "slug": "Hairstyle/Jenius-Long-Hair"
+  },
+  {
+    "title": "Zest Short Hair",
+    "slug": "Hairstyle/Zest-Short-Hair"
+  },
+  {
+    "title": "Braided Half Updo",
+    "slug": "Hairstyle/Braided-Half-Updo"
+  },
+  {
+    "title": "Parted Straight Long Hair",
+    "slug": "Hairstyle/Parted-Straight-Long-Hair"
+  },
+  {
+    "title": "Small Afro",
+    "slug": "Hairstyle/Small-Afro"
+  },
+  {
+    "title": "Viel Visor Pigtails",
+    "slug": "Hairstyle/Viel-Visor-Pigtails"
+  },
+  {
+    "title": "Viel Twin Loops",
+    "slug": "Hairstyle/Viel-Twin-Loops"
+  },
+  {
+    "title": "Matoi Loop Pigtails",
+    "slug": "Hairstyle/Matoi-Loop-Pigtails"
+  },
+  {
+    "title": "Matoi Loop Pigtails 2 GV",
+    "slug": "Hairstyle/Matoi-Loop-Pigtails-2-GV"
+  },
+  {
+    "title": "Long Pigtails GV",
+    "slug": "Hairstyle/Long-Pigtails-GV"
+  },
+  {
+    "title": "Long Pigtails 2 GV",
+    "slug": "Hairstyle/Long-Pigtails-2-GV"
+  },
+  {
+    "title": "Matoi Straight",
+    "slug": "Hairstyle/Matoi-Straight"
+  },
+  {
+    "title": "Matoi Straight 2 GV",
+    "slug": "Hairstyle/Matoi-Straight-2-GV"
+  },
+  {
+    "title": "[Gemini – Male] Hair",
+    "slug": "Hairstyle/Gemini-Male-Hair"
+  },
+  {
+    "title": "[Gemini – Female] Hair",
+    "slug": "Hairstyle/Gemini-Female-Hair"
+  },
+  {
+    "title": "[Luther] Hair",
+    "slug": "Hairstyle/Luther-Hair"
+  },
+  {
+    "title": "[Persona] Hair",
+    "slug": "Hairstyle/Persona-Hair"
+  },
+  {
+    "title": "[Elder] Hair",
+    "slug": "Hairstyle/Elder-Hair"
+  },
+  {
+    "title": "[Apprentice] Hair",
+    "slug": "Hairstyle/Apprentice-Hair"
+  },
+  {
+    "title": "Xion Long Hair",
+    "slug": "Hairstyle/Xion-Long-Hair"
+  },
+  {
+    "title": "Xion Updo",
+    "slug": "Hairstyle/Xion-Updo"
+  },
+  {
+    "title": "Xiao Hair",
+    "slug": "Hairstyle/Xiao-Hair"
+  },
+  {
+    "title": "Kannagi Hairstyle",
+    "slug": "Hairstyle/Kannagi-Hairstyle"
+  },
+  {
+    "title": "Cafuu Hair",
+    "slug": "Hairstyle/Cafuu-Hair"
+  },
+  {
+    "title": "Inyuu Hair",
+    "slug": "Hairstyle/Inyuu-Hair"
+  },
+  {
+    "title": "Occultic Hair",
+    "slug": "Hairstyle/Occultic-Hair"
+  },
+  {
+    "title": "Solitary Helmet",
+    "slug": "Hairstyle/Solitary-Helmet"
+  },
+  {
+    "title": "Small Afro",
+    "slug": "Hairstyle/Small-Afro"
+  },
+  {
+    "title": "Youngest Naura Sister Hair",
+    "slug": "Hairstyle/Youngest-Naura-Sister-Hair"
+  },
+  {
+    "title": "Rough Pigtails GV",
+    "slug": "Hairstyle/Rough-Pigtails-GV"
+  },
+  {
+    "title": "Alcuria Long Hair",
+    "slug": "Hairstyle/Alcuria-Long-Hair"
+  },
+  {
+    "title": "Kazuma Hair",
+    "slug": "Hairstyle/Kazuma-Hair"
+  },
+  {
+    "title": "Aqua Hair",
+    "slug": "Hairstyle/Aqua-Hair"
+  },
+  {
+    "title": "Megumin Hair",
+    "slug": "Hairstyle/Megumin-Hair"
+  },
+  {
+    "title": "Darkness Hair",
+    "slug": "Hairstyle/Darkness-Hair"
+  },
+  {
+    "title": "Yunyun Hair",
+    "slug": "Hairstyle/Yunyun-Hair"
+  },
+  {
+    "title": "Side Fringe Off-Center Perm",
+    "slug": "Hairstyle/Side-Fringe-Off-Center-Perm"
+  },
+  {
+    "title": "Hairclip Off-Center Short",
+    "slug": "Hairstyle/Hairclip-Off-Center-Short"
+  },
+  {
+    "title": "Braided Pigtails",
+    "slug": "Hairstyle/Braided-Pigtails"
+  },
+  {
+    "title": "Inverted Bob",
+    "slug": "Hairstyle/Inverted-Bob"
+  },
+  {
+    "title": "Tigerblade Hairstyle",
+    "slug": "Hairstyle/Tigerblade-Hairstyle"
+  },
+  {
+    "title": "Soaring Hairstyle",
+    "slug": "Hairstyle/Soaring-Hairstyle"
+  },
+  {
+    "title": "Armeure Hair",
+    "slug": "Hairstyle/Armeure-Hair"
+  },
+  {
+    "title": "Sukunahime Ponytail",
+    "slug": "Hairstyle/Sukunahime-Ponytail"
+  },
+  {
+    "title": "Dragnica Crest",
+    "slug": "Hairstyle/Dragnica-Crest"
+  },
+  {
+    "title": "Smith Hair",
+    "slug": "Hairstyle/Smith-Hair"
+  },
+  {
+    "title": "Smithy Hair",
+    "slug": "Hairstyle/Smithy-Hair"
+  },
+  {
+    "title": "Juno Updo",
+    "slug": "Hairstyle/Juno-Updo"
+  },
+  {
+    "title": "Youngest Naura Sister Hair",
+    "slug": "Hairstyle/Youngest-Naura-Sister-Hair"
+  },
+  {
+    "title": "Casual Ponytail",
+    "slug": "Hairstyle/Casual-Ponytail"
+  },
+  {
+    "title": "Cursed Layer",
+    "slug": "Hairstyle/Cursed-Layer"
+  },
+  {
+    "title": "Cursed Hood",
+    "slug": "Hairstyle/Cursed-Hood"
+  },
+  {
+    "title": "Magia Ponytail",
+    "slug": "Hairstyle/Magia-Ponytail"
+  },
+  {
+    "title": "Euclyta Short",
+    "slug": "Hairstyle/Euclyta-Short"
+  },
+  {
+    "title": "Akira Hair",
+    "slug": "Hairstyle/Akira-Hair"
+  },
+  {
+    "title": "Saito Hajime Topknot",
+    "slug": "Hairstyle/Saito-Hajime-Topknot"
+  },
+  {
+    "title": "Goro Majima Hairstyle",
+    "slug": "Hairstyle/Goro-Majima-Hairstyle"
+  },
+  {
+    "title": "Selvaria Long Hair",
+    "slug": "Hairstyle/Selvaria-Long-Hair"
+  },
+  {
+    "title": "Arle Half-Up",
+    "slug": "Hairstyle/Arle-Half-Up"
+  },
+  {
+    "title": "Student Style Hair",
+    "slug": "Hairstyle/Student-Style-Hair"
+  },
+  {
+    "title": "Alicia Pigtails",
+    "slug": "Hairstyle/Alicia-Pigtails"
+  },
+  {
+    "title": "Alicia Bandana",
+    "slug": "Hairstyle/Alicia-Bandana"
+  },
+  {
+    "title": "Riley Hair",
+    "slug": "Hairstyle/Riley-Hair"
+  },
+  {
+    "title": "Kai Schulen Hair 1",
+    "slug": "Hairstyle/Kai-Schulen-Hair-1"
+  },
+  {
+    "title": "Kai Schulen Hair 2",
+    "slug": "Hairstyle/Kai-Schulen-Hair-2"
+  },
+  {
+    "title": "Crymaria Hair",
+    "slug": "Hairstyle/Crymaria-Hair"
+  },
+  {
+    "title": "Casual Ponytail",
+    "slug": "Hairstyle/Casual-Ponytail"
+  },
+  {
+    "title": "Straight Updo",
+    "slug": "Hairstyle/Straight-Updo"
+  },
+  {
+    "title": "Half-Up Ponytail",
+    "slug": "Hairstyle/Half-Up-Ponytail"
+  },
+  {
+    "title": "Idea Twin Loops",
+    "slug": "Hairstyle/Idea-Twin-Loops"
+  },
+  {
+    "title": "Diva Ponytail",
+    "slug": "Hairstyle/Diva-Ponytail"
+  },
+  {
+    "title": "Diva Ponytail 2",
+    "slug": "Hairstyle/Diva-Ponytail-2"
+  },
+  {
+    "title": "Taulia Hair",
+    "slug": "Hairstyle/Taulia-Hair"
+  },
+  {
+    "title": "Ultra Short Pixie",
+    "slug": "Hairstyle/Ultra-Short-Pixie"
+  },
+  {
+    "title": "Jauwarl Hair",
+    "slug": "Hairstyle/Jauwarl-Hair"
+  },
+  {
+    "title": "Ranger Hair",
+    "slug": "Hairstyle/Ranger-Hair"
+  },
+  {
+    "title": "Philinne Hair",
+    "slug": "Hairstyle/Philinne-Hair"
+  },
+  {
+    "title": "Straight Updo",
+    "slug": "Hairstyle/Straight-Updo"
+  },
+  {
+    "title": "Tied Long Hair",
+    "slug": "Hairstyle/Tied-Long-Hair"
+  },
+  {
+    "title": "Nozze Hair",
+    "slug": "Hairstyle/Nozze-Hair"
+  },
+  {
+    "title": "Side Fringe Off-Center Short",
+    "slug": "Hairstyle/Side-Fringe-Off-Center-Short"
+  },
+  {
+    "title": "Cathedral Hair",
+    "slug": "Hairstyle/Cathedral-Hair"
+  },
+  {
+    "title": "Tied Long Hair",
+    "slug": "Hairstyle/Tied-Long-Hair"
+  },
+  {
+    "title": "Side Fringe Short Hair",
+    "slug": "Hairstyle/Side-Fringe-Short-Hair"
+  },
+  {
+    "title": "Twin Buns",
+    "slug": "Hairstyle/Twin-Buns"
+  },
+  {
+    "title": "Hatsune Miku Hair",
+    "slug": "Hairstyle/Hatsune-Miku-Hair"
+  },
+  {
+    "title": "Hatsune Miku Hair 2",
+    "slug": "Hairstyle/Hatsune-Miku-Hair-2"
+  },
+  {
+    "title": "Hatsune Miku Hair 3",
+    "slug": "Hairstyle/Hatsune-Miku-Hair-3"
+  },
+  {
+    "title": "Megurine Luka Hair",
+    "slug": "Hairstyle/Megurine-Luka-Hair"
+  },
+  {
+    "title": "Kagamine Rin Hair",
+    "slug": "Hairstyle/Kagamine-Rin-Hair"
+  },
+  {
+    "title": "Kagamine Len Hair",
+    "slug": "Hairstyle/Kagamine-Len-Hair"
+  },
+  {
+    "title": "Effector Hair",
+    "slug": "Hairstyle/Effector-Hair"
+  },
+  {
+    "title": "Emotion Hair",
+    "slug": "Hairstyle/Emotion-Hair"
+  },
+  {
+    "title": "Creslow Hair",
+    "slug": "Hairstyle/Creslow-Hair"
+  },
+  {
+    "title": "Inward Curl Long Hair",
+    "slug": "Hairstyle/Inward-Curl-Long-Hair"
+  },
+  {
+    "title": "Corpse Hood",
+    "slug": "Hairstyle/Corpse-Hood"
+  },
+  {
+    "title": "Ethan Hair",
+    "slug": "Hairstyle/Ethan-Hair"
+  },
+  {
+    "title": "Karen Hair",
+    "slug": "Hairstyle/Karen-Hair"
+  },
+  {
+    "title": "Helicopter Pilot Helmet",
+    "slug": "Hairstyle/Helicopter-Pilot-Helmet"
+  },
+  {
+    "title": "Helicopter Pilot Helmet NV",
+    "slug": "Hairstyle/Helicopter-Pilot-Helmet-NV"
+  },
+  {
+    "title": "Barbatos Ponytail",
+    "slug": "Hairstyle/Barbatos-Ponytail"
+  },
+  {
+    "title": "Wild Ponytail",
+    "slug": "Hairstyle/Wild-Ponytail"
+  },
+  {
+    "title": "Schraedel Hair",
+    "slug": "Hairstyle/Schraedel-Hair"
+  },
+  {
+    "title": "Amalti Hair",
+    "slug": "Hairstyle/Amalti-Hair"
+  },
+  {
+    "title": "Ridel Hair",
+    "slug": "Hairstyle/Ridel-Hair"
+  },
+  {
+    "title": "Messy Short Bob",
+    "slug": "Hairstyle/Messy-Short-Bob"
+  },
+  {
+    "title": "Side Fringe Short Hair",
+    "slug": "Hairstyle/Side-Fringe-Short-Hair"
+  },
+  {
+    "title": "Classic Swept Back",
+    "slug": "Hairstyle/Classic-Swept-Back"
+  },
+  {
+    "title": "Shiny Hair",
+    "slug": "Hairstyle/Shiny-Hair"
+  },
+  {
+    "title": "Chocolat Hair",
+    "slug": "Hairstyle/Chocolat-Hair"
+  },
+  {
+    "title": "Avent Hair 1",
+    "slug": "Hairstyle/Avent-Hair-1"
+  },
+  {
+    "title": "Avent Hair 2",
+    "slug": "Hairstyle/Avent-Hair-2"
+  },
+  {
+    "title": "Avent Hair 3",
+    "slug": "Hairstyle/Avent-Hair-3"
+  },
+  {
+    "title": "Cortu Hair",
+    "slug": "Hairstyle/Cortu-Hair"
+  },
+  {
+    "title": "Side Fringe Wavy Updo",
+    "slug": "Hairstyle/Side-Fringe-Wavy-Updo"
+  },
+  {
+    "title": "Dealer Pigtails",
+    "slug": "Hairstyle/Dealer-Pigtails"
+  },
+  {
+    "title": "Medium Edgy",
+    "slug": "Hairstyle/Medium-Edgy"
+  },
+  {
+    "title": "Classic Swept Back",
+    "slug": "Hairstyle/Classic-Swept-Back"
+  },
+  {
+    "title": "Chinese Bun",
+    "slug": "Hairstyle/Chinese-Bun"
+  },
+  {
+    "title": "Bitter Simoon Hood",
+    "slug": "Hairstyle/Bitter-Simoon-Hood"
+  },
+  {
+    "title": "Sweet Simoon Hood",
+    "slug": "Hairstyle/Sweet-Simoon-Hood"
+  },
+  {
+    "title": "Dusk Hair",
+    "slug": "Hairstyle/Dusk-Hair"
+  },
+  {
+    "title": "Ratio Hair",
+    "slug": "Hairstyle/Ratio-Hair"
+  },
+  {
+    "title": "Draulia Hair",
+    "slug": "Hairstyle/Draulia-Hair"
+  },
+  {
+    "title": "Varza Eyes (L)",
+    "slug": "Hairstyle/Varza-Eyes-L"
+  },
+  {
+    "title": "Medium Edgy",
+    "slug": "Hairstyle/Medium-Edgy"
+  },
+  {
+    "title": "Casual Updo",
+    "slug": "Hairstyle/Casual-Updo"
+  },
+  {
+    "title": "Innocent Loop Pigtails",
+    "slug": "Hairstyle/Innocent-Loop-Pigtails"
+  },
+  {
+    "title": "Recorder Short",
+    "slug": "Hairstyle/Recorder-Short"
+  },
+  {
+    "title": "Kabuki Short Hair",
+    "slug": "Hairstyle/Kabuki-Short-Hair"
+  },
+  {
+    "title": "Kabuki Long Hair",
+    "slug": "Hairstyle/Kabuki-Long-Hair"
+  },
+  {
+    "title": "Wavy Pigtails",
+    "slug": "Hairstyle/Wavy-Pigtails"
+  },
+  {
+    "title": "Spikey Short",
+    "slug": "Hairstyle/Spikey-Short"
+  },
+  {
+    "title": "Parted Ponytail",
+    "slug": "Hairstyle/Parted-Ponytail"
+  },
+  {
+    "title": "Floral Ponytail",
+    "slug": "Hairstyle/Floral-Ponytail"
+  },
+  {
+    "title": "Casual Updo",
+    "slug": "Hairstyle/Casual-Updo"
+  },
+  {
+    "title": "Short Pompadour",
+    "slug": "Hairstyle/Short-Pompadour"
+  },
+  {
+    "title": "Easygoing Pigtails",
+    "slug": "Hairstyle/Easygoing-Pigtails"
+  },
+  {
+    "title": "Off-Center Short Mullet",
+    "slug": "Hairstyle/Off-Center-Short-Mullet"
+  },
+  {
+    "title": "Skull Headband",
+    "slug": "Hairstyle/Skull-Headband"
+  },
+  {
+    "title": "Long Pigtails",
+    "slug": "Hairstyle/Long-Pigtails"
+  },
+  {
+    "title": "Parted Pigtails",
+    "slug": "Hairstyle/Parted-Pigtails"
+  },
+  {
+    "title": "Short Pompadour",
+    "slug": "Hairstyle/Short-Pompadour"
+  },
+  {
+    "title": "Long Braids",
+    "slug": "Hairstyle/Long-Braids"
+  },
+  {
+    "title": "Novi Medium Hair",
+    "slug": "Hairstyle/Novi-Medium-Hair"
+  },
+  {
+    "title": "Reaver Hair",
+    "slug": "Hairstyle/Reaver-Hair"
+  },
+  {
+    "title": "Elegant Bun",
+    "slug": "Hairstyle/Elegant-Bun"
+  },
+  {
+    "title": "Inverted Short Bob",
+    "slug": "Hairstyle/Inverted-Short-Bob"
+  },
+  {
+    "title": "Long Braids",
+    "slug": "Hairstyle/Long-Braids"
+  }
+]

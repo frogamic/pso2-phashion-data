@@ -1,0 +1,17 @@
+{
+  "title": "Belga Head",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "tier": 7,
+  "category": "CAST Head",
+  "collection": {
+    "title": "Season 5",
+    "type": "Mission Pass",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason5",
+    "slug": "Collections/Mission-Pass/missionpassseason5"
+  },
+  "tradeable": false,
+  "slug": "CAST-Head/Belga-Head"
+}

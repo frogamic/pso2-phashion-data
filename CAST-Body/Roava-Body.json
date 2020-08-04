@@ -1,0 +1,17 @@
+{
+  "title": "Roava Body",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "tier": 5,
+  "category": "CAST Body",
+  "collection": {
+    "title": "Season 4",
+    "type": "Mission Pass",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4",
+    "slug": "Collections/Mission-Pass/missionpassseason4"
+  },
+  "tradeable": false,
+  "slug": "CAST-Body/Roava-Body"
+}

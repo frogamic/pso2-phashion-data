@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Body-Paint/Pirate-M-Tattoo-A.png",
   "title": "Pirate M Tattoo A",
   "category": "Body Paint",
   "collection": {
-    "id": "funjuly2020part3",
+    "title": "July 2020 - Part 3",
     "type": "FUN Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part3",
-    "title": "July 2020 - Part 3",
-    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjuly2020part3.jpg"
+    "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part3"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Body-Paint/Pirate-M-Tattoo-A"
 }

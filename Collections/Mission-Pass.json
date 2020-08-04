@@ -1,23 +1,18 @@
 [
   {
-    "id": "missionpassseason5",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason5",
+    "title": "Season 6",
+    "slug": "Collections/Mission-Pass/missionpassseason6"
+  },
+  {
     "title": "Season 5",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason5.jpg",
-    "url": "https://phashion.moe/Collections/Mission-Pass/missionpassseason5"
+    "slug": "Collections/Mission-Pass/missionpassseason5"
   },
   {
-    "id": "missionpassseason4",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4",
     "title": "Season 4",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason4.jpg",
-    "url": "https://phashion.moe/Collections/Mission-Pass/missionpassseason4"
+    "slug": "Collections/Mission-Pass/missionpassseason4"
   },
   {
-    "id": "missionpassseason3",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
     "title": "Season 3",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
-    "url": "https://phashion.moe/Collections/Mission-Pass/missionpassseason3"
+    "slug": "Collections/Mission-Pass/missionpassseason3"
   }
 ]

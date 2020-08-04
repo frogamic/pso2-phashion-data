@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/CAST-Legs/Regia-Legs.png",
   "title": "Regia Legs",
   "gender": {
     "female": false,
@@ -8,11 +7,11 @@
   "tier": 29,
   "category": "CAST Legs",
   "collection": {
-    "id": "missionpassseason3",
+    "title": "Season 3",
     "type": "Mission Pass",
     "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
-    "title": "Season 3",
-    "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg"
+    "slug": "Collections/Mission-Pass/missionpassseason3"
   },
-  "tradeable": false
+  "tradeable": false,
+  "slug": "CAST-Legs/Regia-Legs"
 }

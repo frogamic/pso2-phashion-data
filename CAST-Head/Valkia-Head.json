@@ -1,0 +1,16 @@
+{
+  "title": "Valkia Head",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Head",
+  "collection": {
+    "title": "Heroic Wanderer",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer",
+    "slug": "Collections/AC-Scratch-Ticket/heroicwanderer"
+  },
+  "tradeable": true,
+  "slug": "CAST-Head/Valkia-Head"
+}

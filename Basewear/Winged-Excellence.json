@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/Basewear/Winged-Excellence.png",
   "title": "Winged Excellence",
   "gender": {
     "female": false,
@@ -11,11 +10,11 @@
   },
   "category": "Basewear",
   "collection": {
-    "id": "oraclecelebrations",
+    "title": "Oracle Celebrations",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/oraclecelebrations",
-    "title": "Oracle Celebrations",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/oraclecelebrations.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/oraclecelebrations"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Basewear/Winged-Excellence"
 }

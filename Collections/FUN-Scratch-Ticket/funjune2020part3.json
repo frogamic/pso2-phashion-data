@@ -1,261 +1,218 @@
 {
-  "id": "funjune2020part3",
   "type": "FUN Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part3",
   "title": "June 2020 - Part 3",
-  "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part3.jpg",
+  "slug": "Collections/FUN-Scratch-Ticket/funjune2020part3",
   "items": [
     {
-      "image": "https://phashion.moe/images/Hairstyles/Youngest-Naura-Sister-Hair.png",
       "title": "Youngest Naura Sister Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Youngest-Naura-Sister-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Youngest-Naura-Sister-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Casual-Ponytail.png",
       "title": "Casual Ponytail",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Casual-Ponytail"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Casual-Ponytail"
     },
     {
-      "image": "https://phashion.moe/images/Eyebrows/Straight-Eyebrows-B.png",
       "title": "Straight Eyebrows B",
       "category": "Eyebrows",
-      "url": "https://phashion.moe/Eyebrows/Straight-Eyebrows-B"
+      "slug": "Eyebrows/Straight-Eyebrows-B"
     },
     {
-      "image": "https://phashion.moe/images/Eyelashes/Dbl-Anime-Lashes-Set.png",
       "title": "Dbl. Anime Lashes Set",
       "category": "Eyelashes",
-      "url": "https://phashion.moe/Eyelashes/Dbl-Anime-Lashes-Set"
+      "slug": "Eyelashes/Dbl-Anime-Lashes-Set"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Bulky-Tights-Set-A.png",
       "title": "Bulky Tights Set A",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Bulky-Tights-Set-A"
+      "slug": "Body-Paint/Bulky-Tights-Set-A"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Arm-Blades.png",
       "title": "Arm Blades",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Arm-Blades"
+      "category": "Accessory",
+      "slug": "Accessory/Arm-Blades"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Arm-Blades-B.png",
       "title": "Arm Blades B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Arm-Blades-B"
+      "category": "Accessory",
+      "slug": "Accessory/Arm-Blades-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Sparklers.png",
       "title": "Sparklers",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Sparklers"
+      "category": "Accessory",
+      "slug": "Accessory/Sparklers"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fluffy-Hair-S.png",
       "title": "Fluffy Hair (S)",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Fluffy-Hair-S"
+      "category": "Accessory",
+      "slug": "Accessory/Fluffy-Hair-S"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fluffy-Hair-M.png",
       "title": "Fluffy Hair (M)",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Fluffy-Hair-M"
+      "category": "Accessory",
+      "slug": "Accessory/Fluffy-Hair-M"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fluffy-Hair-L.png",
       "title": "Fluffy Hair (L)",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Fluffy-Hair-L"
+      "category": "Accessory",
+      "slug": "Accessory/Fluffy-Hair-L"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Arm-Scarf-Red.png",
       "title": "Arm Scarf: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Arm-Scarf-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Arm-Scarf-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Arm-Scarf-Black.png",
       "title": "Arm Scarf: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Arm-Scarf-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Arm-Scarf-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Arm-Scarf-Blue.png",
       "title": "Arm Scarf: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Arm-Scarf-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Arm-Scarf-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Leg-Scarf-Red.png",
       "title": "Leg Scarf: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Leg-Scarf-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Leg-Scarf-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Leg-Scarf-Black.png",
       "title": "Leg Scarf: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Leg-Scarf-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Leg-Scarf-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Leg-Scarf-Blue.png",
       "title": "Leg Scarf: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Leg-Scarf-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Leg-Scarf-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/3D-Glasses.png",
       "title": "3D Glasses",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/3D-Glasses"
+      "category": "Accessory",
+      "slug": "Accessory/3D-Glasses"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/Smith-Sticker-Set.png",
       "title": "Smith Sticker Set",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/Smith-Sticker-Set"
+      "category": "Sticker",
+      "slug": "Sticker/Smith-Sticker-Set"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/Protector-Sticker-Set.png",
       "title": "Protector Sticker Set",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/Protector-Sticker-Set"
+      "category": "Sticker",
+      "slug": "Sticker/Protector-Sticker-Set"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/Calis-Emblem-Set.png",
       "title": "Calis Emblem Set",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/Calis-Emblem-Set"
+      "category": "Sticker",
+      "slug": "Sticker/Calis-Emblem-Set"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/Tigerblade-Sticker.png",
       "title": "Tigerblade Sticker",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/Tigerblade-Sticker"
+      "category": "Sticker",
+      "slug": "Sticker/Tigerblade-Sticker"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/Soaring-Sticker.png",
       "title": "Soaring Sticker",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/Soaring-Sticker"
+      "category": "Sticker",
+      "slug": "Sticker/Soaring-Sticker"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Sassy-Cheek-Makeup.png",
       "title": "Sassy Cheek Makeup",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Sassy-Cheek-Makeup"
+      "category": "Facepaint",
+      "slug": "Facepaint/Sassy-Cheek-Makeup"
     },
     {
-      "image": "https://phashion.moe/images/Eyebrows/Multibrows.png",
       "title": "Multibrows",
       "category": "Eyebrows",
-      "url": "https://phashion.moe/Eyebrows/Multibrows"
+      "slug": "Eyebrows/Multibrows"
     },
     {
-      "image": "https://phashion.moe/images/Eyelashes/Distinct-Eyelashes-Set.png",
       "title": "Distinct Eyelashes Set",
       "category": "Eyelashes",
-      "url": "https://phashion.moe/Eyelashes/Distinct-Eyelashes-Set"
+      "slug": "Eyelashes/Distinct-Eyelashes-Set"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Sonic-Mask.png",
       "title": "Sonic Mask",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Sonic-Mask"
+      "category": "Accessory",
+      "slug": "Accessory/Sonic-Mask"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Tails-Mask.png",
       "title": "Tails Mask",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Tails-Mask"
+      "category": "Accessory",
+      "slug": "Accessory/Tails-Mask"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Eggman-Mask.png",
       "title": "Eggman Mask",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Eggman-Mask"
+      "category": "Accessory",
+      "slug": "Accessory/Eggman-Mask"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Knuckles-Mask.png",
       "title": "Knuckles Mask",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Knuckles-Mask"
+      "category": "Accessory",
+      "slug": "Accessory/Knuckles-Mask"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Amy-Mask.png",
       "title": "Amy Mask",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Amy-Mask"
+      "category": "Accessory",
+      "slug": "Accessory/Amy-Mask"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Blockers.png",
       "title": "Shoulder Blockers",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Blockers"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Blockers"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Blockers-B.png",
       "title": "Shoulder Blockers B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Blockers-B"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Blockers-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana.png",
       "title": "Rose-Pin Bandana",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rose-Pin-Bandana"
+      "category": "Accessory",
+      "slug": "Accessory/Rose-Pin-Bandana"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana-White.png",
       "title": "Rose-Pin Bandana: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rose-Pin-Bandana-White"
+      "category": "Accessory",
+      "slug": "Accessory/Rose-Pin-Bandana-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana-Black.png",
       "title": "Rose-Pin Bandana: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rose-Pin-Bandana-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Rose-Pin-Bandana-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana-Water.png",
       "title": "Rose-Pin Bandana: Water",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rose-Pin-Bandana-Water"
+      "category": "Accessory",
+      "slug": "Accessory/Rose-Pin-Bandana-Water"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rose-Pin-Bandana-Pink.png",
       "title": "Rose-Pin Bandana: Pink",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rose-Pin-Bandana-Pink"
+      "category": "Accessory",
+      "slug": "Accessory/Rose-Pin-Bandana-Pink"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Cancer-Crown.png",
       "title": "Cancer Crown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Cancer-Crown"
+      "category": "Accessory",
+      "slug": "Accessory/Cancer-Crown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Cancer-Mask.png",
       "title": "Cancer Mask",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Cancer-Mask"
+      "category": "Accessory",
+      "slug": "Accessory/Cancer-Mask"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/Cancer-Sticker-Set.png",
       "title": "Cancer Sticker Set",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/Cancer-Sticker-Set"
+      "category": "Sticker",
+      "slug": "Sticker/Cancer-Sticker-Set"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/Gatherers-Sticker-Set.png",
       "title": "Gatherers Sticker Set",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/Gatherers-Sticker-Set"
+      "category": "Sticker",
+      "slug": "Sticker/Gatherers-Sticker-Set"
     }
   ]
 }

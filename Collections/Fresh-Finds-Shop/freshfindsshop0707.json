@@ -1,27 +1,23 @@
 {
-  "id": "freshfindsshop0707",
   "type": "Fresh Finds Shop",
   "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0707",
   "title": "Recommended Items (7/7)",
-  "image": "https://phashion.moe/images/Collections/Fresh-Finds-Shop/freshfindsshop0707.jpg",
+  "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0707",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Feather-Yukata.png",
       "title": "Feather Yukata",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Feather-Yukata"
+      "category": "Outfit",
+      "slug": "Outfit/Feather-Yukata"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Flowing-Yukata.png",
       "title": "Flowing Yukata",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Flowing-Yukata"
+      "category": "Outfit",
+      "slug": "Outfit/Flowing-Yukata"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Jinbebaoli.png",
       "title": "Jinbebaoli",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Jinbebaoli"
+      "category": "Outfit",
+      "slug": "Outfit/Jinbebaoli"
     }
   ]
 }

@@ -1,33 +1,28 @@
 {
-  "id": "sgshopsale0515",
   "type": "Event",
   "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0515",
   "title": "SG Shop Sale! (5/15)",
-  "image": "https://phashion.moe/images/Collections/Event/sgshopsale0515.jpg",
+  "slug": "Collections/Event/sgshopsale0515",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Ethan-Replica.png",
       "title": "Ethan Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Ethan-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Ethan-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Ethan-Hair.png",
       "title": "Ethan Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Ethan-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Ethan-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Karen-Replica.png",
       "title": "Karen Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Karen-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Karen-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Karen-Hair.png",
       "title": "Karen Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Karen-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Karen-Hair"
     }
   ]
 }

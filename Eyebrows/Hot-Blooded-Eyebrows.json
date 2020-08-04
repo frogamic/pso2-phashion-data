@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Eyebrows/Hot-Blooded-Eyebrows.png",
   "title": "Hot-Blooded Eyebrows",
   "category": "Eyebrows",
   "collection": {
-    "id": "funjune2020part1",
+    "title": "June 2020 - Part 1",
     "type": "FUN Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part1",
-    "title": "June 2020 - Part 1",
-    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part1.jpg"
+    "slug": "Collections/FUN-Scratch-Ticket/funjune2020part1"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Eyebrows/Hot-Blooded-Eyebrows"
 }

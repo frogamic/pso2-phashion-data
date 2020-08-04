@@ -1,453 +1,378 @@
 {
-  "id": "darkomen",
   "type": "AC Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen",
   "title": "Dark Omen",
-  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg",
+  "slug": "Collections/AC-Scratch-Ticket/darkomen",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outerwear/Ridel-Minadol-M.png",
       "title": "Ridel Minadol M",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Ridel-Minadol-M"
+      "slug": "Outerwear/Ridel-Minadol-M"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Eville-Exceeder.png",
       "title": "Eville Exceeder",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Eville-Exceeder"
+      "slug": "Outerwear/Eville-Exceeder"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Ridel-Minadol-F.png",
       "title": "Ridel Minadol F",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Ridel-Minadol-F"
+      "slug": "Outerwear/Ridel-Minadol-F"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Eville-Amalti.png",
       "title": "Eville Amalti",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Eville-Amalti"
+      "slug": "Outerwear/Eville-Amalti"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Ridel-Minadol-M.png",
       "title": "Ridel Minadol M",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Ridel-Minadol-M"
+      "slug": "Basewear/Ridel-Minadol-M"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Eville-Exceeder.png",
       "title": "Eville Exceeder",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Eville-Exceeder"
+      "slug": "Basewear/Eville-Exceeder"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Punk-Longboots.png",
       "title": "Punk Longboots",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Punk-Longboots"
+      "slug": "Basewear/Punk-Longboots"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Ridel-Minadol-F.png",
       "title": "Ridel Minadol F",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Ridel-Minadol-F"
+      "slug": "Basewear/Ridel-Minadol-F"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Eville-Amalti.png",
       "title": "Eville Amalti",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Eville-Amalti"
+      "slug": "Basewear/Eville-Amalti"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Gothic-Miniskirt.png",
       "title": "Gothic Miniskirt",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Gothic-Miniskirt"
+      "slug": "Basewear/Gothic-Miniskirt"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Tail-Cut-Dress.png",
       "title": "Tail Cut Dress",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Tail-Cut-Dress"
+      "slug": "Basewear/Tail-Cut-Dress"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Gothic-Punk-Dress.png",
       "title": "Gothic Punk Dress",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Gothic-Punk-Dress"
+      "slug": "Basewear/Gothic-Punk-Dress"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Eville-Exceeder.png",
       "title": "Eville Exceeder",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Eville-Exceeder"
+      "slug": "Innerwear/Eville-Exceeder"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Eville-Amalti.png",
       "title": "Eville Amalti",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Eville-Amalti"
+      "slug": "Innerwear/Eville-Amalti"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Exagia-Body.png",
       "title": "Exagia Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Exagia-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Exagia-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Exagia-Arms.png",
       "title": "Exagia Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Exagia-Arms"
+      "slug": "CAST-Arms/Exagia-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Exagia-Legs.png",
       "title": "Exagia Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Exagia-Legs"
+      "slug": "CAST-Legs/Exagia-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Exagia-Head.png",
       "title": "Exagia Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Exagia-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Exagia-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Exalia-Body.png",
       "title": "Exalia Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Exalia-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Exalia-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Exalia-Arms.png",
       "title": "Exalia Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Exalia-Arms"
+      "slug": "CAST-Arms/Exalia-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Exalia-Legs.png",
       "title": "Exalia Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Exalia-Legs"
+      "slug": "CAST-Legs/Exalia-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Exalia-Head.png",
       "title": "Exalia Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Exalia-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Exalia-Head"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Amalti-Hair.png",
       "title": "Amalti Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Amalti-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Amalti-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Ridel-Hair.png",
       "title": "Ridel Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Ridel-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Ridel-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Messy-Short-Bob.png",
       "title": "Messy Short Bob",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Messy-Short-Bob"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Messy-Short-Bob"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/No-Highlights-B-L.png",
       "title": "No Highlights B (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/No-Highlights-B-L"
+      "slug": "Eyes/No-Highlights-B-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/No-Highlights-B-S.png",
       "title": "No Highlights B (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/No-Highlights-B-S"
+      "slug": "Eyes/No-Highlights-B-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Narrow-Eyes-B-L.png",
       "title": "Narrow Eyes B (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Narrow-Eyes-B-L"
+      "slug": "Eyes/Narrow-Eyes-B-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Narrow-Eyes-B-S.png",
       "title": "Narrow Eyes B (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Narrow-Eyes-B-S"
+      "slug": "Eyes/Narrow-Eyes-B-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Spiral-Eyes-L.png",
       "title": "Spiral Eyes (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Spiral-Eyes-L"
+      "slug": "Eyes/Spiral-Eyes-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Spiral-Eyes-S.png",
       "title": "Spiral Eyes (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Spiral-Eyes-S"
+      "slug": "Eyes/Spiral-Eyes-S"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Natural-Makeup-C.png",
       "title": "Natural Makeup C",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Natural-Makeup-C"
+      "category": "Facepaint",
+      "slug": "Facepaint/Natural-Makeup-C"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Anime-Freckles.png",
       "title": "Anime Freckles",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Anime-Freckles"
+      "category": "Facepaint",
+      "slug": "Facepaint/Anime-Freckles"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Elemental-Star-Set.png",
       "title": "Elemental Star Set",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Elemental-Star-Set"
+      "category": "Facepaint",
+      "slug": "Facepaint/Elemental-Star-Set"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Lidel-Gloves-M.png",
       "title": "Lidel Gloves M",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Lidel-Gloves-M"
+      "slug": "Body-Paint/Lidel-Gloves-M"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Lidel-Gloves-F.png",
       "title": "Lidel Gloves F",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Lidel-Gloves-F"
+      "slug": "Body-Paint/Lidel-Gloves-F"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Lace-Thigh-Highs.png",
       "title": "Lace Thigh-Highs",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Lace-Thigh-Highs"
+      "slug": "Body-Paint/Lace-Thigh-Highs"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Skull-Crossbones-Socks.png",
       "title": "Skull & Crossbones Socks",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Skull-Crossbones-Socks"
+      "slug": "Body-Paint/Skull-Crossbones-Socks"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Exceeder-Horns.png",
       "title": "Exceeder Horns",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Exceeder-Horns"
+      "category": "Accessory",
+      "slug": "Accessory/Exceeder-Horns"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Amalti-Horns.png",
       "title": "Amalti Horns",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Amalti-Horns"
+      "category": "Accessory",
+      "slug": "Accessory/Amalti-Horns"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Amalti-Wings.png",
       "title": "Amalti Wings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Amalti-Wings"
+      "category": "Accessory",
+      "slug": "Accessory/Amalti-Wings"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Asteria-Gloves-F.png",
       "title": "Asteria Gloves F",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Asteria-Gloves-F"
+      "slug": "Body-Paint/Asteria-Gloves-F"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Two-Tone-Corsage.png",
       "title": "Two-Tone Corsage",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Two-Tone-Corsage"
+      "category": "Accessory",
+      "slug": "Accessory/Two-Tone-Corsage"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wings-of-Darkness.png",
       "title": "Wings of Darkness",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wings-of-Darkness"
+      "category": "Accessory",
+      "slug": "Accessory/Wings-of-Darkness"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wings-of-Darkness-Red.png",
       "title": "Wings of Darkness: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wings-of-Darkness-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Wings-of-Darkness-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wings-of-Darkness-Blue.png",
       "title": "Wings of Darkness: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wings-of-Darkness-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Wings-of-Darkness-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wings-of-Darkness-Purple.png",
       "title": "Wings of Darkness: Purple",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wings-of-Darkness-Purple"
+      "category": "Accessory",
+      "slug": "Accessory/Wings-of-Darkness-Purple"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wings-of-Darkness-B.png",
       "title": "Wings of Darkness B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wings-of-Darkness-B"
+      "category": "Accessory",
+      "slug": "Accessory/Wings-of-Darkness-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Snappers.png",
       "title": "Shoulder Snappers",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Snappers"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Snappers"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Waist-Stabilizers.png",
       "title": "Waist Stabilizers",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Waist-Stabilizers"
+      "category": "Accessory",
+      "slug": "Accessory/Waist-Stabilizers"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Waist-Stabilizers-B.png",
       "title": "Waist Stabilizers B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Waist-Stabilizers-B"
+      "category": "Accessory",
+      "slug": "Accessory/Waist-Stabilizers-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rare-Drop-Earring.png",
       "title": "Rare Drop Earring",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rare-Drop-Earring"
+      "category": "Accessory",
+      "slug": "Accessory/Rare-Drop-Earring"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rare-Drop-Earrings-Rainbow.png",
       "title": "Rare Drop Earrings: Rainbow",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rare-Drop-Earrings-Rainbow"
+      "category": "Accessory",
+      "slug": "Accessory/Rare-Drop-Earrings-Rainbow"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Twintail-Extensions-L.png",
       "title": "Twintail Extensions (L)",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Twintail-Extensions-L"
+      "category": "Accessory",
+      "slug": "Accessory/Twintail-Extensions-L"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Gothic-Barrette-White.png",
       "title": "Gothic Barrette: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Gothic-Barrette-White"
+      "category": "Accessory",
+      "slug": "Accessory/Gothic-Barrette-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Gothic-Barrette-Black.png",
       "title": "Gothic Barrette: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Gothic-Barrette-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Gothic-Barrette-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Gothic-Headdress.png",
       "title": "Gothic Headdress",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Gothic-Headdress"
+      "category": "Accessory",
+      "slug": "Accessory/Gothic-Headdress"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Gothic-Headdress-B.png",
       "title": "Gothic Headdress B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Gothic-Headdress-B"
+      "category": "Accessory",
+      "slug": "Accessory/Gothic-Headdress-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lace-Scarf.png",
       "title": "Lace Scarf",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lace-Scarf"
+      "category": "Accessory",
+      "slug": "Accessory/Lace-Scarf"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lace-Scarf-White.png",
       "title": "Lace Scarf: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lace-Scarf-White"
+      "category": "Accessory",
+      "slug": "Accessory/Lace-Scarf-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lace-Scarf-Black.png",
       "title": "Lace Scarf: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lace-Scarf-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Lace-Scarf-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Frilly-Headdress.png",
       "title": "Frilly Headdress",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Frilly-Headdress"
+      "category": "Accessory",
+      "slug": "Accessory/Frilly-Headdress"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Gothic-Choker.png",
       "title": "Gothic Choker",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Gothic-Choker"
+      "category": "Accessory",
+      "slug": "Accessory/Gothic-Choker"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Pink-Butterfly.png",
       "title": "Pink Butterfly",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Pink-Butterfly"
+      "category": "Accessory",
+      "slug": "Accessory/Pink-Butterfly"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Blue-Butterfly.png",
       "title": "Blue Butterfly",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Blue-Butterfly"
+      "category": "Accessory",
+      "slug": "Accessory/Blue-Butterfly"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/White-Butterfly.png",
       "title": "White Butterfly",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/White-Butterfly"
+      "category": "Accessory",
+      "slug": "Accessory/White-Butterfly"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Antique-Butterfly.png",
       "title": "Antique Butterfly",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Antique-Butterfly"
+      "category": "Accessory",
+      "slug": "Accessory/Antique-Butterfly"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Black-Feather.png",
       "title": "Black Feather",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Black-Feather"
+      "category": "Accessory",
+      "slug": "Accessory/Black-Feather"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Feather-Corsage.png",
       "title": "Feather Corsage",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Feather-Corsage"
+      "category": "Accessory",
+      "slug": "Accessory/Feather-Corsage"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Plume.png",
       "title": "Shoulder Plume",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Plume"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Plume"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Plume-White.png",
       "title": "Shoulder Plume: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Plume-White"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Plume-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Plume-Black.png",
       "title": "Shoulder Plume: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Plume-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Plume-Black"
     },
     {
-      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Kitten.png",
       "title": "Evolution Device: Kitten",
-      "category": "Mag Evolution Devices",
-      "url": "https://phashion.moe/Mag-Evolution-Devices/Evolution-Device-Kitten"
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Evolution-Device-Kitten"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Elegant-Wings.png",
       "title": "Elegant Wings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Elegant-Wings"
+      "category": "Accessory",
+      "slug": "Accessory/Elegant-Wings"
     }
   ]
 }

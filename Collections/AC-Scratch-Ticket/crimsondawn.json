@@ -1,381 +1,318 @@
 {
-  "id": "crimsondawn",
   "type": "AC Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn",
   "title": "Crimson Dawn",
-  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg",
+  "slug": "Collections/AC-Scratch-Ticket/crimsondawn",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outerwear/Froid-Gallows-M.png",
       "title": "Froid Gallows M",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Froid-Gallows-M"
+      "slug": "Outerwear/Froid-Gallows-M"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Bitter-Simoon.png",
       "title": "Bitter Simoon",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Bitter-Simoon"
+      "slug": "Outerwear/Bitter-Simoon"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Varza-Rising.png",
       "title": "Varza Rising",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Varza-Rising"
+      "slug": "Outerwear/Varza-Rising"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Duskwake-Regalia.png",
       "title": "Duskwake Regalia",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Duskwake-Regalia"
+      "slug": "Outerwear/Duskwake-Regalia"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Froid-Gallows-F.png",
       "title": "Froid Gallows F",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Froid-Gallows-F"
+      "slug": "Outerwear/Froid-Gallows-F"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Sweet-Simoon.png",
       "title": "Sweet Simoon",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Sweet-Simoon"
+      "slug": "Outerwear/Sweet-Simoon"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Varza-Ratio.png",
       "title": "Varza Ratio",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Varza-Ratio"
+      "slug": "Outerwear/Varza-Ratio"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Froid-Gallows-M.png",
       "title": "Froid Gallows M",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Froid-Gallows-M"
+      "slug": "Basewear/Froid-Gallows-M"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Bitter-Simoon.png",
       "title": "Bitter Simoon",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Bitter-Simoon"
+      "slug": "Basewear/Bitter-Simoon"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Varza-Rising.png",
       "title": "Varza Rising",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Varza-Rising"
+      "slug": "Basewear/Varza-Rising"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Duskwake-Regalia.png",
       "title": "Duskwake Regalia",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Duskwake-Regalia"
+      "slug": "Basewear/Duskwake-Regalia"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Froid-Gallows-F.png",
       "title": "Froid Gallows F",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Froid-Gallows-F"
+      "slug": "Basewear/Froid-Gallows-F"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Sweet-Simoon.png",
       "title": "Sweet Simoon",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Sweet-Simoon"
+      "slug": "Basewear/Sweet-Simoon"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Varza-Ratio.png",
       "title": "Varza Ratio",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Varza-Ratio"
+      "slug": "Basewear/Varza-Ratio"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Froid-Gallows-M.png",
       "title": "Froid Gallows M",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Froid-Gallows-M"
+      "slug": "Innerwear/Froid-Gallows-M"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Bitter-Simoon.png",
       "title": "Bitter Simoon",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Bitter-Simoon"
+      "slug": "Innerwear/Bitter-Simoon"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Varza-Rising.png",
       "title": "Varza Rising",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Varza-Rising"
+      "slug": "Innerwear/Varza-Rising"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Froid-Gallows-F.png",
       "title": "Froid Gallows F",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Froid-Gallows-F"
+      "slug": "Innerwear/Froid-Gallows-F"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Duskwake-Regalia.png",
       "title": "Duskwake Regalia",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Duskwake-Regalia"
+      "slug": "Innerwear/Duskwake-Regalia"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Sweet-Simoon.png",
       "title": "Sweet Simoon",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Sweet-Simoon"
+      "slug": "Innerwear/Sweet-Simoon"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Varza-Ratio.png",
       "title": "Varza Ratio",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Varza-Ratio"
+      "slug": "Innerwear/Varza-Ratio"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Dracules-Body.png",
       "title": "Dracules Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Dracules-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Dracules-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Dracules-Arms.png",
       "title": "Dracules Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Dracules-Arms"
+      "slug": "CAST-Arms/Dracules-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Dracules-Legs.png",
       "title": "Dracules Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Dracules-Legs"
+      "slug": "CAST-Legs/Dracules-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Dracules-Head.png",
       "title": "Dracules Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Dracules-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Dracules-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Draulia-Body.png",
       "title": "Draulia Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Draulia-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Draulia-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Draulia-Arms.png",
       "title": "Draulia Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Draulia-Arms"
+      "slug": "CAST-Arms/Draulia-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Draulia-Legs.png",
       "title": "Draulia Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Draulia-Legs"
+      "slug": "CAST-Legs/Draulia-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Draulia-Head.png",
       "title": "Draulia Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Draulia-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Draulia-Head"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Bitter-Simoon-Hood.png",
       "title": "Bitter Simoon Hood",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Bitter-Simoon-Hood"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Bitter-Simoon-Hood"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Sweet-Simoon-Hood.png",
       "title": "Sweet Simoon Hood",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Sweet-Simoon-Hood"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Sweet-Simoon-Hood"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Dusk-Hair.png",
       "title": "Dusk Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Dusk-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Dusk-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Ratio-Hair.png",
       "title": "Ratio Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Ratio-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Ratio-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Draulia-Hair.png",
       "title": "Draulia Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Draulia-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Draulia-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Luminous-Eyes-L.png",
       "title": "Luminous Eyes (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Luminous-Eyes-L"
+      "slug": "Eyes/Luminous-Eyes-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Luminous-Eyes-S.png",
       "title": "Luminous Eyes (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Luminous-Eyes-S"
+      "slug": "Eyes/Luminous-Eyes-S"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Varza-Eyes-L.png",
       "title": "Varza Eyes (L)",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Varza-Eyes-L"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Varza-Eyes-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Varza-Eyes-S.png",
       "title": "Varza Eyes (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Varza-Eyes-S"
+      "slug": "Eyes/Varza-Eyes-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/No-Highlights-XS.png",
       "title": "No Highlights (XS)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/No-Highlights-XS"
+      "slug": "Eyes/No-Highlights-XS"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Rouge.png",
       "title": "Rouge",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Rouge"
+      "category": "Facepaint",
+      "slug": "Facepaint/Rouge"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Dusk-Thigh-High-Socks.png",
       "title": "Dusk Thigh-High Socks",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Dusk-Thigh-High-Socks"
+      "slug": "Body-Paint/Dusk-Thigh-High-Socks"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Knee-High-Socks-Set.png",
       "title": "Knee-High Socks Set",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Knee-High-Socks-Set"
+      "slug": "Body-Paint/Knee-High-Socks-Set"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Dusk-Scarf.png",
       "title": "Dusk Scarf",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Dusk-Scarf"
+      "category": "Accessory",
+      "slug": "Accessory/Dusk-Scarf"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Dusk-Skirt.png",
       "title": "Dusk Skirt",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Dusk-Skirt"
+      "category": "Accessory",
+      "slug": "Accessory/Dusk-Skirt"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Varza-Rise-Headgear.png",
       "title": "Varza Rise Headgear",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Varza-Rise-Headgear"
+      "category": "Accessory",
+      "slug": "Accessory/Varza-Rise-Headgear"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ratio-Headgear.png",
       "title": "Ratio Headgear",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ratio-Headgear"
+      "category": "Accessory",
+      "slug": "Accessory/Ratio-Headgear"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Dragon-s-Wings.png",
       "title": "Dragon’s Wings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Dragon-s-Wings"
+      "category": "Accessory",
+      "slug": "Accessory/Dragon-s-Wings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Dragon-s-Horns.png",
       "title": "Dragon’s Horns",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Dragon-s-Horns"
+      "category": "Accessory",
+      "slug": "Accessory/Dragon-s-Horns"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Dragon-s-Tail.png",
       "title": "Dragon’s Tail",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Dragon-s-Tail"
+      "category": "Accessory",
+      "slug": "Accessory/Dragon-s-Tail"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Geometric-Wings.png",
       "title": "Geometric Wings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Geometric-Wings"
+      "category": "Accessory",
+      "slug": "Accessory/Geometric-Wings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shaggy-Sidelocks.png",
       "title": "Shaggy Sidelocks",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shaggy-Sidelocks"
+      "category": "Accessory",
+      "slug": "Accessory/Shaggy-Sidelocks"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Sword-Studs.png",
       "title": "Sword Studs",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Sword-Studs"
+      "category": "Accessory",
+      "slug": "Accessory/Sword-Studs"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Plain-Blindfold.png",
       "title": "Plain Blindfold",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Plain-Blindfold"
+      "category": "Accessory",
+      "slug": "Accessory/Plain-Blindfold"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Plain-Blindfold-Black.png",
       "title": "Plain Blindfold: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Plain-Blindfold-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Plain-Blindfold-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Plain-Blindfold-White.png",
       "title": "Plain Blindfold: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Plain-Blindfold-White"
+      "category": "Accessory",
+      "slug": "Accessory/Plain-Blindfold-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Red-Blaze-Hands.png",
       "title": "Red Blaze Hands",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Red-Blaze-Hands"
+      "category": "Accessory",
+      "slug": "Accessory/Red-Blaze-Hands"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Blue-Blaze-Hands.png",
       "title": "Blue Blaze Hands",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Blue-Blaze-Hands"
+      "category": "Accessory",
+      "slug": "Accessory/Blue-Blaze-Hands"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Devilish-Hat.png",
       "title": "Devilish Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Devilish-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Devilish-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Devilish-Hat-Black.png",
       "title": "Devilish Hat: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Devilish-Hat-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Devilish-Hat-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Devilish-Hat-White.png",
       "title": "Devilish Hat: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Devilish-Hat-White"
+      "category": "Accessory",
+      "slug": "Accessory/Devilish-Hat-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Devilish-Hat-Brown.png",
       "title": "Devilish Hat: Brown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Devilish-Hat-Brown"
+      "category": "Accessory",
+      "slug": "Accessory/Devilish-Hat-Brown"
     },
     {
-      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Cancer.png",
       "title": "Evolution Device: Cancer",
-      "category": "Mag Evolution Devices",
-      "url": "https://phashion.moe/Mag-Evolution-Devices/Evolution-Device-Cancer"
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Evolution-Device-Cancer"
     }
   ]
 }

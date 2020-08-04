@@ -1,0 +1,16 @@
+{
+  "title": "Rassios Body",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Body",
+  "collection": {
+    "title": "Urban Lifestyle",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
+    "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
+  },
+  "tradeable": true,
+  "slug": "CAST-Body/Rassios-Body"
+}

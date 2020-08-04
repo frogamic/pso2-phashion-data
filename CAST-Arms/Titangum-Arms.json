@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/CAST-Arms/Titangum-Arms.png",
   "title": "Titangum Arms",
   "gender": {
     "female": false,
@@ -7,11 +6,11 @@
   },
   "category": "CAST Arms",
   "collection": {
-    "id": "silkendreams",
+    "title": "Silken Dreams",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/silkendreams",
-    "title": "Silken Dreams",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/silkendreams.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/silkendreams"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "CAST-Arms/Titangum-Arms"
 }

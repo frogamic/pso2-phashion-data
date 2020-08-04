@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/CAST-Arms/Lucelia-Arms.png",
   "title": "Lucelia Arms",
   "gender": {
     "female": true,
@@ -7,11 +6,11 @@
   },
   "category": "CAST Arms",
   "collection": {
-    "id": "urbanlifestyle",
+    "title": "Urban Lifestyle",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
-    "title": "Urban Lifestyle",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "CAST-Arms/Lucelia-Arms"
 }

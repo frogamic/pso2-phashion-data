@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Body-Paint/Marshal-Gloves.png",
   "title": "Marshal Gloves",
   "category": "Body Paint",
   "collection": {
-    "id": "heroicwanderer",
+    "title": "Heroic Wanderer",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer",
-    "title": "Heroic Wanderer",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/heroicwanderer"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Body-Paint/Marshal-Gloves"
 }

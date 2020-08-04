@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Other/HEV-Suit-Outfit-Male.png",
   "title": "HEV Suit (Outfit: Male)",
   "category": "Other",
   "collection": {
-    "id": "steamlaunchrewards",
+    "title": "Steam Launch Rewards",
     "type": "Event",
     "sourceUrl": "https://pso2.com/news/announcements/steamlaunchrewards",
-    "title": "Steam Launch Rewards",
-    "image": "https://phashion.moe/images/Collections/Event/steamlaunchrewards.jpg"
+    "slug": "Collections/Event/steamlaunchrewards"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Other/HEV-Suit-Outfit-Male"
 }

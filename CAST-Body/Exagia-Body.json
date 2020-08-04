@@ -1,0 +1,16 @@
+{
+  "title": "Exagia Body",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Body",
+  "collection": {
+    "title": "Dark Omen",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen",
+    "slug": "Collections/AC-Scratch-Ticket/darkomen"
+  },
+  "tradeable": true,
+  "slug": "CAST-Body/Exagia-Body"
+}

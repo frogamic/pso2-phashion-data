@@ -1,0 +1,20 @@
+{
+  "title": "Ursula Replica",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Recommended Items (6/9)",
+    "type": "Fresh Finds Shop",
+    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0609",
+    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0609"
+  },
+  "tradeable": false,
+  "slug": "Outfit/Ursula-Replica"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Sirris Robe F",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Fallen Heroes",
+    "type": "SG Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/fallenheroes",
+    "slug": "Collections/SG-Scratch-Ticket/fallenheroes"
+  },
+  "tradeable": false,
+  "slug": "Outfit/Sirris-Robe-F"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Creslow Head",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Head",
+  "collection": {
+    "title": "Virtual Stars",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars",
+    "slug": "Collections/AC-Scratch-Ticket/virtualstars"
+  },
+  "tradeable": true,
+  "slug": "CAST-Head/Creslow-Head"
+}

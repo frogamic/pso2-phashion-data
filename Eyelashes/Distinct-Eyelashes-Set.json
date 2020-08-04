@@ -1,14 +1,13 @@
 {
-  "image": "https://phashion.moe/images/Eyelashes/Distinct-Eyelashes-Set.png",
   "title": "Distinct Eyelashes Set",
   "set": true,
   "category": "Eyelashes",
   "collection": {
-    "id": "funjune2020part2",
+    "title": "June 2020 - Part 2",
     "type": "FUN Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part2",
-    "title": "June 2020 - Part 2",
-    "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funjune2020part2.jpg"
+    "slug": "Collections/FUN-Scratch-Ticket/funjune2020part2"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Eyelashes/Distinct-Eyelashes-Set"
 }

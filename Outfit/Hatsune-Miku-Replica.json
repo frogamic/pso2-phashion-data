@@ -1,0 +1,20 @@
+{
+  "title": "Hatsune Miku Replica",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Virtual Stars",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/virtualstars",
+    "slug": "Collections/AC-Scratch-Ticket/virtualstars"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Hatsune-Miku-Replica"
+}

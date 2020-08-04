@@ -1,27 +1,58 @@
 {
-  "id": "weddingevent",
   "type": "Event",
   "sourceUrl": "https://pso2.com/news/announcements/weddingevent",
   "title": "Introducing the Wedding Event!",
-  "image": "https://phashion.moe/images/Collections/Event/weddingevent.jpg",
+  "slug": "Collections/Event/weddingevent",
   "items": [
     {
-      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Froggy-Rappy.png",
-      "title": "Froggy Rappy",
-      "category": "Mag Evolution Devices",
-      "url": "https://phashion.moe/Mag-Evolution-Devices/Froggy-Rappy"
+      "title": "Hyper Night Parade",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Hyper-Night-Parade"
     },
     {
-      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Rainyan.png",
-      "title": "Rainyan",
-      "category": "Mag Evolution Devices",
-      "url": "https://phashion.moe/Mag-Evolution-Devices/Rainyan"
+      "title": "Rethel Tetoila",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Rethel-Tetoila"
     },
     {
-      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Rainy-Day-Rappy.png",
+      "title": "Kelis Flosh",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Kelis-Flosh"
+    },
+    {
       "title": "Rainy Day Rappy",
-      "category": "Mag Evolution Devices",
-      "url": "https://phashion.moe/Mag-Evolution-Devices/Rainy-Day-Rappy"
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Rainy-Day-Rappy"
+    },
+    {
+      "title": "Froggy Rappy",
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Froggy-Rappy"
+    },
+    {
+      "title": "Rainyan",
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Rainyan"
+    },
+    {
+      "title": "Rainy Day Rappy",
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Rainy-Day-Rappy"
+    },
+    {
+      "title": "Coated Edge V2",
+      "category": "Weapon",
+      "slug": "Weapon/Coated-Edge-V2"
+    },
+    {
+      "title": "Strauss V2",
+      "category": "Weapon",
+      "slug": "Weapon/Strauss-V2"
+    },
+    {
+      "title": "Haze Processor V2",
+      "category": "Weapon",
+      "slug": "Weapon/Haze-Processor-V2"
     }
   ]
 }

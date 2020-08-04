@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Eyes/Hexagram-Eyes-L.png",
   "title": "Hexagram Eyes (L)",
   "category": "Eyes",
   "collection": {
-    "id": "blessedworld",
+    "title": "Blessed World",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld",
-    "title": "Blessed World",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/blessedworld"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Eyes/Hexagram-Eyes-L"
 }

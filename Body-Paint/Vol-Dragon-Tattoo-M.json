@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Body-Paint/Vol-Dragon-Tattoo-M.png",
   "title": "Vol Dragon Tattoo M",
   "category": "Body Paint",
   "collection": {
-    "id": "chevalierline",
+    "title": "Chevalier Line",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline",
-    "title": "Chevalier Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/chevalierline"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Body-Paint/Vol-Dragon-Tattoo-M"
 }

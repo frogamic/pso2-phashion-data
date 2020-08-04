@@ -1,0 +1,20 @@
+{
+  "title": "Beast Face F",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Face",
+  "collection": {
+    "title": "SG Shop Sale (5/22)",
+    "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0522",
+    "slug": "Collections/Event/sgshopsale0522"
+  },
+  "tradeable": true,
+  "slug": "Face/Beast-Face-F"
+}

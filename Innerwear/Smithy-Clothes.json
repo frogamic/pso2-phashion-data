@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/Innerwear/Smithy-Clothes.png",
   "title": "Smithy Clothes",
   "gender": {
     "female": false,
@@ -11,11 +10,11 @@
   },
   "category": "Innerwear",
   "collection": {
-    "id": "chevalierline",
+    "title": "Chevalier Line",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/chevalierline",
-    "title": "Chevalier Line",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/chevalierline.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/chevalierline"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Innerwear/Smithy-Clothes"
 }

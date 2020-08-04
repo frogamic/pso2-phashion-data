@@ -1,501 +1,418 @@
 {
-  "id": "recruitline",
   "type": "AC Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline",
   "title": "Recruit Line",
-  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/recruitline.jpg",
+  "slug": "Collections/AC-Scratch-Ticket/recruitline",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outerwear/Raison-Hubris.png",
       "title": "Raison Hubris",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Raison-Hubris"
+      "slug": "Outerwear/Raison-Hubris"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Nogue-Lyra.png",
       "title": "Nogue Lyra",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Nogue-Lyra"
+      "slug": "Outerwear/Nogue-Lyra"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Riad-Falco.png",
       "title": "Riad Falco",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Riad-Falco"
+      "slug": "Outerwear/Riad-Falco"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Suit-Jacket.png",
       "title": "Suit Jacket",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Suit-Jacket"
+      "slug": "Outerwear/Suit-Jacket"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Raison-Vanitas.png",
       "title": "Raison Vanitas",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Raison-Vanitas"
+      "slug": "Outerwear/Raison-Vanitas"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Novi-Katz.png",
       "title": "Novi Katz",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Novi-Katz"
+      "slug": "Outerwear/Novi-Katz"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Reaver-Swallow.png",
       "title": "Reaver Swallow",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Reaver-Swallow"
+      "slug": "Outerwear/Reaver-Swallow"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Cashmere-Cardigan.png",
       "title": "Cashmere Cardigan",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Cashmere-Cardigan"
+      "slug": "Outerwear/Cashmere-Cardigan"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Raison-Hubris.png",
       "title": "Raison Hubris",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Raison-Hubris"
+      "slug": "Basewear/Raison-Hubris"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Nogue-Lyra.png",
       "title": "Nogue Lyra",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Nogue-Lyra"
+      "slug": "Basewear/Nogue-Lyra"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Riad-Falco.png",
       "title": "Riad Falco",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Riad-Falco"
+      "slug": "Basewear/Riad-Falco"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Suit-Slacks.png",
       "title": "Suit Slacks",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Suit-Slacks"
+      "slug": "Basewear/Suit-Slacks"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Slacks.png",
       "title": "Slacks",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Slacks"
+      "slug": "Basewear/Slacks"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Raison-Vanitas.png",
       "title": "Raison Vanitas",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Raison-Vanitas"
+      "slug": "Basewear/Raison-Vanitas"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Novi-Katz.png",
       "title": "Novi Katz",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Novi-Katz"
+      "slug": "Basewear/Novi-Katz"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Reaver-Swallow.png",
       "title": "Reaver Swallow",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Reaver-Swallow"
+      "slug": "Basewear/Reaver-Swallow"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Frill-One-Piece.png",
       "title": "Frill One-Piece",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Frill-One-Piece"
+      "slug": "Basewear/Frill-One-Piece"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Nogue-Lyra.png",
       "title": "Nogue Lyra",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Nogue-Lyra"
+      "slug": "Innerwear/Nogue-Lyra"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Long-Trunks-1.png",
       "title": "Long Trunks 1",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Long-Trunks-1"
+      "slug": "Innerwear/Long-Trunks-1"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Novi-Katz.png",
       "title": "Novi Katz",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Novi-Katz"
+      "slug": "Innerwear/Novi-Katz"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Frill-1.png",
       "title": "Frill 1",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Frill-1"
+      "slug": "Innerwear/Frill-1"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Vogulus-Body.png",
       "title": "Vogulus Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Vogulus-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Vogulus-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Vogulus-Arms.png",
       "title": "Vogulus Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Vogulus-Arms"
+      "slug": "CAST-Arms/Vogulus-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Vogulus-Legs.png",
       "title": "Vogulus Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Vogulus-Legs"
+      "slug": "CAST-Legs/Vogulus-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Alberica-Body.png",
       "title": "Alberica Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Alberica-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Alberica-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Alberica-Arms.png",
       "title": "Alberica Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Alberica-Arms"
+      "slug": "CAST-Arms/Alberica-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Alberica-Legs.png",
       "title": "Alberica Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Alberica-Legs"
+      "slug": "CAST-Legs/Alberica-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Alnaar-Body.png",
       "title": "Alnaar Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Alnaar-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Alnaar-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Alnaar-Arms.png",
       "title": "Alnaar Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Alnaar-Arms"
+      "slug": "CAST-Arms/Alnaar-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Alnaar-Legs.png",
       "title": "Alnaar Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Alnaar-Legs"
+      "slug": "CAST-Legs/Alnaar-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Frasia-Body.png",
       "title": "Frasia Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Frasia-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Frasia-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Frasia-Arms.png",
       "title": "Frasia Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Frasia-Arms"
+      "slug": "CAST-Arms/Frasia-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Frasia-Legs.png",
       "title": "Frasia Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Frasia-Legs"
+      "slug": "CAST-Legs/Frasia-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Vogulus-Head.png",
       "title": "Vogulus Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Vogulus-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Vogulus-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Alberica-Head.png",
       "title": "Alberica Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Alberica-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Alberica-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Alnaar-Head.png",
       "title": "Alnaar Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Alnaar-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Alnaar-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Frasia-Head.png",
       "title": "Frasia Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Frasia-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Frasia-Head"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Novi-Medium-Hair.png",
       "title": "Novi Medium Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Novi-Medium-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Novi-Medium-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Reaver-Hair.png",
       "title": "Reaver Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Reaver-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Reaver-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Elegant-Bun.png",
       "title": "Elegant Bun",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Elegant-Bun"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Elegant-Bun"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Inverted-Short-Bob.png",
       "title": "Inverted Short Bob",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Inverted-Short-Bob"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Inverted-Short-Bob"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Narrow-Eyes-L.png",
       "title": "Narrow Eyes (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Narrow-Eyes-L"
+      "slug": "Eyes/Narrow-Eyes-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Narrow-Eyes-S.png",
       "title": "Narrow Eyes (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Narrow-Eyes-S"
+      "slug": "Eyes/Narrow-Eyes-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Star-Contacts-L.png",
       "title": "Star Contacts (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Star-Contacts-L"
+      "slug": "Eyes/Star-Contacts-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Star-Contacts-S.png",
       "title": "Star Contacts (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Star-Contacts-S"
+      "slug": "Eyes/Star-Contacts-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Round-Eyes-A-XS.png",
       "title": "Round Eyes A (XS)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Round-Eyes-A-XS"
+      "slug": "Eyes/Round-Eyes-A-XS"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Round-Eyes-B-XS.png",
       "title": "Round Eyes B (XS)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Round-Eyes-B-XS"
+      "slug": "Eyes/Round-Eyes-B-XS"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Natural-Makeup-B.png",
       "title": "Natural Makeup B",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Natural-Makeup-B"
+      "category": "Facepaint",
+      "slug": "Facepaint/Natural-Makeup-B"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Blaze-Makeup-Set.png",
       "title": "Blaze Makeup Set",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Blaze-Makeup-Set"
+      "category": "Facepaint",
+      "slug": "Facepaint/Blaze-Makeup-Set"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Novi-Socks.png",
       "title": "Novi Socks",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Novi-Socks"
+      "slug": "Body-Paint/Novi-Socks"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Top-Frill-Thigh-Highs.png",
       "title": "Top Frill Thigh-Highs",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Top-Frill-Thigh-Highs"
+      "slug": "Body-Paint/Top-Frill-Thigh-Highs"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Garter-Tights.png",
       "title": "Garter & Tights",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Garter-Tights"
+      "slug": "Body-Paint/Garter-Tights"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Blaze-Paint-M-Set.png",
       "title": "Blaze Paint M Set",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Blaze-Paint-M-Set"
+      "slug": "Body-Paint/Blaze-Paint-M-Set"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Blaze-Paint-F-Set.png",
       "title": "Blaze Paint F Set",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Blaze-Paint-F-Set"
+      "slug": "Body-Paint/Blaze-Paint-F-Set"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Vanitas-Headdress.png",
       "title": "Vanitas Headdress",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Vanitas-Headdress"
+      "category": "Accessory",
+      "slug": "Accessory/Vanitas-Headdress"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Vanitas-Eyepatch.png",
       "title": "Vanitas Eyepatch",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Vanitas-Eyepatch"
+      "category": "Accessory",
+      "slug": "Accessory/Vanitas-Eyepatch"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Vanitas-Ribbon.png",
       "title": "Vanitas Ribbon",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Vanitas-Ribbon"
+      "category": "Accessory",
+      "slug": "Accessory/Vanitas-Ribbon"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Novi-Headgear.png",
       "title": "Novi Headgear",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Novi-Headgear"
+      "category": "Accessory",
+      "slug": "Accessory/Novi-Headgear"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Riad-Headgear.png",
       "title": "Riad Headgear",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Riad-Headgear"
+      "category": "Accessory",
+      "slug": "Accessory/Riad-Headgear"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Riad-Wings.png",
       "title": "Riad Wings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Riad-Wings"
+      "category": "Accessory",
+      "slug": "Accessory/Riad-Wings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Reaver-Shoulder-Pads.png",
       "title": "Reaver Shoulder Pads",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Reaver-Shoulder-Pads"
+      "category": "Accessory",
+      "slug": "Accessory/Reaver-Shoulder-Pads"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Reaver-Wings.png",
       "title": "Reaver Wings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Reaver-Wings"
+      "category": "Accessory",
+      "slug": "Accessory/Reaver-Wings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Loose-Tie-Black.png",
       "title": "Loose Tie: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Loose-Tie-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Loose-Tie-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Loose-Tie-Red.png",
       "title": "Loose Tie: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Loose-Tie-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Loose-Tie-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Loose-Tie-Blue.png",
       "title": "Loose Tie: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Loose-Tie-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Loose-Tie-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ribbon-Casquette-Hat-Water.png",
       "title": "Ribbon Casquette Hat: Water",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ribbon-Casquette-Hat-Water"
+      "category": "Accessory",
+      "slug": "Accessory/Ribbon-Casquette-Hat-Water"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ribbon-Casquette-Hat-Pink.png",
       "title": "Ribbon Casquette Hat: Pink",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ribbon-Casquette-Hat-Pink"
+      "category": "Accessory",
+      "slug": "Accessory/Ribbon-Casquette-Hat-Pink"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ribbon-Casquette-Hat-Black.png",
       "title": "Ribbon Casquette Hat: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ribbon-Casquette-Hat-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Ribbon-Casquette-Hat-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fox-Ears.png",
       "title": "Fox Ears",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Fox-Ears"
+      "category": "Accessory",
+      "slug": "Accessory/Fox-Ears"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Droopy-Fox-Ears.png",
       "title": "Droopy Fox Ears",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Droopy-Fox-Ears"
+      "category": "Accessory",
+      "slug": "Accessory/Droopy-Fox-Ears"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Arm-Missiles.png",
       "title": "Arm Missiles",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Arm-Missiles"
+      "category": "Accessory",
+      "slug": "Accessory/Arm-Missiles"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Quatro-Antenna.png",
       "title": "Quatro Antenna",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Quatro-Antenna"
+      "category": "Accessory",
+      "slug": "Accessory/Quatro-Antenna"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Quatro-Antenna-B.png",
       "title": "Quatro Antenna B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Quatro-Antenna-B"
+      "category": "Accessory",
+      "slug": "Accessory/Quatro-Antenna-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Twintail-Extensions.png",
       "title": "Twintail Extensions",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Twintail-Extensions"
+      "category": "Accessory",
+      "slug": "Accessory/Twintail-Extensions"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Hero-Scarf.png",
       "title": "Hero Scarf",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Hero-Scarf"
+      "category": "Accessory",
+      "slug": "Accessory/Hero-Scarf"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wild-Scarf.png",
       "title": "Wild Scarf",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wild-Scarf"
+      "category": "Accessory",
+      "slug": "Accessory/Wild-Scarf"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Floral-Headband-A.png",
       "title": "Floral Headband A",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Floral-Headband-A"
+      "category": "Accessory",
+      "slug": "Accessory/Floral-Headband-A"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Floral-Headband-B.png",
       "title": "Floral Headband B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Floral-Headband-B"
+      "category": "Accessory",
+      "slug": "Accessory/Floral-Headband-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Floral-Headband-C.png",
       "title": "Floral Headband C",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Floral-Headband-C"
+      "category": "Accessory",
+      "slug": "Accessory/Floral-Headband-C"
     },
     {
-      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Lynx.png",
       "title": "Evolution Device: Lynx",
-      "category": "Mag Evolution Devices",
-      "url": "https://phashion.moe/Mag-Evolution-Devices/Evolution-Device-Lynx"
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Evolution-Device-Lynx"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rappy-Head.png",
       "title": "Rappy Head",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rappy-Head"
+      "category": "Accessory",
+      "slug": "Accessory/Rappy-Head"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rappy-Head-Yellow.png",
       "title": "Rappy Head: Yellow",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rappy-Head-Yellow"
+      "category": "Accessory",
+      "slug": "Accessory/Rappy-Head-Yellow"
     }
   ]
 }

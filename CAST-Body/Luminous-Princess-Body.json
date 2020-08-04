@@ -1,0 +1,17 @@
+{
+  "title": "Luminous Princess Body",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "tier": 5,
+  "category": "CAST Body",
+  "collection": {
+    "title": "Season 6",
+    "type": "Mission Pass",
+    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
+    "slug": "Collections/Mission-Pass/missionpassseason6"
+  },
+  "tradeable": false,
+  "slug": "CAST-Body/Luminous-Princess-Body"
+}

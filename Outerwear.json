@@ -1,402 +1,366 @@
 [
   {
-    "image": "https://phashion.moe/images/Outerwear/Hawaiian-Shirt.png",
+    "title": "Ritual Clothes",
+    "slug": "Outerwear/Ritual-Clothes"
+  },
+  {
+    "title": "Royal Remnants",
+    "slug": "Outerwear/Royal-Remnants"
+  },
+  {
+    "title": "Men’s Knit Duffle Coat",
+    "slug": "Outerwear/Men-s-Knit-Duffle-Coat"
+  },
+  {
+    "title": "Men’s Baggy T Shirt",
+    "slug": "Outerwear/Men-s-Baggy-T-Shirt"
+  },
+  {
+    "title": "Dressia Oath",
+    "slug": "Outerwear/Dressia-Oath"
+  },
+  {
+    "title": "Trillium Marie",
+    "slug": "Outerwear/Trillium-Marie"
+  },
+  {
+    "title": "Off-shoulder Knit",
+    "slug": "Outerwear/Off-shoulder-Knit"
+  },
+  {
+    "title": "Cute Hoodie",
+    "slug": "Outerwear/Cute-Hoodie"
+  },
+  {
+    "title": "Short Jacket",
+    "slug": "Outerwear/Short-Jacket"
+  },
+  {
+    "title": "Women’s Knit Duffle Coat",
+    "slug": "Outerwear/Women-s-Knit-Duffle-Coat"
+  },
+  {
+    "title": "Women’s Baggy T Shirt",
+    "slug": "Outerwear/Women-s-Baggy-T-Shirt"
+  },
+  {
     "title": "Hawaiian Shirt",
-    "url": "https://phashion.moe/Outerwear/Hawaiian-Shirt"
+    "slug": "Outerwear/Hawaiian-Shirt"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Maraud-Clan.png",
     "title": "Maraud Clan",
-    "url": "https://phashion.moe/Outerwear/Maraud-Clan"
+    "slug": "Outerwear/Maraud-Clan"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Scorching-Summer.png",
     "title": "Scorching Summer",
-    "url": "https://phashion.moe/Outerwear/Scorching-Summer"
+    "slug": "Outerwear/Scorching-Summer"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Frilled-Hoodie.png",
     "title": "Frilled Hoodie",
-    "url": "https://phashion.moe/Outerwear/Frilled-Hoodie"
+    "slug": "Outerwear/Frilled-Hoodie"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Tied-Short-Sleeve-Shirt.png",
     "title": "Tied Short Sleeve Shirt",
-    "url": "https://phashion.moe/Outerwear/Tied-Short-Sleeve-Shirt"
+    "slug": "Outerwear/Tied-Short-Sleeve-Shirt"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Marine-Clan.png",
     "title": "Marine Clan",
-    "url": "https://phashion.moe/Outerwear/Marine-Clan"
+    "slug": "Outerwear/Marine-Clan"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Innocent-Ensemble.png",
     "title": "Innocent Ensemble",
-    "url": "https://phashion.moe/Outerwear/Innocent-Ensemble"
+    "slug": "Outerwear/Innocent-Ensemble"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Mikoto-Ensemble.png",
     "title": "Mikoto Ensemble",
-    "url": "https://phashion.moe/Outerwear/Mikoto-Ensemble"
+    "slug": "Outerwear/Mikoto-Ensemble"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Flower-Season-Inyuu.png",
     "title": "Flower Season Inyuu",
-    "url": "https://phashion.moe/Outerwear/Flower-Season-Inyuu"
+    "slug": "Outerwear/Flower-Season-Inyuu"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Occultic-Eyes.png",
     "title": "Occultic Eyes",
-    "url": "https://phashion.moe/Outerwear/Occultic-Eyes"
+    "slug": "Outerwear/Occultic-Eyes"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Shrine-Garb.png",
     "title": "Shrine Garb",
-    "url": "https://phashion.moe/Outerwear/Shrine-Garb"
+    "slug": "Outerwear/Shrine-Garb"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Flower-Season-Cafuu.png",
     "title": "Flower Season Cafuu",
-    "url": "https://phashion.moe/Outerwear/Flower-Season-Cafuu"
+    "slug": "Outerwear/Flower-Season-Cafuu"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Occultic-Vixen.png",
     "title": "Occultic Vixen",
-    "url": "https://phashion.moe/Outerwear/Occultic-Vixen"
+    "slug": "Outerwear/Occultic-Vixen"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Kazuma-Replica.png",
     "title": "Kazuma Replica",
-    "url": "https://phashion.moe/Outerwear/Kazuma-Replica"
+    "slug": "Outerwear/Kazuma-Replica"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Lafitte-Acteur.png",
     "title": "Lafitte Acteur",
-    "url": "https://phashion.moe/Outerwear/Lafitte-Acteur"
+    "slug": "Outerwear/Lafitte-Acteur"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Survivalist-s-Rig.png",
     "title": "Survivalist's Rig",
-    "url": "https://phashion.moe/Outerwear/Survivalist-s-Rig"
+    "slug": "Outerwear/Survivalist-s-Rig"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Tigerblade-Armor.png",
     "title": "Tigerblade Armor",
-    "url": "https://phashion.moe/Outerwear/Tigerblade-Armor"
+    "slug": "Outerwear/Tigerblade-Armor"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Lafinne-Atrice.png",
     "title": "Lafinne Atrice",
-    "url": "https://phashion.moe/Outerwear/Lafinne-Atrice"
+    "slug": "Outerwear/Lafinne-Atrice"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Ruckage-Vest.png",
     "title": "Ruckage Vest",
-    "url": "https://phashion.moe/Outerwear/Ruckage-Vest"
+    "slug": "Outerwear/Ruckage-Vest"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Soaring-Silks.png",
     "title": "Soaring Silks",
-    "url": "https://phashion.moe/Outerwear/Soaring-Silks"
+    "slug": "Outerwear/Soaring-Silks"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Dragnica-Cross.png",
     "title": "Dragnica Cross",
-    "url": "https://phashion.moe/Outerwear/Dragnica-Cross"
+    "slug": "Outerwear/Dragnica-Cross"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Dragnier-Flower.png",
     "title": "Dragnier Flower",
-    "url": "https://phashion.moe/Outerwear/Dragnier-Flower"
+    "slug": "Outerwear/Dragnier-Flower"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Femme-Armeure.png",
     "title": "Femme Armeure",
-    "url": "https://phashion.moe/Outerwear/Femme-Armeure"
+    "slug": "Outerwear/Femme-Armeure"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Riley-Replica.png",
     "title": "Riley Replica",
-    "url": "https://phashion.moe/Outerwear/Riley-Replica"
+    "slug": "Outerwear/Riley-Replica"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Kai-Schulen-Replica.png",
     "title": "Kai Schulen Replica",
-    "url": "https://phashion.moe/Outerwear/Kai-Schulen-Replica"
+    "slug": "Outerwear/Kai-Schulen-Replica"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Crymaria-Replica.png",
     "title": "Crymaria Replica",
-    "url": "https://phashion.moe/Outerwear/Crymaria-Replica"
+    "slug": "Outerwear/Crymaria-Replica"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Tactical-Vest.png",
     "title": "Tactical Vest",
-    "url": "https://phashion.moe/Outerwear/Tactical-Vest"
+    "slug": "Outerwear/Tactical-Vest"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Riha-Jauwarl.png",
     "title": "Riha Jauwarl",
-    "url": "https://phashion.moe/Outerwear/Riha-Jauwarl"
+    "slug": "Outerwear/Riha-Jauwarl"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Combat-Jacket.png",
     "title": "Combat Jacket",
-    "url": "https://phashion.moe/Outerwear/Combat-Jacket"
+    "slug": "Outerwear/Combat-Jacket"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Ranger-Viento.png",
     "title": "Ranger Viento",
-    "url": "https://phashion.moe/Outerwear/Ranger-Viento"
+    "slug": "Outerwear/Ranger-Viento"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Casamento-Tuxedo.png",
     "title": "Casamento Tuxedo",
-    "url": "https://phashion.moe/Outerwear/Casamento-Tuxedo"
+    "slug": "Outerwear/Casamento-Tuxedo"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Winged-Excellence.png",
     "title": "Winged Excellence",
-    "url": "https://phashion.moe/Outerwear/Winged-Excellence"
+    "slug": "Outerwear/Winged-Excellence"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Cathedral-Formal-M.png",
     "title": "Cathedral Formal M",
-    "url": "https://phashion.moe/Outerwear/Cathedral-Formal-M"
+    "slug": "Outerwear/Cathedral-Formal-M"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Nozze-Fiore.png",
     "title": "Nozze Fiore",
-    "url": "https://phashion.moe/Outerwear/Nozze-Fiore"
+    "slug": "Outerwear/Nozze-Fiore"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Winged-Elegance.png",
     "title": "Winged Elegance",
-    "url": "https://phashion.moe/Outerwear/Winged-Elegance"
+    "slug": "Outerwear/Winged-Elegance"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Gothic-Cape.png",
     "title": "Gothic Cape",
-    "url": "https://phashion.moe/Outerwear/Gothic-Cape"
+    "slug": "Outerwear/Gothic-Cape"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Cathedral-Formal-F.png",
     "title": "Cathedral Formal F",
-    "url": "https://phashion.moe/Outerwear/Cathedral-Formal-F"
+    "slug": "Outerwear/Cathedral-Formal-F"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Tylor-Replica-M.png",
     "title": "Tylor Replica M",
-    "url": "https://phashion.moe/Outerwear/Tylor-Replica-M"
+    "slug": "Outerwear/Tylor-Replica-M"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Tylor-Replica-F.png",
     "title": "Tylor Replica F",
-    "url": "https://phashion.moe/Outerwear/Tylor-Replica-F"
+    "slug": "Outerwear/Tylor-Replica-F"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Hardened-Emotions.png",
     "title": "Hardened Emotions",
-    "url": "https://phashion.moe/Outerwear/Hardened-Emotions"
+    "slug": "Outerwear/Hardened-Emotions"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Corpse-Hood-M.png",
     "title": "Corpse Hood M",
-    "url": "https://phashion.moe/Outerwear/Corpse-Hood-M"
+    "slug": "Outerwear/Corpse-Hood-M"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Heart-Effector.png",
     "title": "Heart Effector",
-    "url": "https://phashion.moe/Outerwear/Heart-Effector"
+    "slug": "Outerwear/Heart-Effector"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Rabbit-Jacket.png",
     "title": "Rabbit Jacket",
-    "url": "https://phashion.moe/Outerwear/Rabbit-Jacket"
+    "slug": "Outerwear/Rabbit-Jacket"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Corpse-Hood-F.png",
     "title": "Corpse Hood F",
-    "url": "https://phashion.moe/Outerwear/Corpse-Hood-F"
+    "slug": "Outerwear/Corpse-Hood-F"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Ridel-Minadol-M.png",
     "title": "Ridel Minadol M",
-    "url": "https://phashion.moe/Outerwear/Ridel-Minadol-M"
+    "slug": "Outerwear/Ridel-Minadol-M"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Eville-Exceeder.png",
     "title": "Eville Exceeder",
-    "url": "https://phashion.moe/Outerwear/Eville-Exceeder"
+    "slug": "Outerwear/Eville-Exceeder"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Ridel-Minadol-F.png",
     "title": "Ridel Minadol F",
-    "url": "https://phashion.moe/Outerwear/Ridel-Minadol-F"
+    "slug": "Outerwear/Ridel-Minadol-F"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Eville-Amalti.png",
     "title": "Eville Amalti",
-    "url": "https://phashion.moe/Outerwear/Eville-Amalti"
+    "slug": "Outerwear/Eville-Amalti"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Lustrous-Prince.png",
     "title": "Lustrous Prince",
-    "url": "https://phashion.moe/Outerwear/Lustrous-Prince"
+    "slug": "Outerwear/Lustrous-Prince"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Lab-Coat-M.png",
     "title": "Lab Coat M",
-    "url": "https://phashion.moe/Outerwear/Lab-Coat-M"
+    "slug": "Outerwear/Lab-Coat-M"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Teoremard-Lad.png",
     "title": "Teoremard Lad",
-    "url": "https://phashion.moe/Outerwear/Teoremard-Lad"
+    "slug": "Outerwear/Teoremard-Lad"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Radiant-Songstress.png",
     "title": "Radiant Songstress",
-    "url": "https://phashion.moe/Outerwear/Radiant-Songstress"
+    "slug": "Outerwear/Radiant-Songstress"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Lab-Coat-F.png",
     "title": "Lab Coat F",
-    "url": "https://phashion.moe/Outerwear/Lab-Coat-F"
+    "slug": "Outerwear/Lab-Coat-F"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Sweet-Chocolat.png",
     "title": "Sweet Chocolat",
-    "url": "https://phashion.moe/Outerwear/Sweet-Chocolat"
+    "slug": "Outerwear/Sweet-Chocolat"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Avent-Lace.png",
     "title": "Avent Lace",
-    "url": "https://phashion.moe/Outerwear/Avent-Lace"
+    "slug": "Outerwear/Avent-Lace"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Froid-Gallows-M.png",
     "title": "Froid Gallows M",
-    "url": "https://phashion.moe/Outerwear/Froid-Gallows-M"
+    "slug": "Outerwear/Froid-Gallows-M"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Bitter-Simoon.png",
     "title": "Bitter Simoon",
-    "url": "https://phashion.moe/Outerwear/Bitter-Simoon"
+    "slug": "Outerwear/Bitter-Simoon"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Varza-Rising.png",
     "title": "Varza Rising",
-    "url": "https://phashion.moe/Outerwear/Varza-Rising"
+    "slug": "Outerwear/Varza-Rising"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Duskwake-Regalia.png",
     "title": "Duskwake Regalia",
-    "url": "https://phashion.moe/Outerwear/Duskwake-Regalia"
+    "slug": "Outerwear/Duskwake-Regalia"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Froid-Gallows-F.png",
     "title": "Froid Gallows F",
-    "url": "https://phashion.moe/Outerwear/Froid-Gallows-F"
+    "slug": "Outerwear/Froid-Gallows-F"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Sweet-Simoon.png",
     "title": "Sweet Simoon",
-    "url": "https://phashion.moe/Outerwear/Sweet-Simoon"
+    "slug": "Outerwear/Sweet-Simoon"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Varza-Ratio.png",
     "title": "Varza Ratio",
-    "url": "https://phashion.moe/Outerwear/Varza-Ratio"
+    "slug": "Outerwear/Varza-Ratio"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Kabuki-Cyclone.png",
     "title": "Kabuki Cyclone",
-    "url": "https://phashion.moe/Outerwear/Kabuki-Cyclone"
+    "slug": "Outerwear/Kabuki-Cyclone"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Blooming-Maiden.png",
     "title": "Blooming Maiden",
-    "url": "https://phashion.moe/Outerwear/Blooming-Maiden"
+    "slug": "Outerwear/Blooming-Maiden"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Kabuki-Thunderstroke.png",
     "title": "Kabuki Thunderstroke",
-    "url": "https://phashion.moe/Outerwear/Kabuki-Thunderstroke"
+    "slug": "Outerwear/Kabuki-Thunderstroke"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Mod-Coat.png",
     "title": "Mod Coat",
-    "url": "https://phashion.moe/Outerwear/Mod-Coat"
+    "slug": "Outerwear/Mod-Coat"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Sleeveless-Coat-M.png",
     "title": "Sleeveless Coat M",
-    "url": "https://phashion.moe/Outerwear/Sleeveless-Coat-M"
+    "slug": "Outerwear/Sleeveless-Coat-M"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Liner-Jacket-Ensemble.png",
     "title": "Liner Jacket Ensemble",
-    "url": "https://phashion.moe/Outerwear/Liner-Jacket-Ensemble"
+    "slug": "Outerwear/Liner-Jacket-Ensemble"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Boa-Jacket.png",
     "title": "Boa Jacket",
-    "url": "https://phashion.moe/Outerwear/Boa-Jacket"
+    "slug": "Outerwear/Boa-Jacket"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Wool-Coat.png",
     "title": "Wool Coat",
-    "url": "https://phashion.moe/Outerwear/Wool-Coat"
+    "slug": "Outerwear/Wool-Coat"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Sleeveless-Coat-F.png",
     "title": "Sleeveless Coat F",
-    "url": "https://phashion.moe/Outerwear/Sleeveless-Coat-F"
+    "slug": "Outerwear/Sleeveless-Coat-F"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Lady-Tacker.png",
     "title": "Lady Tacker",
-    "url": "https://phashion.moe/Outerwear/Lady-Tacker"
+    "slug": "Outerwear/Lady-Tacker"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Raison-Hubris.png",
     "title": "Raison Hubris",
-    "url": "https://phashion.moe/Outerwear/Raison-Hubris"
+    "slug": "Outerwear/Raison-Hubris"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Nogue-Lyra.png",
     "title": "Nogue Lyra",
-    "url": "https://phashion.moe/Outerwear/Nogue-Lyra"
+    "slug": "Outerwear/Nogue-Lyra"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Riad-Falco.png",
     "title": "Riad Falco",
-    "url": "https://phashion.moe/Outerwear/Riad-Falco"
+    "slug": "Outerwear/Riad-Falco"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Suit-Jacket.png",
     "title": "Suit Jacket",
-    "url": "https://phashion.moe/Outerwear/Suit-Jacket"
+    "slug": "Outerwear/Suit-Jacket"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Raison-Vanitas.png",
     "title": "Raison Vanitas",
-    "url": "https://phashion.moe/Outerwear/Raison-Vanitas"
+    "slug": "Outerwear/Raison-Vanitas"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Novi-Katz.png",
     "title": "Novi Katz",
-    "url": "https://phashion.moe/Outerwear/Novi-Katz"
+    "slug": "Outerwear/Novi-Katz"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Reaver-Swallow.png",
     "title": "Reaver Swallow",
-    "url": "https://phashion.moe/Outerwear/Reaver-Swallow"
+    "slug": "Outerwear/Reaver-Swallow"
   },
   {
-    "image": "https://phashion.moe/images/Outerwear/Cashmere-Cardigan.png",
     "title": "Cashmere Cardigan",
-    "url": "https://phashion.moe/Outerwear/Cashmere-Cardigan"
+    "slug": "Outerwear/Cashmere-Cardigan"
   }
 ]

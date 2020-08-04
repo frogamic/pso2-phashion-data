@@ -1,0 +1,20 @@
+{
+  "title": "Innocent One",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Heroic Wanderer",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer",
+    "slug": "Collections/AC-Scratch-Ticket/heroicwanderer"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Innocent-One"
+}

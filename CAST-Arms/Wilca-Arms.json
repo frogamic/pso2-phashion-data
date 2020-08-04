@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/CAST-Arms/Wilca-Arms.png",
   "title": "Wilca Arms",
   "gender": {
     "female": true,
@@ -7,11 +6,11 @@
   },
   "category": "CAST Arms",
   "collection": {
-    "id": "blessedworld",
+    "title": "Blessed World",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld",
-    "title": "Blessed World",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/blessedworld"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "CAST-Arms/Wilca-Arms"
 }

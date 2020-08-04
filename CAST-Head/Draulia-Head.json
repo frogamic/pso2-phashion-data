@@ -1,0 +1,16 @@
+{
+  "title": "Draulia Head",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Head",
+  "collection": {
+    "title": "Crimson Dawn",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn",
+    "slug": "Collections/AC-Scratch-Ticket/crimsondawn"
+  },
+  "tradeable": true,
+  "slug": "CAST-Head/Draulia-Head"
+}

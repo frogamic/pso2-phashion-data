@@ -1,0 +1,23 @@
+{
+  "type": "Fresh Finds Shop",
+  "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0805",
+  "title": "Recommended Items (8/5)",
+  "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0805",
+  "items": [
+    {
+      "title": "Bikini",
+      "category": "Outfit",
+      "slug": "Outfit/Bikini"
+    },
+    {
+      "title": "One Piece Swimsuit",
+      "category": "Outfit",
+      "slug": "Outfit/One-Piece-Swimsuit"
+    },
+    {
+      "title": "Swim Trunks",
+      "category": "Outfit",
+      "slug": "Outfit/Swim-Trunks"
+    }
+  ]
+}

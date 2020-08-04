@@ -1,0 +1,20 @@
+{
+  "title": "Roller Diner",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Independence Day Event",
+    "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/independencedayevent2020",
+    "slug": "Collections/Event/independencedayevent2020"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Roller-Diner"
+}

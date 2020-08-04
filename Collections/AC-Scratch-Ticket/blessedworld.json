@@ -1,489 +1,413 @@
 {
-  "id": "blessedworld",
   "type": "AC Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/blessedworld",
   "title": "Blessed World",
-  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/blessedworld.jpg",
+  "slug": "Collections/AC-Scratch-Ticket/blessedworld",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Megumin-Replica.png",
       "title": "Megumin Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Megumin-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Megumin-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Darkness-Replica.png",
       "title": "Darkness Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Darkness-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Darkness-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Yunyun-Replica.png",
       "title": "Yunyun Replica",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Yunyun-Replica"
+      "category": "Outfit",
+      "slug": "Outfit/Yunyun-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Kazuma-Replica.png",
       "title": "Kazuma Replica",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Kazuma-Replica"
+      "slug": "Outerwear/Kazuma-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Lafitte-Acteur.png",
       "title": "Lafitte Acteur",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Lafitte-Acteur"
+      "slug": "Outerwear/Lafitte-Acteur"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Survivalist-s-Rig.png",
       "title": "Survivalist's Rig",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Survivalist-s-Rig"
+      "slug": "Outerwear/Survivalist-s-Rig"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Tigerblade-Armor.png",
       "title": "Tigerblade Armor",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Tigerblade-Armor"
+      "slug": "Outerwear/Tigerblade-Armor"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Lafinne-Atrice.png",
       "title": "Lafinne Atrice",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Lafinne-Atrice"
+      "slug": "Outerwear/Lafinne-Atrice"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Ruckage-Vest.png",
       "title": "Ruckage Vest",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Ruckage-Vest"
+      "slug": "Outerwear/Ruckage-Vest"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Soaring-Silks.png",
       "title": "Soaring Silks",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Soaring-Silks"
+      "slug": "Outerwear/Soaring-Silks"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Kazuma-Replica.png",
       "title": "Kazuma Replica",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Kazuma-Replica"
+      "slug": "Basewear/Kazuma-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Lafitte-Acteur.png",
       "title": "Lafitte Acteur",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Lafitte-Acteur"
+      "slug": "Basewear/Lafitte-Acteur"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Survivalist-s-Rig.png",
       "title": "Survivalist's Rig",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Survivalist-s-Rig"
+      "slug": "Basewear/Survivalist-s-Rig"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Tigerblade-Armor.png",
       "title": "Tigerblade Armor",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Tigerblade-Armor"
+      "slug": "Basewear/Tigerblade-Armor"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Aqua-Replica.png",
       "title": "Aqua Replica",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Aqua-Replica"
+      "slug": "Basewear/Aqua-Replica"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Lafinne-Atrice.png",
       "title": "Lafinne Atrice",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Lafinne-Atrice"
+      "slug": "Basewear/Lafinne-Atrice"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Ruckage-Vest.png",
       "title": "Ruckage Vest",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Ruckage-Vest"
+      "slug": "Basewear/Ruckage-Vest"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Soaring-Silks.png",
       "title": "Soaring Silks",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Soaring-Silks"
+      "slug": "Basewear/Soaring-Silks"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Dual-China.png",
       "title": "Dual China",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Dual-China"
+      "slug": "Basewear/Dual-China"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Lafitte-Acteur.png",
       "title": "Lafitte Acteur",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Lafitte-Acteur"
+      "slug": "Innerwear/Lafitte-Acteur"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Survivalist-s-Rig.png",
       "title": "Survivalist's Rig",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Survivalist-s-Rig"
+      "slug": "Innerwear/Survivalist-s-Rig"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Tigerblade-Armor.png",
       "title": "Tigerblade Armor",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Tigerblade-Armor"
+      "slug": "Innerwear/Tigerblade-Armor"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Lafinne-Atrice.png",
       "title": "Lafinne Atrice",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Lafinne-Atrice"
+      "slug": "Innerwear/Lafinne-Atrice"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Ruckage-Vest.png",
       "title": "Ruckage Vest",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Ruckage-Vest"
+      "slug": "Innerwear/Ruckage-Vest"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Soaring-Silks.png",
       "title": "Soaring Silks",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Soaring-Silks"
+      "slug": "Innerwear/Soaring-Silks"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Galpha-Body.png",
       "title": "Galpha Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Galpha-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Galpha-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Galpha-Arms.png",
       "title": "Galpha Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Galpha-Arms"
+      "slug": "CAST-Arms/Galpha-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Galpha-Legs.png",
       "title": "Galpha Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Galpha-Legs"
+      "slug": "CAST-Legs/Galpha-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Galpha-Head.png",
       "title": "Galpha Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Galpha-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Galpha-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Wilca-Body.png",
       "title": "Wilca Body",
-      "category": "CAST Bodies",
-      "url": "https://phashion.moe/CAST-Bodies/Wilca-Body"
+      "category": "CAST Body",
+      "slug": "CAST-Body/Wilca-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Wilca-Arms.png",
       "title": "Wilca Arms",
       "category": "CAST Arms",
-      "url": "https://phashion.moe/CAST-Arms/Wilca-Arms"
+      "slug": "CAST-Arms/Wilca-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Wilca-Legs.png",
       "title": "Wilca Legs",
       "category": "CAST Legs",
-      "url": "https://phashion.moe/CAST-Legs/Wilca-Legs"
+      "slug": "CAST-Legs/Wilca-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Wilca-Head.png",
       "title": "Wilca Head",
-      "category": "CAST Heads",
-      "url": "https://phashion.moe/CAST-Heads/Wilca-Head"
+      "category": "CAST Head",
+      "slug": "CAST-Head/Wilca-Head"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Kazuma-Hair.png",
       "title": "Kazuma Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Kazuma-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Kazuma-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Aqua-Hair.png",
       "title": "Aqua Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Aqua-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Aqua-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Megumin-Hair.png",
       "title": "Megumin Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Megumin-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Megumin-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Darkness-Hair.png",
       "title": "Darkness Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Darkness-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Darkness-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Yunyun-Hair.png",
       "title": "Yunyun Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Yunyun-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Yunyun-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Side-Fringe-Off-Center-Perm.png",
       "title": "Side Fringe Off-Center Perm",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Side-Fringe-Off-Center-Perm"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Side-Fringe-Off-Center-Perm"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Hairclip-Off-Center-Short.png",
       "title": "Hairclip Off-Center Short",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Hairclip-Off-Center-Short"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Hairclip-Off-Center-Short"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Braided-Pigtails.png",
       "title": "Braided Pigtails",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Braided-Pigtails"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Braided-Pigtails"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Inverted-Bob.png",
       "title": "Inverted Bob",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Inverted-Bob"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Inverted-Bob"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Tigerblade-Hairstyle.png",
       "title": "Tigerblade Hairstyle",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Tigerblade-Hairstyle"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Tigerblade-Hairstyle"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Soaring-Hairstyle.png",
       "title": "Soaring Hairstyle",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Soaring-Hairstyle"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Soaring-Hairstyle"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Hexagram-Eyes-L.png",
       "title": "Hexagram Eyes (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Hexagram-Eyes-L"
+      "slug": "Eyes/Hexagram-Eyes-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Hexagram-Eyes-S.png",
       "title": "Hexagram Eyes (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Hexagram-Eyes-S"
+      "slug": "Eyes/Hexagram-Eyes-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Colored-Irises-Yellow.png",
       "title": "Colored Irises: Yellow",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Colored-Irises-Yellow"
+      "slug": "Eyes/Colored-Irises-Yellow"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Colored-Irises-Blue.png",
       "title": "Colored Irises: Blue",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Colored-Irises-Blue"
+      "slug": "Eyes/Colored-Irises-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Heart-Makeup-Pink.png",
       "title": "Heart Makeup: Pink",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Heart-Makeup-Pink"
+      "category": "Facepaint",
+      "slug": "Facepaint/Heart-Makeup-Pink"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Heart-Makeup-Blue.png",
       "title": "Heart Makeup: Blue",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Heart-Makeup-Blue"
+      "category": "Facepaint",
+      "slug": "Facepaint/Heart-Makeup-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Yunyun-Thigh-Highs.png",
       "title": "Yunyun Thigh-Highs",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Yunyun-Thigh-Highs"
+      "slug": "Body-Paint/Yunyun-Thigh-Highs"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Ruckage-Thigh-Highs.png",
       "title": "Ruckage Thigh-Highs",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Ruckage-Thigh-Highs"
+      "slug": "Body-Paint/Ruckage-Thigh-Highs"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Aqua-Ribbon.png",
       "title": "Aqua Ribbon",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Aqua-Ribbon"
+      "category": "Accessory",
+      "slug": "Accessory/Aqua-Ribbon"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Aqua-Raiment.png",
       "title": "Aqua Raiment",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Aqua-Raiment"
+      "category": "Accessory",
+      "slug": "Accessory/Aqua-Raiment"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Megumin-Hat.png",
       "title": "Megumin Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Megumin-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Megumin-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Megumin-Eyepatch.png",
       "title": "Megumin Eyepatch",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Megumin-Eyepatch"
+      "category": "Accessory",
+      "slug": "Accessory/Megumin-Eyepatch"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Yunyun-Hairpin.png",
       "title": "Yunyun Hairpin",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Yunyun-Hairpin"
+      "category": "Accessory",
+      "slug": "Accessory/Yunyun-Hairpin"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Yunyun-Necktie.png",
       "title": "Yunyun Necktie",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Yunyun-Necktie"
+      "category": "Accessory",
+      "slug": "Accessory/Yunyun-Necktie"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lafitte-Hat.png",
       "title": "Lafitte Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lafitte-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Lafitte-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lafitte-Scarf-Blue.png",
       "title": "Lafitte Scarf: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lafitte-Scarf-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Lafitte-Scarf-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lafitte-Scarf-Red.png",
       "title": "Lafitte Scarf: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lafitte-Scarf-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Lafitte-Scarf-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lafitte-Scarf-White.png",
       "title": "Lafitte Scarf: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lafitte-Scarf-White"
+      "category": "Accessory",
+      "slug": "Accessory/Lafitte-Scarf-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Lafinne-Hat.png",
       "title": "Lafinne Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Lafinne-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Lafinne-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Survival-Pack.png",
       "title": "Survival Pack",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Survival-Pack"
+      "category": "Accessory",
+      "slug": "Accessory/Survival-Pack"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ruckage-Goggles.png",
       "title": "Ruckage Goggles",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ruckage-Goggles"
+      "category": "Accessory",
+      "slug": "Accessory/Ruckage-Goggles"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ruckage-Ribbon.png",
       "title": "Ruckage Ribbon",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ruckage-Ribbon"
+      "category": "Accessory",
+      "slug": "Accessory/Ruckage-Ribbon"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ruckage-Protectors.png",
       "title": "Ruckage Protectors",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ruckage-Protectors"
+      "category": "Accessory",
+      "slug": "Accessory/Ruckage-Protectors"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ruckage-Pack.png",
       "title": "Ruckage Pack",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ruckage-Pack"
+      "category": "Accessory",
+      "slug": "Accessory/Ruckage-Pack"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Tigerblade-Crown.png",
       "title": "Tigerblade Crown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Tigerblade-Crown"
+      "category": "Accessory",
+      "slug": "Accessory/Tigerblade-Crown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Soaring-Crown.png",
       "title": "Soaring Crown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Soaring-Crown"
+      "category": "Accessory",
+      "slug": "Accessory/Soaring-Crown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Soaring-Earrings.png",
       "title": "Soaring Earrings",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Soaring-Earrings"
+      "category": "Accessory",
+      "slug": "Accessory/Soaring-Earrings"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Wilca-Veil.png",
       "title": "Wilca Veil",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Wilca-Veil"
+      "category": "Accessory",
+      "slug": "Accessory/Wilca-Veil"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Slung-Cardigan-Water.png",
       "title": "Shoulder-Slung Cardigan: Water",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Slung-Cardigan-Water"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Slung-Cardigan-Water"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Slung-Cardigan-Gray.png",
       "title": "Shoulder-Slung Cardigan: Gray",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Slung-Cardigan-Gray"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Slung-Cardigan-Gray"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shoulder-Slung-Cardigan-Black.png",
       "title": "Shoulder-Slung Cardigan: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shoulder-Slung-Cardigan-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Slung-Cardigan-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Crepe-Silk-Stole-Red.png",
       "title": "Crepe Silk Stole: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Crepe-Silk-Stole-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Crepe-Silk-Stole-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Crepe-Silk-Stole-Blue.png",
       "title": "Crepe Silk Stole: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Crepe-Silk-Stole-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Crepe-Silk-Stole-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Crepe-Silk-Stole-Green.png",
       "title": "Crepe Silk Stole: Green",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Crepe-Silk-Stole-Green"
+      "category": "Accessory",
+      "slug": "Accessory/Crepe-Silk-Stole-Green"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Shoulder-Tattoo-M-Set.png",
       "title": "Shoulder Tattoo M Set",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Shoulder-Tattoo-M-Set"
+      "slug": "Body-Paint/Shoulder-Tattoo-M-Set"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Shoulder-Tattoo-F-Set.png",
       "title": "Shoulder Tattoo F Set",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Shoulder-Tattoo-F-Set"
+      "slug": "Body-Paint/Shoulder-Tattoo-F-Set"
+    },
+    {
+      "title": "Megumin Staff",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Megumin-Staff"
     }
   ]
 }

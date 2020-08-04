@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Eyes/Extreme-Highlights-L.png",
   "title": "Extreme Highlights (L)",
   "category": "Eyes",
   "collection": {
-    "id": "heroicwanderer",
+    "title": "Heroic Wanderer",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer",
-    "title": "Heroic Wanderer",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/heroicwanderer.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/heroicwanderer"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Eyes/Extreme-Highlights-L"
 }

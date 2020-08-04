@@ -1,0 +1,16 @@
+{
+  "title": "Nimbus Head",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Head",
+  "collection": {
+    "title": "Oracle Celebrations",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/oraclecelebrations",
+    "slug": "Collections/AC-Scratch-Ticket/oraclecelebrations"
+  },
+  "tradeable": true,
+  "slug": "CAST-Head/Nimbus-Head"
+}

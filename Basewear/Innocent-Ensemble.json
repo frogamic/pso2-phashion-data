@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/Basewear/Innocent-Ensemble.png",
   "title": "Innocent Ensemble",
   "gender": {
     "female": true,
@@ -11,11 +10,11 @@
   },
   "category": "Basewear",
   "collection": {
-    "id": "fallenheroes",
+    "title": "Fallen Heroes",
     "type": "SG Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/fallenheroes",
-    "title": "Fallen Heroes",
-    "image": "https://phashion.moe/images/Collections/SG-Scratch-Ticket/fallenheroes.jpg"
+    "slug": "Collections/SG-Scratch-Ticket/fallenheroes"
   },
-  "tradeable": false
+  "tradeable": false,
+  "slug": "Basewear/Innocent-Ensemble"
 }

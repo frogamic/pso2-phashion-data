@@ -1,147 +1,123 @@
 {
-  "id": "funmarch2020",
   "type": "FUN Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/funmarch2020",
   "title": "March 2020",
-  "image": "https://phashion.moe/images/Collections/FUN-Scratch-Ticket/funmarch2020.jpg",
+  "slug": "Collections/FUN-Scratch-Ticket/funmarch2020",
   "items": [
     {
-      "image": "https://phashion.moe/images/Hairstyles/Long-Braids.png",
       "title": "Long Braids",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Long-Braids"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Long-Braids"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Anime-Blush.png",
       "title": "Anime Blush",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Anime-Blush"
+      "category": "Facepaint",
+      "slug": "Facepaint/Anime-Blush"
     },
     {
-      "image": "https://phashion.moe/images/Eyebrows/Traditional-Japanese-Eyebrows.png",
       "title": "Traditional Japanese Eyebrows",
       "category": "Eyebrows",
-      "url": "https://phashion.moe/Eyebrows/Traditional-Japanese-Eyebrows"
+      "slug": "Eyebrows/Traditional-Japanese-Eyebrows"
     },
     {
-      "image": "https://phashion.moe/images/Eyelashes/Fine-Eyelashes-Set.png",
       "title": "Fine Eyelashes Set",
       "category": "Eyelashes",
-      "url": "https://phashion.moe/Eyelashes/Fine-Eyelashes-Set"
+      "slug": "Eyelashes/Fine-Eyelashes-Set"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Cat-Eared-Hairband.png",
       "title": "Cat-Eared Hairband",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Cat-Eared-Hairband"
+      "category": "Accessory",
+      "slug": "Accessory/Cat-Eared-Hairband"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Cat-Ears-Headband-B.png",
       "title": "Cat Ears Headband B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Cat-Ears-Headband-B"
+      "category": "Accessory",
+      "slug": "Accessory/Cat-Ears-Headband-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Stabilizer.png",
       "title": "Stabilizer",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Stabilizer"
+      "category": "Accessory",
+      "slug": "Accessory/Stabilizer"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Nurse-Hat.png",
       "title": "Nurse Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Nurse-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Nurse-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Tall-Hat-Sun.png",
       "title": "Tall Hat: Sun",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Tall-Hat-Sun"
+      "category": "Accessory",
+      "slug": "Accessory/Tall-Hat-Sun"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Oculus-Hat-Shadow.png",
       "title": "Oculus Hat: Shadow",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Oculus-Hat-Shadow"
+      "category": "Accessory",
+      "slug": "Accessory/Oculus-Hat-Shadow"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Feather-Earrings-White.png",
       "title": "Feather Earrings: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Feather-Earrings-White"
+      "category": "Accessory",
+      "slug": "Accessory/Feather-Earrings-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Feather-Earrings-Pink.png",
       "title": "Feather Earrings: Pink",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Feather-Earrings-Pink"
+      "category": "Accessory",
+      "slug": "Accessory/Feather-Earrings-Pink"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Feather-Earrings-Blue.png",
       "title": "Feather Earrings: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Feather-Earrings-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Feather-Earrings-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Snazzy-Glasses.png",
       "title": "Snazzy Glasses",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Snazzy-Glasses"
+      "category": "Accessory",
+      "slug": "Accessory/Snazzy-Glasses"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Green-Eye-Monitor.png",
       "title": "Green Eye Monitor",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Green-Eye-Monitor"
+      "category": "Accessory",
+      "slug": "Accessory/Green-Eye-Monitor"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Red-Eye-Monitor.png",
       "title": "Red Eye Monitor",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Red-Eye-Monitor"
+      "category": "Accessory",
+      "slug": "Accessory/Red-Eye-Monitor"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Eye-Monitor-Yellow.png",
       "title": "Eye Monitor: Yellow",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Eye-Monitor-Yellow"
+      "category": "Accessory",
+      "slug": "Accessory/Eye-Monitor-Yellow"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Eye-Monitor-Blue.png",
       "title": "Eye Monitor: Blue",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Eye-Monitor-Blue"
+      "category": "Accessory",
+      "slug": "Accessory/Eye-Monitor-Blue"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Gold-Aries-Horns.png",
       "title": "Gold Aries Horns",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Gold-Aries-Horns"
+      "category": "Accessory",
+      "slug": "Accessory/Gold-Aries-Horns"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Black-Aries-Horns.png",
       "title": "Black Aries Horns",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Black-Aries-Horns"
+      "category": "Accessory",
+      "slug": "Accessory/Black-Aries-Horns"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Gold-Aries-Cap.png",
       "title": "Gold Aries Cap",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Gold-Aries-Cap"
+      "category": "Accessory",
+      "slug": "Accessory/Gold-Aries-Cap"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Black-Aries-Cap.png",
       "title": "Black Aries Cap",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Black-Aries-Cap"
+      "category": "Accessory",
+      "slug": "Accessory/Black-Aries-Cap"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/Aries-Sticker-Set.png",
       "title": "Aries Sticker Set",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/Aries-Sticker-Set"
+      "category": "Sticker",
+      "slug": "Sticker/Aries-Sticker-Set"
     }
   ]
 }

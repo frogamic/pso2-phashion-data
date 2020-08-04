@@ -1,33 +1,33 @@
 {
-  "id": "sonicsbirthday2020",
   "type": "Event",
   "sourceUrl": "https://pso2.com/news/announcements/sonicsbirthday2020",
   "title": "Sonic’s Birthday 2020!",
-  "image": "https://phashion.moe/images/Collections/Event/sonicsbirthday2020.png",
+  "slug": "Collections/Event/sonicsbirthday2020",
   "items": [
     {
-      "image": "https://phashion.moe/images/Accessories/Sonic-Mask-B.png",
       "title": "Sonic Mask B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Sonic-Mask-B"
+      "category": "Accessory",
+      "slug": "Accessory/Sonic-Mask-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Amy-Mask-B.png",
       "title": "Amy Mask B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Amy-Mask-B"
+      "category": "Accessory",
+      "slug": "Accessory/Amy-Mask-B"
     },
     {
-      "image": "https://phashion.moe/images/Stickers/SEGA-Logo-Sticker.png",
       "title": "SEGA Logo Sticker",
-      "category": "Stickers",
-      "url": "https://phashion.moe/Stickers/SEGA-Logo-Sticker"
+      "category": "Sticker",
+      "slug": "Sticker/SEGA-Logo-Sticker"
     },
     {
-      "image": "https://phashion.moe/images/Furnishings/SEGA-Light.png",
       "title": "SEGA Light",
-      "category": "Furnishings",
-      "url": "https://phashion.moe/Furnishings/SEGA-Light"
+      "category": "Furnishing",
+      "slug": "Furnishing/SEGA-Light"
+    },
+    {
+      "title": "Sonic Knuckles",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Sonic-Knuckles"
     }
   ]
 }

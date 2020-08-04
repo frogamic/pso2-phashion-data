@@ -1,0 +1,20 @@
+{
+  "title": "Carlis Sailor",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Seaside Vacation",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/seasidevacation",
+    "slug": "Collections/AC-Scratch-Ticket/seasidevacation"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Carlis-Sailor"
+}

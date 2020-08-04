@@ -1,5 +1,4 @@
 {
-  "image": "https://phashion.moe/images/CAST-Arms/Exagia-Arms.png",
   "title": "Exagia Arms",
   "gender": {
     "female": false,
@@ -7,11 +6,11 @@
   },
   "category": "CAST Arms",
   "collection": {
-    "id": "darkomen",
+    "title": "Dark Omen",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen",
-    "title": "Dark Omen",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/darkomen.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/darkomen"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "CAST-Arms/Exagia-Arms"
 }

@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Eyes/Cat-Eyes-S.png",
   "title": "Cat Eyes (S)",
   "category": "Eyes",
   "collection": {
-    "id": "urbanlifestyle",
+    "title": "Urban Lifestyle",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
-    "title": "Urban Lifestyle",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Eyes/Cat-Eyes-S"
 }

@@ -1,0 +1,20 @@
+{
+  "title": "Severing Shadow",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Silken Dreams",
+    "type": "AC Scratch Ticket",
+    "sourceUrl": "https://pso2.com/news/scratch-tickets/silkendreams",
+    "slug": "Collections/AC-Scratch-Ticket/silkendreams"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Severing-Shadow"
+}

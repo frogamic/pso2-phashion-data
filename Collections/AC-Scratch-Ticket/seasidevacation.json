@@ -1,477 +1,403 @@
 {
-  "id": "seasidevacation",
   "type": "AC Scratch Ticket",
   "sourceUrl": "https://pso2.com/news/scratch-tickets/seasidevacation",
   "title": "Seaside Vacation",
-  "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/seasidevacation.jpg",
+  "slug": "Collections/AC-Scratch-Ticket/seasidevacation",
   "items": [
     {
-      "image": "https://phashion.moe/images/Outfits/Carlis-Sailor.png",
       "title": "Carlis Sailor",
-      "category": "Outfits",
-      "url": "https://phashion.moe/Outfits/Carlis-Sailor"
+      "category": "Outfit",
+      "slug": "Outfit/Carlis-Sailor"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Hawaiian-Shirt.png",
       "title": "Hawaiian Shirt",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Hawaiian-Shirt"
+      "slug": "Outerwear/Hawaiian-Shirt"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Maraud-Clan.png",
       "title": "Maraud Clan",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Maraud-Clan"
+      "slug": "Outerwear/Maraud-Clan"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Scorching-Summer.png",
       "title": "Scorching Summer",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Scorching-Summer"
+      "slug": "Outerwear/Scorching-Summer"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Frilled-Hoodie.png",
       "title": "Frilled Hoodie",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Frilled-Hoodie"
+      "slug": "Outerwear/Frilled-Hoodie"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Tied-Short-Sleeve-Shirt.png",
       "title": "Tied Short Sleeve Shirt",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Tied-Short-Sleeve-Shirt"
+      "slug": "Outerwear/Tied-Short-Sleeve-Shirt"
     },
     {
-      "image": "https://phashion.moe/images/Outerwear/Marine-Clan.png",
       "title": "Marine Clan",
       "category": "Outerwear",
-      "url": "https://phashion.moe/Outerwear/Marine-Clan"
+      "slug": "Outerwear/Marine-Clan"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Aloha-Shorts.png",
       "title": "Aloha Shorts",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Aloha-Shorts"
+      "slug": "Basewear/Aloha-Shorts"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Bold-Swimwear.png",
       "title": "Bold Swimwear",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Bold-Swimwear"
+      "slug": "Basewear/Bold-Swimwear"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Bold-Swimwear-F.png",
       "title": "Bold Swimwear/F",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Bold-Swimwear-F"
+      "slug": "Basewear/Bold-Swimwear-F"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Panther-Bikini.png",
       "title": "Panther Bikini",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Panther-Bikini"
+      "slug": "Basewear/Panther-Bikini"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Panther-Bikini-F.png",
       "title": "Panther Bikini/F",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Panther-Bikini-F"
+      "slug": "Basewear/Panther-Bikini-F"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Maraud-Clan.png",
       "title": "Maraud Clan",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Maraud-Clan"
+      "slug": "Basewear/Maraud-Clan"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Scorching-Summer.png",
       "title": "Scorching Summer",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Scorching-Summer"
+      "slug": "Basewear/Scorching-Summer"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Micro-Mini-Shorts.png",
       "title": "Micro Mini Shorts",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Micro-Mini-Shorts"
+      "slug": "Basewear/Micro-Mini-Shorts"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Exotic-Monokini.png",
       "title": "Exotic Monokini",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Exotic-Monokini"
+      "slug": "Basewear/Exotic-Monokini"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Outlandish-Bikini.png",
       "title": "Outlandish Bikini",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Outlandish-Bikini"
+      "slug": "Basewear/Outlandish-Bikini"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Outlandish-Bikini-F.png",
       "title": "Outlandish Bikini/F",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Outlandish-Bikini-F"
+      "slug": "Basewear/Outlandish-Bikini-F"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Marine-Clan.png",
       "title": "Marine Clan",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Marine-Clan"
+      "slug": "Basewear/Marine-Clan"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Raqasa-Shamir.png",
       "title": "Raqasa Shamir",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Raqasa-Shamir"
+      "slug": "Basewear/Raqasa-Shamir"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Arcano-Delier.png",
       "title": "Arcano Delier",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Arcano-Delier"
+      "slug": "Basewear/Arcano-Delier"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/Besante-R-tsel.png",
       "title": "Besante Rätsel",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/Besante-R-tsel"
+      "slug": "Basewear/Besante-R-tsel"
     },
     {
-      "image": "https://phashion.moe/images/Basewear/High-Neck-Bikini.png",
       "title": "High Neck Bikini",
       "category": "Basewear",
-      "url": "https://phashion.moe/Basewear/High-Neck-Bikini"
+      "slug": "Basewear/High-Neck-Bikini"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Maraud-Clan.png",
       "title": "Maraud Clan",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Maraud-Clan"
+      "slug": "Innerwear/Maraud-Clan"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Silicone-1.png",
       "title": "Silicone 1",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Silicone-1"
+      "slug": "Innerwear/Silicone-1"
     },
     {
-      "image": "https://phashion.moe/images/Innerwear/Marine-Clan.png",
       "title": "Marine Clan",
       "category": "Innerwear",
-      "url": "https://phashion.moe/Innerwear/Marine-Clan"
+      "slug": "Innerwear/Marine-Clan"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Wavy-Semi-Long-Hair.png",
       "title": "Wavy Semi-Long Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Wavy-Semi-Long-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Wavy-Semi-Long-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Long-Rough-Braids.png",
       "title": "Long Rough Braids",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Long-Rough-Braids"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Long-Rough-Braids"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Wavy-Medium.png",
       "title": "Wavy Medium",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Wavy-Medium"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Wavy-Medium"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Marine-Hair.png",
       "title": "Marine Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Marine-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Marine-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Cat-Ears-Bob.png",
       "title": "Cat Ears Bob",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Cat-Ears-Bob"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Cat-Ears-Bob"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Huey-Hair.png",
       "title": "Huey Hair",
-      "category": "Hairstyles",
-      "url": "https://phashion.moe/Hairstyles/Huey-Hair"
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Huey-Hair"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Anime-Eyes-C-L.png",
       "title": "Anime Eyes C (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Anime-Eyes-C-L"
+      "slug": "Eyes/Anime-Eyes-C-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Anime-Eyes-C-S.png",
       "title": "Anime Eyes C (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Anime-Eyes-C-S"
+      "slug": "Eyes/Anime-Eyes-C-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Anime-Circular-Eyes-A-L.png",
       "title": "Anime Circular Eyes A (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Anime-Circular-Eyes-A-L"
+      "slug": "Eyes/Anime-Circular-Eyes-A-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Anime-Circular-Eyes-A-S.png",
       "title": "Anime Circular Eyes A (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Anime-Circular-Eyes-A-S"
+      "slug": "Eyes/Anime-Circular-Eyes-A-S"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Lower-Highlights-B-L.png",
       "title": "Lower Highlights B (L)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Lower-Highlights-B-L"
+      "slug": "Eyes/Lower-Highlights-B-L"
     },
     {
-      "image": "https://phashion.moe/images/Eyes/Lower-Highlights-B-S.png",
       "title": "Lower Highlights B (S)",
       "category": "Eyes",
-      "url": "https://phashion.moe/Eyes/Lower-Highlights-B-S"
+      "slug": "Eyes/Lower-Highlights-B-S"
     },
     {
-      "image": "https://phashion.moe/images/Makeup/Huey-Makeup.png",
       "title": "Huey Makeup",
-      "category": "Makeup",
-      "url": "https://phashion.moe/Makeup/Huey-Makeup"
+      "category": "Facepaint",
+      "slug": "Facepaint/Huey-Makeup"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Huey-Tattoo.png",
       "title": "Huey Tattoo",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Huey-Tattoo"
+      "slug": "Body-Paint/Huey-Tattoo"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Swimsuit-Sunburn-Marks.png",
       "title": "Swimsuit Sunburn Marks",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Swimsuit-Sunburn-Marks"
+      "slug": "Body-Paint/Swimsuit-Sunburn-Marks"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Sword-Tattoo-M.png",
       "title": "Sword Tattoo M",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Sword-Tattoo-M"
+      "slug": "Body-Paint/Sword-Tattoo-M"
     },
     {
-      "image": "https://phashion.moe/images/Body-Paint/Sword-Tattoo-F.png",
       "title": "Sword Tattoo F",
       "category": "Body Paint",
-      "url": "https://phashion.moe/Body-Paint/Sword-Tattoo-F"
+      "slug": "Body-Paint/Sword-Tattoo-F"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Ringed-Necklace.png",
       "title": "Ringed Necklace",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Ringed-Necklace"
+      "category": "Accessory",
+      "slug": "Accessory/Ringed-Necklace"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Elegant-Fedora-Navy.png",
       "title": "Elegant Fedora: Navy",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Elegant-Fedora-Navy"
+      "category": "Accessory",
+      "slug": "Accessory/Elegant-Fedora-Navy"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Elegant-Fedora-Brown.png",
       "title": "Elegant Fedora: Brown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Elegant-Fedora-Brown"
+      "category": "Accessory",
+      "slug": "Accessory/Elegant-Fedora-Brown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Elegant-Fedora-Black.png",
       "title": "Elegant Fedora: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Elegant-Fedora-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Elegant-Fedora-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Elegant-Fedora-White.png",
       "title": "Elegant Fedora: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Elegant-Fedora-White"
+      "category": "Accessory",
+      "slug": "Accessory/Elegant-Fedora-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Polka-Dot-Scrunchie-Set-A.png",
       "title": "Polka Dot Scrunchie Set A",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Polka-Dot-Scrunchie-Set-A"
+      "category": "Accessory",
+      "slug": "Accessory/Polka-Dot-Scrunchie-Set-A"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Polka-Dot-Scrunchie-Set-B.png",
       "title": "Polka Dot Scrunchie Set B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Polka-Dot-Scrunchie-Set-B"
+      "category": "Accessory",
+      "slug": "Accessory/Polka-Dot-Scrunchie-Set-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Belted-Straw-Hat-Brown.png",
       "title": "Belted Straw Hat: Brown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Belted-Straw-Hat-Brown"
+      "category": "Accessory",
+      "slug": "Accessory/Belted-Straw-Hat-Brown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Belted-Straw-Hat-White.png",
       "title": "Belted Straw Hat: White",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Belted-Straw-Hat-White"
+      "category": "Accessory",
+      "slug": "Accessory/Belted-Straw-Hat-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Belted-Straw-Hat-Black.png",
       "title": "Belted Straw Hat: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Belted-Straw-Hat-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Belted-Straw-Hat-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Glasses-with-Chain-Black.png",
       "title": "Glasses with Chain: Black",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Glasses-with-Chain-Black"
+      "category": "Accessory",
+      "slug": "Accessory/Glasses-with-Chain-Black"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Glasses-with-Chain-Red.png",
       "title": "Glasses with Chain: Red",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Glasses-with-Chain-Red"
+      "category": "Accessory",
+      "slug": "Accessory/Glasses-with-Chain-Red"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Glasses-with-Chain-Brown.png",
       "title": "Glasses with Chain: Brown",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Glasses-with-Chain-Brown"
+      "category": "Accessory",
+      "slug": "Accessory/Glasses-with-Chain-Brown"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Leather-Feather-Necklace.png",
       "title": "Leather Feather Necklace",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Leather-Feather-Necklace"
+      "category": "Accessory",
+      "slug": "Accessory/Leather-Feather-Necklace"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shamir-Barretta.png",
       "title": "Shamir Barretta",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shamir-Barretta"
+      "category": "Accessory",
+      "slug": "Accessory/Shamir-Barretta"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Maraud-Hat.png",
       "title": "Maraud Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Maraud-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Maraud-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Marine-Hat.png",
       "title": "Marine Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Marine-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Marine-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Council-of-Six-Pendant.png",
       "title": "Council of Six Pendant",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Council-of-Six-Pendant"
+      "category": "Accessory",
+      "slug": "Accessory/Council-of-Six-Pendant"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Arcano-Ribbon.png",
       "title": "Arcano Ribbon",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Arcano-Ribbon"
+      "category": "Accessory",
+      "slug": "Accessory/Arcano-Ribbon"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Arcano-Waist-Ribbon.png",
       "title": "Arcano Waist Ribbon",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Arcano-Waist-Ribbon"
+      "category": "Accessory",
+      "slug": "Accessory/Arcano-Waist-Ribbon"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Rappy-Swim-Ring.png",
       "title": "Rappy Swim Ring",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Rappy-Swim-Ring"
+      "category": "Accessory",
+      "slug": "Accessory/Rappy-Swim-Ring"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Two-Tone-Chest-Ribbon-Pink.png",
       "title": "Two-Tone Chest Ribbon: Pink",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Two-Tone-Chest-Ribbon-Pink"
+      "category": "Accessory",
+      "slug": "Accessory/Two-Tone-Chest-Ribbon-Pink"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Two-Tone-Chest-Ribbon-Water.png",
       "title": "Two-Tone Chest Ribbon: Water",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Two-Tone-Chest-Ribbon-Water"
+      "category": "Accessory",
+      "slug": "Accessory/Two-Tone-Chest-Ribbon-Water"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Two-Tone-Waist-Ribbon-Pink.png",
       "title": "Two-Tone Waist Ribbon: Pink",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Two-Tone-Waist-Ribbon-Pink"
+      "category": "Accessory",
+      "slug": "Accessory/Two-Tone-Waist-Ribbon-Pink"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Two-Tone-Waist-Ribbon-Water.png",
       "title": "Two-Tone Waist Ribbon: Water",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Two-Tone-Waist-Ribbon-Water"
+      "category": "Accessory",
+      "slug": "Accessory/Two-Tone-Waist-Ribbon-Water"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Carlis-Hat.png",
       "title": "Carlis Hat",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Carlis-Hat"
+      "category": "Accessory",
+      "slug": "Accessory/Carlis-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Shark-Head.png",
       "title": "Shark Head",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Shark-Head"
+      "category": "Accessory",
+      "slug": "Accessory/Shark-Head"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Cyber-Mask.png",
       "title": "Cyber Mask",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Cyber-Mask"
+      "category": "Accessory",
+      "slug": "Accessory/Cyber-Mask"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Two-Piece-Pareo.png",
       "title": "Two-Piece Pareo",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Two-Piece-Pareo"
+      "category": "Accessory",
+      "slug": "Accessory/Two-Piece-Pareo"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Two-Piece-Pareo-B.png",
       "title": "Two-Piece Pareo B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Two-Piece-Pareo-B"
+      "category": "Accessory",
+      "slug": "Accessory/Two-Piece-Pareo-B"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Flared-Pareo.png",
       "title": "Flared Pareo",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Flared-Pareo"
+      "category": "Accessory",
+      "slug": "Accessory/Flared-Pareo"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Flared-Pareo-B.png",
       "title": "Flared Pareo B",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Flared-Pareo-B"
+      "category": "Accessory",
+      "slug": "Accessory/Flared-Pareo-B"
     },
     {
-      "image": "https://phashion.moe/images/Mag-Evolution-Devices/Evolution-Device-Mieze.png",
       "title": "Evolution Device: Mieze",
-      "category": "Mag Evolution Devices",
-      "url": "https://phashion.moe/Mag-Evolution-Devices/Evolution-Device-Mieze"
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Evolution-Device-Mieze"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Dolphin-Tail-Set.png",
+      "title": "* Space Board",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Space-Board"
+    },
+    {
       "title": "Dolphin Tail Set",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Dolphin-Tail-Set"
+      "category": "Accessory",
+      "slug": "Accessory/Dolphin-Tail-Set"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Dolphin-Tail-White-Set.png",
       "title": "Dolphin Tail: White Set",
-      "category": "Accessories",
-      "url": "https://phashion.moe/Accessories/Dolphin-Tail-White-Set"
+      "category": "Accessory",
+      "slug": "Accessory/Dolphin-Tail-White-Set"
     }
   ]
 }

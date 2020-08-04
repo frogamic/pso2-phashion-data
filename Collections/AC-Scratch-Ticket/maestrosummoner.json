@@ -1,0 +1,423 @@
+{
+  "type": "AC Scratch Ticket",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/maestrosummoner",
+  "title": "Maestro Summoner",
+  "slug": "Collections/AC-Scratch-Ticket/maestrosummoner",
+  "items": [
+    {
+      "title": "Ritual Clothes",
+      "category": "Outerwear",
+      "slug": "Outerwear/Ritual-Clothes"
+    },
+    {
+      "title": "Royal Remnants",
+      "category": "Outerwear",
+      "slug": "Outerwear/Royal-Remnants"
+    },
+    {
+      "title": "Men’s Knit Duffle Coat",
+      "category": "Outerwear",
+      "slug": "Outerwear/Men-s-Knit-Duffle-Coat"
+    },
+    {
+      "title": "Men’s Baggy T Shirt",
+      "category": "Outerwear",
+      "slug": "Outerwear/Men-s-Baggy-T-Shirt"
+    },
+    {
+      "title": "Dressia Oath",
+      "category": "Outerwear",
+      "slug": "Outerwear/Dressia-Oath"
+    },
+    {
+      "title": "Trillium Marie",
+      "category": "Outerwear",
+      "slug": "Outerwear/Trillium-Marie"
+    },
+    {
+      "title": "Off-shoulder Knit",
+      "category": "Outerwear",
+      "slug": "Outerwear/Off-shoulder-Knit"
+    },
+    {
+      "title": "Cute Hoodie",
+      "category": "Outerwear",
+      "slug": "Outerwear/Cute-Hoodie"
+    },
+    {
+      "title": "Short Jacket",
+      "category": "Outerwear",
+      "slug": "Outerwear/Short-Jacket"
+    },
+    {
+      "title": "Women’s Knit Duffle Coat",
+      "category": "Outerwear",
+      "slug": "Outerwear/Women-s-Knit-Duffle-Coat"
+    },
+    {
+      "title": "Women’s Baggy T Shirt",
+      "category": "Outerwear",
+      "slug": "Outerwear/Women-s-Baggy-T-Shirt"
+    },
+    {
+      "title": "Ritual Clothes",
+      "category": "Basewear",
+      "slug": "Basewear/Ritual-Clothes"
+    },
+    {
+      "title": "Royal Remnants",
+      "category": "Basewear",
+      "slug": "Basewear/Royal-Remnants"
+    },
+    {
+      "title": "Shorts M",
+      "category": "Basewear",
+      "slug": "Basewear/Shorts-M"
+    },
+    {
+      "title": "Dressia Oath",
+      "category": "Basewear",
+      "slug": "Basewear/Dressia-Oath"
+    },
+    {
+      "title": "Trillium Marie",
+      "category": "Basewear",
+      "slug": "Basewear/Trillium-Marie"
+    },
+    {
+      "title": "Denim Shorts",
+      "category": "Basewear",
+      "slug": "Basewear/Denim-Shorts"
+    },
+    {
+      "title": "Frilled Skirt",
+      "category": "Basewear",
+      "slug": "Basewear/Frilled-Skirt"
+    },
+    {
+      "title": "Flared Skirt",
+      "category": "Basewear",
+      "slug": "Basewear/Flared-Skirt"
+    },
+    {
+      "title": "Capri Pants F",
+      "category": "Basewear",
+      "slug": "Basewear/Capri-Pants-F"
+    },
+    {
+      "title": "Ritual Clothes",
+      "category": "Innerwear",
+      "slug": "Innerwear/Ritual-Clothes"
+    },
+    {
+      "title": "Royal Remnants",
+      "category": "Innerwear",
+      "slug": "Innerwear/Royal-Remnants"
+    },
+    {
+      "title": "Fancy 1",
+      "category": "Innerwear",
+      "slug": "Innerwear/Fancy-1"
+    },
+    {
+      "title": "Dressia Oath",
+      "category": "Innerwear",
+      "slug": "Innerwear/Dressia-Oath"
+    },
+    {
+      "title": "Trillium Marie",
+      "category": "Innerwear",
+      "slug": "Innerwear/Trillium-Marie"
+    },
+    {
+      "title": "Large Stripes 1",
+      "category": "Innerwear",
+      "slug": "Innerwear/Large-Stripes-1"
+    },
+    {
+      "title": "Cute 1",
+      "category": "Innerwear",
+      "slug": "Innerwear/Cute-1"
+    },
+    {
+      "title": "Flower 1",
+      "category": "Innerwear",
+      "slug": "Innerwear/Flower-1"
+    },
+    {
+      "title": "Accordie Body",
+      "category": "CAST Body",
+      "slug": "CAST-Body/Accordie-Body"
+    },
+    {
+      "title": "Accordie Arms",
+      "category": "CAST Arms",
+      "slug": "CAST-Arms/Accordie-Arms"
+    },
+    {
+      "title": "Accordie Legs",
+      "category": "CAST Legs",
+      "slug": "CAST-Legs/Accordie-Legs"
+    },
+    {
+      "title": "Accordie Head",
+      "category": "CAST Head",
+      "slug": "CAST-Head/Accordie-Head"
+    },
+    {
+      "title": "Delmarch Body",
+      "category": "CAST Body",
+      "slug": "CAST-Body/Delmarch-Body"
+    },
+    {
+      "title": "Delmarch Arms",
+      "category": "CAST Arms",
+      "slug": "CAST-Arms/Delmarch-Arms"
+    },
+    {
+      "title": "Delmarch Legs",
+      "category": "CAST Legs",
+      "slug": "CAST-Legs/Delmarch-Legs"
+    },
+    {
+      "title": "Delmarch Head",
+      "category": "CAST Head",
+      "slug": "CAST-Head/Delmarch-Head"
+    },
+    {
+      "title": "Side Fringe Short Bob",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Side-Fringe-Short-Bob"
+    },
+    {
+      "title": "Long Side Ponytail",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Long-Side-Ponytail"
+    },
+    {
+      "title": "Power Mullet",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Power-Mullet"
+    },
+    {
+      "title": "Hitsugi Ponytail",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Hitsugi-Ponytail"
+    },
+    {
+      "title": "Kohri Long Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Kohri-Long-Hair"
+    },
+    {
+      "title": "Al Short Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Al-Short-Hair"
+    },
+    {
+      "title": "Anime Eyes B (L)",
+      "category": "Eyes",
+      "slug": "Eyes/Anime-Eyes-B-L"
+    },
+    {
+      "title": "Anime Eyes B (S)",
+      "category": "Eyes",
+      "slug": "Eyes/Anime-Eyes-B-S"
+    },
+    {
+      "title": "No Highlights C (L)",
+      "category": "Eyes",
+      "slug": "Eyes/No-Highlights-C-L"
+    },
+    {
+      "title": "No Highlights C (S)",
+      "category": "Eyes",
+      "slug": "Eyes/No-Highlights-C-S"
+    },
+    {
+      "title": "Foundation",
+      "category": "Facepaint",
+      "slug": "Facepaint/Foundation"
+    },
+    {
+      "title": "Trillium Tights",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Trillium-Tights"
+    },
+    {
+      "title": "Thigh-High Tights Set",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Thigh-High-Tights-Set"
+    },
+    {
+      "title": "Patterned Leggings",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Patterned-Leggings"
+    },
+    {
+      "title": "Dressia Hat",
+      "category": "Accessory",
+      "slug": "Accessory/Dressia-Hat"
+    },
+    {
+      "title": "Dressia Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Dressia-Ribbon"
+    },
+    {
+      "title": "Ritual Scarf",
+      "category": "Accessory",
+      "slug": "Accessory/Ritual-Scarf"
+    },
+    {
+      "title": "Delmarch Hat",
+      "category": "Accessory",
+      "slug": "Accessory/Delmarch-Hat"
+    },
+    {
+      "title": "Panda Scarf",
+      "category": "Accessory",
+      "slug": "Accessory/Panda-Scarf"
+    },
+    {
+      "title": "Shoulder Armor",
+      "category": "Accessory",
+      "slug": "Accessory/Shoulder-Armor"
+    },
+    {
+      "title": "Mirror Wings",
+      "category": "Accessory",
+      "slug": "Accessory/Mirror-Wings"
+    },
+    {
+      "title": "Vivid Wings: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Vivid-Wings-Red"
+    },
+    {
+      "title": "Vivid Wings: Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Vivid-Wings-Blue"
+    },
+    {
+      "title": "Vivid Wings: Rainbow",
+      "category": "Accessory",
+      "slug": "Accessory/Vivid-Wings-Rainbow"
+    },
+    {
+      "title": "Vivid Wings: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Vivid-Wings-Black"
+    },
+    {
+      "title": "Sorcerous Circle: Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Sorcerous-Circle-Blue"
+    },
+    {
+      "title": "Sorcerous Circle: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Sorcerous-Circle-Red"
+    },
+    {
+      "title": "Sorcerous Circle: Purple",
+      "category": "Accessory",
+      "slug": "Accessory/Sorcerous-Circle-Purple"
+    },
+    {
+      "title": "Casquette Hat: Brown",
+      "category": "Accessory",
+      "slug": "Accessory/Casquette-Hat-Brown"
+    },
+    {
+      "title": "Casquette Hat: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Casquette-Hat-Black"
+    },
+    {
+      "title": "Casquette Hat: White",
+      "category": "Accessory",
+      "slug": "Accessory/Casquette-Hat-White"
+    },
+    {
+      "title": "Big Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Big-Ribbon"
+    },
+    {
+      "title": "Big Ribbon B",
+      "category": "Accessory",
+      "slug": "Accessory/Big-Ribbon-B"
+    },
+    {
+      "title": "Bunny Band",
+      "category": "Accessory",
+      "slug": "Accessory/Bunny-Band"
+    },
+    {
+      "title": "Bunny Band: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Bunny-Band-Black"
+    },
+    {
+      "title": "Bunny Band: White",
+      "category": "Accessory",
+      "slug": "Accessory/Bunny-Band-White"
+    },
+    {
+      "title": "Barkpack: White",
+      "category": "Accessory",
+      "slug": "Accessory/Barkpack-White"
+    },
+    {
+      "title": "Barkpack: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Barkpack-Black"
+    },
+    {
+      "title": "Barkpack: Brown",
+      "category": "Accessory",
+      "slug": "Accessory/Barkpack-Brown"
+    },
+    {
+      "title": "Barkpack B: White",
+      "category": "Accessory",
+      "slug": "Accessory/Barkpack-B-White"
+    },
+    {
+      "title": "Waist-tied Plaid Shirt",
+      "category": "Accessory",
+      "slug": "Accessory/Waist-tied-Plaid-Shirt"
+    },
+    {
+      "title": "Waist-tied Plaid Shirt: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Waist-tied-Plaid-Shirt-Red"
+    },
+    {
+      "title": "Waist-tied Plaid Shirt: Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Waist-tied-Plaid-Shirt-Blue"
+    },
+    {
+      "title": "Waist-tied Plaid Shirt: White",
+      "category": "Accessory",
+      "slug": "Accessory/Waist-tied-Plaid-Shirt-White"
+    },
+    {
+      "title": "Evolution Device: Katze",
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Evolution-Device-Katze"
+    },
+    {
+      "title": "Samba Cabeza Red",
+      "category": "Accessory",
+      "slug": "Accessory/Samba-Cabeza-Red"
+    },
+    {
+      "title": "Samba Cabeza Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Samba-Cabeza-Blue"
+    }
+  ]
+}

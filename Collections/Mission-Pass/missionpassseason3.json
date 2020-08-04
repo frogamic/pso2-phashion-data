@@ -1,219 +1,206 @@
 {
-  "id": "missionpassseason3",
   "type": "Mission Pass",
   "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
   "title": "Season 3",
-  "image": "https://phashion.moe/images/Collections/Mission-Pass/missionpassseason3.jpg",
+  "slug": "Collections/Mission-Pass/missionpassseason3",
   "items": [
     {
-      "image": "https://phashion.moe/images/Furnishings/Rainy-Day-Rappy.png",
+      "title": "Rose Bouquet",
+      "category": "Weapon Camo",
+      "tier": 4,
+      "slug": "Weapon-Camo/Rose-Bouquet"
+    },
+    {
       "title": "Rainy Day Rappy",
-      "category": "Furnishings",
+      "category": "Furnishing",
       "tier": 12,
-      "url": "https://phashion.moe/Furnishings/Rainy-Day-Rappy"
+      "slug": "Furnishing/Rainy-Day-Rappy"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fox-Tail-White.png",
       "title": "Fox Tail: White",
-      "category": "Accessories",
+      "category": "Accessory",
       "tier": 1,
-      "url": "https://phashion.moe/Accessories/Fox-Tail-White"
+      "slug": "Accessory/Fox-Tail-White"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fox-Tail-Yellow.png",
       "title": "Fox Tail: Yellow",
-      "category": "Accessories",
+      "category": "Accessory",
       "tier": 1,
-      "url": "https://phashion.moe/Accessories/Fox-Tail-Yellow"
+      "slug": "Accessory/Fox-Tail-Yellow"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Fox-Tail-Brown.png",
       "title": "Fox Tail: Brown",
-      "category": "Accessories",
+      "category": "Accessory",
       "tier": 1,
-      "url": "https://phashion.moe/Accessories/Fox-Tail-Brown"
+      "slug": "Accessory/Fox-Tail-Brown"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Alvida-Head.png",
       "title": "Alvida Head",
-      "category": "CAST Heads",
+      "category": "CAST Head",
       "tier": 5,
-      "url": "https://phashion.moe/CAST-Heads/Alvida-Head"
+      "slug": "CAST-Head/Alvida-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Alvida-Body.png",
       "title": "Alvida Body",
-      "category": "CAST Bodies",
+      "category": "CAST Body",
       "tier": 5,
-      "url": "https://phashion.moe/CAST-Bodies/Alvida-Body"
+      "slug": "CAST-Body/Alvida-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Alvida-Arms.png",
       "title": "Alvida Arms",
       "category": "CAST Arms",
       "tier": 5,
-      "url": "https://phashion.moe/CAST-Arms/Alvida-Arms"
+      "slug": "CAST-Arms/Alvida-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Alvida-Legs.png",
       "title": "Alvida Legs",
       "category": "CAST Legs",
       "tier": 5,
-      "url": "https://phashion.moe/CAST-Legs/Alvida-Legs"
+      "slug": "CAST-Legs/Alvida-Legs"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Helicopter-Pilot-Helmet.png",
       "title": "Helicopter Pilot Helmet",
-      "category": "Hairstyles",
+      "category": "Hairstyle",
       "tier": 6,
-      "url": "https://phashion.moe/Hairstyles/Helicopter-Pilot-Helmet"
+      "slug": "Hairstyle/Helicopter-Pilot-Helmet"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Helicopter-Pilot-Helmet-NV.png",
       "title": "Helicopter Pilot Helmet NV",
-      "category": "Hairstyles",
+      "category": "Hairstyle",
       "tier": 6,
-      "url": "https://phashion.moe/Hairstyles/Helicopter-Pilot-Helmet-NV"
+      "slug": "Hairstyle/Helicopter-Pilot-Helmet-NV"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Lark-Barbatos.png",
       "title": "Lark Barbatos",
-      "category": "Outfits",
+      "category": "Outfit",
       "tier": 8,
-      "url": "https://phashion.moe/Outfits/Lark-Barbatos"
+      "slug": "Outfit/Lark-Barbatos"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Barbatos-Ponytail.png",
       "title": "Barbatos Ponytail",
-      "category": "Hairstyles",
+      "category": "Hairstyle",
       "tier": 8,
-      "url": "https://phashion.moe/Hairstyles/Barbatos-Ponytail"
+      "slug": "Hairstyle/Barbatos-Ponytail"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Barbatos-Hat.png",
       "title": "Barbatos Hat",
-      "category": "Accessories",
+      "category": "Accessory",
       "tier": 8,
-      "url": "https://phashion.moe/Accessories/Barbatos-Hat"
+      "slug": "Accessory/Barbatos-Hat"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Drake-Head.png",
       "title": "Drake Head",
-      "category": "CAST Heads",
+      "category": "CAST Head",
       "tier": 10,
-      "url": "https://phashion.moe/CAST-Heads/Drake-Head"
+      "slug": "CAST-Head/Drake-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Drake-Body.png",
       "title": "Drake Body",
-      "category": "CAST Bodies",
+      "category": "CAST Body",
       "tier": 10,
-      "url": "https://phashion.moe/CAST-Bodies/Drake-Body"
+      "slug": "CAST-Body/Drake-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Drake-Arms.png",
       "title": "Drake Arms",
       "category": "CAST Arms",
       "tier": 10,
-      "url": "https://phashion.moe/CAST-Arms/Drake-Arms"
+      "slug": "CAST-Arms/Drake-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Drake-Legs.png",
       "title": "Drake Legs",
       "category": "CAST Legs",
       "tier": 10,
-      "url": "https://phashion.moe/CAST-Legs/Drake-Legs"
+      "slug": "CAST-Legs/Drake-Legs"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Pirate-Attire.png",
       "title": "Pirate Attire",
-      "category": "Outfits",
+      "category": "Outfit",
       "tier": 18,
-      "url": "https://phashion.moe/Outfits/Pirate-Attire"
+      "slug": "Outfit/Pirate-Attire"
     },
     {
-      "image": "https://phashion.moe/images/Hairstyles/Wild-Ponytail.png",
       "title": "Wild Ponytail",
-      "category": "Hairstyles",
+      "category": "Hairstyle",
       "tier": 18,
-      "url": "https://phashion.moe/Hairstyles/Wild-Ponytail"
+      "slug": "Hairstyle/Wild-Ponytail"
     },
     {
-      "image": "https://phashion.moe/images/Accessories/Pirate-Hat.png",
       "title": "Pirate Hat",
-      "category": "Accessories",
+      "category": "Accessory",
       "tier": 18,
-      "url": "https://phashion.moe/Accessories/Pirate-Hat"
+      "slug": "Accessory/Pirate-Hat"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Hero-s-Quarter.png",
+      "title": "Twin Paper Fans",
+      "category": "Weapon Camo",
+      "tier": 20,
+      "slug": "Weapon-Camo/Twin-Paper-Fans"
+    },
+    {
+      "title": "Love Rosa",
+      "category": "Weapon Camo",
+      "tier": 26,
+      "slug": "Weapon-Camo/Love-Rosa"
+    },
+    {
       "title": "Hero's Quarter",
-      "category": "Outfits",
+      "category": "Outfit",
       "tier": 27,
-      "url": "https://phashion.moe/Outfits/Hero-s-Quarter"
+      "slug": "Outfit/Hero-s-Quarter"
     },
     {
-      "image": "https://phashion.moe/images/Outfits/Irisia-Staff.png",
       "title": "Irisia Staff",
-      "category": "Outfits",
+      "category": "Outfit",
       "tier": 28,
-      "url": "https://phashion.moe/Outfits/Irisia-Staff"
+      "slug": "Outfit/Irisia-Staff"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Regia-Head.png",
       "title": "Regia Head",
-      "category": "CAST Heads",
+      "category": "CAST Head",
       "tier": 29,
-      "url": "https://phashion.moe/CAST-Heads/Regia-Head"
+      "slug": "CAST-Head/Regia-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Regia-Body.png",
       "title": "Regia Body",
-      "category": "CAST Bodies",
+      "category": "CAST Body",
       "tier": 29,
-      "url": "https://phashion.moe/CAST-Bodies/Regia-Body"
+      "slug": "CAST-Body/Regia-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Regia-Arms.png",
       "title": "Regia Arms",
       "category": "CAST Arms",
       "tier": 29,
-      "url": "https://phashion.moe/CAST-Arms/Regia-Arms"
+      "slug": "CAST-Arms/Regia-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Regia-Legs.png",
       "title": "Regia Legs",
       "category": "CAST Legs",
       "tier": 29,
-      "url": "https://phashion.moe/CAST-Legs/Regia-Legs"
+      "slug": "CAST-Legs/Regia-Legs"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Heads/Rosemary-Head.png",
       "title": "Rosemary Head",
-      "category": "CAST Heads",
+      "category": "CAST Head",
       "tier": 30,
-      "url": "https://phashion.moe/CAST-Heads/Rosemary-Head"
+      "slug": "CAST-Head/Rosemary-Head"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Bodies/Rosemary-Body.png",
       "title": "Rosemary Body",
-      "category": "CAST Bodies",
+      "category": "CAST Body",
       "tier": 30,
-      "url": "https://phashion.moe/CAST-Bodies/Rosemary-Body"
+      "slug": "CAST-Body/Rosemary-Body"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Arms/Rosemary-Arms.png",
       "title": "Rosemary Arms",
       "category": "CAST Arms",
       "tier": 30,
-      "url": "https://phashion.moe/CAST-Arms/Rosemary-Arms"
+      "slug": "CAST-Arms/Rosemary-Arms"
     },
     {
-      "image": "https://phashion.moe/images/CAST-Legs/Rosemary-Legs.png",
       "title": "Rosemary Legs",
       "category": "CAST Legs",
       "tier": 30,
-      "url": "https://phashion.moe/CAST-Legs/Rosemary-Legs"
+      "slug": "CAST-Legs/Rosemary-Legs"
     }
   ]
 }

@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Eyes/Varza-Eyes-S.png",
   "title": "Varza Eyes (S)",
   "category": "Eyes",
   "collection": {
-    "id": "crimsondawn",
+    "title": "Crimson Dawn",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn",
-    "title": "Crimson Dawn",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/crimsondawn.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/crimsondawn"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Eyes/Varza-Eyes-S"
 }

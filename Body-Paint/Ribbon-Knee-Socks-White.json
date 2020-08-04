@@ -1,13 +1,12 @@
 {
-  "image": "https://phashion.moe/images/Body-Paint/Ribbon-Knee-Socks-White.png",
   "title": "Ribbon Knee Socks: White",
   "category": "Body Paint",
   "collection": {
-    "id": "urbanlifestyle",
+    "title": "Urban Lifestyle",
     "type": "AC Scratch Ticket",
     "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
-    "title": "Urban Lifestyle",
-    "image": "https://phashion.moe/images/Collections/AC-Scratch-Ticket/urbanlifestyle.jpg"
+    "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
   },
-  "tradeable": true
+  "tradeable": true,
+  "slug": "Body-Paint/Ribbon-Knee-Socks-White"
 }
