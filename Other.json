@@ -1,9 +1,5 @@
 [
   {
-    "title": "Photon Chair (Rappy)",
-    "slug": "Other/Photon-Chair-Rappy"
-  },
-  {
     "title": "720: Headcrab (Emote)",
     "slug": "Other/720-Headcrab-Emote"
   },
@@ -12,8 +8,20 @@
     "slug": "Other/Pyro-s-Gas-Mask-Hairstyle-x2"
   },
   {
+    "title": "720: Headcrab (Emote)",
+    "slug": "Other/720-Headcrab-Emote"
+  },
+  {
+    "title": "Alyx Replica (Outfit: Female)",
+    "slug": "Other/Alyx-Replica-Outfit-Female"
+  },
+  {
     "title": "Alyx's Hair (Hairstyle)  x2",
     "slug": "Other/Alyx-s-Hair-Hairstyle-x2"
+  },
+  {
+    "title": "HEV Suit (Outfit: Male)",
+    "slug": "Other/HEV-Suit-Outfit-Male"
   },
   {
     "title": "Evolution Device: Wheatley",
@@ -32,11 +40,7 @@
     "slug": "Other/Crowbar-Weapon-Camo"
   },
   {
-    "title": "HEV Suit (Outfit: Male)",
-    "slug": "Other/HEV-Suit-Outfit-Male"
-  },
-  {
-    "title": "Alyx Replica (Outfit: Female)",
-    "slug": "Other/Alyx-Replica-Outfit-Female"
+    "title": "Photon Chair (Rappy)",
+    "slug": "Other/Photon-Chair-Rappy"
   }
 ]

@@ -1,0 +1,28 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/episode4xboxgpubundle",
+  "title": "New Rewards Bundle for Xbox Game Pass Ultimate Members!",
+  "slug": "Collections/Event/episode4xboxgpubundle",
+  "items": [
+    {
+      "title": "Itsuki's Casual Wear",
+      "category": "Basewear",
+      "slug": "Basewear/Itsuki-s-Casual-Wear"
+    },
+    {
+      "title": "Rina's Casual Wear",
+      "category": "Basewear",
+      "slug": "Basewear/Rina-s-Casual-Wear"
+    },
+    {
+      "title": "Rina Hair 2",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Rina-Hair-2"
+    },
+    {
+      "title": "Rina's Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Rina-s-Ribbon"
+    }
+  ]
+}

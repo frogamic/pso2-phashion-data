@@ -1,5 +1,37 @@
 [
   {
+    "title": "Snorkel",
+    "slug": "Accessory/Snorkel"
+  },
+  {
+    "title": "Marron Balloon",
+    "slug": "Accessory/Marron-Balloon"
+  },
+  {
+    "title": "Melon Balloon",
+    "slug": "Accessory/Melon-Balloon"
+  },
+  {
+    "title": "Itsuki Headgear",
+    "slug": "Accessory/Itsuki-Headgear"
+  },
+  {
+    "title": "RINA Heagear",
+    "slug": "Accessory/RINA-Heagear"
+  },
+  {
+    "title": "Seiga Academy Ribbon: Blue",
+    "slug": "Accessory/Seiga-Academy-Ribbon-Blue"
+  },
+  {
+    "title": "Rina's Ribbon",
+    "slug": "Accessory/Rina-s-Ribbon"
+  },
+  {
+    "title": "Marlin Head",
+    "slug": "Accessory/Marlin-Head"
+  },
+  {
     "title": "Dressia Hat",
     "slug": "Accessory/Dressia-Hat"
   },

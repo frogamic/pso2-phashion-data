@@ -1,0 +1,20 @@
+{
+  "title": "Lillipan Suit",
+  "gender": {
+    "female": true,
+    "male": true
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collection": {
+    "title": "Join an Alliance! (8/5)",
+    "type": "Campaign",
+    "sourceUrl": "https://pso2.com/news/announcements/joinalliancecampaign0805",
+    "slug": "Collections/Campaign/joinalliancecampaign0805"
+  },
+  "tradeable": true,
+  "slug": "Outfit/Lillipan-Suit"
+}

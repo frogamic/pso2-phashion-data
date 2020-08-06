@@ -1,0 +1,18 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/bonussteamloginrewards",
+  "title": "Bonus Login Rewards!",
+  "slug": "Collections/Event/bonussteamloginrewards",
+  "items": [
+    {
+      "title": "* Val Gantte",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Val-Gantte"
+    },
+    {
+      "title": "Marlin Head",
+      "category": "Accessory",
+      "slug": "Accessory/Marlin-Head"
+    }
+  ]
+}

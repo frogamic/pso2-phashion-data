@@ -1,11 +1,35 @@
 [
   {
-    "title": "What’s New In Episode 4",
-    "slug": "Collections/Event/episode4launch"
-  },
-  {
     "title": "Steam Launch Rewards",
     "slug": "Collections/Event/steamlaunchrewards"
+  },
+  {
+    "title": "Summer in PSO2!",
+    "slug": "Collections/Event/summerevent2020"
+  },
+  {
+    "title": "New Episode 4 Launch Bundles!",
+    "slug": "Collections/Event/episode4launchbundles"
+  },
+  {
+    "title": "New Rewards Bundle for Xbox Game Pass Ultimate Members!",
+    "slug": "Collections/Event/episode4xboxgpubundle"
+  },
+  {
+    "title": "Beach Wars!",
+    "slug": "Collections/Event/newuqbeachwars"
+  },
+  {
+    "title": "Challenge Others in the Battle Arena!",
+    "slug": "Collections/Event/battlearena"
+  },
+  {
+    "title": "Bonus Login Rewards!",
+    "slug": "Collections/Event/bonussteamloginrewards"
+  },
+  {
+    "title": "What’s New In Episode 4",
+    "slug": "Collections/Event/episode4launch"
   },
   {
     "title": "Independence Day Event",

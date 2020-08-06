@@ -1,0 +1,23 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/newuqbeachwars",
+  "title": "Beach Wars!",
+  "slug": "Collections/Event/newuqbeachwars",
+  "items": [
+    {
+      "title": "Aura Delacque",
+      "category": "Weapon",
+      "slug": "Weapon/Aura-Delacque"
+    },
+    {
+      "title": "Aura Legars",
+      "category": "Weapon",
+      "slug": "Weapon/Aura-Legars"
+    },
+    {
+      "title": "Aura Estur",
+      "category": "Weapon",
+      "slug": "Weapon/Aura-Estur"
+    }
+  ]
+}

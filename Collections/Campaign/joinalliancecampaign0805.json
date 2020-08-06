@@ -1,0 +1,18 @@
+{
+  "type": "Campaign",
+  "sourceUrl": "https://pso2.com/news/announcements/joinalliancecampaign0805",
+  "title": "Join an Alliance! (8/5)",
+  "slug": "Collections/Campaign/joinalliancecampaign0805",
+  "items": [
+    {
+      "title": "Tiered Platform",
+      "category": "Furnishing",
+      "slug": "Furnishing/Tiered-Platform"
+    },
+    {
+      "title": "Lillipan Suit",
+      "category": "Outfit",
+      "slug": "Outfit/Lillipan-Suit"
+    }
+  ]
+}

@@ -15,9 +15,24 @@
       "slug": "Other/Pyro-s-Gas-Mask-Hairstyle-x2"
     },
     {
+      "title": "720: Headcrab (Emote)",
+      "category": "Other",
+      "slug": "Other/720-Headcrab-Emote"
+    },
+    {
+      "title": "Alyx Replica (Outfit: Female)",
+      "category": "Other",
+      "slug": "Other/Alyx-Replica-Outfit-Female"
+    },
+    {
       "title": "Alyx's Hair (Hairstyle)  x2",
       "category": "Other",
       "slug": "Other/Alyx-s-Hair-Hairstyle-x2"
+    },
+    {
+      "title": "HEV Suit (Outfit: Male)",
+      "category": "Other",
+      "slug": "Other/HEV-Suit-Outfit-Male"
     },
     {
       "title": "Evolution Device: Wheatley",
@@ -38,16 +53,6 @@
       "title": "* Crowbar (Weapon Camo)",
       "category": "Other",
       "slug": "Other/Crowbar-Weapon-Camo"
-    },
-    {
-      "title": "HEV Suit (Outfit: Male)",
-      "category": "Other",
-      "slug": "Other/HEV-Suit-Outfit-Male"
-    },
-    {
-      "title": "Alyx Replica (Outfit: Female)",
-      "category": "Other",
-      "slug": "Other/Alyx-Replica-Outfit-Female"
     }
   ]
 }

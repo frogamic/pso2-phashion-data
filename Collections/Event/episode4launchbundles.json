@@ -1,0 +1,103 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/episode4launchbundles",
+  "title": "New Episode 4 Launch Bundles!",
+  "slug": "Collections/Event/episode4launchbundles",
+  "items": [
+    {
+      "title": "Itsuki Replica",
+      "category": "Outfit",
+      "slug": "Outfit/Itsuki-Replica"
+    },
+    {
+      "title": "Seiga Winter Uniform M",
+      "category": "Basewear",
+      "slug": "Basewear/Seiga-Winter-Uniform-M"
+    },
+    {
+      "title": "Itsuki Hair GV",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Itsuki-Hair-GV"
+    },
+    {
+      "title": "Itsuki Headgear",
+      "category": "Accessory",
+      "slug": "Accessory/Itsuki-Headgear"
+    },
+    {
+      "title": "Itsuki Sticker",
+      "category": "Sticker",
+      "slug": "Sticker/Itsuki-Sticker"
+    },
+    {
+      "title": "* Radiant",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Radiant"
+    },
+    {
+      "title": "PSO2 Anime Eyes A (L)",
+      "category": "Eyes",
+      "slug": "Eyes/PSO2-Anime-Eyes-A-L"
+    },
+    {
+      "title": "PSO2 Anime Eyebrows A",
+      "category": "Eyebrows",
+      "slug": "Eyebrows/PSO2-Anime-Eyebrows-A"
+    },
+    {
+      "title": "PSO2 Anime Lashes B: Black",
+      "category": "Eyelashes",
+      "slug": "Eyelashes/PSO2-Anime-Lashes-B-Black"
+    },
+    {
+      "title": "RINA Replica",
+      "category": "Outfit",
+      "slug": "Outfit/RINA-Replica"
+    },
+    {
+      "title": "Seiga Winter Uniform F",
+      "category": "Basewear",
+      "slug": "Basewear/Seiga-Winter-Uniform-F"
+    },
+    {
+      "title": "RINA Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/RINA-Hair"
+    },
+    {
+      "title": "RINA Heagear",
+      "category": "Accessory",
+      "slug": "Accessory/RINA-Heagear"
+    },
+    {
+      "title": "Seiga Academy Ribbon: Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Seiga-Academy-Ribbon-Blue"
+    },
+    {
+      "title": "Seiga Academy Tights",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Seiga-Academy-Tights"
+    },
+    {
+      "title": "RINA Sticker",
+      "category": "Sticker",
+      "slug": "Sticker/RINA-Sticker"
+    },
+    {
+      "title": "* Freifi Aura",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Freifi-Aura"
+    },
+    {
+      "title": "PSO2 Anime Eyes A (S)",
+      "category": "Eyes",
+      "slug": "Eyes/PSO2-Anime-Eyes-A-S"
+    },
+    {
+      "title": "PSO2 Anime Lashes A: Black",
+      "category": "Eyelashes",
+      "slug": "Eyelashes/PSO2-Anime-Lashes-A-Black"
+    }
+  ]
+}

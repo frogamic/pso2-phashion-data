@@ -1,0 +1,23 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/blogs/battlearena",
+  "title": "Challenge Others in the Battle Arena!",
+  "slug": "Collections/Event/battlearena",
+  "items": [
+    {
+      "title": "Rappy Suit Mini",
+      "category": "Outfit",
+      "slug": "Outfit/Rappy-Suit-Mini"
+    },
+    {
+      "title": "* Battle Twin Daggers",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Battle-Twin-Daggers"
+    },
+    {
+      "title": "Rappy Makeup",
+      "category": "Facepaint",
+      "slug": "Facepaint/Rappy-Makeup"
+    }
+  ]
+}

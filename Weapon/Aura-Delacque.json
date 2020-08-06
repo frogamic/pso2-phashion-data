@@ -1,0 +1,12 @@
+{
+  "title": "Aura Delacque",
+  "category": "Weapon",
+  "collection": {
+    "title": "Beach Wars!",
+    "type": "Event",
+    "sourceUrl": "https://pso2.com/news/announcements/newuqbeachwars",
+    "slug": "Collections/Event/newuqbeachwars"
+  },
+  "tradeable": true,
+  "slug": "Weapon/Aura-Delacque"
+}
