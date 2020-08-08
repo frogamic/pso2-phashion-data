@@ -1,5 +1,9 @@
 {
   "title": "Hero's Quarter",
+  "gender": {
+    "female": false,
+    "male": true
+  },
   "tier": 27,
   "category": "Outfit",
   "collection": {

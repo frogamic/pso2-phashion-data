@@ -1,5 +1,9 @@
 {
   "title": "Pirate Attire",
+  "gender": {
+    "female": true,
+    "male": false
+  },
   "tier": 18,
   "category": "Outfit",
   "collection": {

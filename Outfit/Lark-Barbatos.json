@@ -1,5 +1,9 @@
 {
   "title": "Lark Barbatos",
+  "gender": {
+    "female": false,
+    "male": true
+  },
   "tier": 8,
   "category": "Outfit",
   "collection": {

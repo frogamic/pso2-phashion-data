@@ -1,5 +1,9 @@
 {
   "title": "Irisia Staff",
+  "gender": {
+    "female": true,
+    "male": false
+  },
   "tier": 28,
   "category": "Outfit",
   "collection": {
