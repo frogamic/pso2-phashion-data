@@ -2,12 +2,14 @@
   "title": "* Fresh Candy",
   "tier": 26,
   "category": "Weapon Camo",
-  "collection": {
-    "title": "Season 6",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
-    "slug": "Collections/Mission-Pass/missionpassseason6"
-  },
+  "collections": [
+    {
+      "title": "Season 6",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
+      "slug": "Collections/Mission-Pass/missionpassseason6"
+    }
+  ],
   "tradeable": false,
   "slug": "Weapon-Camo/Fresh-Candy"
 }

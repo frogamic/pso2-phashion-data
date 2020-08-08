@@ -2,12 +2,14 @@
   "title": "Fox Tail: Brown",
   "tier": 1,
   "category": "Accessory",
-  "collection": {
-    "title": "Season 3",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
-    "slug": "Collections/Mission-Pass/missionpassseason3"
-  },
+  "collections": [
+    {
+      "title": "Season 3",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
+      "slug": "Collections/Mission-Pass/missionpassseason3"
+    }
+  ],
   "tradeable": false,
   "slug": "Accessory/Fox-Tail-Brown"
 }

@@ -1,12 +1,20 @@
 {
   "title": "Pirate M Tattoo A",
   "category": "Body Paint",
-  "collection": {
-    "title": "July 2020 - Part 3",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part3",
-    "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part3"
-  },
+  "collections": [
+    {
+      "title": "July 2020 - Part 3",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part3",
+      "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part3"
+    },
+    {
+      "title": "August 2020 - Part 1",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funaugust2020part1",
+      "slug": "Collections/FUN-Scratch-Ticket/funaugust2020part1"
+    }
+  ],
   "tradeable": true,
   "slug": "Body-Paint/Pirate-M-Tattoo-A"
 }

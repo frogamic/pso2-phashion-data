@@ -1,12 +1,14 @@
 {
   "title": "Sword Tattoo M",
   "category": "Body Paint",
-  "collection": {
-    "title": "Seaside Vacation",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/seasidevacation",
-    "slug": "Collections/AC-Scratch-Ticket/seasidevacation"
-  },
+  "collections": [
+    {
+      "title": "Seaside Vacation",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/seasidevacation",
+      "slug": "Collections/AC-Scratch-Ticket/seasidevacation"
+    }
+  ],
   "tradeable": true,
   "slug": "Body-Paint/Sword-Tattoo-M"
 }

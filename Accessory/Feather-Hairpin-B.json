@@ -1,12 +1,20 @@
 {
   "title": "Feather Hairpin B",
   "category": "Accessory",
-  "collection": {
-    "title": "July 2020 - Part 1",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part1",
-    "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part1"
-  },
+  "collections": [
+    {
+      "title": "July 2020 - Part 1",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part1",
+      "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part1"
+    },
+    {
+      "title": "July 2020 - Part 2",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part2",
+      "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part2"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Feather-Hairpin-B"
 }

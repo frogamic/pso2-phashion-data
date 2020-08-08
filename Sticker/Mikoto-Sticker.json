@@ -1,12 +1,14 @@
 {
   "title": "Mikoto Sticker",
   "category": "Sticker",
-  "collection": {
-    "title": "April 2020 - Part 2",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part2",
-    "slug": "Collections/FUN-Scratch-Ticket/funapril2020part2"
-  },
+  "collections": [
+    {
+      "title": "April 2020 - Part 2",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part2",
+      "slug": "Collections/FUN-Scratch-Ticket/funapril2020part2"
+    }
+  ],
   "tradeable": true,
   "slug": "Sticker/Mikoto-Sticker"
 }

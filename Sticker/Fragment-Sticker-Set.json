@@ -2,12 +2,14 @@
   "title": "Fragment Sticker Set",
   "set": true,
   "category": "Sticker",
-  "collection": {
-    "title": "August 2020 - Part 1",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funaugust2020part1",
-    "slug": "Collections/FUN-Scratch-Ticket/funaugust2020part1"
-  },
+  "collections": [
+    {
+      "title": "August 2020 - Part 1",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funaugust2020part1",
+      "slug": "Collections/FUN-Scratch-Ticket/funaugust2020part1"
+    }
+  ],
   "tradeable": true,
   "slug": "Sticker/Fragment-Sticker-Set"
 }

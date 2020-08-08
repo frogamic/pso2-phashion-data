@@ -40,14 +40,6 @@
     "slug": "Body-Paint/Sword-Tattoo-F"
   },
   {
-    "title": "Pirate M Tattoo A",
-    "slug": "Body-Paint/Pirate-M-Tattoo-A"
-  },
-  {
-    "title": "Pirate F Tattoo A",
-    "slug": "Body-Paint/Pirate-F-Tattoo-A"
-  },
-  {
     "title": "Sakuya Tights & Gloves",
     "slug": "Body-Paint/Sakuya-Tights-Gloves"
   },
@@ -144,10 +136,6 @@
     "slug": "Body-Paint/Vol-Dragon-Tattoo-F"
   },
   {
-    "title": "Bulky Tights Set A",
-    "slug": "Body-Paint/Bulky-Tights-Set-A"
-  },
-  {
     "title": "Slit Knee Socks Black",
     "slug": "Body-Paint/Slit-Knee-Socks-Black"
   },
@@ -178,10 +166,6 @@
   {
     "title": "Camouflage Long Tights Set",
     "slug": "Body-Paint/Camouflage-Long-Tights-Set"
-  },
-  {
-    "title": "Stockings Set",
-    "slug": "Body-Paint/Stockings-Set"
   },
   {
     "title": "Elegant Thigh-Highs",
@@ -248,30 +232,6 @@
     "slug": "Body-Paint/Asteria-Gloves-F"
   },
   {
-    "title": "Full Body Tights M: Red",
-    "slug": "Body-Paint/Full-Body-Tights-M-Red"
-  },
-  {
-    "title": "Full Body Tights M: Blue",
-    "slug": "Body-Paint/Full-Body-Tights-M-Blue"
-  },
-  {
-    "title": "Full Body Tights M: Green",
-    "slug": "Body-Paint/Full-Body-Tights-M-Green"
-  },
-  {
-    "title": "Full Body Tights F: Red",
-    "slug": "Body-Paint/Full-Body-Tights-F-Red"
-  },
-  {
-    "title": "Full Body Tights F: Blue",
-    "slug": "Body-Paint/Full-Body-Tights-F-Blue"
-  },
-  {
-    "title": "Full Body Tights F: Green",
-    "slug": "Body-Paint/Full-Body-Tights-F-Green"
-  },
-  {
     "title": "Animal Paint",
     "slug": "Body-Paint/Animal-Paint"
   },
@@ -292,10 +252,6 @@
     "slug": "Body-Paint/Asteria-Gloves-M"
   },
   {
-    "title": "Asteria Gloves F",
-    "slug": "Body-Paint/Asteria-Gloves-F"
-  },
-  {
     "title": "Teoremard Gloves",
     "slug": "Body-Paint/Teoremard-Gloves"
   },
@@ -314,10 +270,6 @@
   {
     "title": "Knee-High Socks Set",
     "slug": "Body-Paint/Knee-High-Socks-Set"
-  },
-  {
-    "title": "Star Skeleton Tights Set",
-    "slug": "Body-Paint/Star-Skeleton-Tights-Set"
   },
   {
     "title": "Marshal Gloves",

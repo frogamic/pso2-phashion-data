@@ -1,12 +1,14 @@
 {
   "title": "Rappy-Go-Round",
   "category": "Accessory",
-  "collection": {
-    "title": "Use Group Chat!",
-    "type": "Campaign",
-    "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign",
-    "slug": "Collections/Campaign/groupchatcampaign"
-  },
+  "collections": [
+    {
+      "title": "Use Group Chat!",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign",
+      "slug": "Collections/Campaign/groupchatcampaign"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Rappy-Go-Round"
 }

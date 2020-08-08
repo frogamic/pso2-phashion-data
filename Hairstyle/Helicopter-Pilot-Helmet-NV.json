@@ -2,12 +2,14 @@
   "title": "Helicopter Pilot Helmet NV",
   "tier": 6,
   "category": "Hairstyle",
-  "collection": {
-    "title": "Season 3",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
-    "slug": "Collections/Mission-Pass/missionpassseason3"
-  },
+  "collections": [
+    {
+      "title": "Season 3",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
+      "slug": "Collections/Mission-Pass/missionpassseason3"
+    }
+  ],
   "tradeable": false,
   "slug": "Hairstyle/Helicopter-Pilot-Helmet-NV"
 }

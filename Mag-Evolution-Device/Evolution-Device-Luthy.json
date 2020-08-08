@@ -2,12 +2,14 @@
   "title": "Evolution Device: Luthy",
   "tier": 24,
   "category": "Mag Evolution Device",
-  "collection": {
-    "title": "Season 6",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
-    "slug": "Collections/Mission-Pass/missionpassseason6"
-  },
+  "collections": [
+    {
+      "title": "Season 6",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
+      "slug": "Collections/Mission-Pass/missionpassseason6"
+    }
+  ],
   "tradeable": false,
   "slug": "Mag-Evolution-Device/Evolution-Device-Luthy"
 }

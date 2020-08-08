@@ -1,12 +1,14 @@
 {
   "title": "Photon X Wings",
   "category": "Accessory",
-  "collection": {
-    "title": "Party Play!",
-    "type": "Campaign",
-    "sourceUrl": "https://pso2.com/news/announcements/partyplaycampaign610",
-    "slug": "Collections/Campaign/partyplaycampaign610"
-  },
+  "collections": [
+    {
+      "title": "Party Play!",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/partyplaycampaign610",
+      "slug": "Collections/Campaign/partyplaycampaign610"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Photon-X-Wings"
 }

@@ -2,12 +2,14 @@
   "title": "Rainy Day Rappy",
   "tier": 12,
   "category": "Furnishing",
-  "collection": {
-    "title": "Season 3",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
-    "slug": "Collections/Mission-Pass/missionpassseason3"
-  },
+  "collections": [
+    {
+      "title": "Season 3",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
+      "slug": "Collections/Mission-Pass/missionpassseason3"
+    }
+  ],
   "tradeable": false,
   "slug": "Furnishing/Rainy-Day-Rappy"
 }

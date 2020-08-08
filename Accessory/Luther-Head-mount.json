@@ -2,12 +2,14 @@
   "title": "Luther Head-mount",
   "tier": 20,
   "category": "Accessory",
-  "collection": {
-    "title": "Season 4",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4",
-    "slug": "Collections/Mission-Pass/missionpassseason4"
-  },
+  "collections": [
+    {
+      "title": "Season 4",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4",
+      "slug": "Collections/Mission-Pass/missionpassseason4"
+    }
+  ],
   "tradeable": false,
   "slug": "Accessory/Luther-Head-mount"
 }

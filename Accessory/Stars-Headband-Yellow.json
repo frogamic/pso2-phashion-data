@@ -1,12 +1,20 @@
 {
   "title": "Stars Headband: Yellow",
   "category": "Accessory",
-  "collection": {
-    "title": "June 2020 - Part 1",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part1",
-    "slug": "Collections/FUN-Scratch-Ticket/funjune2020part1"
-  },
+  "collections": [
+    {
+      "title": "June 2020 - Part 1",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part1",
+      "slug": "Collections/FUN-Scratch-Ticket/funjune2020part1"
+    },
+    {
+      "title": "June 2020 - Part 2",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part2",
+      "slug": "Collections/FUN-Scratch-Ticket/funjune2020part2"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Stars-Headband-Yellow"
 }

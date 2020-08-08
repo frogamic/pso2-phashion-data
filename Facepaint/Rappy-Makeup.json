@@ -1,12 +1,14 @@
 {
   "title": "Rappy Makeup",
   "category": "Facepaint",
-  "collection": {
-    "title": "Challenge Others in the Battle Arena!",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/blogs/battlearena",
-    "slug": "Collections/Event/battlearena"
-  },
+  "collections": [
+    {
+      "title": "Challenge Others in the Battle Arena!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/blogs/battlearena",
+      "slug": "Collections/Event/battlearena"
+    }
+  ],
   "tradeable": true,
   "slug": "Facepaint/Rappy-Makeup"
 }

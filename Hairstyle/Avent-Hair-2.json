@@ -1,12 +1,14 @@
 {
   "title": "Avent Hair 2",
   "category": "Hairstyle",
-  "collection": {
-    "title": "Career Line",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline",
-    "slug": "Collections/AC-Scratch-Ticket/careerline"
-  },
+  "collections": [
+    {
+      "title": "Career Line",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline",
+      "slug": "Collections/AC-Scratch-Ticket/careerline"
+    }
+  ],
   "tradeable": true,
   "slug": "Hairstyle/Avent-Hair-2"
 }

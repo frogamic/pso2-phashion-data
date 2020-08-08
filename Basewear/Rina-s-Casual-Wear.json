@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Basewear",
-  "collection": {
-    "title": "New Rewards Bundle for Xbox Game Pass Ultimate Members!",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/episode4xboxgpubundle",
-    "slug": "Collections/Event/episode4xboxgpubundle"
-  },
+  "collections": [
+    {
+      "title": "New Rewards Bundle for Xbox Game Pass Ultimate Members!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/episode4xboxgpubundle",
+      "slug": "Collections/Event/episode4xboxgpubundle"
+    }
+  ],
   "tradeable": true,
   "slug": "Basewear/Rina-s-Casual-Wear"
 }

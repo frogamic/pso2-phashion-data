@@ -1,12 +1,14 @@
 {
   "title": "Tylor's Sunglasses",
   "category": "Accessory",
-  "collection": {
-    "title": "SG Shop Sale (5/22)",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0522",
-    "slug": "Collections/Event/sgshopsale0522"
-  },
+  "collections": [
+    {
+      "title": "SG Shop Sale (5/22)",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0522",
+      "slug": "Collections/Event/sgshopsale0522"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Tylor-s-Sunglasses"
 }

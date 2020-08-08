@@ -1,12 +1,14 @@
 {
   "title": "Evolution Device: Red Puyo",
   "category": "Mag Evolution Device",
-  "collection": {
-    "title": "Enhancement Boosts & Bonuses",
-    "type": "Campaign",
-    "sourceUrl": "https://pso2.com/news/announcements/enhancementboostbonuses",
-    "slug": "Collections/Campaign/enhancementboostbonuses"
-  },
+  "collections": [
+    {
+      "title": "Enhancement Boosts & Bonuses",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/enhancementboostbonuses",
+      "slug": "Collections/Campaign/enhancementboostbonuses"
+    }
+  ],
   "tradeable": true,
   "slug": "Mag-Evolution-Device/Evolution-Device-Red-Puyo"
 }

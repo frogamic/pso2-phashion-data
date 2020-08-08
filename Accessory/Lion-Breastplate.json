@@ -1,12 +1,32 @@
 {
   "title": "Lion Breastplate",
   "category": "Accessory",
-  "collection": {
-    "title": "May 2020 - Part 1",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part1",
-    "slug": "Collections/FUN-Scratch-Ticket/funmay2020part1"
-  },
+  "collections": [
+    {
+      "title": "May 2020 - Part 1",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part1",
+      "slug": "Collections/FUN-Scratch-Ticket/funmay2020part1"
+    },
+    {
+      "title": "May 2020 - Part 2",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part2",
+      "slug": "Collections/FUN-Scratch-Ticket/funmay2020part2"
+    },
+    {
+      "title": "July 2020 - Part 2",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part2",
+      "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part2"
+    },
+    {
+      "title": "July 2020 - Part 3",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part3",
+      "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part3"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Lion-Breastplate"
 }

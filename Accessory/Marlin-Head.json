@@ -1,12 +1,14 @@
 {
   "title": "Marlin Head",
   "category": "Accessory",
-  "collection": {
-    "title": "Bonus Login Rewards!",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/bonussteamloginrewards",
-    "slug": "Collections/Event/bonussteamloginrewards"
-  },
+  "collections": [
+    {
+      "title": "Bonus Login Rewards!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/bonussteamloginrewards",
+      "slug": "Collections/Event/bonussteamloginrewards"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Marlin-Head"
 }

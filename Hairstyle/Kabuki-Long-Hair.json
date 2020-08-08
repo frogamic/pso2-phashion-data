@@ -1,12 +1,14 @@
 {
   "title": "Kabuki Long Hair",
   "category": "Hairstyle",
-  "collection": {
-    "title": "Heroic Wanderer",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer",
-    "slug": "Collections/AC-Scratch-Ticket/heroicwanderer"
-  },
+  "collections": [
+    {
+      "title": "Heroic Wanderer",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/heroicwanderer",
+      "slug": "Collections/AC-Scratch-Ticket/heroicwanderer"
+    }
+  ],
   "tradeable": true,
   "slug": "Hairstyle/Kabuki-Long-Hair"
 }

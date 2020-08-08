@@ -1,12 +1,14 @@
 {
   "title": "Devilish Hat: Black",
   "category": "Accessory",
-  "collection": {
-    "title": "Crimson Dawn",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn",
-    "slug": "Collections/AC-Scratch-Ticket/crimsondawn"
-  },
+  "collections": [
+    {
+      "title": "Crimson Dawn",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn",
+      "slug": "Collections/AC-Scratch-Ticket/crimsondawn"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Devilish-Hat-Black"
 }

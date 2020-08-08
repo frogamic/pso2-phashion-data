@@ -1,12 +1,14 @@
 {
   "title": "Concentric Eyes B (S)",
   "category": "Eyes",
-  "collection": {
-    "title": "Shining Heroes",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes",
-    "slug": "Collections/AC-Scratch-Ticket/shiningheroes"
-  },
+  "collections": [
+    {
+      "title": "Shining Heroes",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes",
+      "slug": "Collections/AC-Scratch-Ticket/shiningheroes"
+    }
+  ],
   "tradeable": true,
   "slug": "Eyes/Concentric-Eyes-B-S"
 }

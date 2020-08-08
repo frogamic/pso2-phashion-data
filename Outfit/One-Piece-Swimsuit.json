@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Outfit",
-  "collection": {
-    "title": "Recommended Items (8/5)",
-    "type": "Fresh Finds Shop",
-    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0805",
-    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0805"
-  },
+  "collections": [
+    {
+      "title": "Recommended Items (8/5)",
+      "type": "Fresh Finds Shop",
+      "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0805",
+      "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0805"
+    }
+  ],
   "tradeable": false,
   "slug": "Outfit/One-Piece-Swimsuit"
 }

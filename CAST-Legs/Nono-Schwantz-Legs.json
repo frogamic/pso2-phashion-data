@@ -6,12 +6,14 @@
   },
   "tier": 5,
   "category": "CAST Legs",
-  "collection": {
-    "title": "Season 5",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason5",
-    "slug": "Collections/Mission-Pass/missionpassseason5"
-  },
+  "collections": [
+    {
+      "title": "Season 5",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason5",
+      "slug": "Collections/Mission-Pass/missionpassseason5"
+    }
+  ],
   "tradeable": false,
   "slug": "CAST-Legs/Nono-Schwantz-Legs"
 }

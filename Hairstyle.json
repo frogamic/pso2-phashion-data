@@ -76,10 +76,6 @@
     "slug": "Hairstyle/Huey-Hair"
   },
   {
-    "title": "Cool Pompadour",
-    "slug": "Hairstyle/Cool-Pompadour"
-  },
-  {
     "title": "Parted Straight Long Hair",
     "slug": "Hairstyle/Parted-Straight-Long-Hair"
   },
@@ -170,10 +166,6 @@
   {
     "title": "Braided Half Updo",
     "slug": "Hairstyle/Braided-Half-Updo"
-  },
-  {
-    "title": "Parted Straight Long Hair",
-    "slug": "Hairstyle/Parted-Straight-Long-Hair"
   },
   {
     "title": "Small Afro",
@@ -268,10 +260,6 @@
     "slug": "Hairstyle/Solitary-Helmet"
   },
   {
-    "title": "Small Afro",
-    "slug": "Hairstyle/Small-Afro"
-  },
-  {
     "title": "Youngest Naura Sister Hair",
     "slug": "Hairstyle/Youngest-Naura-Sister-Hair"
   },
@@ -352,10 +340,6 @@
     "slug": "Hairstyle/Juno-Updo"
   },
   {
-    "title": "Youngest Naura Sister Hair",
-    "slug": "Hairstyle/Youngest-Naura-Sister-Hair"
-  },
-  {
     "title": "Casual Ponytail",
     "slug": "Hairstyle/Casual-Ponytail"
   },
@@ -424,10 +408,6 @@
     "slug": "Hairstyle/Crymaria-Hair"
   },
   {
-    "title": "Casual Ponytail",
-    "slug": "Hairstyle/Casual-Ponytail"
-  },
-  {
     "title": "Straight Updo",
     "slug": "Hairstyle/Straight-Updo"
   },
@@ -468,10 +448,6 @@
     "slug": "Hairstyle/Philinne-Hair"
   },
   {
-    "title": "Straight Updo",
-    "slug": "Hairstyle/Straight-Updo"
-  },
-  {
     "title": "Tied Long Hair",
     "slug": "Hairstyle/Tied-Long-Hair"
   },
@@ -486,10 +462,6 @@
   {
     "title": "Cathedral Hair",
     "slug": "Hairstyle/Cathedral-Hair"
-  },
-  {
-    "title": "Tied Long Hair",
-    "slug": "Hairstyle/Tied-Long-Hair"
   },
   {
     "title": "Side Fringe Short Hair",
@@ -584,10 +556,6 @@
     "slug": "Hairstyle/Messy-Short-Bob"
   },
   {
-    "title": "Side Fringe Short Hair",
-    "slug": "Hairstyle/Side-Fringe-Short-Hair"
-  },
-  {
     "title": "Classic Swept Back",
     "slug": "Hairstyle/Classic-Swept-Back"
   },
@@ -628,10 +596,6 @@
     "slug": "Hairstyle/Medium-Edgy"
   },
   {
-    "title": "Classic Swept Back",
-    "slug": "Hairstyle/Classic-Swept-Back"
-  },
-  {
     "title": "Chinese Bun",
     "slug": "Hairstyle/Chinese-Bun"
   },
@@ -658,10 +622,6 @@
   {
     "title": "Varza Eyes (L)",
     "slug": "Hairstyle/Varza-Eyes-L"
-  },
-  {
-    "title": "Medium Edgy",
-    "slug": "Hairstyle/Medium-Edgy"
   },
   {
     "title": "Casual Updo",
@@ -700,10 +660,6 @@
     "slug": "Hairstyle/Floral-Ponytail"
   },
   {
-    "title": "Casual Updo",
-    "slug": "Hairstyle/Casual-Updo"
-  },
-  {
     "title": "Short Pompadour",
     "slug": "Hairstyle/Short-Pompadour"
   },
@@ -728,10 +684,6 @@
     "slug": "Hairstyle/Parted-Pigtails"
   },
   {
-    "title": "Short Pompadour",
-    "slug": "Hairstyle/Short-Pompadour"
-  },
-  {
     "title": "Long Braids",
     "slug": "Hairstyle/Long-Braids"
   },
@@ -750,9 +702,5 @@
   {
     "title": "Inverted Short Bob",
     "slug": "Hairstyle/Inverted-Short-Bob"
-  },
-  {
-    "title": "Long Braids",
-    "slug": "Hairstyle/Long-Braids"
   }
 ]

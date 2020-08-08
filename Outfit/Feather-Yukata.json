@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Outfit",
-  "collection": {
-    "title": "Recommended Items (7/7)",
-    "type": "Fresh Finds Shop",
-    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0707",
-    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0707"
-  },
+  "collections": [
+    {
+      "title": "Recommended Items (7/7)",
+      "type": "Fresh Finds Shop",
+      "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0707",
+      "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0707"
+    }
+  ],
   "tradeable": false,
   "slug": "Outfit/Feather-Yukata"
 }

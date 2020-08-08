@@ -1,12 +1,14 @@
 {
   "title": "PSO2 Anime Eyebrows A",
   "category": "Eyebrows",
-  "collection": {
-    "title": "New Episode 4 Launch Bundles!",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/episode4launchbundles",
-    "slug": "Collections/Event/episode4launchbundles"
-  },
+  "collections": [
+    {
+      "title": "New Episode 4 Launch Bundles!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/episode4launchbundles",
+      "slug": "Collections/Event/episode4launchbundles"
+    }
+  ],
   "tradeable": true,
   "slug": "Eyebrows/PSO2-Anime-Eyebrows-A"
 }

@@ -1,12 +1,20 @@
 {
   "title": "Slit Eyelashes Set",
   "category": "Eyelashes",
-  "collection": {
-    "title": "May 2020 - Part 3",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part3",
-    "slug": "Collections/FUN-Scratch-Ticket/funmay2020part3"
-  },
+  "collections": [
+    {
+      "title": "May 2020 - Part 3",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part3",
+      "slug": "Collections/FUN-Scratch-Ticket/funmay2020part3"
+    },
+    {
+      "title": "June 2020 - Part 1",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part1",
+      "slug": "Collections/FUN-Scratch-Ticket/funjune2020part1"
+    }
+  ],
   "tradeable": true,
   "slug": "Eyelashes/Slit-Eyelashes-Set"
 }

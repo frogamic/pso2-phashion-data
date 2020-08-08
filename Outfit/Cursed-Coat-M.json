@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Outfit",
-  "collection": {
-    "title": "Recommended Items (6/23)",
-    "type": "Fresh Finds Shop",
-    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0623",
-    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0623"
-  },
+  "collections": [
+    {
+      "title": "Recommended Items (6/23)",
+      "type": "Fresh Finds Shop",
+      "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0623",
+      "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0623"
+    }
+  ],
   "tradeable": false,
   "slug": "Outfit/Cursed-Coat-M"
 }

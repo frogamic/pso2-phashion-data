@@ -6,12 +6,14 @@
   },
   "tier": 5,
   "category": "CAST Head",
-  "collection": {
-    "title": "Season 4",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4",
-    "slug": "Collections/Mission-Pass/missionpassseason4"
-  },
+  "collections": [
+    {
+      "title": "Season 4",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4",
+      "slug": "Collections/Mission-Pass/missionpassseason4"
+    }
+  ],
   "tradeable": false,
   "slug": "CAST-Head/Roava-Head"
 }

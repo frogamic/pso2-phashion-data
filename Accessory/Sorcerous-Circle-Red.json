@@ -1,12 +1,14 @@
 {
   "title": "Sorcerous Circle: Red",
   "category": "Accessory",
-  "collection": {
-    "title": "Maestro Summoner",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/maestrosummoner",
-    "slug": "Collections/AC-Scratch-Ticket/maestrosummoner"
-  },
+  "collections": [
+    {
+      "title": "Maestro Summoner",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/maestrosummoner",
+      "slug": "Collections/AC-Scratch-Ticket/maestrosummoner"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Sorcerous-Circle-Red"
 }

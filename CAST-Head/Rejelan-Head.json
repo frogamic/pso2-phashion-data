@@ -6,12 +6,14 @@
   },
   "tier": 30,
   "category": "CAST Head",
-  "collection": {
-    "title": "Season 6",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
-    "slug": "Collections/Mission-Pass/missionpassseason6"
-  },
+  "collections": [
+    {
+      "title": "Season 6",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
+      "slug": "Collections/Mission-Pass/missionpassseason6"
+    }
+  ],
   "tradeable": false,
   "slug": "CAST-Head/Rejelan-Head"
 }

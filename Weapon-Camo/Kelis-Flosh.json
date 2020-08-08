@@ -1,12 +1,14 @@
 {
   "title": "Kelis Flosh",
   "category": "Weapon Camo",
-  "collection": {
-    "title": "Introducing the Wedding Event!",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/weddingevent",
-    "slug": "Collections/Event/weddingevent"
-  },
+  "collections": [
+    {
+      "title": "Introducing the Wedding Event!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/weddingevent",
+      "slug": "Collections/Event/weddingevent"
+    }
+  ],
   "tradeable": true,
   "slug": "Weapon-Camo/Kelis-Flosh"
 }

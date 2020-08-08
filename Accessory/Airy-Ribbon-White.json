@@ -1,12 +1,14 @@
 {
   "title": "Airy Ribbon: White",
   "category": "Accessory",
-  "collection": {
-    "title": "Recommended Items (7/21)",
-    "type": "Fresh Finds Shop",
-    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0721",
-    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0721"
-  },
+  "collections": [
+    {
+      "title": "Recommended Items (7/21)",
+      "type": "Fresh Finds Shop",
+      "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0721",
+      "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0721"
+    }
+  ],
   "tradeable": false,
   "slug": "Accessory/Airy-Ribbon-White"
 }

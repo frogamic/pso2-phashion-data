@@ -1,12 +1,14 @@
 {
   "title": "Rainy Day Rappy",
   "category": "Mag Evolution Device",
-  "collection": {
-    "title": "Introducing the Wedding Event!",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/weddingevent",
-    "slug": "Collections/Event/weddingevent"
-  },
+  "collections": [
+    {
+      "title": "Introducing the Wedding Event!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/weddingevent",
+      "slug": "Collections/Event/weddingevent"
+    }
+  ],
   "tradeable": true,
   "slug": "Mag-Evolution-Device/Rainy-Day-Rappy"
 }

@@ -5,12 +5,14 @@
     "male": false
   },
   "category": "CAST Arms",
-  "collection": {
-    "title": "Military Line",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline",
-    "slug": "Collections/AC-Scratch-Ticket/militaryline"
-  },
+  "collections": [
+    {
+      "title": "Military Line",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline",
+      "slug": "Collections/AC-Scratch-Ticket/militaryline"
+    }
+  ],
   "tradeable": true,
   "slug": "CAST-Arms/Philinne-Arms"
 }

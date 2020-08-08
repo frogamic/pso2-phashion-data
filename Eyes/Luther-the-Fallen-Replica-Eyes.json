@@ -1,12 +1,14 @@
 {
   "title": "Luther, the Fallen Replica Eyes",
   "category": "Eyes",
-  "collection": {
-    "title": "Fallen Heroes",
-    "type": "SG Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/fallenheroes",
-    "slug": "Collections/SG-Scratch-Ticket/fallenheroes"
-  },
+  "collections": [
+    {
+      "title": "Fallen Heroes",
+      "type": "SG Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/fallenheroes",
+      "slug": "Collections/SG-Scratch-Ticket/fallenheroes"
+    }
+  ],
   "tradeable": false,
   "slug": "Eyes/Luther-the-Fallen-Replica-Eyes"
 }

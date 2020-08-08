@@ -10,12 +10,14 @@
   },
   "tier": 27,
   "category": "Outfit",
-  "collection": {
-    "title": "Season 4",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4",
-    "slug": "Collections/Mission-Pass/missionpassseason4"
-  },
+  "collections": [
+    {
+      "title": "Season 4",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason4",
+      "slug": "Collections/Mission-Pass/missionpassseason4"
+    }
+  ],
   "tradeable": false,
   "slug": "Outfit/Exvilants"
 }

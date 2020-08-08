@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Basewear",
-  "collection": {
-    "title": "Crimson Dawn",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn",
-    "slug": "Collections/AC-Scratch-Ticket/crimsondawn"
-  },
+  "collections": [
+    {
+      "title": "Crimson Dawn",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/crimsondawn",
+      "slug": "Collections/AC-Scratch-Ticket/crimsondawn"
+    }
+  ],
   "tradeable": true,
   "slug": "Basewear/Froid-Gallows-F"
 }

@@ -1,12 +1,14 @@
 {
   "title": "SEGA Logo Sticker",
   "category": "Sticker",
-  "collection": {
-    "title": "Sonic’s Birthday 2020!",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/sonicsbirthday2020",
-    "slug": "Collections/Event/sonicsbirthday2020"
-  },
+  "collections": [
+    {
+      "title": "Sonic’s Birthday 2020!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/sonicsbirthday2020",
+      "slug": "Collections/Event/sonicsbirthday2020"
+    }
+  ],
   "tradeable": true,
   "slug": "Sticker/SEGA-Logo-Sticker"
 }

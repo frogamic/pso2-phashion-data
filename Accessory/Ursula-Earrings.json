@@ -1,12 +1,14 @@
 {
   "title": "Ursula Earrings",
   "category": "Accessory",
-  "collection": {
-    "title": "Recommended Items (6/9)",
-    "type": "Fresh Finds Shop",
-    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0609",
-    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0609"
-  },
+  "collections": [
+    {
+      "title": "Recommended Items (6/9)",
+      "type": "Fresh Finds Shop",
+      "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0609",
+      "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0609"
+    }
+  ],
   "tradeable": false,
   "slug": "Accessory/Ursula-Earrings"
 }

@@ -1,12 +1,20 @@
 {
   "title": "Oculus Hat: Shadow",
   "category": "Accessory",
-  "collection": {
-    "title": "March 2020",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmarch2020",
-    "slug": "Collections/FUN-Scratch-Ticket/funmarch2020"
-  },
+  "collections": [
+    {
+      "title": "March 2020",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funmarch2020",
+      "slug": "Collections/FUN-Scratch-Ticket/funmarch2020"
+    },
+    {
+      "title": "April 2020 - Part 1",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part1",
+      "slug": "Collections/FUN-Scratch-Ticket/funapril2020part1"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Oculus-Hat-Shadow"
 }

@@ -1,12 +1,14 @@
 {
   "title": "Melon Balloon",
   "category": "Accessory",
-  "collection": {
-    "title": "Summer in PSO2!",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/summerevent2020",
-    "slug": "Collections/Event/summerevent2020"
-  },
+  "collections": [
+    {
+      "title": "Summer in PSO2!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/summerevent2020",
+      "slug": "Collections/Event/summerevent2020"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Melon-Balloon"
 }

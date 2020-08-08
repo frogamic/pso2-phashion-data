@@ -1,12 +1,14 @@
 {
   "title": "* Crowbar (Weapon Camo)",
   "category": "Other",
-  "collection": {
-    "title": "Steam Launch Rewards",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/steamlaunchrewards",
-    "slug": "Collections/Event/steamlaunchrewards"
-  },
+  "collections": [
+    {
+      "title": "Steam Launch Rewards",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/steamlaunchrewards",
+      "slug": "Collections/Event/steamlaunchrewards"
+    }
+  ],
   "tradeable": true,
   "slug": "Other/Crowbar-Weapon-Camo"
 }

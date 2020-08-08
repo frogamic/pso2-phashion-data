@@ -1,12 +1,14 @@
 {
   "title": "Rinna Hat",
   "category": "Accessory",
-  "collection": {
-    "title": "Shining Heroes",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes",
-    "slug": "Collections/AC-Scratch-Ticket/shiningheroes"
-  },
+  "collections": [
+    {
+      "title": "Shining Heroes",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/shiningheroes",
+      "slug": "Collections/AC-Scratch-Ticket/shiningheroes"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Rinna-Hat"
 }

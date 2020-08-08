@@ -1,12 +1,14 @@
 {
   "title": "Easygoing Pigtails",
   "category": "Hairstyle",
-  "collection": {
-    "title": "Urban Lifestyle",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
-    "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
-  },
+  "collections": [
+    {
+      "title": "Urban Lifestyle",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
+      "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
+    }
+  ],
   "tradeable": true,
   "slug": "Hairstyle/Easygoing-Pigtails"
 }

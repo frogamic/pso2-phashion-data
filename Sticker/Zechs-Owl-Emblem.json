@@ -1,12 +1,14 @@
 {
   "title": "Zechs Owl Emblem",
   "category": "Sticker",
-  "collection": {
-    "title": "Sega Legacy",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy",
-    "slug": "Collections/AC-Scratch-Ticket/segalegacy"
-  },
+  "collections": [
+    {
+      "title": "Sega Legacy",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/segalegacy",
+      "slug": "Collections/AC-Scratch-Ticket/segalegacy"
+    }
+  ],
   "tradeable": true,
   "slug": "Sticker/Zechs-Owl-Emblem"
 }

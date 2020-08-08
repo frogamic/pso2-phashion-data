@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Outfit",
-  "collection": {
-    "title": "Daily Log-in Rewards! (8/5)",
-    "type": "Campaign",
-    "sourceUrl": "https://pso2.com/news/announcements/logincampaign0805",
-    "slug": "Collections/Campaign/logincampaign0805"
-  },
+  "collections": [
+    {
+      "title": "Daily Log-in Rewards! (8/5)",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/logincampaign0805",
+      "slug": "Collections/Campaign/logincampaign0805"
+    }
+  ],
   "tradeable": true,
   "slug": "Outfit/Rappy-Suit"
 }

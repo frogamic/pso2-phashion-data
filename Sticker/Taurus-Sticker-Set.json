@@ -1,12 +1,21 @@
 {
   "title": "Taurus Sticker Set",
   "category": "Sticker",
-  "collection": {
-    "title": "April 2020 - Part 2",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part2",
-    "slug": "Collections/FUN-Scratch-Ticket/funapril2020part2"
-  },
+  "collections": [
+    {
+      "title": "April 2020 - Part 2",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part2",
+      "slug": "Collections/FUN-Scratch-Ticket/funapril2020part2"
+    },
+    {
+      "title": "April 2020 - Part 3",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funapril2020part3",
+      "slug": "Collections/FUN-Scratch-Ticket/funapril2020part3"
+    }
+  ],
   "tradeable": true,
-  "slug": "Sticker/Taurus-Sticker-Set"
+  "slug": "Sticker/Taurus-Sticker-Set",
+  "set": true
 }

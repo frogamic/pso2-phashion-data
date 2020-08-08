@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Outfit",
-  "collection": {
-    "title": "Military Line",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline",
-    "slug": "Collections/AC-Scratch-Ticket/militaryline"
-  },
+  "collections": [
+    {
+      "title": "Military Line",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/militaryline",
+      "slug": "Collections/AC-Scratch-Ticket/militaryline"
+    }
+  ],
   "tradeable": true,
   "slug": "Outfit/Marine-Admiral"
 }

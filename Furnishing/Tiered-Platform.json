@@ -1,12 +1,14 @@
 {
   "title": "Tiered Platform",
   "category": "Furnishing",
-  "collection": {
-    "title": "Join an Alliance! (8/5)",
-    "type": "Campaign",
-    "sourceUrl": "https://pso2.com/news/announcements/joinalliancecampaign0805",
-    "slug": "Collections/Campaign/joinalliancecampaign0805"
-  },
+  "collections": [
+    {
+      "title": "Join an Alliance! (8/5)",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/joinalliancecampaign0805",
+      "slug": "Collections/Campaign/joinalliancecampaign0805"
+    }
+  ],
   "tradeable": true,
   "slug": "Furnishing/Tiered-Platform"
 }

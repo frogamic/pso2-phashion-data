@@ -1,12 +1,20 @@
 {
   "title": "Gothic Sticker C",
   "category": "Sticker",
-  "collection": {
-    "title": "May 2020 - Part 2",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part2",
-    "slug": "Collections/FUN-Scratch-Ticket/funmay2020part2"
-  },
+  "collections": [
+    {
+      "title": "May 2020 - Part 2",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part2",
+      "slug": "Collections/FUN-Scratch-Ticket/funmay2020part2"
+    },
+    {
+      "title": "May 2020 - Part 3",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funmay2020part3",
+      "slug": "Collections/FUN-Scratch-Ticket/funmay2020part3"
+    }
+  ],
   "tradeable": true,
   "slug": "Sticker/Gothic-Sticker-C"
 }

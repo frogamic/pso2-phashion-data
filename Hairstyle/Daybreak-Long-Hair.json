@@ -2,12 +2,14 @@
   "title": "Daybreak Long Hair",
   "tier": 18,
   "category": "Hairstyle",
-  "collection": {
-    "title": "Season 6",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
-    "slug": "Collections/Mission-Pass/missionpassseason6"
-  },
+  "collections": [
+    {
+      "title": "Season 6",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason6",
+      "slug": "Collections/Mission-Pass/missionpassseason6"
+    }
+  ],
   "tradeable": false,
   "slug": "Hairstyle/Daybreak-Long-Hair"
 }

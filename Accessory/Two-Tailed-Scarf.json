@@ -1,12 +1,14 @@
 {
   "title": "Two-Tailed Scarf",
   "category": "Accessory",
-  "collection": {
-    "title": "Join an Alliance!",
-    "type": "Campaign",
-    "sourceUrl": "https://pso2.com/news/announcements/joinalliancecampaign0527",
-    "slug": "Collections/Campaign/joinalliancecampaign0527"
-  },
+  "collections": [
+    {
+      "title": "Join an Alliance!",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/joinalliancecampaign0527",
+      "slug": "Collections/Campaign/joinalliancecampaign0527"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Two-Tailed-Scarf"
 }

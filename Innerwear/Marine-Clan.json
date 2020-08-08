@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Innerwear",
-  "collection": {
-    "title": "Seaside Vacation",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/seasidevacation",
-    "slug": "Collections/AC-Scratch-Ticket/seasidevacation"
-  },
+  "collections": [
+    {
+      "title": "Seaside Vacation",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/seasidevacation",
+      "slug": "Collections/AC-Scratch-Ticket/seasidevacation"
+    }
+  ],
   "tradeable": true,
   "slug": "Innerwear/Marine-Clan"
 }

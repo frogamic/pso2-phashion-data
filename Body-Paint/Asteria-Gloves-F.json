@@ -1,12 +1,20 @@
 {
   "title": "Asteria Gloves F",
   "category": "Body Paint",
-  "collection": {
-    "title": "Career Line",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline",
-    "slug": "Collections/AC-Scratch-Ticket/careerline"
-  },
+  "collections": [
+    {
+      "title": "Career Line",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/careerline",
+      "slug": "Collections/AC-Scratch-Ticket/careerline"
+    },
+    {
+      "title": "Dark Omen",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen",
+      "slug": "Collections/AC-Scratch-Ticket/darkomen"
+    }
+  ],
   "tradeable": true,
   "slug": "Body-Paint/Asteria-Gloves-F"
 }

@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Outfit",
-  "collection": {
-    "title": "SG Shop Sale! (05/08)",
-    "type": "Event",
-    "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0508",
-    "slug": "Collections/Event/sgshopsale0508"
-  },
+  "collections": [
+    {
+      "title": "SG Shop Sale! (05/08)",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/sgshopsale0508",
+      "slug": "Collections/Event/sgshopsale0508"
+    }
+  ],
   "tradeable": true,
   "slug": "Outfit/Simple-Bath-Towel"
 }

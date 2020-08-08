@@ -1,12 +1,14 @@
 {
   "title": "Messy Short Bob",
   "category": "Hairstyle",
-  "collection": {
-    "title": "Dark Omen",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen",
-    "slug": "Collections/AC-Scratch-Ticket/darkomen"
-  },
+  "collections": [
+    {
+      "title": "Dark Omen",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/darkomen",
+      "slug": "Collections/AC-Scratch-Ticket/darkomen"
+    }
+  ],
   "tradeable": true,
   "slug": "Hairstyle/Messy-Short-Bob"
 }

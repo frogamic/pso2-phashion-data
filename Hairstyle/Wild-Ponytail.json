@@ -2,12 +2,14 @@
   "title": "Wild Ponytail",
   "tier": 18,
   "category": "Hairstyle",
-  "collection": {
-    "title": "Season 3",
-    "type": "Mission Pass",
-    "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
-    "slug": "Collections/Mission-Pass/missionpassseason3"
-  },
+  "collections": [
+    {
+      "title": "Season 3",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason3",
+      "slug": "Collections/Mission-Pass/missionpassseason3"
+    }
+  ],
   "tradeable": false,
   "slug": "Hairstyle/Wild-Ponytail"
 }

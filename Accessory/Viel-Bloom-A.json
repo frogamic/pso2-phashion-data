@@ -1,12 +1,14 @@
 {
   "title": "Viel Bloom A",
   "category": "Accessory",
-  "collection": {
-    "title": "Fallen Heroes",
-    "type": "SG Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/fallenheroes",
-    "slug": "Collections/SG-Scratch-Ticket/fallenheroes"
-  },
+  "collections": [
+    {
+      "title": "Fallen Heroes",
+      "type": "SG Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/fallenheroes",
+      "slug": "Collections/SG-Scratch-Ticket/fallenheroes"
+    }
+  ],
   "tradeable": false,
   "slug": "Accessory/Viel-Bloom-A"
 }

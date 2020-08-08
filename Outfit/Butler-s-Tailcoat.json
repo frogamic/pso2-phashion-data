@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Outfit",
-  "collection": {
-    "title": "Recommended Items (04/28)",
-    "type": "Fresh Finds Shop",
-    "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0428",
-    "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0428"
-  },
+  "collections": [
+    {
+      "title": "Recommended Items (04/28)",
+      "type": "Fresh Finds Shop",
+      "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0428",
+      "slug": "Collections/Fresh-Finds-Shop/freshfindsshop0428"
+    }
+  ],
   "tradeable": false,
   "slug": "Outfit/Butler-s-Tailcoat"
 }

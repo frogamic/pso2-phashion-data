@@ -1,12 +1,14 @@
 {
   "title": "* Cydstrid",
   "category": "Weapon Camo",
-  "collection": {
-    "title": "ARKS Boost Rally",
-    "type": "Campaign",
-    "sourceUrl": "https://pso2.com/news/announcements/arksboostrally0708",
-    "slug": "Collections/Campaign/arksboostrally0708"
-  },
+  "collections": [
+    {
+      "title": "ARKS Boost Rally",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/arksboostrally0708",
+      "slug": "Collections/Campaign/arksboostrally0708"
+    }
+  ],
   "tradeable": true,
   "slug": "Weapon-Camo/Cydstrid"
 }

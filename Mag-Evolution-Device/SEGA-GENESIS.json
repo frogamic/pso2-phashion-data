@@ -1,12 +1,14 @@
 {
   "title": "SEGA GENESIS",
   "category": "Mag Evolution Device",
-  "collection": {
-    "title": "Use Group Chat!",
-    "type": "Campaign",
-    "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign0624",
-    "slug": "Collections/Campaign/groupchatcampaign0624"
-  },
+  "collections": [
+    {
+      "title": "Use Group Chat!",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/groupchatcampaign0624",
+      "slug": "Collections/Campaign/groupchatcampaign0624"
+    }
+  ],
   "tradeable": true,
   "slug": "Mag-Evolution-Device/SEGA-GENESIS"
 }

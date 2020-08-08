@@ -5,12 +5,14 @@
     "male": false
   },
   "category": "CAST Legs",
-  "collection": {
-    "title": "Silken Dreams",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/silkendreams",
-    "slug": "Collections/AC-Scratch-Ticket/silkendreams"
-  },
+  "collections": [
+    {
+      "title": "Silken Dreams",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/silkendreams",
+      "slug": "Collections/AC-Scratch-Ticket/silkendreams"
+    }
+  ],
   "tradeable": true,
   "slug": "CAST-Legs/Icesilica-Legs"
 }

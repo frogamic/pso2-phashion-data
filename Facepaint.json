@@ -32,10 +32,6 @@
     "slug": "Facepaint/Phantom-Q-Makeup"
   },
   {
-    "title": "Cold Sweat",
-    "slug": "Facepaint/Cold-Sweat"
-  },
-  {
     "title": "Dark Undereye Circles",
     "slug": "Facepaint/Dark-Undereye-Circles"
   },
@@ -62,10 +58,6 @@
   {
     "title": "Stylish Kumadori",
     "slug": "Facepaint/Stylish-Kumadori"
-  },
-  {
-    "title": "Dark Undereye Circles",
-    "slug": "Facepaint/Dark-Undereye-Circles"
   },
   {
     "title": "Undereye Beauty Mark A",
@@ -108,10 +100,6 @@
     "slug": "Facepaint/Goro-Majima-Facial-Hair"
   },
   {
-    "title": "Sassy Cheek Makeup",
-    "slug": "Facepaint/Sassy-Cheek-Makeup"
-  },
-  {
     "title": "Lip Gloss Set",
     "slug": "Facepaint/Lip-Gloss-Set"
   },
@@ -126,14 +114,6 @@
   {
     "title": "Natural Makeup D",
     "slug": "Facepaint/Natural-Makeup-D"
-  },
-  {
-    "title": "White Makeup",
-    "slug": "Facepaint/White-Makeup"
-  },
-  {
-    "title": "Tylor Scar",
-    "slug": "Facepaint/Tylor-Scar"
   },
   {
     "title": "Tylor Scar",
@@ -164,10 +144,6 @@
     "slug": "Facepaint/Faint-Blush"
   },
   {
-    "title": "Spiral Cheek Makeup",
-    "slug": "Facepaint/Spiral-Cheek-Makeup"
-  },
-  {
     "title": "Rouge",
     "slug": "Facepaint/Rouge"
   },
@@ -182,10 +158,6 @@
   {
     "title": "Kabuki Makeup",
     "slug": "Facepaint/Kabuki-Makeup"
-  },
-  {
-    "title": "Manga Blush",
-    "slug": "Facepaint/Manga-Blush"
   },
   {
     "title": "Twin Pearls",
@@ -214,9 +186,5 @@
   {
     "title": "Blaze Makeup Set",
     "slug": "Facepaint/Blaze-Makeup-Set"
-  },
-  {
-    "title": "Anime Blush",
-    "slug": "Facepaint/Anime-Blush"
   }
 ]

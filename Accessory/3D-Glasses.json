@@ -1,12 +1,20 @@
 {
   "title": "3D Glasses",
   "category": "Accessory",
-  "collection": {
-    "title": "June 2020 - Part 3",
-    "type": "FUN Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part3",
-    "slug": "Collections/FUN-Scratch-Ticket/funjune2020part3"
-  },
+  "collections": [
+    {
+      "title": "June 2020 - Part 3",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjune2020part3",
+      "slug": "Collections/FUN-Scratch-Ticket/funjune2020part3"
+    },
+    {
+      "title": "July 2020 - Part 1",
+      "type": "FUN Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/funjuly2020part1",
+      "slug": "Collections/FUN-Scratch-Ticket/funjuly2020part1"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/3D-Glasses"
 }

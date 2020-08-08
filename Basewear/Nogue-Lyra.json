@@ -9,12 +9,14 @@
     "cast": true
   },
   "category": "Basewear",
-  "collection": {
-    "title": "Recruit Line",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline",
-    "slug": "Collections/AC-Scratch-Ticket/recruitline"
-  },
+  "collections": [
+    {
+      "title": "Recruit Line",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/recruitline",
+      "slug": "Collections/AC-Scratch-Ticket/recruitline"
+    }
+  ],
   "tradeable": true,
   "slug": "Basewear/Nogue-Lyra"
 }

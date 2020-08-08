@@ -1,12 +1,14 @@
 {
   "title": "Big Tail",
   "category": "Accessory",
-  "collection": {
-    "title": "Urban Lifestyle",
-    "type": "AC Scratch Ticket",
-    "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
-    "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
-  },
+  "collections": [
+    {
+      "title": "Urban Lifestyle",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/urbanlifestyle",
+      "slug": "Collections/AC-Scratch-Ticket/urbanlifestyle"
+    }
+  ],
   "tradeable": true,
   "slug": "Accessory/Big-Tail"
 }
