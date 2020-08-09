@@ -11,16 +11,16 @@
   "category": "Outfit",
   "collections": [
     {
-      "title": "What’s New In Episode 4",
-      "type": "Event",
-      "sourceUrl": "https://pso2.com/news/announcements/episode4launch",
-      "slug": "Collections/Event/episode4launch"
-    },
-    {
       "title": "Challenge Others in the Battle Arena!",
       "type": "Event",
       "sourceUrl": "https://pso2.com/news/blogs/battlearena",
       "slug": "Collections/Event/battlearena"
+    },
+    {
+      "title": "What’s New In Episode 4",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/episode4launch",
+      "slug": "Collections/Event/episode4launch"
     }
   ],
   "tradeable": true,
