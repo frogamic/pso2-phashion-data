@@ -1,0 +1,18 @@
+{
+  "title": "Aeros Legs",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Legs",
+  "collections": [
+    {
+      "title": "Persona Paradox",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/personaparadox",
+      "slug": "Collections/AC-Scratch-Ticket/personaparadox"
+    }
+  ],
+  "tradeable": true,
+  "slug": "CAST-Legs/Aeros-Legs"
+}

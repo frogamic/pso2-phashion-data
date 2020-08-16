@@ -1,0 +1,22 @@
+{
+  "title": "Marie’s Shoulder Bag",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outerwear",
+  "collections": [
+    {
+      "title": "Persona Paradox",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/personaparadox",
+      "slug": "Collections/AC-Scratch-Ticket/personaparadox"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Outerwear/Marie-s-Shoulder-Bag"
+}

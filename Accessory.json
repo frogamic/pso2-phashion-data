@@ -1,5 +1,85 @@
 [
   {
+    "title": "S.E.E.S Armband",
+    "slug": "Accessory/S-E-E-S-Armband"
+  },
+  {
+    "title": "Yukari Takeba Ribbon",
+    "slug": "Accessory/Yukari-Takeba-Ribbon"
+  },
+  {
+    "title": "Aigis Ribbon",
+    "slug": "Accessory/Aigis-Ribbon"
+  },
+  {
+    "title": "Mitsuru Kirijo Ribbon",
+    "slug": "Accessory/Mitsuru-Kirijo-Ribbon"
+  },
+  {
+    "title": "Elizabeth Hat",
+    "slug": "Accessory/Elizabeth-Hat"
+  },
+  {
+    "title": "Yu Narukami’s Glasses",
+    "slug": "Accessory/Yu-Narukami-s-Glasses"
+  },
+  {
+    "title": "Chie Satonaka’s Glasses",
+    "slug": "Accessory/Chie-Satonaka-s-Glasses"
+  },
+  {
+    "title": "Marie’s Hat",
+    "slug": "Accessory/Marie-s-Hat"
+  },
+  {
+    "title": "Marie’s Belt",
+    "slug": "Accessory/Marie-s-Belt"
+  },
+  {
+    "title": "Marie’s Tie",
+    "slug": "Accessory/Marie-s-Tie"
+  },
+  {
+    "title": "Joker Mask",
+    "slug": "Accessory/Joker-Mask"
+  },
+  {
+    "title": "Joker Glasses",
+    "slug": "Accessory/Joker-Glasses"
+  },
+  {
+    "title": "Futaba Sakura Headphones",
+    "slug": "Accessory/Futaba-Sakura-Headphones"
+  },
+  {
+    "title": "Futaba Sakura Glasses",
+    "slug": "Accessory/Futaba-Sakura-Glasses"
+  },
+  {
+    "title": "Aile Headgear",
+    "slug": "Accessory/Aile-Headgear"
+  },
+  {
+    "title": "Aile Wings",
+    "slug": "Accessory/Aile-Wings"
+  },
+  {
+    "title": "Lotus Buns",
+    "slug": "Accessory/Lotus-Buns"
+  },
+  {
+    "title": "Lotus Buns: Red",
+    "slug": "Accessory/Lotus-Buns-Red"
+  },
+  {
+    "title": "Lotus Buns: Blue",
+    "slug": "Accessory/Lotus-Buns-Blue"
+  },
+  {
+    "title": "Lotus Buns: Black",
+    "slug": "Accessory/Lotus-Buns-Black"
+  },
+  {
     "title": "Snorkel",
     "slug": "Accessory/Snorkel"
   },

@@ -1,0 +1,18 @@
+{
+  "title": "Treyon Arms",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Arms",
+  "collections": [
+    {
+      "title": "Persona Paradox",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/personaparadox",
+      "slug": "Collections/AC-Scratch-Ticket/personaparadox"
+    }
+  ],
+  "tradeable": true,
+  "slug": "CAST-Arms/Treyon-Arms"
+}

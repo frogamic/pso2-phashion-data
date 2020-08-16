@@ -1,0 +1,423 @@
+{
+  "type": "AC Scratch Ticket",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/personaparadox",
+  "title": "Persona Paradox",
+  "slug": "Collections/AC-Scratch-Ticket/personaparadox",
+  "items": [
+    {
+      "title": "Bear Suit",
+      "category": "Outfit",
+      "slug": "Outfit/Bear-Suit"
+    },
+    {
+      "title": "Jack Frost Suit",
+      "category": "Outfit",
+      "slug": "Outfit/Jack-Frost-Suit"
+    },
+    {
+      "title": "Makoto Yuki’s Uniform",
+      "category": "Outfit",
+      "slug": "Outfit/Makoto-Yuki-s-Uniform"
+    },
+    {
+      "title": "Yu Narukami’s Uniform",
+      "category": "Outfit",
+      "slug": "Outfit/Yu-Narukami-s-Uniform"
+    },
+    {
+      "title": "Joker’s Phantom Thief Attire",
+      "category": "Outfit",
+      "slug": "Outfit/Joker-s-Phantom-Thief-Attire"
+    },
+    {
+      "title": "Gekkoukan Female Uniform",
+      "category": "Outfit",
+      "slug": "Outfit/Gekkoukan-Female-Uniform"
+    },
+    {
+      "title": "Elizabeth Replica",
+      "category": "Outfit",
+      "slug": "Outfit/Elizabeth-Replica"
+    },
+    {
+      "title": "Chie Satonaka’s Uniform",
+      "category": "Outfit",
+      "slug": "Outfit/Chie-Satonaka-s-Uniform"
+    },
+    {
+      "title": "Haru Okumura’s Uniform",
+      "category": "Outfit",
+      "slug": "Outfit/Haru-Okumura-s-Uniform"
+    },
+    {
+      "title": "Ann’s Academy Uniform",
+      "category": "Outfit",
+      "slug": "Outfit/Ann-s-Academy-Uniform"
+    },
+    {
+      "title": "Futaba Sakura’s Outfit",
+      "category": "Outfit",
+      "slug": "Outfit/Futaba-Sakura-s-Outfit"
+    },
+    {
+      "title": "Monumental Agent",
+      "category": "Outerwear",
+      "slug": "Outerwear/Monumental-Agent"
+    },
+    {
+      "title": "Aigis Replica",
+      "category": "Outerwear",
+      "slug": "Outerwear/Aigis-Replica"
+    },
+    {
+      "title": "Marie’s Shoulder Bag",
+      "category": "Outerwear",
+      "slug": "Outerwear/Marie-s-Shoulder-Bag"
+    },
+    {
+      "title": "Aile Aetos",
+      "category": "Outerwear",
+      "slug": "Outerwear/Aile-Aetos"
+    },
+    {
+      "title": "Shujin Academy Uniform M 1",
+      "category": "Basewear",
+      "slug": "Basewear/Shujin-Academy-Uniform-M-1"
+    },
+    {
+      "title": "Monumental Agent",
+      "category": "Basewear",
+      "slug": "Basewear/Monumental-Agent"
+    },
+    {
+      "title": "Yukari Takeba’s Uniform",
+      "category": "Basewear",
+      "slug": "Basewear/Yukari-Takeba-s-Uniform"
+    },
+    {
+      "title": "Aigis Replica",
+      "category": "Basewear",
+      "slug": "Basewear/Aigis-Replica"
+    },
+    {
+      "title": "Aigis Replica B",
+      "category": "Basewear",
+      "slug": "Basewear/Aigis-Replica-B"
+    },
+    {
+      "title": "Mitsuru Kirijo’s Uniform",
+      "category": "Basewear",
+      "slug": "Basewear/Mitsuru-Kirijo-s-Uniform"
+    },
+    {
+      "title": "Marie’s Clothes",
+      "category": "Basewear",
+      "slug": "Basewear/Marie-s-Clothes"
+    },
+    {
+      "title": "Makoto’s Academy Uniform",
+      "category": "Basewear",
+      "slug": "Basewear/Makoto-s-Academy-Uniform"
+    },
+    {
+      "title": "Aile Aetos",
+      "category": "Basewear",
+      "slug": "Basewear/Aile-Aetos"
+    },
+    {
+      "title": "Charming Flora",
+      "category": "Basewear",
+      "slug": "Basewear/Charming-Flora"
+    },
+    {
+      "title": "Monumental Agent",
+      "category": "Innerwear",
+      "slug": "Innerwear/Monumental-Agent"
+    },
+    {
+      "title": "Aile Aetos",
+      "category": "Innerwear",
+      "slug": "Innerwear/Aile-Aetos"
+    },
+    {
+      "title": "Charming Flora",
+      "category": "Innerwear",
+      "slug": "Innerwear/Charming-Flora"
+    },
+    {
+      "title": "Treyon Head",
+      "category": "CAST Head",
+      "slug": "CAST-Head/Treyon-Head"
+    },
+    {
+      "title": "Treyon Body",
+      "category": "CAST Body",
+      "slug": "CAST-Body/Treyon-Body"
+    },
+    {
+      "title": "Treyon Arms",
+      "category": "CAST Arms",
+      "slug": "CAST-Arms/Treyon-Arms"
+    },
+    {
+      "title": "Treyon Legs",
+      "category": "CAST Legs",
+      "slug": "CAST-Legs/Treyon-Legs"
+    },
+    {
+      "title": "Aeros Head",
+      "category": "CAST Head",
+      "slug": "CAST-Head/Aeros-Head"
+    },
+    {
+      "title": "Aeros Body",
+      "category": "CAST Body",
+      "slug": "CAST-Body/Aeros-Body"
+    },
+    {
+      "title": "Aeros Arms",
+      "category": "CAST Arms",
+      "slug": "CAST-Arms/Aeros-Arms"
+    },
+    {
+      "title": "Aeros Legs",
+      "category": "CAST Legs",
+      "slug": "CAST-Legs/Aeros-Legs"
+    },
+    {
+      "title": "P3P Female Protagonist Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/P3P-Female-Protagonist-Hair"
+    },
+    {
+      "title": "Makoto Yuki Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Makoto-Yuki-Hair"
+    },
+    {
+      "title": "Yukari Takeba Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Yukari-Takeba-Hair"
+    },
+    {
+      "title": "Aigis Hair 1",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Aigis-Hair-1"
+    },
+    {
+      "title": "Aigis Hair 2",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Aigis-Hair-2"
+    },
+    {
+      "title": "Mitsuru Kirijo Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Mitsuru-Kirijo-Hair"
+    },
+    {
+      "title": "Elizabeth Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Elizabeth-Hair"
+    },
+    {
+      "title": "Yu Narukami Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Yu-Narukami-Hair"
+    },
+    {
+      "title": "Chie Satonaka Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Chie-Satonaka-Hair"
+    },
+    {
+      "title": "Marie Short Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Marie-Short-Hair"
+    },
+    {
+      "title": "Haru Okumura Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Haru-Okumura-Hair"
+    },
+    {
+      "title": "Joker Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Joker-Hair"
+    },
+    {
+      "title": "Ann Takamaki Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Ann-Takamaki-Hair"
+    },
+    {
+      "title": "Makoto Niijima Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Makoto-Niijima-Hair"
+    },
+    {
+      "title": "Futaba Sakura Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Futaba-Sakura-Hair"
+    },
+    {
+      "title": "Monumental Head",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Monumental-Head"
+    },
+    {
+      "title": "Wavy Half-Up Pigtails",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Wavy-Half-Up-Pigtails"
+    },
+    {
+      "title": "Aeros Helmet",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Aeros-Helmet"
+    },
+    {
+      "title": "Psychedelic Eyes (L)",
+      "category": "Eyes",
+      "slug": "Eyes/Psychedelic-Eyes-L"
+    },
+    {
+      "title": "Psychedelic Eyes (S)",
+      "category": "Eyes",
+      "slug": "Eyes/Psychedelic-Eyes-S"
+    },
+    {
+      "title": "Aegis Face Guard",
+      "category": "Facepaint",
+      "slug": "Facepaint/Aegis-Face-Guard"
+    },
+    {
+      "title": "P3P Female Protagonist Socks",
+      "category": "Body Paint",
+      "slug": "Body-Paint/P3P-Female-Protagonist-Socks"
+    },
+    {
+      "title": "Marie’s Gloves & Tights",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Marie-s-Gloves-Tights"
+    },
+    {
+      "title": "Lotus Flower Socks",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Lotus-Flower-Socks"
+    },
+    {
+      "title": "S.E.E.S Armband",
+      "category": "Accessory",
+      "slug": "Accessory/S-E-E-S-Armband"
+    },
+    {
+      "title": "Yukari Takeba Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Yukari-Takeba-Ribbon"
+    },
+    {
+      "title": "Aigis Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Aigis-Ribbon"
+    },
+    {
+      "title": "Mitsuru Kirijo Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Mitsuru-Kirijo-Ribbon"
+    },
+    {
+      "title": "Elizabeth Hat",
+      "category": "Accessory",
+      "slug": "Accessory/Elizabeth-Hat"
+    },
+    {
+      "title": "Yu Narukami’s Glasses",
+      "category": "Accessory",
+      "slug": "Accessory/Yu-Narukami-s-Glasses"
+    },
+    {
+      "title": "Chie Satonaka’s Glasses",
+      "category": "Accessory",
+      "slug": "Accessory/Chie-Satonaka-s-Glasses"
+    },
+    {
+      "title": "Marie’s Hat",
+      "category": "Accessory",
+      "slug": "Accessory/Marie-s-Hat"
+    },
+    {
+      "title": "Marie’s Belt",
+      "category": "Accessory",
+      "slug": "Accessory/Marie-s-Belt"
+    },
+    {
+      "title": "Marie’s Tie",
+      "category": "Accessory",
+      "slug": "Accessory/Marie-s-Tie"
+    },
+    {
+      "title": "Joker Mask",
+      "category": "Accessory",
+      "slug": "Accessory/Joker-Mask"
+    },
+    {
+      "title": "Joker Glasses",
+      "category": "Accessory",
+      "slug": "Accessory/Joker-Glasses"
+    },
+    {
+      "title": "Futaba Sakura Headphones",
+      "category": "Accessory",
+      "slug": "Accessory/Futaba-Sakura-Headphones"
+    },
+    {
+      "title": "Futaba Sakura Glasses",
+      "category": "Accessory",
+      "slug": "Accessory/Futaba-Sakura-Glasses"
+    },
+    {
+      "title": "Aile Headgear",
+      "category": "Accessory",
+      "slug": "Accessory/Aile-Headgear"
+    },
+    {
+      "title": "Aile Wings",
+      "category": "Accessory",
+      "slug": "Accessory/Aile-Wings"
+    },
+    {
+      "title": "Lotus Buns",
+      "category": "Accessory",
+      "slug": "Accessory/Lotus-Buns"
+    },
+    {
+      "title": "Lotus Buns: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Lotus-Buns-Red"
+    },
+    {
+      "title": "Lotus Buns: Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Lotus-Buns-Blue"
+    },
+    {
+      "title": "Lotus Buns: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Lotus-Buns-Black"
+    },
+    {
+      "title": "Evolution Device: Morgana",
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Evolution-Device-Morgana"
+    },
+    {
+      "title": "Evolution Device: Jack Frost",
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Evolution-Device-Jack-Frost"
+    },
+    {
+      "title": "Aeros Face",
+      "category": "Face",
+      "slug": "Face/Aeros-Face"
+    }
+  ]
+}
