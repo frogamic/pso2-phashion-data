@@ -1,0 +1,14 @@
+{
+  "title": "Three Strike Phantasm Guns",
+  "category": "Weapon",
+  "collections": [
+    {
+      "title": "Dignity of Steel Unleashed",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/newuqdignityofsteelunleashed",
+      "slug": "Collections/Event/newuqdignityofsteelunleashed"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon/Three-Strike-Phantasm-Guns"
+}

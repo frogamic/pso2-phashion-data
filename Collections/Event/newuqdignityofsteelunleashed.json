@@ -1,0 +1,38 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/newuqdignityofsteelunleashed",
+  "title": "Dignity of Steel Unleashed",
+  "slug": "Collections/Event/newuqdignityofsteelunleashed",
+  "items": [
+    {
+      "title": "D-AIS Saber",
+      "category": "Weapon",
+      "slug": "Weapon/D-AIS-Saber"
+    },
+    {
+      "title": "D-AIS Vulcan",
+      "category": "Weapon",
+      "slug": "Weapon/D-AIS-Vulcan"
+    },
+    {
+      "title": "D-AIS Blaster",
+      "category": "Weapon",
+      "slug": "Weapon/D-AIS-Blaster"
+    },
+    {
+      "title": "Phantasm Ship Artillery",
+      "category": "Weapon",
+      "slug": "Weapon/Phantasm-Ship-Artillery"
+    },
+    {
+      "title": "Three Strike Phantasm Guns",
+      "category": "Weapon",
+      "slug": "Weapon/Three-Strike-Phantasm-Guns"
+    },
+    {
+      "title": "Phantasm Lightning Rod",
+      "category": "Weapon",
+      "slug": "Weapon/Phantasm-Lightning-Rod"
+    }
+  ]
+}

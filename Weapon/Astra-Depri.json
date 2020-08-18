@@ -1,0 +1,14 @@
+{
+  "title": "Astra Depri",
+  "category": "Weapon",
+  "collections": [
+    {
+      "title": "The Lunar Phantasm Matriarch",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/newuqlunarphantasmmatriarch",
+      "slug": "Collections/Event/newuqlunarphantasmmatriarch"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon/Astra-Depri"
+}

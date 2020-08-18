@@ -1,0 +1,23 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/newuqlunarphantasmmatriarch",
+  "title": "The Lunar Phantasm Matriarch",
+  "slug": "Collections/Event/newuqlunarphantasmmatriarch",
+  "items": [
+    {
+      "title": "Astral Sepal",
+      "category": "Weapon",
+      "slug": "Weapon/Astral-Sepal"
+    },
+    {
+      "title": "Astra Drive",
+      "category": "Weapon",
+      "slug": "Weapon/Astra-Drive"
+    },
+    {
+      "title": "Astra Depri",
+      "category": "Weapon",
+      "slug": "Weapon/Astra-Depri"
+    }
+  ]
+}

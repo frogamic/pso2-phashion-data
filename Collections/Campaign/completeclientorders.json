@@ -1,0 +1,13 @@
+{
+  "type": "Campaign",
+  "sourceUrl": "https://pso2.com/news/announcements/completeclientorders",
+  "title": "Complete Client Orders! (8/19)",
+  "slug": "Collections/Campaign/completeclientorders",
+  "items": [
+    {
+      "title": "* Divine Blade Qrostriz",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Divine-Blade-Qrostriz"
+    }
+  ]
+}
