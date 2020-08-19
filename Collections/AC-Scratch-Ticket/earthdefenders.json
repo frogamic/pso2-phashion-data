@@ -1,0 +1,443 @@
+{
+  "type": "AC Scratch Ticket",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/earthdefenders",
+  "title": "Earth Defenders (8/19)",
+  "slug": "Collections/AC-Scratch-Ticket/earthdefenders",
+  "items": [
+    {
+      "title": "Frontier Guide",
+      "category": "Outerwear",
+      "slug": "Outerwear/Frontier-Guide"
+    },
+    {
+      "title": "Striped Jacket",
+      "category": "Outerwear",
+      "slug": "Outerwear/Striped-Jacket"
+    },
+    {
+      "title": "Divine Suit",
+      "category": "Outerwear",
+      "slug": "Outerwear/Divine-Suit"
+    },
+    {
+      "title": "Frontier Lead",
+      "category": "Outerwear",
+      "slug": "Outerwear/Frontier-Lead"
+    },
+    {
+      "title": "Forge Dress",
+      "category": "Outerwear",
+      "slug": "Outerwear/Forge-Dress"
+    },
+    {
+      "title": "Celestia Uniform M",
+      "category": "Basewear",
+      "slug": "Basewear/Celestia-Uniform-M"
+    },
+    {
+      "title": "Café Chef Coat M",
+      "category": "Basewear",
+      "slug": "Basewear/Caf-Chef-Coat-M"
+    },
+    {
+      "title": "Frontier Guide",
+      "category": "Basewear",
+      "slug": "Basewear/Frontier-Guide"
+    },
+    {
+      "title": "Striped Pants",
+      "category": "Basewear",
+      "slug": "Basewear/Striped-Pants"
+    },
+    {
+      "title": "Director Slacks",
+      "category": "Basewear",
+      "slug": "Basewear/Director-Slacks"
+    },
+    {
+      "title": "Divine Vest",
+      "category": "Basewear",
+      "slug": "Basewear/Divine-Vest"
+    },
+    {
+      "title": "Celestia Uniform F",
+      "category": "Basewear",
+      "slug": "Basewear/Celestia-Uniform-F"
+    },
+    {
+      "title": "Café Chef Coat F",
+      "category": "Basewear",
+      "slug": "Basewear/Caf-Chef-Coat-F"
+    },
+    {
+      "title": "Frontier Lead",
+      "category": "Basewear",
+      "slug": "Basewear/Frontier-Lead"
+    },
+    {
+      "title": "Director Skirt",
+      "category": "Basewear",
+      "slug": "Basewear/Director-Skirt"
+    },
+    {
+      "title": "Forge Line",
+      "category": "Basewear",
+      "slug": "Basewear/Forge-Line"
+    },
+    {
+      "title": "Strapless Top Dress",
+      "category": "Basewear",
+      "slug": "Basewear/Strapless-Top-Dress"
+    },
+    {
+      "title": "Boxers 1",
+      "category": "Innerwear",
+      "slug": "Innerwear/Boxers-1"
+    },
+    {
+      "title": "Frontier Guide",
+      "category": "Innerwear",
+      "slug": "Innerwear/Frontier-Guide"
+    },
+    {
+      "title": "Boxers 2",
+      "category": "Innerwear",
+      "slug": "Innerwear/Boxers-2"
+    },
+    {
+      "title": "Divine Inner",
+      "category": "Innerwear",
+      "slug": "Innerwear/Divine-Inner"
+    },
+    {
+      "title": "Stripes 1",
+      "category": "Innerwear",
+      "slug": "Innerwear/Stripes-1"
+    },
+    {
+      "title": "Café Chef Coat F",
+      "category": "Innerwear",
+      "slug": "Innerwear/Caf-Chef-Coat-F"
+    },
+    {
+      "title": "Frontier Lead",
+      "category": "Innerwear",
+      "slug": "Innerwear/Frontier-Lead"
+    },
+    {
+      "title": "Forge Bustier",
+      "category": "Innerwear",
+      "slug": "Innerwear/Forge-Bustier"
+    },
+    {
+      "title": "Bicolor 1",
+      "category": "Innerwear",
+      "slug": "Innerwear/Bicolor-1"
+    },
+    {
+      "title": "Cuireon Replica M",
+      "category": "Outfit",
+      "slug": "Outfit/Cuireon-Replica-M"
+    },
+    {
+      "title": "Frontier Head",
+      "category": "CAST Head",
+      "slug": "CAST-Head/Frontier-Head"
+    },
+    {
+      "title": "* Yod the Virgo",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Yod-the-Virgo"
+    },
+    {
+      "title": "Café Chef Ponytail",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Caf-Chef-Ponytail"
+    },
+    {
+      "title": "Enga Short Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Enga-Short-Hair"
+    },
+    {
+      "title": "Frontier Pigtails",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Frontier-Pigtails"
+    },
+    {
+      "title": "Hagith Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Hagith-Hair"
+    },
+    {
+      "title": "Adam Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Adam-Hair"
+    },
+    {
+      "title": "Phaleg Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Phaleg-Hair"
+    },
+    {
+      "title": "Wavy Ponytail",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Wavy-Ponytail"
+    },
+    {
+      "title": "Snake Eyes (L)",
+      "category": "Eyes",
+      "slug": "Eyes/Snake-Eyes-L"
+    },
+    {
+      "title": "Snake Eyes (S)",
+      "category": "Eyes",
+      "slug": "Eyes/Snake-Eyes-S"
+    },
+    {
+      "title": "Midcheek Lines",
+      "category": "Facepaint",
+      "slug": "Facepaint/Midcheek-Lines"
+    },
+    {
+      "title": "Celestia Academy Socks",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Celestia-Academy-Socks"
+    },
+    {
+      "title": "Celestia Academy Thigh-Highs",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Celestia-Academy-Thigh-Highs"
+    },
+    {
+      "title": "Frontier Tights",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Frontier-Tights"
+    },
+    {
+      "title": "Director Gloves M",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Director-Gloves-M"
+    },
+    {
+      "title": "Director Gloves F",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Director-Gloves-F"
+    },
+    {
+      "title": "Forge Gloves",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Forge-Gloves"
+    },
+    {
+      "title": "Forge Gloves B",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Forge-Gloves-B"
+    },
+    {
+      "title": "Celestia Academy Tie",
+      "category": "Accessory",
+      "slug": "Accessory/Celestia-Academy-Tie"
+    },
+    {
+      "title": "Celestia Academy Tie B",
+      "category": "Accessory",
+      "slug": "Accessory/Celestia-Academy-Tie-B"
+    },
+    {
+      "title": "Café Chef Hat",
+      "category": "Accessory",
+      "slug": "Accessory/Caf-Chef-Hat"
+    },
+    {
+      "title": "Café Chef Hat: Orange",
+      "category": "Accessory",
+      "slug": "Accessory/Caf-Chef-Hat-Orange"
+    },
+    {
+      "title": "Café Chef Scarf",
+      "category": "Accessory",
+      "slug": "Accessory/Caf-Chef-Scarf"
+    },
+    {
+      "title": "Café Chef Apron",
+      "category": "Accessory",
+      "slug": "Accessory/Caf-Chef-Apron"
+    },
+    {
+      "title": "Café Chef Apron: Orange",
+      "category": "Accessory",
+      "slug": "Accessory/Caf-Chef-Apron-Orange"
+    },
+    {
+      "title": "Frontier Cap",
+      "category": "Accessory",
+      "slug": "Accessory/Frontier-Cap"
+    },
+    {
+      "title": "Frontier Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Frontier-Ribbon"
+    },
+    {
+      "title": "Frontier Headset",
+      "category": "Accessory",
+      "slug": "Accessory/Frontier-Headset"
+    },
+    {
+      "title": "Frontier Glasses",
+      "category": "Accessory",
+      "slug": "Accessory/Frontier-Glasses"
+    },
+    {
+      "title": "Frontier Hat",
+      "category": "Accessory",
+      "slug": "Accessory/Frontier-Hat"
+    },
+    {
+      "title": "Cool Sunglasses",
+      "category": "Accessory",
+      "slug": "Accessory/Cool-Sunglasses"
+    },
+    {
+      "title": "Director Tie",
+      "category": "Accessory",
+      "slug": "Accessory/Director-Tie"
+    },
+    {
+      "title": "Director Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Director-Ribbon"
+    },
+    {
+      "title": "Director Headset",
+      "category": "Accessory",
+      "slug": "Accessory/Director-Headset"
+    },
+    {
+      "title": "Director Glasses",
+      "category": "Accessory",
+      "slug": "Accessory/Director-Glasses"
+    },
+    {
+      "title": "Divine Scarf",
+      "category": "Accessory",
+      "slug": "Accessory/Divine-Scarf"
+    },
+    {
+      "title": "Divine Earrings",
+      "category": "Accessory",
+      "slug": "Accessory/Divine-Earrings"
+    },
+    {
+      "title": "Forge Barrette",
+      "category": "Accessory",
+      "slug": "Accessory/Forge-Barrette"
+    },
+    {
+      "title": "Forge Barrette B",
+      "category": "Accessory",
+      "slug": "Accessory/Forge-Barrette-B"
+    },
+    {
+      "title": "Forge Earrings",
+      "category": "Accessory",
+      "slug": "Accessory/Forge-Earrings"
+    },
+    {
+      "title": "Forge Earrings B",
+      "category": "Accessory",
+      "slug": "Accessory/Forge-Earrings-B"
+    },
+    {
+      "title": "Forge Pendant",
+      "category": "Accessory",
+      "slug": "Accessory/Forge-Pendant"
+    },
+    {
+      "title": "Forge Pendant B",
+      "category": "Accessory",
+      "slug": "Accessory/Forge-Pendant-B"
+    },
+    {
+      "title": "Charm Studded Collar: Gray",
+      "category": "Accessory",
+      "slug": "Accessory/Charm-Studded-Collar-Gray"
+    },
+    {
+      "title": "Charm Studded Collar: White",
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Charm-Studded-Collar-White"
+    },
+    {
+      "title": "Charm Studded Collar B",
+      "category": "Accessory",
+      "slug": "Accessory/Charm-Studded-Collar-B"
+    },
+    {
+      "title": "Body Corsage: Water",
+      "category": "Accessory",
+      "slug": "Accessory/Body-Corsage-Water"
+    },
+    {
+      "title": "Body Corsage: Pink",
+      "category": "Accessory",
+      "slug": "Accessory/Body-Corsage-Pink"
+    },
+    {
+      "title": "Body Corsage: White",
+      "category": "Accessory",
+      "slug": "Accessory/Body-Corsage-White"
+    },
+    {
+      "title": "Body Corsage: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Body-Corsage-Black"
+    },
+    {
+      "title": "Back Ribbon: Water",
+      "category": "Accessory",
+      "slug": "Accessory/Back-Ribbon-Water"
+    },
+    {
+      "title": "Back Ribbon: Pink",
+      "category": "Accessory",
+      "slug": "Accessory/Back-Ribbon-Pink"
+    },
+    {
+      "title": "Back Ribbon: White",
+      "category": "Accessory",
+      "slug": "Accessory/Back-Ribbon-White"
+    },
+    {
+      "title": "Back Ribbon: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Back-Ribbon-Black"
+    },
+    {
+      "title": "Spread Wings",
+      "category": "Accessory",
+      "slug": "Accessory/Spread-Wings"
+    },
+    {
+      "title": "Spread Wings B",
+      "category": "Accessory",
+      "slug": "Accessory/Spread-Wings-B"
+    },
+    {
+      "title": "Illustration Eyelashes C: Black",
+      "category": "Eyelashes",
+      "slug": "Eyelashes/Illustration-Eyelashes-C-Black"
+    },
+    {
+      "title": "Phaleg Eyebrows",
+      "category": "Eyebrows",
+      "slug": "Eyebrows/Phaleg-Eyebrows"
+    },
+    {
+      "title": "Content Face M",
+      "category": "Face",
+      "slug": "Face/Content-Face-M"
+    }
+  ]
+}

@@ -1,5 +1,153 @@
 [
   {
+    "title": "Celestia Academy Tie",
+    "slug": "Accessory/Celestia-Academy-Tie"
+  },
+  {
+    "title": "Celestia Academy Tie B",
+    "slug": "Accessory/Celestia-Academy-Tie-B"
+  },
+  {
+    "title": "Café Chef Hat",
+    "slug": "Accessory/Caf-Chef-Hat"
+  },
+  {
+    "title": "Café Chef Hat: Orange",
+    "slug": "Accessory/Caf-Chef-Hat-Orange"
+  },
+  {
+    "title": "Café Chef Scarf",
+    "slug": "Accessory/Caf-Chef-Scarf"
+  },
+  {
+    "title": "Café Chef Apron",
+    "slug": "Accessory/Caf-Chef-Apron"
+  },
+  {
+    "title": "Café Chef Apron: Orange",
+    "slug": "Accessory/Caf-Chef-Apron-Orange"
+  },
+  {
+    "title": "Frontier Cap",
+    "slug": "Accessory/Frontier-Cap"
+  },
+  {
+    "title": "Frontier Ribbon",
+    "slug": "Accessory/Frontier-Ribbon"
+  },
+  {
+    "title": "Frontier Headset",
+    "slug": "Accessory/Frontier-Headset"
+  },
+  {
+    "title": "Frontier Glasses",
+    "slug": "Accessory/Frontier-Glasses"
+  },
+  {
+    "title": "Frontier Hat",
+    "slug": "Accessory/Frontier-Hat"
+  },
+  {
+    "title": "Cool Sunglasses",
+    "slug": "Accessory/Cool-Sunglasses"
+  },
+  {
+    "title": "Director Tie",
+    "slug": "Accessory/Director-Tie"
+  },
+  {
+    "title": "Director Ribbon",
+    "slug": "Accessory/Director-Ribbon"
+  },
+  {
+    "title": "Director Headset",
+    "slug": "Accessory/Director-Headset"
+  },
+  {
+    "title": "Director Glasses",
+    "slug": "Accessory/Director-Glasses"
+  },
+  {
+    "title": "Divine Scarf",
+    "slug": "Accessory/Divine-Scarf"
+  },
+  {
+    "title": "Divine Earrings",
+    "slug": "Accessory/Divine-Earrings"
+  },
+  {
+    "title": "Forge Barrette",
+    "slug": "Accessory/Forge-Barrette"
+  },
+  {
+    "title": "Forge Barrette B",
+    "slug": "Accessory/Forge-Barrette-B"
+  },
+  {
+    "title": "Forge Earrings",
+    "slug": "Accessory/Forge-Earrings"
+  },
+  {
+    "title": "Forge Earrings B",
+    "slug": "Accessory/Forge-Earrings-B"
+  },
+  {
+    "title": "Forge Pendant",
+    "slug": "Accessory/Forge-Pendant"
+  },
+  {
+    "title": "Forge Pendant B",
+    "slug": "Accessory/Forge-Pendant-B"
+  },
+  {
+    "title": "Charm Studded Collar: Gray",
+    "slug": "Accessory/Charm-Studded-Collar-Gray"
+  },
+  {
+    "title": "Charm Studded Collar B",
+    "slug": "Accessory/Charm-Studded-Collar-B"
+  },
+  {
+    "title": "Body Corsage: Water",
+    "slug": "Accessory/Body-Corsage-Water"
+  },
+  {
+    "title": "Body Corsage: Pink",
+    "slug": "Accessory/Body-Corsage-Pink"
+  },
+  {
+    "title": "Body Corsage: White",
+    "slug": "Accessory/Body-Corsage-White"
+  },
+  {
+    "title": "Body Corsage: Black",
+    "slug": "Accessory/Body-Corsage-Black"
+  },
+  {
+    "title": "Back Ribbon: Water",
+    "slug": "Accessory/Back-Ribbon-Water"
+  },
+  {
+    "title": "Back Ribbon: Pink",
+    "slug": "Accessory/Back-Ribbon-Pink"
+  },
+  {
+    "title": "Back Ribbon: White",
+    "slug": "Accessory/Back-Ribbon-White"
+  },
+  {
+    "title": "Back Ribbon: Black",
+    "slug": "Accessory/Back-Ribbon-Black"
+  },
+  {
+    "title": "Spread Wings",
+    "slug": "Accessory/Spread-Wings"
+  },
+  {
+    "title": "Spread Wings B",
+    "slug": "Accessory/Spread-Wings-B"
+  },
+  {
     "title": "Virgo Circlet",
     "slug": "Accessory/Virgo-Circlet"
   },

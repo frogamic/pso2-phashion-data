@@ -1,0 +1,22 @@
+{
+  "title": "Café Chef Coat F",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collections": [
+    {
+      "title": "Earth Defenders (8/19)",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/earthdefenders",
+      "slug": "Collections/AC-Scratch-Ticket/earthdefenders"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Basewear/Caf-Chef-Coat-F"
+}
