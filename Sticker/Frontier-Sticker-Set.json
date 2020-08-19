@@ -1,5 +1,5 @@
 {
-  "title": "Daybreak Sticker Set",
+  "title": "Frontier Sticker Set",
   "set": true,
   "category": "Sticker",
   "collections": [
@@ -8,14 +8,8 @@
       "type": "FUN Scratch Ticket",
       "sourceUrl": "https://pso2.com/news/scratch-tickets/funaugust2020part2",
       "slug": "Collections/FUN-Scratch-Ticket/funaugust2020part2"
-    },
-    {
-      "title": "August 2020 - Part 1",
-      "type": "FUN Scratch Ticket",
-      "sourceUrl": "https://pso2.com/news/scratch-tickets/funaugust2020part1",
-      "slug": "Collections/FUN-Scratch-Ticket/funaugust2020part1"
     }
   ],
   "tradeable": true,
-  "slug": "Sticker/Daybreak-Sticker-Set"
+  "slug": "Sticker/Frontier-Sticker-Set"
 }
