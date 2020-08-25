@@ -1,0 +1,23 @@
+{
+  "type": "Campaign",
+  "sourceUrl": "https://pso2.com/news/announcements/arksboostrally0826",
+  "title": "ARKS Boost Rally (8/26)",
+  "slug": "Collections/Campaign/arksboostrally0826",
+  "items": [
+    {
+      "title": "Evolution Device: Lilidrum",
+      "category": "Mag Evolution Device",
+      "slug": "Mag-Evolution-Device/Evolution-Device-Lilidrum"
+    },
+    {
+      "title": "* Liberte",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Liberte"
+    },
+    {
+      "title": "Rising Weapons Badge 3",
+      "category": "Other",
+      "slug": "Other/Rising-Weapons-Badge-3"
+    }
+  ]
+}

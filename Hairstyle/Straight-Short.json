@@ -1,13 +1,7 @@
 {
-  "title": "M-Bangs Pigtails",
+  "title": "Straight Short",
   "category": "Hairstyle",
   "collections": [
-    {
-      "title": "August 2020 - Part 2",
-      "type": "FUN Scratch Ticket",
-      "sourceUrl": "https://pso2.com/news/scratch-tickets/funaugust2020part2",
-      "slug": "Collections/FUN-Scratch-Ticket/funaugust2020part2"
-    },
     {
       "title": "August 2020 - Part 3",
       "type": "FUN Scratch Ticket",
@@ -16,5 +10,5 @@
     }
   ],
   "tradeable": true,
-  "slug": "Hairstyle/M-Bangs-Pigtails"
+  "slug": "Hairstyle/Straight-Short"
 }

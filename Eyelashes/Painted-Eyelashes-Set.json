@@ -1,14 +1,8 @@
 {
-  "title": "Sharp Eyelashes Set",
+  "title": "Painted Eyelashes Set",
   "set": true,
   "category": "Eyelashes",
   "collections": [
-    {
-      "title": "August 2020 - Part 2",
-      "type": "FUN Scratch Ticket",
-      "sourceUrl": "https://pso2.com/news/scratch-tickets/funaugust2020part2",
-      "slug": "Collections/FUN-Scratch-Ticket/funaugust2020part2"
-    },
     {
       "title": "August 2020 - Part 3",
       "type": "FUN Scratch Ticket",
@@ -17,5 +11,5 @@
     }
   ],
   "tradeable": true,
-  "slug": "Eyelashes/Sharp-Eyelashes-Set"
+  "slug": "Eyelashes/Painted-Eyelashes-Set"
 }

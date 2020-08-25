@@ -1,0 +1,14 @@
+{
+  "title": "* Liberte",
+  "category": "Weapon Camo",
+  "collections": [
+    {
+      "title": "ARKS Boost Rally (8/26)",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/arksboostrally0826",
+      "slug": "Collections/Campaign/arksboostrally0826"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon-Camo/Liberte"
+}

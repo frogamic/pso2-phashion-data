@@ -1,0 +1,14 @@
+{
+  "title": "Evolution Device: Lilidrum",
+  "category": "Mag Evolution Device",
+  "collections": [
+    {
+      "title": "ARKS Boost Rally (8/26)",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/arksboostrally0826",
+      "slug": "Collections/Campaign/arksboostrally0826"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Mag-Evolution-Device/Evolution-Device-Lilidrum"
+}

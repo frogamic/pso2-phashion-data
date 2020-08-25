@@ -1,5 +1,13 @@
 [
   {
+    "title": "Straight Short",
+    "slug": "Hairstyle/Straight-Short"
+  },
+  {
+    "title": "M-Bangs Pigtails",
+    "slug": "Hairstyle/M-Bangs-Pigtails"
+  },
+  {
     "title": "Café Chef Ponytail",
     "slug": "Hairstyle/Caf-Chef-Ponytail"
   },
@@ -26,10 +34,6 @@
   {
     "title": "Wavy Ponytail",
     "slug": "Hairstyle/Wavy-Ponytail"
-  },
-  {
-    "title": "M-Bangs Pigtails",
-    "slug": "Hairstyle/M-Bangs-Pigtails"
   },
   {
     "title": "Straight Ponytail",

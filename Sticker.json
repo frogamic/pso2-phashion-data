@@ -1,7 +1,15 @@
 [
   {
-    "title": "Wild Set",
-    "slug": "Sticker/Wild-Set"
+    "title": "Zodiac Sticker",
+    "slug": "Sticker/Zodiac-Sticker"
+  },
+  {
+    "title": "Muse Sticker",
+    "slug": "Sticker/Muse-Sticker"
+  },
+  {
+    "title": "Wild Sticker Set",
+    "slug": "Sticker/Wild-Sticker-Set"
   },
   {
     "title": "Virgo Sticker Set",
@@ -10,6 +18,14 @@
   {
     "title": "Frontier Sticker Set",
     "slug": "Sticker/Frontier-Sticker-Set"
+  },
+  {
+    "title": "Cafe Chef Sticker Set",
+    "slug": "Sticker/Cafe-Chef-Sticker-Set"
+  },
+  {
+    "title": "Wild Set",
+    "slug": "Sticker/Wild-Set"
   },
   {
     "title": "Café Chef Sticker",
