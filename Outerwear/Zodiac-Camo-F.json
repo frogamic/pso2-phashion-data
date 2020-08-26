@@ -1,0 +1,22 @@
+{
+  "title": "Zodiac Camo F",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outerwear",
+  "collections": [
+    {
+      "title": "Star Keeper",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/starkeeper",
+      "slug": "Collections/AC-Scratch-Ticket/starkeeper"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Outerwear/Zodiac-Camo-F"
+}

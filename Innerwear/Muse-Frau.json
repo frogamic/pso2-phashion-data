@@ -1,0 +1,22 @@
+{
+  "title": "Muse Frau",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Innerwear",
+  "collections": [
+    {
+      "title": "Star Keeper",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/starkeeper",
+      "slug": "Collections/AC-Scratch-Ticket/starkeeper"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Innerwear/Muse-Frau"
+}

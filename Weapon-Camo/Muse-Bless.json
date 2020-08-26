@@ -1,0 +1,14 @@
+{
+  "title": "* Muse Bless",
+  "category": "Weapon Camo",
+  "collections": [
+    {
+      "title": "Star Keeper",
+      "type": "AC Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/starkeeper",
+      "slug": "Collections/AC-Scratch-Ticket/starkeeper"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon-Camo/Muse-Bless"
+}
