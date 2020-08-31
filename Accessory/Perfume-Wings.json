@@ -1,0 +1,15 @@
+{
+  "title": "Perfume Wings",
+  "tier": 18,
+  "category": "Accessory",
+  "collections": [
+    {
+      "title": "Season 7",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason7",
+      "slug": "Collections/Mission-Pass/missionpassseason7"
+    }
+  ],
+  "tradeable": false,
+  "slug": "Accessory/Perfume-Wings"
+}

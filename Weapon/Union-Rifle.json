@@ -1,0 +1,14 @@
+{
+  "title": "Union Rifle",
+  "category": "Weapon",
+  "collections": [
+    {
+      "title": "Barren Blossom, Corruptor of All",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/newuqbarrenblossomcorruptor",
+      "slug": "Collections/Event/newuqbarrenblossomcorruptor"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon/Union-Rifle"
+}

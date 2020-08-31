@@ -1,0 +1,19 @@
+{
+  "title": "Alice Reaper Legs",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "tier": 5,
+  "category": "CAST Legs",
+  "collections": [
+    {
+      "title": "Season 7",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason7",
+      "slug": "Collections/Mission-Pass/missionpassseason7"
+    }
+  ],
+  "tradeable": false,
+  "slug": "CAST-Legs/Alice-Reaper-Legs"
+}

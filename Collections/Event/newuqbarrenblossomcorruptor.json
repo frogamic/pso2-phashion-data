@@ -1,0 +1,38 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/newuqbarrenblossomcorruptor",
+  "title": "Barren Blossom, Corruptor of All",
+  "slug": "Collections/Event/newuqbarrenblossomcorruptor",
+  "items": [
+    {
+      "title": "Spread Needle",
+      "category": "Weapon",
+      "slug": "Weapon/Spread-Needle"
+    },
+    {
+      "title": "Eternal Psycho Drive",
+      "category": "Weapon",
+      "slug": "Weapon/Eternal-Psycho-Drive"
+    },
+    {
+      "title": "Ray Rod",
+      "category": "Weapon",
+      "slug": "Weapon/Ray-Rod"
+    },
+    {
+      "title": "Union Sword",
+      "category": "Weapon",
+      "slug": "Weapon/Union-Sword"
+    },
+    {
+      "title": "Union Rifle",
+      "category": "Weapon",
+      "slug": "Weapon/Union-Rifle"
+    },
+    {
+      "title": "Union Rod",
+      "category": "Weapon",
+      "slug": "Weapon/Union-Rod"
+    }
+  ]
+}

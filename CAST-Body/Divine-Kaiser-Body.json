@@ -1,0 +1,19 @@
+{
+  "title": "Divine Kaiser Body",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "tier": 10,
+  "category": "CAST Body",
+  "collections": [
+    {
+      "title": "Season 7",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason7",
+      "slug": "Collections/Mission-Pass/missionpassseason7"
+    }
+  ],
+  "tradeable": false,
+  "slug": "CAST-Body/Divine-Kaiser-Body"
+}

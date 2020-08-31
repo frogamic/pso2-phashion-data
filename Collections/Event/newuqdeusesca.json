@@ -1,0 +1,38 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/newuqdeusesca",
+  "title": "Deus Esca, Maker of New Epochs",
+  "slug": "Collections/Event/newuqdeusesca",
+  "items": [
+    {
+      "title": "Zeinesis Calibur",
+      "category": "Weapon",
+      "slug": "Weapon/Zeinesis-Calibur"
+    },
+    {
+      "title": "Zeinesis Laser",
+      "category": "Weapon",
+      "slug": "Weapon/Zeinesis-Laser"
+    },
+    {
+      "title": "Zeinesis Scratch",
+      "category": "Weapon",
+      "slug": "Weapon/Zeinesis-Scratch"
+    },
+    {
+      "title": "Clifard Cannon",
+      "category": "Weapon",
+      "slug": "Weapon/Clifard-Cannon"
+    },
+    {
+      "title": "Clifard Rem",
+      "category": "Other",
+      "slug": "Other/Clifard-Rem"
+    },
+    {
+      "title": "Clifard Gunof",
+      "category": "Other",
+      "slug": "Other/Clifard-Gunof"
+    }
+  ]
+}

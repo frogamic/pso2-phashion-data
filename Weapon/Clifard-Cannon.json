@@ -1,0 +1,14 @@
+{
+  "title": "Clifard Cannon",
+  "category": "Weapon",
+  "collections": [
+    {
+      "title": "Deus Esca, Maker of New Epochs",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/newuqdeusesca",
+      "slug": "Collections/Event/newuqdeusesca"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon/Clifard-Cannon"
+}

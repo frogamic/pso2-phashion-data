@@ -1,0 +1,15 @@
+{
+  "title": "* Apoptosis",
+  "tier": 4,
+  "category": "Weapon Camo",
+  "collections": [
+    {
+      "title": "Season 7",
+      "type": "Mission Pass",
+      "sourceUrl": "https://pso2.com/news/announcements/missionpassseason7",
+      "slug": "Collections/Mission-Pass/missionpassseason7"
+    }
+  ],
+  "tradeable": false,
+  "slug": "Weapon-Camo/Apoptosis"
+}
