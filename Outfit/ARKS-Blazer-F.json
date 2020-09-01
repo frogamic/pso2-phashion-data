@@ -1,0 +1,22 @@
+{
+  "title": "ARKS Blazer F",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collections": [
+    {
+      "title": "Fresh Finds Shop - Recommended Items (9/1)",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0901",
+      "slug": "Collections/Event/freshfindsshop0901"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Outfit/ARKS-Blazer-F"
+}

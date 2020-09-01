@@ -1,0 +1,14 @@
+{
+  "title": "School Short Cut",
+  "category": "Hairstyle",
+  "collections": [
+    {
+      "title": "Fresh Finds Shop - Recommended Items (9/1)",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0901",
+      "slug": "Collections/Event/freshfindsshop0901"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Hairstyle/School-Short-Cut"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/freshfindsshop0901",
+  "title": "Fresh Finds Shop - Recommended Items (9/1)",
+  "slug": "Collections/Event/freshfindsshop0901",
+  "items": [
+    {
+      "title": "ARKS Blazer F",
+      "category": "Outfit",
+      "slug": "Outfit/ARKS-Blazer-F"
+    },
+    {
+      "title": "School Short Cut",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/School-Short-Cut"
+    },
+    {
+      "title": "School Hairband",
+      "category": "Accessory",
+      "slug": "Accessory/School-Hairband"
+    },
+    {
+      "title": "School Tights",
+      "category": "Body Paint",
+      "slug": "Body-Paint/School-Tights"
+    },
+    {
+      "title": "ARKS Blazer M",
+      "category": "Outfit",
+      "slug": "Outfit/ARKS-Blazer-M"
+    },
+    {
+      "title": "ARKS Sweatshirt F",
+      "category": "Outfit",
+      "slug": "Outfit/ARKS-Sweatshirt-F"
+    }
+  ]
+}
