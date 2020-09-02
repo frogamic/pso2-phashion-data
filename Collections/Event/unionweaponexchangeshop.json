@@ -1,0 +1,38 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/unionweaponexchangeshop",
+  "title": "An Operative’s Guide to the Union Weapon Exchange Shop",
+  "slug": "Collections/Event/unionweaponexchangeshop",
+  "items": [
+    {
+      "title": "Union Sword",
+      "category": "Weapon",
+      "slug": "Weapon/Union-Sword"
+    },
+    {
+      "title": "Union Talis",
+      "category": "Weapon",
+      "slug": "Weapon/Union-Talis"
+    },
+    {
+      "title": "Union Lance",
+      "category": "Weapon",
+      "slug": "Weapon/Union-Lance"
+    },
+    {
+      "title": "Circunion",
+      "category": "Other",
+      "slug": "Other/Circunion"
+    },
+    {
+      "title": "Circaunion",
+      "category": "Other",
+      "slug": "Other/Circaunion"
+    },
+    {
+      "title": "Circunion",
+      "category": "Other",
+      "slug": "Other/Circunion"
+    }
+  ]
+}

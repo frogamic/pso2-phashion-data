@@ -1,13 +1,7 @@
 {
-  "title": "Union Sword",
+  "title": "Union Lance",
   "category": "Weapon",
   "collections": [
-    {
-      "title": "Barren Blossom, Corruptor of All",
-      "type": "Event",
-      "sourceUrl": "https://pso2.com/news/announcements/newuqbarrenblossomcorruptor",
-      "slug": "Collections/Event/newuqbarrenblossomcorruptor"
-    },
     {
       "title": "An Operative’s Guide to the Union Weapon Exchange Shop",
       "type": "Event",
@@ -16,5 +10,5 @@
     }
   ],
   "tradeable": true,
-  "slug": "Weapon/Union-Sword"
+  "slug": "Weapon/Union-Lance"
 }

@@ -1,0 +1,14 @@
+{
+  "title": "Circaunion",
+  "category": "Other",
+  "collections": [
+    {
+      "title": "An Operative’s Guide to the Union Weapon Exchange Shop",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/unionweaponexchangeshop",
+      "slug": "Collections/Event/unionweaponexchangeshop"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Other/Circaunion"
+}

@@ -1,5 +1,17 @@
 [
   {
+    "title": "Union Sword",
+    "slug": "Weapon/Union-Sword"
+  },
+  {
+    "title": "Union Talis",
+    "slug": "Weapon/Union-Talis"
+  },
+  {
+    "title": "Union Lance",
+    "slug": "Weapon/Union-Lance"
+  },
+  {
     "title": "Zeinesis Calibur",
     "slug": "Weapon/Zeinesis-Calibur"
   },
@@ -26,10 +38,6 @@
   {
     "title": "Ray Rod",
     "slug": "Weapon/Ray-Rod"
-  },
-  {
-    "title": "Union Sword",
-    "slug": "Weapon/Union-Sword"
   },
   {
     "title": "Union Rifle",
