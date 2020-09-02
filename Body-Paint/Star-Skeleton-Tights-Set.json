@@ -1,7 +1,14 @@
 {
   "title": "Star Skeleton Tights Set",
+  "set": true,
   "category": "Body Paint",
   "collections": [
+    {
+      "title": "Designer Dreams",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/designerdreams",
+      "slug": "Collections/Scratch-Ticket/designerdreams"
+    },
     {
       "title": "April 2020 - Part 3",
       "type": "FUN Scratch Ticket",
@@ -16,6 +23,5 @@
     }
   ],
   "tradeable": true,
-  "slug": "Body-Paint/Star-Skeleton-Tights-Set",
-  "set": true
+  "slug": "Body-Paint/Star-Skeleton-Tights-Set"
 }

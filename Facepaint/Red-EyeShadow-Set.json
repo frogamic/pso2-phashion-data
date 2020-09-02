@@ -1,7 +1,14 @@
 {
   "title": "Red EyeShadow Set",
+  "set": true,
   "category": "Facepaint",
   "collections": [
+    {
+      "title": "Designer Dreams",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/designerdreams",
+      "slug": "Collections/Scratch-Ticket/designerdreams"
+    },
     {
       "title": "August 2020 - Part 3",
       "type": "FUN Scratch Ticket",

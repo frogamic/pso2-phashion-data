@@ -1,0 +1,18 @@
+{
+  "title": "Agri Head",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Head",
+  "collections": [
+    {
+      "title": "Designer Dreams",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/designerdreams",
+      "slug": "Collections/Scratch-Ticket/designerdreams"
+    }
+  ],
+  "tradeable": false,
+  "slug": "CAST-Head/Agri-Head"
+}

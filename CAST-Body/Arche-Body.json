@@ -1,0 +1,18 @@
+{
+  "title": "Arche Body",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Body",
+  "collections": [
+    {
+      "title": "Designer Dreams",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/designerdreams",
+      "slug": "Collections/Scratch-Ticket/designerdreams"
+    }
+  ],
+  "tradeable": false,
+  "slug": "CAST-Body/Arche-Body"
+}

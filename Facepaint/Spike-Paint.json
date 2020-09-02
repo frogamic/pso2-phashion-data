@@ -1,0 +1,14 @@
+{
+  "title": "Spike Paint",
+  "category": "Facepaint",
+  "collections": [
+    {
+      "title": "Designer Dreams",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/designerdreams",
+      "slug": "Collections/Scratch-Ticket/designerdreams"
+    }
+  ],
+  "tradeable": false,
+  "slug": "Facepaint/Spike-Paint"
+}

@@ -1,0 +1,648 @@
+{
+  "type": "Scratch Ticket",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/designerdreams",
+  "title": "Designer Dreams",
+  "slug": "Collections/Scratch-Ticket/designerdreams",
+  "items": [
+    {
+      "title": "ARKS Sadeenian Suit",
+      "category": "Other",
+      "slug": "Other/ARKS-Sadeenian-Suit"
+    },
+    {
+      "title": "Rappy Suit: Knight",
+      "category": "Other",
+      "slug": "Other/Rappy-Suit-Knight"
+    },
+    {
+      "title": "Progressive Raiment M",
+      "category": "Other",
+      "slug": "Other/Progressive-Raiment-M"
+    },
+    {
+      "title": "Beltpunk M",
+      "category": "Other",
+      "slug": "Other/Beltpunk-M"
+    },
+    {
+      "title": "Pop La Sorcery M",
+      "category": "Other",
+      "slug": "Other/Pop-La-Sorcery-M"
+    },
+    {
+      "title": "Charteria Courent",
+      "category": "Other",
+      "slug": "Other/Charteria-Courent"
+    },
+    {
+      "title": "Rakshasa Binding",
+      "category": "Other",
+      "slug": "Other/Rakshasa-Binding"
+    },
+    {
+      "title": "Progressive Raiment F",
+      "category": "Other",
+      "slug": "Other/Progressive-Raiment-F"
+    },
+    {
+      "title": "Beltpunk F",
+      "category": "Other",
+      "slug": "Other/Beltpunk-F"
+    },
+    {
+      "title": "Pop La Sorcery F",
+      "category": "Other",
+      "slug": "Other/Pop-La-Sorcery-F"
+    },
+    {
+      "title": "Maidenly Ogre [Ou]",
+      "category": "Other",
+      "slug": "Other/Maidenly-Ogre-Ou"
+    },
+    {
+      "title": "Frilly Goggle Camo [Ou]",
+      "category": "Other",
+      "slug": "Other/Frilly-Goggle-Camo-Ou"
+    },
+    {
+      "title": "Frigid Floral M [Ba]",
+      "category": "Other",
+      "slug": "Other/Frigid-Floral-M-Ba"
+    },
+    {
+      "title": "Frigid Floral F [Ba]",
+      "category": "Other",
+      "slug": "Other/Frigid-Floral-F-Ba"
+    },
+    {
+      "title": "Maidenly Ogre [Ba]",
+      "category": "Other",
+      "slug": "Other/Maidenly-Ogre-Ba"
+    },
+    {
+      "title": "Frilly Goggle Camo [Ba]",
+      "category": "Other",
+      "slug": "Other/Frilly-Goggle-Camo-Ba"
+    },
+    {
+      "title": "Agri Arms",
+      "category": "CAST Arms",
+      "slug": "CAST-Arms/Agri-Arms"
+    },
+    {
+      "title": "Agri Body",
+      "category": "CAST Body",
+      "slug": "CAST-Body/Agri-Body"
+    },
+    {
+      "title": "Agri Legs",
+      "category": "CAST Legs",
+      "slug": "CAST-Legs/Agri-Legs"
+    },
+    {
+      "title": "Agri Head",
+      "category": "CAST Head",
+      "slug": "CAST-Head/Agri-Head"
+    },
+    {
+      "title": "Arche Arms",
+      "category": "CAST Arms",
+      "slug": "CAST-Arms/Arche-Arms"
+    },
+    {
+      "title": "Arche Body",
+      "category": "CAST Body",
+      "slug": "CAST-Body/Arche-Body"
+    },
+    {
+      "title": "Arche Legs",
+      "category": "CAST Legs",
+      "slug": "CAST-Legs/Arche-Legs"
+    },
+    {
+      "title": "Arche Head",
+      "category": "CAST Head",
+      "slug": "CAST-Head/Arche-Head"
+    },
+    {
+      "title": "Rakshasa Binding Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Rakshasa-Binding-Hair"
+    },
+    {
+      "title": "Rakshasa Binding Hair GV",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Rakshasa-Binding-Hair-GV"
+    },
+    {
+      "title": "Maidenly Ogre Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Maidenly-Ogre-Hair"
+    },
+    {
+      "title": "Pop La Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Pop-La-Hair"
+    },
+    {
+      "title": "Blinding Bangs",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Blinding-Bangs"
+    },
+    {
+      "title": "Bouncy Bob",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Bouncy-Bob"
+    },
+    {
+      "title": "Illustration Eyes (L)",
+      "category": "Eyes",
+      "slug": "Eyes/Illustration-Eyes-L"
+    },
+    {
+      "title": "Illustration Eyes (S)",
+      "category": "Eyes",
+      "slug": "Eyes/Illustration-Eyes-S"
+    },
+    {
+      "title": "Bloodshot Eyes B (S)",
+      "category": "Eyes",
+      "slug": "Eyes/Bloodshot-Eyes-B-S"
+    },
+    {
+      "title": "Bloodshot Eyes B (XS)",
+      "category": "Eyes",
+      "slug": "Eyes/Bloodshot-Eyes-B-XS"
+    },
+    {
+      "title": "Gothic Makeup A",
+      "category": "Facepaint",
+      "slug": "Facepaint/Gothic-Makeup-A"
+    },
+    {
+      "title": "Gothic Makeup B",
+      "category": "Facepaint",
+      "slug": "Facepaint/Gothic-Makeup-B"
+    },
+    {
+      "title": "Barbarian Tattoo M: Brown",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Barbarian-Tattoo-M-Brown"
+    },
+    {
+      "title": "Barbarian Tattoo M: White",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Barbarian-Tattoo-M-White"
+    },
+    {
+      "title": "Barbarian Tattoo F: Brown",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Barbarian-Tattoo-F-Brown"
+    },
+    {
+      "title": "Barbarian Tattoo F: White",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Barbarian-Tattoo-F-White"
+    },
+    {
+      "title": "Chocolate Syrup Tights",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Chocolate-Syrup-Tights"
+    },
+    {
+      "title": "Charteria Hair Ornament",
+      "category": "Accessory",
+      "slug": "Accessory/Charteria-Hair-Ornament"
+    },
+    {
+      "title": "Rakshasa Ornamental Horn",
+      "category": "Accessory",
+      "slug": "Accessory/Rakshasa-Ornamental-Horn"
+    },
+    {
+      "title": "Rakshasa Mask",
+      "category": "Accessory",
+      "slug": "Accessory/Rakshasa-Mask"
+    },
+    {
+      "title": "Frilly Camo-set Goggles",
+      "category": "Accessory",
+      "slug": "Accessory/Frilly-Camo-set-Goggles"
+    },
+    {
+      "title": "Maidenly Ogre Scarf",
+      "category": "Accessory",
+      "slug": "Accessory/Maidenly-Ogre-Scarf"
+    },
+    {
+      "title": "Maidenly Ogre Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Maidenly-Ogre-Ribbon"
+    },
+    {
+      "title": "Maidenly Ogre Horns",
+      "category": "Accessory",
+      "slug": "Accessory/Maidenly-Ogre-Horns"
+    },
+    {
+      "title": "Pop La Hood",
+      "category": "Accessory",
+      "slug": "Accessory/Pop-La-Hood"
+    },
+    {
+      "title": "Pop La Scarf",
+      "category": "Accessory",
+      "slug": "Accessory/Pop-La-Scarf"
+    },
+    {
+      "title": "Pop La Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Pop-La-Ribbon"
+    },
+    {
+      "title": "Gradient Wings: Orange",
+      "category": "Accessory",
+      "slug": "Accessory/Gradient-Wings-Orange"
+    },
+    {
+      "title": "Gradient Wings: Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Gradient-Wings-Blue"
+    },
+    {
+      "title": "Gradient Wings: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Gradient-Wings-Red"
+    },
+    {
+      "title": "Fantastical Waist Cape: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Fantastical-Waist-Cape-Red"
+    },
+    {
+      "title": "Fantastical Waist Cape: Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Fantastical-Waist-Cape-Blue"
+    },
+    {
+      "title": "Fantastical Waist Cape: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Fantastical-Waist-Cape-Black"
+    },
+    {
+      "title": "Fantastical Waist Cape: White",
+      "category": "Accessory",
+      "slug": "Accessory/Fantastical-Waist-Cape-White"
+    },
+    {
+      "title": "Photon Scarf: Green",
+      "category": "Accessory",
+      "slug": "Accessory/Photon-Scarf-Green"
+    },
+    {
+      "title": "Photon Scarf: Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Photon-Scarf-Blue"
+    },
+    {
+      "title": "Photon Scarf: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Photon-Scarf-Red"
+    },
+    {
+      "title": "Photon Scarf: Purple",
+      "category": "Accessory",
+      "slug": "Accessory/Photon-Scarf-Purple"
+    },
+    {
+      "title": "Snake Tongue: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Snake-Tongue-Red"
+    },
+    {
+      "title": "Snake Tongue: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Snake-Tongue-Black"
+    },
+    {
+      "title": "Snake Tongue: Purple",
+      "category": "Accessory",
+      "slug": "Accessory/Snake-Tongue-Purple"
+    },
+    {
+      "title": "Star Barrette Ext: Black & Silver",
+      "category": "Accessory",
+      "slug": "Accessory/Star-Barrette-Ext-Black-Silver"
+    },
+    {
+      "title": "Star Barrette Ext: White & Gold",
+      "category": "Accessory",
+      "slug": "Accessory/Star-Barrette-Ext-White-Gold"
+    },
+    {
+      "title": "Star Barrette Ext: Black & Gold",
+      "category": "Accessory",
+      "slug": "Accessory/Star-Barrette-Ext-Black-Gold"
+    },
+    {
+      "title": "Bubblegum",
+      "category": "Accessory",
+      "slug": "Accessory/Bubblegum"
+    },
+    {
+      "title": "Simple Face Mask",
+      "category": "Accessory",
+      "slug": "Accessory/Simple-Face-Mask"
+    },
+    {
+      "title": "Stripped Loose Socks: Pink",
+      "category": "Accessory",
+      "slug": "Accessory/Stripped-Loose-Socks-Pink"
+    },
+    {
+      "title": "Stripped Loose Socks: Water",
+      "category": "Accessory",
+      "slug": "Accessory/Stripped-Loose-Socks-Water"
+    },
+    {
+      "title": "Stripped Loose Socks: White",
+      "category": "Accessory",
+      "slug": "Accessory/Stripped-Loose-Socks-White"
+    },
+    {
+      "title": "Stripped Loose Socks: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Stripped-Loose-Socks-Black"
+    },
+    {
+      "title": "Redome Unit",
+      "category": "Accessory",
+      "slug": "Accessory/Redome-Unit"
+    },
+    {
+      "title": "Hexashield",
+      "category": "Accessory",
+      "slug": "Accessory/Hexashield"
+    },
+    {
+      "title": "Hexashield B",
+      "category": "Accessory",
+      "slug": "Accessory/Hexashield-B"
+    },
+    {
+      "title": "* Blitz Horizon",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Blitz-Horizon"
+    },
+    {
+      "title": "* Blue Crystal Sword",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Blue-Crystal-Sword"
+    },
+    {
+      "title": "* Arkuma Starcleaner",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Arkuma-Starcleaner"
+    },
+    {
+      "title": "* Rhapsodian Lars",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Rhapsodian-Lars"
+    },
+    {
+      "title": "* Jumbo Twinder",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Jumbo-Twinder"
+    },
+    {
+      "title": "* Cookie Bag",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Cookie-Bag"
+    },
+    {
+      "title": "Gryphon Hat",
+      "category": "Accessory",
+      "slug": "Accessory/Gryphon-Hat"
+    },
+    {
+      "title": "Reindeer Hat",
+      "category": "Accessory",
+      "slug": "Accessory/Reindeer-Hat"
+    },
+    {
+      "title": "Ophistia Body Corsage",
+      "category": "Accessory",
+      "slug": "Accessory/Ophistia-Body-Corsage"
+    },
+    {
+      "title": "Invade Body Corsage",
+      "category": "Accessory",
+      "slug": "Accessory/Invade-Body-Corsage"
+    },
+    {
+      "title": "Ophistia Corsage",
+      "category": "Accessory",
+      "slug": "Accessory/Ophistia-Corsage"
+    },
+    {
+      "title": "Invade Corsage",
+      "category": "Accessory",
+      "slug": "Accessory/Invade-Corsage"
+    },
+    {
+      "title": "M-Bangs Updo",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/M-Bangs-Updo"
+    },
+    {
+      "title": "Straight Short",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Straight-Short"
+    },
+    {
+      "title": "Spike Paint",
+      "category": "Facepaint",
+      "slug": "Facepaint/Spike-Paint"
+    },
+    {
+      "title": "Thin Troubled Eyebrows",
+      "category": "Eyebrows",
+      "slug": "Eyebrows/Thin-Troubled-Eyebrows"
+    },
+    {
+      "title": "Thin Eyelashes Set B",
+      "category": "Eyelashes",
+      "slug": "Eyelashes/Thin-Eyelashes-Set-B"
+    },
+    {
+      "title": "Star Skeleton Tights Set",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Star-Skeleton-Tights-Set"
+    },
+    {
+      "title": "Bottled Flower Earrings: Pink",
+      "category": "Accessory",
+      "slug": "Accessory/Bottled-Flower-Earrings-Pink"
+    },
+    {
+      "title": "Bottled Flower Earrings: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Bottled-Flower-Earrings-Red"
+    },
+    {
+      "title": "Briefcase: White",
+      "category": "Accessory",
+      "slug": "Accessory/Briefcase-White"
+    },
+    {
+      "title": "Briefcase: Black",
+      "category": "Accessory",
+      "slug": "Accessory/Briefcase-Black"
+    },
+    {
+      "title": "Briefcase: Red",
+      "category": "Accessory",
+      "slug": "Accessory/Briefcase-Red"
+    },
+    {
+      "title": "Briefcase: Blue",
+      "category": "Accessory",
+      "slug": "Accessory/Briefcase-Blue"
+    },
+    {
+      "title": "Bite-o’-Toast",
+      "category": "Accessory",
+      "slug": "Accessory/Bite-o-Toast"
+    },
+    {
+      "title": "Book Strap",
+      "category": "Accessory",
+      "slug": "Accessory/Book-Strap"
+    },
+    {
+      "title": "Lady Eye Mask",
+      "category": "Accessory",
+      "slug": "Accessory/Lady-Eye-Mask"
+    },
+    {
+      "title": "Fired Up Eye Mask",
+      "category": "Accessory",
+      "slug": "Accessory/Fired-Up-Eye-Mask"
+    },
+    {
+      "title": "No-Nonsense Eye Mask",
+      "category": "Accessory",
+      "slug": "Accessory/No-Nonsense-Eye-Mask"
+    },
+    {
+      "title": "Breast Guard",
+      "category": "Accessory",
+      "slug": "Accessory/Breast-Guard"
+    },
+    {
+      "title": "Photon Shield L",
+      "category": "Accessory",
+      "slug": "Accessory/Photon-Shield-L"
+    },
+    {
+      "title": "Photon Shield R",
+      "category": "Accessory",
+      "slug": "Accessory/Photon-Shield-R"
+    },
+    {
+      "title": "Red EyeShadow Set",
+      "category": "Facepaint",
+      "slug": "Facepaint/Red-EyeShadow-Set"
+    },
+    {
+      "title": "Spacious Eyebrows",
+      "category": "Eyebrows",
+      "slug": "Eyebrows/Spacious-Eyebrows"
+    },
+    {
+      "title": "Painted Eyelashes Set",
+      "category": "Eyelashes",
+      "slug": "Eyelashes/Painted-Eyelashes-Set"
+    },
+    {
+      "title": "Rhino Beetle Head-Mount",
+      "category": "Accessory",
+      "slug": "Accessory/Rhino-Beetle-Head-Mount"
+    },
+    {
+      "title": "Stag Beetle Head-Mount",
+      "category": "Accessory",
+      "slug": "Accessory/Stag-Beetle-Head-Mount"
+    },
+    {
+      "title": "Electric Fan Head-Mount",
+      "category": "Accessory",
+      "slug": "Accessory/Electric-Fan-Head-Mount"
+    },
+    {
+      "title": "Long Cannon L",
+      "category": "Accessory",
+      "slug": "Accessory/Long-Cannon-L"
+    },
+    {
+      "title": "Long Cannon R",
+      "category": "Accessory",
+      "slug": "Accessory/Long-Cannon-R"
+    },
+    {
+      "title": "Turtle Shell",
+      "category": "Accessory",
+      "slug": "Accessory/Turtle-Shell"
+    },
+    {
+      "title": "Anti-Mosquito Incense",
+      "category": "Accessory",
+      "slug": "Accessory/Anti-Mosquito-Incense"
+    },
+    {
+      "title": "Goldfish Bowl Head-Mount",
+      "category": "Accessory",
+      "slug": "Accessory/Goldfish-Bowl-Head-Mount"
+    },
+    {
+      "title": "Bite-o’-Grilled-Corncob",
+      "category": "Accessory",
+      "slug": "Accessory/Bite-o-Grilled-Corncob"
+    },
+    {
+      "title": "Bite-o’-Watermelon",
+      "category": "Accessory",
+      "slug": "Accessory/Bite-o-Watermelon"
+    },
+    {
+      "title": "Bite-o’-Candied-Applie",
+      "category": "Accessory",
+      "slug": "Accessory/Bite-o-Candied-Applie"
+    },
+    {
+      "title": "Sports Cap A",
+      "category": "Accessory",
+      "slug": "Accessory/Sports-Cap-A"
+    },
+    {
+      "title": "Sports Cap B",
+      "category": "Accessory",
+      "slug": "Accessory/Sports-Cap-B"
+    },
+    {
+      "title": "Sports Cap C",
+      "category": "Accessory",
+      "slug": "Accessory/Sports-Cap-C"
+    },
+    {
+      "title": "Zodiac Sticker",
+      "category": "Sticker",
+      "slug": "Sticker/Zodiac-Sticker"
+    },
+    {
+      "title": "Muse Sticker",
+      "category": "Sticker",
+      "slug": "Sticker/Muse-Sticker"
+    }
+  ]
+}

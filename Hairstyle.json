@@ -1,5 +1,37 @@
 [
   {
+    "title": "Rakshasa Binding Hair",
+    "slug": "Hairstyle/Rakshasa-Binding-Hair"
+  },
+  {
+    "title": "Rakshasa Binding Hair GV",
+    "slug": "Hairstyle/Rakshasa-Binding-Hair-GV"
+  },
+  {
+    "title": "Maidenly Ogre Hair",
+    "slug": "Hairstyle/Maidenly-Ogre-Hair"
+  },
+  {
+    "title": "Pop La Hair",
+    "slug": "Hairstyle/Pop-La-Hair"
+  },
+  {
+    "title": "Blinding Bangs",
+    "slug": "Hairstyle/Blinding-Bangs"
+  },
+  {
+    "title": "Bouncy Bob",
+    "slug": "Hairstyle/Bouncy-Bob"
+  },
+  {
+    "title": "M-Bangs Updo",
+    "slug": "Hairstyle/M-Bangs-Updo"
+  },
+  {
+    "title": "Straight Short",
+    "slug": "Hairstyle/Straight-Short"
+  },
+  {
     "title": "School Short Cut",
     "slug": "Hairstyle/School-Short-Cut"
   },
@@ -62,10 +94,6 @@
   {
     "title": "Hitsugi Hair Down GV",
     "slug": "Hairstyle/Hitsugi-Hair-Down-GV"
-  },
-  {
-    "title": "Straight Short",
-    "slug": "Hairstyle/Straight-Short"
   },
   {
     "title": "M-Bangs Pigtails",

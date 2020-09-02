@@ -1,0 +1,22 @@
+{
+  "title": "Frilly Goggle Camo [Ou]",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Other",
+  "collections": [
+    {
+      "title": "Designer Dreams",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/designerdreams",
+      "slug": "Collections/Scratch-Ticket/designerdreams"
+    }
+  ],
+  "tradeable": false,
+  "slug": "Other/Frilly-Goggle-Camo-Ou"
+}
