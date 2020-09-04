@@ -1,0 +1,14 @@
+{
+  "title": "Nemesis Dual-C",
+  "category": "Weapon",
+  "collections": [
+    {
+      "title": "Complete Ultimate Quests! (9/9)",
+      "type": "Campaign",
+      "sourceUrl": "https://pso2.com/news/announcements/completeultimatequests0909",
+      "slug": "Collections/Campaign/completeultimatequests0909"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon/Nemesis-Dual-C"
+}

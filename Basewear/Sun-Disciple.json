@@ -1,0 +1,22 @@
+{
+  "title": "Sun Disciple",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Basewear",
+  "collections": [
+    {
+      "title": "Mother’s Disciples",
+      "type": "SG Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/mothersdisciples",
+      "slug": "Collections/SG-Scratch-Ticket/mothersdisciples"
+    }
+  ],
+  "tradeable": false,
+  "slug": "Basewear/Sun-Disciple"
+}

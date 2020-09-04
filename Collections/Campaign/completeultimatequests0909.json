@@ -1,0 +1,38 @@
+{
+  "type": "Campaign",
+  "sourceUrl": "https://pso2.com/news/announcements/completeultimatequests0909",
+  "title": "Complete Ultimate Quests! (9/9)",
+  "slug": "Collections/Campaign/completeultimatequests0909",
+  "items": [
+    {
+      "title": "Gix Dissanga",
+      "category": "Weapon",
+      "slug": "Weapon/Gix-Dissanga"
+    },
+    {
+      "title": "Gix Elno",
+      "category": "Weapon",
+      "slug": "Weapon/Gix-Elno"
+    },
+    {
+      "title": "Slave Daggers",
+      "category": "Weapon",
+      "slug": "Weapon/Slave-Daggers"
+    },
+    {
+      "title": "Slave Sage-C",
+      "category": "Weapon",
+      "slug": "Weapon/Slave-Sage-C"
+    },
+    {
+      "title": "Nemesis Chain-C",
+      "category": "Weapon",
+      "slug": "Weapon/Nemesis-Chain-C"
+    },
+    {
+      "title": "Nemesis Dual-C",
+      "category": "Weapon",
+      "slug": "Weapon/Nemesis-Dual-C"
+    }
+  ]
+}

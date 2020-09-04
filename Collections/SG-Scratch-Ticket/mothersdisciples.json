@@ -1,0 +1,323 @@
+{
+  "type": "SG Scratch Ticket",
+  "sourceUrl": "https://pso2.com/news/scratch-tickets/mothersdisciples",
+  "title": "Mother’s Disciples",
+  "slug": "Collections/SG-Scratch-Ticket/mothersdisciples",
+  "items": [
+    {
+      "title": "Phantasm Disciple",
+      "category": "Outerwear",
+      "slug": "Outerwear/Phantasm-Disciple"
+    },
+    {
+      "title": "Phantasm Disciple V2",
+      "category": "Outerwear",
+      "slug": "Outerwear/Phantasm-Disciple-V2"
+    },
+    {
+      "title": "Jupiter Disciple",
+      "category": "Outerwear",
+      "slug": "Outerwear/Jupiter-Disciple"
+    },
+    {
+      "title": "Jupiter Disciple V2",
+      "category": "Outerwear",
+      "slug": "Outerwear/Jupiter-Disciple-V2"
+    },
+    {
+      "title": "Mercury Disciple",
+      "category": "Outerwear",
+      "slug": "Outerwear/Mercury-Disciple"
+    },
+    {
+      "title": "Mercury Disciple V2",
+      "category": "Outerwear",
+      "slug": "Outerwear/Mercury-Disciple-V2"
+    },
+    {
+      "title": "Saturn Disciple",
+      "category": "Outerwear",
+      "slug": "Outerwear/Saturn-Disciple"
+    },
+    {
+      "title": "Saturn Disciple V2",
+      "category": "Outerwear",
+      "slug": "Outerwear/Saturn-Disciple-V2"
+    },
+    {
+      "title": "Al’s Black Clothes M",
+      "category": "Outerwear",
+      "slug": "Outerwear/Al-s-Black-Clothes-M"
+    },
+    {
+      "title": "Holy Phantasm",
+      "category": "Outerwear",
+      "slug": "Outerwear/Holy-Phantasm"
+    },
+    {
+      "title": "Holy Phantasm V2",
+      "category": "Outerwear",
+      "slug": "Outerwear/Holy-Phantasm-V2"
+    },
+    {
+      "title": "Frost Disciple",
+      "category": "Outerwear",
+      "slug": "Outerwear/Frost-Disciple"
+    },
+    {
+      "title": "Frost Disciple V2",
+      "category": "Outerwear",
+      "slug": "Outerwear/Frost-Disciple-V2"
+    },
+    {
+      "title": "Sun Disciple",
+      "category": "Outerwear",
+      "slug": "Outerwear/Sun-Disciple"
+    },
+    {
+      "title": "Sun Disciple V2",
+      "category": "Outerwear",
+      "slug": "Outerwear/Sun-Disciple-V2"
+    },
+    {
+      "title": "Moon Disciple",
+      "category": "Outerwear",
+      "slug": "Outerwear/Moon-Disciple"
+    },
+    {
+      "title": "Moon Disciple V2",
+      "category": "Outerwear",
+      "slug": "Outerwear/Moon-Disciple-V2"
+    },
+    {
+      "title": "Al’s Black Clothes F",
+      "category": "Outerwear",
+      "slug": "Outerwear/Al-s-Black-Clothes-F"
+    },
+    {
+      "title": "Phantasm Disciple",
+      "category": "Basewear",
+      "slug": "Basewear/Phantasm-Disciple"
+    },
+    {
+      "title": "Jupiter Disciple",
+      "category": "Basewear",
+      "slug": "Basewear/Jupiter-Disciple"
+    },
+    {
+      "title": "Mercury Disciple",
+      "category": "Basewear",
+      "slug": "Basewear/Mercury-Disciple"
+    },
+    {
+      "title": "Al’s Black Clothes M",
+      "category": "Basewear",
+      "slug": "Basewear/Al-s-Black-Clothes-M"
+    },
+    {
+      "title": "Holy Phantasm",
+      "category": "Basewear",
+      "slug": "Basewear/Holy-Phantasm"
+    },
+    {
+      "title": "Frost Disciple",
+      "category": "Basewear",
+      "slug": "Basewear/Frost-Disciple"
+    },
+    {
+      "title": "Sun Disciple",
+      "category": "Basewear",
+      "slug": "Basewear/Sun-Disciple"
+    },
+    {
+      "title": "Al’s Black Clothes F",
+      "category": "Basewear",
+      "slug": "Basewear/Al-s-Black-Clothes-F"
+    },
+    {
+      "title": "Holy Phantasm",
+      "category": "Innerwear",
+      "slug": "Innerwear/Holy-Phantasm"
+    },
+    {
+      "title": "Sun Disciple",
+      "category": "Innerwear",
+      "slug": "Innerwear/Sun-Disciple"
+    },
+    {
+      "title": "Mother Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Mother-Hair"
+    },
+    {
+      "title": "Kohri Ponytail",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Kohri-Ponytail"
+    },
+    {
+      "title": "Disciple Regalia Hood",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Disciple-Regalia-Hood"
+    },
+    {
+      "title": "Och Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Och-Hair"
+    },
+    {
+      "title": "Phul Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Phul-Hair"
+    },
+    {
+      "title": "Bethor Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Bethor-Hair"
+    },
+    {
+      "title": "Ophiel Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Ophiel-Hair"
+    },
+    {
+      "title": "Aratron Skinhead",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Aratron-Skinhead"
+    },
+    {
+      "title": "Al Short Hair 2",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Al-Short-Hair-2"
+    },
+    {
+      "title": "Phaleg Hair 2",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Phaleg-Hair-2"
+    },
+    {
+      "title": "Kohri Odango Hair",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Kohri-Odango-Hair"
+    },
+    {
+      "title": "Och Hair 3",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Och-Hair-3"
+    },
+    {
+      "title": "Kohri Eyes",
+      "category": "Eyes",
+      "slug": "Eyes/Kohri-Eyes"
+    },
+    {
+      "title": "Ophiel Goatee",
+      "category": "Facepaint",
+      "slug": "Facepaint/Ophiel-Goatee"
+    },
+    {
+      "title": "Cleft Chin",
+      "category": "Facepaint",
+      "slug": "Facepaint/Cleft-Chin"
+    },
+    {
+      "title": "Disciple’s Gauntlets",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Disciple-s-Gauntlets"
+    },
+    {
+      "title": "Disciple’s Gloves",
+      "category": "Body Paint",
+      "slug": "Body-Paint/Disciple-s-Gloves"
+    },
+    {
+      "title": "Mother Holy Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Mother-Holy-Ribbon"
+    },
+    {
+      "title": "Och’s Headband",
+      "category": "Accessory",
+      "slug": "Accessory/Och-s-Headband"
+    },
+    {
+      "title": "Big Canine",
+      "category": "Accessory",
+      "slug": "Accessory/Big-Canine"
+    },
+    {
+      "title": "Phul’s Hat",
+      "category": "Accessory",
+      "slug": "Accessory/Phul-s-Hat"
+    },
+    {
+      "title": "Phul’s Monocle",
+      "category": "Accessory",
+      "slug": "Accessory/Phul-s-Monocle"
+    },
+    {
+      "title": "Phul’s Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Phul-s-Ribbon"
+    },
+    {
+      "title": "Bethor Sunglasses",
+      "category": "Accessory",
+      "slug": "Accessory/Bethor-Sunglasses"
+    },
+    {
+      "title": "Ophiel’s Stethoscope",
+      "category": "Accessory",
+      "slug": "Accessory/Ophiel-s-Stethoscope"
+    },
+    {
+      "title": "Aratron Eyebrows",
+      "category": "Accessory",
+      "slug": "Accessory/Aratron-Eyebrows"
+    },
+    {
+      "title": "Aratron Moustache",
+      "category": "Accessory",
+      "slug": "Accessory/Aratron-Moustache"
+    },
+    {
+      "title": "Aratron Angry Eyebrows",
+      "category": "Accessory",
+      "slug": "Accessory/Aratron-Angry-Eyebrows"
+    },
+    {
+      "title": "Aratron Angry Moustache",
+      "category": "Accessory",
+      "slug": "Accessory/Aratron-Angry-Moustache"
+    },
+    {
+      "title": "Al’s Hairband",
+      "category": "Accessory",
+      "slug": "Accessory/Al-s-Hairband"
+    },
+    {
+      "title": "Al’s Ribbon",
+      "category": "Accessory",
+      "slug": "Accessory/Al-s-Ribbon"
+    },
+    {
+      "title": "Hair Turban",
+      "category": "Accessory",
+      "slug": "Accessory/Hair-Turban"
+    },
+    {
+      "title": "* Fallen Sword Gram",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Fallen-Sword-Gram"
+    },
+    {
+      "title": "*Laevateinn",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Laevateinn"
+    },
+    {
+      "title": "Thor’s Hammer",
+      "category": "Weapon Camo",
+      "slug": "Weapon-Camo/Thor-s-Hammer"
+    }
+  ]
+}

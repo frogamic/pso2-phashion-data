@@ -1,5 +1,37 @@
 [
   {
+    "title": "Phantasm Disciple",
+    "slug": "Basewear/Phantasm-Disciple"
+  },
+  {
+    "title": "Jupiter Disciple",
+    "slug": "Basewear/Jupiter-Disciple"
+  },
+  {
+    "title": "Mercury Disciple",
+    "slug": "Basewear/Mercury-Disciple"
+  },
+  {
+    "title": "Al’s Black Clothes M",
+    "slug": "Basewear/Al-s-Black-Clothes-M"
+  },
+  {
+    "title": "Holy Phantasm",
+    "slug": "Basewear/Holy-Phantasm"
+  },
+  {
+    "title": "Frost Disciple",
+    "slug": "Basewear/Frost-Disciple"
+  },
+  {
+    "title": "Sun Disciple",
+    "slug": "Basewear/Sun-Disciple"
+  },
+  {
+    "title": "Al’s Black Clothes F",
+    "slug": "Basewear/Al-s-Black-Clothes-F"
+  },
+  {
     "title": "Zodiac Camo",
     "slug": "Basewear/Zodiac-Camo"
   },
