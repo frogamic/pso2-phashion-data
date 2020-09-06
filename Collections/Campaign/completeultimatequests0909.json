@@ -15,24 +15,24 @@
       "slug": "Weapon/Gix-Elno"
     },
     {
-      "title": "Slave Daggers",
+      "title": "Raven Daggers",
       "category": "Weapon",
-      "slug": "Weapon/Slave-Daggers"
+      "slug": "Weapon/Raven-Daggers"
     },
     {
-      "title": "Slave Sage-C",
+      "title": "Raven Sage",
       "category": "Weapon",
-      "slug": "Weapon/Slave-Sage-C"
+      "slug": "Weapon/Raven-Sage"
     },
     {
-      "title": "Nemesis Chain-C",
+      "title": "Nemesis Chain",
       "category": "Weapon",
-      "slug": "Weapon/Nemesis-Chain-C"
+      "slug": "Weapon/Nemesis-Chain"
     },
     {
-      "title": "Nemesis Dual-C",
+      "title": "Nemesis Dual",
       "category": "Weapon",
-      "slug": "Weapon/Nemesis-Dual-C"
+      "slug": "Weapon/Nemesis-Dual"
     }
   ]
 }

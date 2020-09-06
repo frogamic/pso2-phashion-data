@@ -8,20 +8,20 @@
     "slug": "Weapon/Gix-Elno"
   },
   {
-    "title": "Slave Daggers",
-    "slug": "Weapon/Slave-Daggers"
+    "title": "Raven Daggers",
+    "slug": "Weapon/Raven-Daggers"
   },
   {
-    "title": "Slave Sage-C",
-    "slug": "Weapon/Slave-Sage-C"
+    "title": "Raven Sage",
+    "slug": "Weapon/Raven-Sage"
   },
   {
-    "title": "Nemesis Chain-C",
-    "slug": "Weapon/Nemesis-Chain-C"
+    "title": "Nemesis Chain",
+    "slug": "Weapon/Nemesis-Chain"
   },
   {
-    "title": "Nemesis Dual-C",
-    "slug": "Weapon/Nemesis-Dual-C"
+    "title": "Nemesis Dual",
+    "slug": "Weapon/Nemesis-Dual"
   },
   {
     "title": "Union Sword",
@@ -70,6 +70,22 @@
   {
     "title": "Union Rod",
     "slug": "Weapon/Union-Rod"
+  },
+  {
+    "title": "Slave Daggers",
+    "slug": "Weapon/Slave-Daggers"
+  },
+  {
+    "title": "Slave Sage-C",
+    "slug": "Weapon/Slave-Sage-C"
+  },
+  {
+    "title": "Nemesis Chain-C",
+    "slug": "Weapon/Nemesis-Chain-C"
+  },
+  {
+    "title": "Nemesis Dual-C",
+    "slug": "Weapon/Nemesis-Dual-C"
   },
   {
     "title": "Astral Sepal",
