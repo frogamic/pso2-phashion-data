@@ -1,0 +1,22 @@
+{
+  "title": "Type-2 Kobu (Sakura)",
+  "gender": {
+    "female": true,
+    "male": true
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Other",
+  "collections": [
+    {
+      "title": "Sakura Memories",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/sakuramemories",
+      "slug": "Collections/Scratch-Ticket/sakuramemories"
+    }
+  ],
+  "tradeable": false,
+  "slug": "Other/Type-2-Kobu-Sakura"
+}

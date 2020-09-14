@@ -1,0 +1,18 @@
+{
+  "title": "Howling Leo Arms",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Arms",
+  "collections": [
+    {
+      "title": "Sakura Memories",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/sakuramemories",
+      "slug": "Collections/Scratch-Ticket/sakuramemories"
+    }
+  ],
+  "tradeable": false,
+  "slug": "CAST-Arms/Howling-Leo-Arms"
+}

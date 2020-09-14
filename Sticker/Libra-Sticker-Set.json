@@ -1,0 +1,15 @@
+{
+  "title": "Libra Sticker Set",
+  "set": true,
+  "category": "Sticker",
+  "collections": [
+    {
+      "title": "Sakura Memories",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/sakuramemories",
+      "slug": "Collections/Scratch-Ticket/sakuramemories"
+    }
+  ],
+  "tradeable": false,
+  "slug": "Sticker/Libra-Sticker-Set"
+}

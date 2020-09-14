@@ -1,0 +1,18 @@
+{
+  "title": "Howling Leo Body",
+  "gender": {
+    "female": false,
+    "male": true
+  },
+  "category": "CAST Body",
+  "collections": [
+    {
+      "title": "Sakura Memories",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/sakuramemories",
+      "slug": "Collections/Scratch-Ticket/sakuramemories"
+    }
+  ],
+  "tradeable": false,
+  "slug": "CAST-Body/Howling-Leo-Body"
+}

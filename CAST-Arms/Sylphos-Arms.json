@@ -1,0 +1,18 @@
+{
+  "title": "Sylphos Arms",
+  "gender": {
+    "female": true,
+    "male": false
+  },
+  "category": "CAST Arms",
+  "collections": [
+    {
+      "title": "Sakura Memories",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/sakuramemories",
+      "slug": "Collections/Scratch-Ticket/sakuramemories"
+    }
+  ],
+  "tradeable": false,
+  "slug": "CAST-Arms/Sylphos-Arms"
+}

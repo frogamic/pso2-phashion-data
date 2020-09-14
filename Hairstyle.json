@@ -1,5 +1,49 @@
 [
   {
+    "title": "Sakura Amamiya’s Hairstyle",
+    "slug": "Hairstyle/Sakura-Amamiya-s-Hairstyle"
+  },
+  {
+    "title": "Seijuro Kamiyama’s Hairstyle",
+    "slug": "Hairstyle/Seijuro-Kamiyama-s-Hairstyle"
+  },
+  {
+    "title": "Sakura Hair",
+    "slug": "Hairstyle/Sakura-Hair"
+  },
+  {
+    "title": "Ogami Hair",
+    "slug": "Hairstyle/Ogami-Hair"
+  },
+  {
+    "title": "Limnick Short",
+    "slug": "Hairstyle/Limnick-Short"
+  },
+  {
+    "title": "Limnick Hood",
+    "slug": "Hairstyle/Limnick-Hood"
+  },
+  {
+    "title": "Even Semi-Long Hair",
+    "slug": "Hairstyle/Even-Semi-Long-Hair"
+  },
+  {
+    "title": "Rabbit Pigtails",
+    "slug": "Hairstyle/Rabbit-Pigtails"
+  },
+  {
+    "title": "Sylphos Hair",
+    "slug": "Hairstyle/Sylphos-Hair"
+  },
+  {
+    "title": "Casual Pigtails",
+    "slug": "Hairstyle/Casual-Pigtails"
+  },
+  {
+    "title": "M-Bangs Updo",
+    "slug": "Hairstyle/M-Bangs-Updo"
+  },
+  {
     "title": "Mother Hair",
     "slug": "Hairstyle/Mother-Hair"
   },
@@ -70,10 +114,6 @@
   {
     "title": "Bouncy Bob",
     "slug": "Hairstyle/Bouncy-Bob"
-  },
-  {
-    "title": "M-Bangs Updo",
-    "slug": "Hairstyle/M-Bangs-Updo"
   },
   {
     "title": "Straight Short",

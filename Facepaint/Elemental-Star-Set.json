@@ -1,7 +1,14 @@
 {
   "title": "Elemental Star Set",
+  "set": true,
   "category": "Facepaint",
   "collections": [
+    {
+      "title": "Sakura Memories",
+      "type": "Scratch Ticket",
+      "sourceUrl": "https://pso2.com/news/scratch-tickets/sakuramemories",
+      "slug": "Collections/Scratch-Ticket/sakuramemories"
+    },
     {
       "title": "Dark Omen",
       "type": "AC Scratch Ticket",
