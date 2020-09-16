@@ -7,6 +7,12 @@
       "type": "Event",
       "sourceUrl": "https://pso2.com/news/announcements/newuqbarrenblossomcorruptor",
       "slug": "Collections/Event/newuqbarrenblossomcorruptor"
+    },
+    {
+      "title": "Imposing Iron Assault",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/newuqimposingironassault",
+      "slug": "Collections/Event/newuqimposingironassault"
     }
   ],
   "tradeable": true,

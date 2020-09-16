@@ -1,0 +1,38 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/newuqimposingironassault",
+  "title": "Imposing Iron Assault",
+  "slug": "Collections/Event/newuqimposingironassault",
+  "items": [
+    {
+      "title": "Eternal Psycho Drive",
+      "category": "Weapon",
+      "slug": "Weapon/Eternal-Psycho-Drive"
+    },
+    {
+      "title": "Jupiter Tullus",
+      "category": "Weapon",
+      "slug": "Weapon/Jupiter-Tullus"
+    },
+    {
+      "title": "Cuvele Wyndia",
+      "category": "Weapon",
+      "slug": "Weapon/Cuvele-Wyndia"
+    },
+    {
+      "title": "HFB Whirlwind Letz",
+      "category": "Weapon",
+      "slug": "Weapon/HFB-Whirlwind-Letz"
+    },
+    {
+      "title": "Siegkaiser Archer",
+      "category": "Weapon",
+      "slug": "Weapon/Siegkaiser-Archer"
+    },
+    {
+      "title": "Glycine Cane",
+      "category": "Weapon",
+      "slug": "Weapon/Glycine-Cane"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Siegkaiser Archer",
+  "category": "Weapon",
+  "collections": [
+    {
+      "title": "Imposing Iron Assault",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/newuqimposingironassault",
+      "slug": "Collections/Event/newuqimposingironassault"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon/Siegkaiser-Archer"
+}

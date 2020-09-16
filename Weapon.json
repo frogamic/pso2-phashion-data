@@ -1,5 +1,29 @@
 [
   {
+    "title": "Eternal Psycho Drive",
+    "slug": "Weapon/Eternal-Psycho-Drive"
+  },
+  {
+    "title": "Jupiter Tullus",
+    "slug": "Weapon/Jupiter-Tullus"
+  },
+  {
+    "title": "Cuvele Wyndia",
+    "slug": "Weapon/Cuvele-Wyndia"
+  },
+  {
+    "title": "HFB Whirlwind Letz",
+    "slug": "Weapon/HFB-Whirlwind-Letz"
+  },
+  {
+    "title": "Siegkaiser Archer",
+    "slug": "Weapon/Siegkaiser-Archer"
+  },
+  {
+    "title": "Glycine Cane",
+    "slug": "Weapon/Glycine-Cane"
+  },
+  {
     "title": "Gix Dissanga",
     "slug": "Weapon/Gix-Dissanga"
   },
@@ -56,10 +80,6 @@
     "slug": "Weapon/Spread-Needle"
   },
   {
-    "title": "Eternal Psycho Drive",
-    "slug": "Weapon/Eternal-Psycho-Drive"
-  },
-  {
     "title": "Ray Rod",
     "slug": "Weapon/Ray-Rod"
   },
@@ -70,22 +90,6 @@
   {
     "title": "Union Rod",
     "slug": "Weapon/Union-Rod"
-  },
-  {
-    "title": "Slave Daggers",
-    "slug": "Weapon/Slave-Daggers"
-  },
-  {
-    "title": "Slave Sage-C",
-    "slug": "Weapon/Slave-Sage-C"
-  },
-  {
-    "title": "Nemesis Chain-C",
-    "slug": "Weapon/Nemesis-Chain-C"
-  },
-  {
-    "title": "Nemesis Dual-C",
-    "slug": "Weapon/Nemesis-Dual-C"
   },
   {
     "title": "Astral Sepal",
@@ -134,6 +138,22 @@
   {
     "title": "Aura Estur",
     "slug": "Weapon/Aura-Estur"
+  },
+  {
+    "title": "Slave Daggers",
+    "slug": "Weapon/Slave-Daggers"
+  },
+  {
+    "title": "Slave Sage-C",
+    "slug": "Weapon/Slave-Sage-C"
+  },
+  {
+    "title": "Nemesis Chain-C",
+    "slug": "Weapon/Nemesis-Chain-C"
+  },
+  {
+    "title": "Nemesis Dual-C",
+    "slug": "Weapon/Nemesis-Dual-C"
   },
   {
     "title": "S. CN Mantis",
