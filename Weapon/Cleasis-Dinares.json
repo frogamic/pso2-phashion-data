@@ -1,0 +1,14 @@
+{
+  "title": "Cleasis Dinares",
+  "category": "Weapon",
+  "collections": [
+    {
+      "title": "What’s New in Episode 5",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/episode5launch",
+      "slug": "Collections/Event/episode5launch"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon/Cleasis-Dinares"
+}

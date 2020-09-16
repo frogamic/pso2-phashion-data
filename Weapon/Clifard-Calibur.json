@@ -1,13 +1,7 @@
 {
-  "title": "Zeinesis Calibur",
+  "title": "Clifard Calibur",
   "category": "Weapon",
   "collections": [
-    {
-      "title": "Deus Esca, Maker of New Epochs",
-      "type": "Event",
-      "sourceUrl": "https://pso2.com/news/announcements/newuqdeusesca",
-      "slug": "Collections/Event/newuqdeusesca"
-    },
     {
       "title": "Urgent Quest Boosts and Bonuses!",
       "type": "Event",
@@ -16,5 +10,5 @@
     }
   ],
   "tradeable": true,
-  "slug": "Weapon/Zeinesis-Calibur"
+  "slug": "Weapon/Clifard-Calibur"
 }

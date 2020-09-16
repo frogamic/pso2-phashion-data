@@ -1,0 +1,14 @@
+{
+  "title": "Fornis Ogend",
+  "category": "Weapon",
+  "collections": [
+    {
+      "title": "Limited-Time Quest Boosts and Bonuses!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/r2e5limitedtimequests",
+      "slug": "Collections/Event/r2e5limitedtimequests"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Weapon/Fornis-Ogend"
+}

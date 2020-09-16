@@ -1,0 +1,22 @@
+{
+  "title": "Arkuma Suit",
+  "gender": {
+    "female": true,
+    "male": true
+  },
+  "race": {
+    "humanoid": true,
+    "cast": true
+  },
+  "category": "Outfit",
+  "collections": [
+    {
+      "title": "Episode 5 Rewards Bundle for Xbox Game Pass Ultimate Members!",
+      "type": "Event",
+      "sourceUrl": "https://pso2.com/news/announcements/xboxgamepassepisode5rewards",
+      "slug": "Collections/Event/xboxgamepassepisode5rewards"
+    }
+  ],
+  "tradeable": true,
+  "slug": "Outfit/Arkuma-Suit"
+}

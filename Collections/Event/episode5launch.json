@@ -1,0 +1,48 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/episode5launch",
+  "title": "What’s New in Episode 5",
+  "slug": "Collections/Event/episode5launch",
+  "items": [
+    {
+      "title": "Demonia Saber",
+      "category": "Weapon",
+      "slug": "Weapon/Demonia-Saber"
+    },
+    {
+      "title": "Ivlida Hander",
+      "category": "Weapon",
+      "slug": "Weapon/Ivlida-Hander"
+    },
+    {
+      "title": "Cleasis Dinares",
+      "category": "Weapon",
+      "slug": "Weapon/Cleasis-Dinares"
+    },
+    {
+      "title": "Cleasis Hander",
+      "category": "Weapon",
+      "slug": "Weapon/Cleasis-Hander"
+    },
+    {
+      "title": "Schvelle Hander",
+      "category": "Weapon",
+      "slug": "Weapon/Schvelle-Hander"
+    },
+    {
+      "title": "Jutus Crys",
+      "category": "Weapon",
+      "slug": "Weapon/Jutus-Crys"
+    },
+    {
+      "title": "Jutus Legant",
+      "category": "Weapon",
+      "slug": "Weapon/Jutus-Legant"
+    },
+    {
+      "title": "Jutus Harmony",
+      "category": "Weapon",
+      "slug": "Weapon/Jutus-Harmony"
+    }
+  ]
+}

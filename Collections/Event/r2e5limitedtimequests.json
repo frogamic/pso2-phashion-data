@@ -1,0 +1,23 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/r2e5limitedtimequests",
+  "title": "Limited-Time Quest Boosts and Bonuses!",
+  "slug": "Collections/Event/r2e5limitedtimequests",
+  "items": [
+    {
+      "title": "Fornis Diene",
+      "category": "Weapon",
+      "slug": "Weapon/Fornis-Diene"
+    },
+    {
+      "title": "Fornis Fugit",
+      "category": "Weapon",
+      "slug": "Weapon/Fornis-Fugit"
+    },
+    {
+      "title": "Fornis Ogend",
+      "category": "Weapon",
+      "slug": "Weapon/Fornis-Ogend"
+    }
+  ]
+}

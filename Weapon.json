@@ -1,5 +1,73 @@
 [
   {
+    "title": "Demonia Saber",
+    "slug": "Weapon/Demonia-Saber"
+  },
+  {
+    "title": "Ivlida Hander",
+    "slug": "Weapon/Ivlida-Hander"
+  },
+  {
+    "title": "Cleasis Dinares",
+    "slug": "Weapon/Cleasis-Dinares"
+  },
+  {
+    "title": "Cleasis Hander",
+    "slug": "Weapon/Cleasis-Hander"
+  },
+  {
+    "title": "Schvelle Hander",
+    "slug": "Weapon/Schvelle-Hander"
+  },
+  {
+    "title": "Jutus Crys",
+    "slug": "Weapon/Jutus-Crys"
+  },
+  {
+    "title": "Jutus Legant",
+    "slug": "Weapon/Jutus-Legant"
+  },
+  {
+    "title": "Jutus Harmony",
+    "slug": "Weapon/Jutus-Harmony"
+  },
+  {
+    "title": "Zeinesis Calibur",
+    "slug": "Weapon/Zeinesis-Calibur"
+  },
+  {
+    "title": "Zeinesis Vulcan",
+    "slug": "Weapon/Zeinesis-Vulcan"
+  },
+  {
+    "title": "Zeinesis Fidel",
+    "slug": "Weapon/Zeinesis-Fidel"
+  },
+  {
+    "title": "Clifard Calibur",
+    "slug": "Weapon/Clifard-Calibur"
+  },
+  {
+    "title": "Clifard Vulcan",
+    "slug": "Weapon/Clifard-Vulcan"
+  },
+  {
+    "title": "Clifard Fidel",
+    "slug": "Weapon/Clifard-Fidel"
+  },
+  {
+    "title": "Fornis Diene",
+    "slug": "Weapon/Fornis-Diene"
+  },
+  {
+    "title": "Fornis Fugit",
+    "slug": "Weapon/Fornis-Fugit"
+  },
+  {
+    "title": "Fornis Ogend",
+    "slug": "Weapon/Fornis-Ogend"
+  },
+  {
     "title": "Eternal Psycho Drive",
     "slug": "Weapon/Eternal-Psycho-Drive"
   },
@@ -58,10 +126,6 @@
   {
     "title": "Union Lance",
     "slug": "Weapon/Union-Lance"
-  },
-  {
-    "title": "Zeinesis Calibur",
-    "slug": "Weapon/Zeinesis-Calibur"
   },
   {
     "title": "Zeinesis Laser",

@@ -1,0 +1,28 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/xboxgamepassepisode5rewards",
+  "title": "Episode 5 Rewards Bundle for Xbox Game Pass Ultimate Members!",
+  "slug": "Collections/Event/xboxgamepassepisode5rewards",
+  "items": [
+    {
+      "title": "Lillipan: Tiger Isle",
+      "category": "Outfit",
+      "slug": "Outfit/Lillipan-Tiger-Isle"
+    },
+    {
+      "title": "Arkuma Suit",
+      "category": "Outfit",
+      "slug": "Outfit/Arkuma-Suit"
+    },
+    {
+      "title": "Wolf Mask",
+      "category": "Hairstyle",
+      "slug": "Hairstyle/Wolf-Mask"
+    },
+    {
+      "title": "Hooded Nyau Scarf",
+      "category": "Accessory",
+      "slug": "Accessory/Hooded-Nyau-Scarf"
+    }
+  ]
+}

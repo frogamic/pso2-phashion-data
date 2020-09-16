@@ -1,0 +1,38 @@
+{
+  "type": "Event",
+  "sourceUrl": "https://pso2.com/news/announcements/r2e5uqboostsbonuses",
+  "title": "Urgent Quest Boosts and Bonuses!",
+  "slug": "Collections/Event/r2e5uqboostsbonuses",
+  "items": [
+    {
+      "title": "Zeinesis Calibur",
+      "category": "Weapon",
+      "slug": "Weapon/Zeinesis-Calibur"
+    },
+    {
+      "title": "Zeinesis Vulcan",
+      "category": "Weapon",
+      "slug": "Weapon/Zeinesis-Vulcan"
+    },
+    {
+      "title": "Zeinesis Fidel",
+      "category": "Weapon",
+      "slug": "Weapon/Zeinesis-Fidel"
+    },
+    {
+      "title": "Clifard Calibur",
+      "category": "Weapon",
+      "slug": "Weapon/Clifard-Calibur"
+    },
+    {
+      "title": "Clifard Vulcan",
+      "category": "Weapon",
+      "slug": "Weapon/Clifard-Vulcan"
+    },
+    {
+      "title": "Clifard Fidel",
+      "category": "Weapon",
+      "slug": "Weapon/Clifard-Fidel"
+    }
+  ]
+}
